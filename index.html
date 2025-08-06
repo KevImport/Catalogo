@@ -6,7 +6,21 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
   <h1>KEVIMPORT - CATÁLOGO DE PRODUCTOS</h1>
+
+ <div class="barra-superior">
+  <input type="text" id="buscador" placeholder="Buscar producto..." onkeyup="buscarProducto()">
+
+  <div class="ordenar">
+    <label for="ordenSelect">Ordenar por:</label>
+    <select id="ordenSelect" onchange="aplicarFiltrosYOrden()">
+      <option value="az">Nombre (A-Z)</option>
+      <option value="za">Nombre (Z-A)</option>
+    </select>
+  </div>
+</div>
+
 
   <div id="categorias" class="categorias">
   <button onclick="filtrarCategoria('todos')">Todos</button>
@@ -22,7 +36,7 @@
   <button onclick="filtrarCategoria('Mascotas')">Mascotas</button>
   </div>
 
-  <div class="productos" id="catalogo">
+  <div id="catalogo" class="productos">
   </div>
 
   <script src="productos.js"></script>
