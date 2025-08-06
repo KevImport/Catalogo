@@ -1,10 +1,10 @@
 function filtrarCategoria(nombreCategoria) {
-  if (nombreCategoria === 'todos') {
-    mostrarProductos(productos);
-  } else {
-    const filtrados = productos.filter(p => p.categoria === nombreCategoria);
-    mostrarProductos(filtrados);
-  }
+  window.categoriaSeleccionada = nombreCategoria;
+  aplicarFiltrosYOrden();
+}
+
+function buscarProducto() {
+  aplicarFiltrosYOrden();
 }
 
 function mostrarProductos(lista) {
@@ -39,6 +39,7 @@ function mostrarProductos(lista) {
     contenedor.innerHTML += `
       <div class="producto">
         <h3>${p.nombre}</h3>
+        <p style="margin-top: -10px; font-size: 14px; color: #555;">Código: ${p.codigo || 'N/A'}</p>
         <img src="${p.imagen || 'imagenes/no-disponible.jpg'}" alt="${p.nombre}">
         <p>${p.descripcion || ''}</p>
         ${tablaPrecios}
@@ -47,4 +48,47 @@ function mostrarProductos(lista) {
   });
 }
 
-mostrarProductos(productos);
+function buscarProducto() {
+  const texto = document.getElementById('buscador').value.toLowerCase();
+  const filtrados = productos.filter(p => p.nombre.toLowerCase().includes(texto));
+  mostrarProductos(filtrados);
+}
+
+function ordenarProductos(lista) {
+  const orden = document.getElementById("ordenSelect").value;
+
+  let productosOrdenados = [...lista];
+
+  productosOrdenados.sort((a, b) => {
+    if (orden === "az") {
+      return a.nombre.localeCompare(b.nombre);
+    } else if (orden === "za") {
+      return b.nombre.localeCompare(a.nombre);
+    }
+    return 0;
+  });
+
+  return productosOrdenados;
+}
+
+function aplicarFiltrosYOrden() {
+  const texto = document.getElementById('buscador').value.toLowerCase();
+  const categoriaSeleccionada = window.categoriaSeleccionada || 'todos';
+
+  let listaFiltrada = productos;
+
+  if (categoriaSeleccionada !== 'todos') {
+    listaFiltrada = listaFiltrada.filter(p => p.categoria === categoriaSeleccionada);
+  }
+
+  if (texto) {
+    listaFiltrada = listaFiltrada.filter(p => p.nombre.toLowerCase().includes(texto));
+  }
+
+  const listaOrdenada = ordenarProductos(listaFiltrada);
+  mostrarProductos(listaOrdenada);
+}
+
+window.categoriaSeleccionada = 'todos';
+aplicarFiltrosYOrden();
+
