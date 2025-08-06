@@ -48,11 +48,15 @@ function mostrarProductos(lista) {
   });
 }
 
+let timeoutId;
+
 function buscarProducto() {
-  const texto = document.getElementById('buscador').value.toLowerCase();
-  const filtrados = productos.filter(p => p.nombre.toLowerCase().includes(texto));
-  mostrarProductos(filtrados);
+  clearTimeout(timeoutId);
+  timeoutId = setTimeout(() => {
+    aplicarFiltrosYOrden();
+  }, 300); // Espera 300ms después de que el usuario deje de escribir
 }
+
 
 function ordenarProductos(lista) {
   const orden = document.getElementById("ordenSelect").value;
@@ -91,4 +95,6 @@ function aplicarFiltrosYOrden() {
 
 window.categoriaSeleccionada = 'todos';
 aplicarFiltrosYOrden();
+
+
 
