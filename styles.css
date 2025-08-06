@@ -86,8 +86,8 @@ h1 {
   bottom: 20px;
   right: 20px;
   z-index: 999;
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
@@ -103,3 +103,58 @@ h1 {
   height: 100%;
   object-fit: cover;
 }
+
+.busqueda {
+  text-align: center;
+  margin: 20px 0;
+}
+
+#buscador {
+  width: 80%;
+  max-width: 500px;
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.ordenar {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.ordenar select {
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-left: 8px;
+}
+
+.barra-superior {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.barra-superior input {
+  padding: 10px 14px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  width: 260px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+.ordenar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+
