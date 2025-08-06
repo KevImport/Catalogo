@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Catálogo de Productos</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>KEVIMPORT - CATÁLOGO DE PRODUCTOS</h1>
+
+  <div id="categorias" class="categorias">
+  <button onclick="filtrarCategoria('todos')">Todos</button>
+  <button onclick="filtrarCategoria('Belleza / Cosmética')">Belleza</button>
+  <button onclick="filtrarCategoria('Ropa / Accesorios')">Ropa Interior</button>
+  <button onclick="filtrarCategoria('Escolar / Papelería')">Escolar</button>
+  <button onclick="filtrarCategoria('Hogar / Cocina')">Hogar</button>
+  <button onclick="filtrarCategoria('Juguetes / Regalos')">Juguetes</button>
+  <button onclick="filtrarCategoria('Organización / Almacenamiento')">Organización</button>
+  <button onclick="filtrarCategoria('Decoración / Fiesta')">Fiesta</button>
+  <button onclick="filtrarCategoria('Electrónica / Gadgets')">Electrónica</button>
+  <button onclick="filtrarCategoria('Higiene / Cuidado Personal')">Higiene</button>
+  <button onclick="filtrarCategoria('Mascotas')">Mascotas</button>
+  </div>
+
+  <div class="productos" id="catalogo">
+  </div>
+
+  <script src="productos.js"></script>
+  <script src="script.js"></script>
+
+  <a href="https://wa.me/51912876164" class="whatsapp-fijo" target="_blank" title="Escríbenos por WhatsApp">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" />
+  </a>
+
+</body>
+</html>
