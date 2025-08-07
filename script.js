@@ -54,7 +54,7 @@ function buscarProducto() {
   clearTimeout(timeoutId);
   timeoutId = setTimeout(() => {
     aplicarFiltrosYOrden();
-  }, 300); // Espera 300ms después de que el usuario deje de escribir
+  }, 300); 
 }
 
 
@@ -95,6 +95,7 @@ function aplicarFiltrosYOrden() {
 
 window.categoriaSeleccionada = 'todos';
 aplicarFiltrosYOrden();
+
 
 
 
