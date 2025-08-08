@@ -39,12 +39,23 @@
   <div id="catalogo" class="productos">
   </div>
 
+
   <script src="productos.js"></script>
   <script src="script.js"></script>
 
   <a href="https://wa.me/51912876164" class="whatsapp-fijo" target="_blank" title="Escríbenos por WhatsApp">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" />
   </a>
+
+  <div id="carrito" class="carrito-flotante">
+    <h3>🛒 Carrito de compra</h3>
+    <div id="contenido-carrito"></div>
+    <p id="total-carrito"></p>
+    <button onclick="enviarPedidoPorWhatsApp()">Enviar por WhatsApp</button>
+    <button onclick="cerrarCarrito()">Cerrar</button>
+  </div>
+
+  <button class="btn-ver-carrito" onclick="abrirCarrito()">🛒 Ver carrito</button>
 
 </body>
 </html>
