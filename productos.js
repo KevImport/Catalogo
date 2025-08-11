@@ -73,16 +73,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "BURLETE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Aísla el polvo, insectos y el ruido. El burlete adhesivo es ideal para puertas y ventanas.",
-  precios: {
-    "1": 4.95,
-    "3": 3.25,
-  },
-  imagen: ""
-},
-{
   nombre: "SET DE 12 GANCHOS PARA ROPA / CLOSET",
   categoria: "Organización / Almacenamiento",
   descripcion: "Mantén tu closet ordenado con este set de 12 ganchos resistentes y prácticos.",
@@ -161,16 +151,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "GUIRNALDA DECORATIVA CORAZÓN",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Dale un toque romántico a tus espacios. Esta guirnalda con corazones es perfecta para decorar cuartos, fiestas o regalos.",
-  precios: {
-    "1": 5.95,
-    "3": 4.95,
-  },
-  imagen: ""
-},
-{
   nombre: "AUDÍFONO P9",
   categoria: "Electrónica / Gadgets",
   descripcion: "Sonido envolvente y diseño moderno. El audífono P9 te ofrece calidad inalámbrica para música, llamadas y más.",
@@ -213,15 +193,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "ORGANIZADOR DE ESCRITORIO",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Dile adiós al desorden. Este organizador mantiene tus útiles, papeles y gadgets siempre a la mano.",
-  precios: {
-    "1": 13.90,
-  },
-  imagen: ""
-},
-{
   nombre: "MOLDE DE SILICONA",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para repostería creativa. Molde de silicona antiadherente para hacer figuras dulces con estilo.",
@@ -237,15 +208,6 @@ const productos = [
   precios: {
     "1": 4.95,
     "3": 3.25,
-  },
-  imagen: ""
-},
-{
-  nombre: "ASPIRADORA DE MANO PARA ÁCAROS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Elimina polvo y ácaros fácilmente. Esta aspiradora portátil es ideal para colchones, almohadas y superficies delicadas.",
-  precios: {
-    "1": 36.90,
   },
   imagen: ""
 },
@@ -316,15 +278,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "SET DE 10 ESPEJOS ADHESIVOS",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Decora con estilo moderno. Espejos adhesivos fáciles de instalar para dar profundidad y brillo a tus espacios.",
-  precios: {
-    "1": 10.90
-  },
-  imagen: ""
-},
-{
   nombre: "MANZANA ACRÍLICA SIN LETRAS",
   categoria: "Decoración / Fiesta",
   descripcion: "Una pieza decorativa elegante. Esta manzana acrílica es ideal para regalos, escritorios o espacios creativos.",
@@ -375,16 +328,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "GORRO POM POM",
-  categoria: "Ropa / Accesorios",
-  descripcion: "Calidez con estilo. Gorro tejido con pompones, ideal para el invierno o para looks divertidos.",
-  precios: {
-    "1": 5.95,
-    "3": 4.95,
-  },
-  imagen: ""
-},
-{
   nombre: "CONTENEDOR DE CEREALES",
   categoria: "Hogar / Cocina",
   descripcion: "Mantén tus cereales frescos y bien organizados. Práctico, hermético y fácil de usar en cualquier cocina.",
@@ -410,15 +353,6 @@ const productos = [
   descripcion: "Colores para cada día. Set de 12 vinchas elásticas, cómodas y perfectas para peinados o uso diario.",
   precios: {
     "1": 8.90,
-  },
-  imagen: ""
-},
-{
-  nombre: "SENCILLERO",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Lleva tu cambio siempre a la mano. Práctico sencillero compacto para bolsos, mochilas o el auto.",
-  precios: {
-    "1": 4.85,
   },
   imagen: ""
 },
@@ -458,16 +392,6 @@ const productos = [
   precios: {
     "1": 7.95,
     "2": 6.95,
-  },
-  imagen: ""
-},
-{
-  nombre: "NOTITAS IMANTADAS PARA REFRI",
-  categoria: "Hogar / Cocina",
-  descripcion: "Organiza tus pendientes con estilo. Notas adhesivas con imán para colocar en refrigeradores u otras superficies metálicas.",
-  precios: {
-    "1": 2.95,
-    "2": 1.95,
   },
   imagen: ""
 },
@@ -585,16 +509,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "PANTUFLAS MEDIAS",
-  categoria: "Ropa / Accesorios",
-  descripcion: "Comodidad total para el hogar. Pantuflas tipo media con suela antideslizante y diseños adorables.",
-  precios: {
-    "1": 5.05,
-    "2": 4.05,
-  },
-  imagen: ""
-},
-{
   nombre: "MOLDE PARA GOMITAS",
   categoria: "Hogar / Cocina",
   descripcion: "Haz tus propias gomitas en casa. Molde de silicona reutilizable con figuras divertidas y fácil de desmoldar.",
@@ -637,15 +551,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "CARGADOR TIPO C",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Carga rápida y confiable. Cable tipo C compatible con múltiples dispositivos. Resistente y duradero.",
-  precios: {
-    "1": 5.90,
-  },
-  imagen: ""
-},
-{
   nombre: "MUÑEQUITO PARA CELULAR",
   categoria: "Electrónica / Gadgets",
   descripcion: "¡Diversión en miniatura! Soporte decorativo para celular con diseño de muñequito. Práctico y adorable.",
@@ -662,16 +567,6 @@ const productos = [
   precios: {
     "1": 6.90,
     "3": 5.00,
-  },
-  imagen: ""
-},
-{
-  nombre: "PARCHE DE CANNABIS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Alivio natural. Parche con extracto de cannabis para molestias musculares y relajación localizada.",
-  precios: {
-    "1": 3.90,
-    "3": 2.20,
   },
   imagen: ""
 },
@@ -697,15 +592,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "SET DE 50 GANCHOS ADHESIVOS DE COLORES",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Coloca y cuelga sin perforar. Set colorido de ganchos adhesivos resistentes y reutilizables.",
-  precios: {
-    "1": 8.90,
-  },
-  imagen: ""
-},
-{
   nombre: "JUGUETE RESORTE RAINBOW",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Diversión sin fin! Juguete resorte con colores arcoíris, ideal para jugar en escaleras o mesas.",
@@ -713,15 +599,6 @@ const productos = [
     "1": 2.90,
     "6": 1.80,
     "12": 1.50,
-  },
-  imagen: ""
-},
-{
-  nombre: "VOLCÁN LANZA DINO",
-  categoria: "Juguetes / Regalos",
-  descripcion: "Diversión jurásica. Volcán sorpresa que lanza un pequeño dinosaurio al activarse. ¡Sorprendente y entretenido!",
-  precios: {
-    "1": 16.90,
   },
   imagen: ""
 },
@@ -782,15 +659,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "KIT CORTADOR DE PELO DE MASCOTA",
-  categoria: "Mascotas",
-  descripcion: "Cuida el estilo de tu mascota. Kit completo para cortar pelo en casa de forma segura y eficiente.",
-  precios: {
-    "1": 17.90,
-  },
-  imagen: ""
-},
-{
   nombre: "CORTADOR DE VIDRIO Y CERÁMICA",
   categoria: "Hogar / Cocina",
   descripcion: "Herramienta precisa para bricolaje. Corta fácilmente vidrio o cerámica con precisión profesional.",
@@ -830,15 +698,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "PEINE CEPILLO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Peine y cepillo en un solo producto. Ideal para desenredar y peinar con suavidad y comodidad.",
-  precios: {
-    "1": 5.00,
-  },
-  imagen: ""
-},
-{
   nombre: "TOMATODO CARTOON",
   categoria: "Hogar / Cocina",
   descripcion: "Tomatodo con diseños cartoon llamativos, perfecto para niños o fans de personajes animados.",
@@ -860,33 +719,12 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "CAJA DE JOYERÍA TRANSPARENTE",
+  nombre: "CAJA DE JOYERÍA",
   categoria: "Organización / Almacenamiento",
   descripcion: "Organiza tus joyas con estilo. Caja transparente con compartimentos para mantener todo a la vista y ordenado.",
   precios: {
     "1": 6.00,
     "3": 4.90,
-  },
-  imagen: ""
-},
-{
-  nombre: "KIT DE 100 GLOBOS",
-  categoria: "Decoración / Fiesta",
-  descripcion: "¡Que comience la fiesta! Kit con 100 globos ideales para decorar cumpleaños, celebraciones o eventos especiales.",
-  precios: {
-    "1": 9.00,
-    "2": 7.90,
-  },
-  imagen: ""
-},
-{
-  nombre: "PAÑITOS HUMEDOS EN LATITA KAWAI",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Prácticos y adorables. Pañitos húmedos en una latita con diseño kawaii, perfectos para llevar a todos lados.",
-  precios: {
-    "1": 4.00,
-    "3": 2.80,
-    "6": 2.50,
   },
   imagen: ""
 },
@@ -899,16 +737,6 @@ const productos = [
     "3": 2.10,
     "6": 1.80,
     "12": 1.50,
-  },
-  imagen: ""
-},
-{
-  nombre: "ALFOMBRA LUMINOSA 40 x 60 cm",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Ilumina tu espacio con estilo. Alfombra suave de 40 x 60 cm con efecto luminoso ideal para dormitorios o zonas especiales.",
-  precios: {
-    "1": 7.00,
-    "3": 5.90,
   },
   imagen: ""
 },
@@ -1250,31 +1078,12 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "PERFUME ARABE",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Exquisito perfume árabe con notas intensas y duraderas. Ideal para quienes buscan un aroma único y elegante.",
-  precios: {
-    "1": 14.90,
-  },
-  imagen: ""
-},
-{
   nombre: "MASCARILLA CON COLÁGENO FLOWER SECRET",
   categoria: "Belleza / Cosmética",
   descripcion: "Mascarilla facial enriquecida con colágeno para hidratar y rejuvenecer la piel. Ideal para una rutina de belleza efectiva.",
   precios: {
     "1": 9.95,
     "3": 8.95,
-  },
-  imagen: ""
-},
-{
-  nombre: "PACK DE 25 PAÑITOS HÚMEDOS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Práctico pack de 25 pañitos húmedos, suaves y con aroma refrescante. Perfectos para limpieza rápida y diaria.",
-  precios: {
-    "1": 2.95,
-    "6": 1.85,
   },
   imagen: ""
 },
@@ -1378,16 +1187,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "PROTECTOR DE TALÓN",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Cómodo protector que evita rozaduras en el talón. Aporta confort al caminar y previene ampollas.",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
-  },
-  imagen: ""
-},
-{
   nombre: "GLOSS BRILLO + LLAVERO",
   categoria: "Belleza / Cosmética",
   descripcion: "Brillo labial con efecto hidratante acompañado de un llavero decorativo. Ideal para llevar estilo en tu bolso.",
@@ -1442,15 +1241,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "GLITTER LÍQUIDO x 6",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Set de 6 brillos líquidos con glitter intenso para ojos, labios o rostro. Ideal para looks glamorosos y fiestas.",
-  precios: {
-    "1": 5.90,
-  },
-  imagen: ""
-},
-{
   nombre: "RUBOR LÍQUIDO KEVIN & COCO",
   categoria: "Belleza / Cosmética",
   descripcion: "Rubor líquido de textura ligera que se difumina fácilmente en la piel para un acabado natural y radiante.",
@@ -1467,16 +1257,6 @@ const productos = [
   precios: {
     "1": 4.90,
     "3": 3.20,
-  },
-  imagen: ""
-},
-{
-  nombre: "FEROMONA - MUJER",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Fragancia femenina con feromonas, diseñada para resaltar tu atractivo natural. Sutil y envolvente.",
-  precios: {
-    "1": 4.90,
-    "2": 3.90,
   },
   imagen: ""
 },
@@ -1601,15 +1381,6 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "CARTUCHERA MIX",
-  categoria: "Escolar / Papelería",
-  descripcion: "Cartuchera con diseños variados y divertidos, perfecta para organizar tus útiles escolares con estilo.",
-  precios: {
-    "1": 9.90,
-  },
-  imagen: ""
-},
-{
   nombre: "CINTA EMBALAJE 400 YARDAS",
   categoria: "Organización / Almacenamiento",
   descripcion: "Súper rollo de cinta de embalaje de 400 yardas. Ideal para uso intensivo en almacenes, envíos y mudanzas.",
@@ -1679,3 +1450,4 @@ const productos = [
 productos.forEach((producto, index) => {
   producto.imagen = `Img/Imagen${index + 1}.jpg`;
 });
+
