@@ -89,7 +89,7 @@ const productos = [
   precios: {
     "1": 6.95,
   },
-  imagen: ""
+  imagen: "Img/BALDE CANCHERO + VASO TOMATODO.jpg"
 },
 {
   nombre: "CURITAS X 100",
@@ -1450,4 +1450,5 @@ const productos = [
 productos.forEach((producto, index) => {
   producto.imagen = `Img/Imagen${index + 1}.jpg`;
 });
+
 
