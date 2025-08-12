@@ -1057,7 +1057,7 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "COLET ESPIRAL CORAZÓN",
+  nombre: "5016COLET ESPIRAL CORAZÓN",
   categoria: "Ropa / Accesorios",
   descripcion: "Colet tipo espiral con diseño de corazón. No maltrata el cabello y añade un toque de estilo.",
   precios: {
@@ -1065,69 +1065,76 @@ const productos = [
     "6": 1.85,
     "12": 1.55,
   },
-  imagen: ""
+  imagen: "Img/Imagen127.jpg",
+  stock: 18
 },
 {
-  nombre: "COLET BASE GRANDE",
+  nombre: "4992COLET BASE GRANDE",
   categoria: "Ropa / Accesorios",
   descripcion: "Elástico resistente de gran tamaño, ideal para recoger cabello abundante con firmeza y comodidad.",
   precios: {
     "1": 2.95,
     "6": 1.85, 
   },
-  imagen: ""
+  imagen: "Img/Imagen128.jpg",
+  stock: 9
 },
 {
-  nombre: "MASCARILLA CON COLÁGENO FLOWER SECRET",
+  nombre: "4979MASCARILLA CON COLÁGENO FLOWER SECRET",
   categoria: "Belleza / Cosmética",
   descripcion: "Mascarilla facial enriquecida con colágeno para hidratar y rejuvenecer la piel. Ideal para una rutina de belleza efectiva.",
   precios: {
     "1": 9.95,
     "3": 8.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen130.jpg",
+  stock: 6
 },
 {
-  nombre: "SET DE CUIDADO FACIAL",
+  nombre: "4859SET DE CUIDADO FACIAL",
   categoria: "Belleza / Cosmética",
   descripcion: "Completo set para el cuidado facial diario. Limpia, hidrata y nutre tu piel para mantenerla radiante y saludable.",
   precios: {
     "1": 7.95, 
   },
-  imagen: ""
+  imagen: "Img/Imagen132.jpg",
+  stock: 2
 },
 {
-  nombre: "BOLSA DOY PACK DE 200 PAÑITOS HÚMEDOS PETETIN",
+  nombre: "4927BOLSA DOY PACK DE 200 PAÑITOS HÚMEDOS PETETIN",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Bolsa resellable con 200 pañitos húmedos de alta calidad. Ideal para el hogar o llevar en viajes largos.",
   precios: {
     "1": 8.95,
     "6": 7.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen133.jpg",
+  stock: 3
 },
 {
-  nombre: "STICKERS PARA UÑAS",
+  nombre: "4924STICKERS PARA UÑAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Diseños creativos en stickers para uñas, fáciles de aplicar y perfectos para lograr un look profesional en casa.",
   precios: {
     "1": 3.95,
     "6": 2.95, 
   },
-  imagen: ""
+  imagen: "Img/Imagen134.jpg",
+  stock: 3
 },
 {
-  nombre: "SET DE UÑAS POSTIZAS - MODELO #2",
+  nombre: "4920SET DE UÑAS POSTIZAS - MODELO #2",
   categoria: "Belleza / Cosmética",
   descripcion: "Set de uñas postizas con diseño moderno. Fáciles de colocar, resistentes y perfectas para cualquier ocasión.",
   precios: {
     "1": 3.90,
     "6": 2.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen135.jpg",
+  stock: 3
 },
 {
-  nombre: "SET DE 3 PERFILADORES",
+  nombre: "4895SET DE 3 PERFILADORES",
   categoria: "Belleza / Cosmética",
   descripcion: "Pack de 3 perfiladores para cejas y vello facial. Precisión y suavidad para un acabado profesional.",
   precios: {
@@ -1135,16 +1142,18 @@ const productos = [
     "6": 2.15,
     "12": 1.85,
   },
-  imagen: ""
+  imagen: "Img/Imagen136.jpg",
+  stock: 20
 },
 {
-  nombre: "MASAJEADOR CORPORAL",
+  nombre: "4890MASAJEADOR CORPORAL",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Masajeador manual para relajar músculos y mejorar la circulación. Ideal para aliviar el estrés diario.",
   precios: {
     "1": 26.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen137.jpg",
+  stock: 2
 },
 {
   nombre: "4885DELINEADOR 2 EN 1",
@@ -1154,7 +1163,8 @@ const productos = [
     "1": 4.95,
     "3": 3.85,
   },
-  imagen: "Img/Imagen138.jpg"
+  imagen: "Img/Imagen138.jpg",
+  stock: 4
 },
 {
   nombre: "4839REMOVEDOR DE VERRUGAS",
@@ -1164,7 +1174,8 @@ const productos = [
     "1": 8.95,
     "3": 7.95,
   },
-  imagen: "Img/Imagen139.jpg"
+  imagen: "Img/Imagen139.jpg",
+  stock: 7
 },
 {
   nombre: "4760SUERO DE PESTAÑAS",
@@ -1174,7 +1185,8 @@ const productos = [
     "1": 6.95,
     "3": 5.95,
   },
-  imagen: "Img/Imagen140.jpg"
+  imagen: "Img/Imagen140.jpg",
+  stock: 9
 },
 {
   nombre: "4812ALMOHADILLAS DE DESCANSO",
@@ -1184,7 +1196,8 @@ const productos = [
     "1": 5.95,
     "3": 4.95,
   },
-  imagen: "Img/Imagen141.jpg"
+  imagen: "Img/Imagen141.jpg",
+  stock: 3
 },
 {
   nombre: "4806GLOSS BRILLO + LLAVERO",
@@ -1196,7 +1209,8 @@ const productos = [
     "6": 3.45,
     "12": 3.15,
   },
-  imagen: "Img/Imagen143.jpg"
+  imagen: "Img/Imagen143.jpg",
+  stock: 12
 },
 {
   nombre: "4781PACK DE 25 ESPONJAS BEAUTY",
@@ -1206,7 +1220,8 @@ const productos = [
     "1": 4.95,
     "3": 3.95,
   },
-  imagen: "Img/Imagen144.jpg"
+  imagen: "Img/Imagen144.jpg",
+  stock: 4
 },
 {
   nombre: "4757SET DE 5 PARCHES ADELGAZANTES",
@@ -1216,7 +1231,8 @@ const productos = [
     "1": 3.95,
     "3": 2.95,
   },
-  imagen: "Img/Imagen145.jpg"
+  imagen: "Img/Imagen145.jpg",
+  stock: 5
 },
 {
   nombre: "4670MÁSCARA DE PESTAÑAS",
@@ -1227,7 +1243,8 @@ const productos = [
     "3": 3.95,
     "6": 3.65,
   },
-  imagen: "Img/Imagen146.jpg"
+  imagen: "Img/Imagen146.jpg",
+  stock: 6
 },
 {
   nombre: "4648PESTAÑAS POSTIZAS",
@@ -1238,7 +1255,8 @@ const productos = [
     "3": 2.25,
     "6": 1.95,
   },
-  imagen: "Img/Imagen147.jpg"
+  imagen: "Img/Imagen147.jpg",
+  stock: 7
 },
 {
   nombre: "4492RUBOR LÍQUIDO KEVIN & COCO",
@@ -1246,9 +1264,10 @@ const productos = [
   descripcion: "Rubor líquido de textura ligera que se difumina fácilmente en la piel para un acabado natural y radiante.",
   precios: {
     "1": 4.90,
-    "3": 3.50,
+    "2": 3.50,
   },
-  imagen: "Img/Imagen149.jpg"
+  imagen: "Img/Imagen149.jpg",
+  stock: 2
 },
 {
   nombre: "4491PESTAÑAS POSTIZAS 6D",
@@ -1258,7 +1277,8 @@ const productos = [
     "1": 4.90,
     "3": 3.20,
   },
-  imagen: "Img/Imagen150.jpg"
+  imagen: "Img/Imagen150.jpg",
+  stock: 5
 },
 {
   nombre: "4680CACHETERO CAPIBARA PARA NIÑA",
@@ -1267,7 +1287,8 @@ const productos = [
   precios: {
     "3": 3.95,
   },
-  imagen: "Img/Imagen152.jpg"
+  imagen: "Img/Imagen152.jpg",
+  stock: 6
 },
 {
   nombre: "4711BOXER DAMA CK",
@@ -1277,7 +1298,8 @@ const productos = [
     "1": 4.95,
     "3": 4.65,
   },
-  imagen: "Img/Imagen153.jpg"
+  imagen: "Img/Imagen153.jpg",
+  stock: 3
 },
 {
   nombre: "4662TRUSA CLÁSICA DAMA",
@@ -1287,7 +1309,8 @@ const productos = [
     "1": 4.95,
     "3": 3.15,
   },
-  imagen: "Img/Imagen154.jpg"
+  imagen: "Img/Imagen154.jpg",
+  stock: 3
 },
 {
   nombre: "5040SET PLASTILINA + MOLDES",
@@ -1297,7 +1320,8 @@ const productos = [
     "1": 3.95,
     "3": 2.95,
   },
-  imagen: "Img/Imagen155.jpg"
+  imagen: "Img/Imagen155.jpg",
+  stock: 9
 },
 {
   nombre: "5031SET DE 7 TEMPERAS + PALETA Y PINCEL",
@@ -1308,7 +1332,8 @@ const productos = [
     "3": 5.65,
     "6": 5.35,
   },
-  imagen: "Img/Imagen156.jpg"
+  imagen: "Img/Imagen156.jpg",
+  stock: 8
 },
 {
   nombre: "5026CINTA DE EMBALAJE DE 60 YARDAS",
@@ -1318,7 +1343,8 @@ const productos = [
     "1": 3.95,
     "6": 1.85,
   },
-  imagen: "Img/Imagen157.jpg"
+  imagen: "Img/Imagen157.jpg",
+  stock: 6
 },
 {
   nombre: "5025CINTA DE EMBALAJE DE 200 YARDAS",
@@ -1329,7 +1355,8 @@ const productos = [
     "6": 1.95,
     "12": 1.65,
   },
-  imagen: "Img/Imagen158.jpg"
+  imagen: "Img/Imagen158.jpg",
+  stock: 8
 },
 {
   nombre: "4674SET x 10 CUTTER GARRITA",
@@ -1338,7 +1365,8 @@ const productos = [
   precios: {
     "1": 8.95,
   },
-  imagen: "Img/Imagen159.jpg"
+  imagen: "Img/Imagen159.jpg",
+  stock: 6
 },
 {
   nombre: "4650GUILLOTINA SANRIO / CAPIBARA",
@@ -1347,7 +1375,8 @@ const productos = [
   precios: {
     "1": 15.90,
   },
-  imagen: "Img/Imagen160.jpg"
+  imagen: "Img/Imagen160.jpg",
+  stock: 1
 },
 {
   nombre: "4633ESPIRÓGRAFO",
@@ -1358,7 +1387,8 @@ const productos = [
     "6": 1.95,
     "12": 1.65,
   },
-  imagen: "Img/Imagen161.jpg"
+  imagen: "Img/Imagen161.jpg",
+  stock: 15
 },
 {
   nombre: "4566LÁPIZ PORTA MINA SANRIO",
@@ -1368,7 +1398,8 @@ const productos = [
     "1": 2.95,
     "3": 1.95,
   },
-  imagen: "Img/Imagen162.jpg"
+  imagen: "Img/Imagen162.jpg",
+  stock: 3
 },
 {
   nombre: "4454ROLLO CONTACT 1.5m",
@@ -1378,29 +1409,8 @@ const productos = [
     "1": 3.90,
     "3": 2.90,
   },
-  imagen: "Img/Imagen163.jpg"
-},
-{
-  nombre: "4440CINTA EMBALAJE 400 YARDAS",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Súper rollo de cinta de embalaje de 400 yardas. Ideal para uso intensivo en almacenes, envíos y mudanzas.",
-  precios: {
-    "1": 7.90,
-    "3": 6.20,
-    "6": 5.90,
-  },
-  imagen: "Img/Imagen165.jpg"
-},
-{
-  nombre: "4404BORRADOR 5 PUNTAS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Borrador creativo con 5 puntas de colores. Ideal para el colegio, con forma divertida y funcional.",
-  precios: {
-    "1": 2.50,
-    "6": 1.30,
-    "12": 1.00,
-  },
-  imagen: "Img/Imagen166.jpg"
+  imagen: "Img/Imagen163.jpg",
+  stock: 4
 },
 {
   nombre: "4373BOLSITA DE BAJALENGUA DE COLORES",
@@ -1410,7 +1420,8 @@ const productos = [
     "1": 2.90,
     "3": 1.30,
   },
-  imagen: "Img/Imagen167.jpg"
+  imagen: "Img/Imagen167.jpg",
+  stock: 5
 },
 {
   nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
@@ -1421,7 +1432,8 @@ const productos = [
     "3": 3.50,
     "5": 3.20,
   },
-  imagen: "Img/Imagen168.jpg"
+  imagen: "Img/Imagen168.jpg",
+  stock: 5
 },
 {
   nombre: "4293CINTA FRÁGIL",
@@ -1432,7 +1444,8 @@ const productos = [
     "3": 3.10,
     "6": 2.80,
   },
-  imagen: "Img/Imagen169.jpg"
+  imagen: "Img/Imagen169.jpg",
+  stock: 12
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -1447,6 +1460,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
