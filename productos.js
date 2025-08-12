@@ -1446,8 +1446,10 @@ const productos = [
   imagen: "Img/Imagen170.jpg"
 }
 ];
-
+productos.forEach((producto, index) => {
+  producto.imagen = `Img/Imagen${index + 1}.jpg`;
 });
+
 
 
 
