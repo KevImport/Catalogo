@@ -1432,7 +1432,7 @@ const productos = [
     "3": 3.10,
     "6": 2.80,
   },
-  imagen: ""
+  imagen: "Img/Imagen169.jpg"
 },
 {
   nombre: "TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -1446,9 +1446,7 @@ const productos = [
   imagen: "Img/Imagen170.jpg"
 }
 ];
-productos.forEach((producto, index) => {
-  producto.imagen = `Img/Imagen${index + 1}.jpg`;
-});
+
 
 
 
