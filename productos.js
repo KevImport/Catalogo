@@ -1241,66 +1241,66 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "RUBOR LÍQUIDO KEVIN & COCO",
+  nombre: "4492RUBOR LÍQUIDO KEVIN & COCO",
   categoria: "Belleza / Cosmética",
   descripcion: "Rubor líquido de textura ligera que se difumina fácilmente en la piel para un acabado natural y radiante.",
   precios: {
     "1": 4.90,
     "3": 3.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen149.jpg"
 },
 {
-  nombre: "PESTAÑAS POSTIZAS 6D",
+  nombre: "4491PESTAÑAS POSTIZAS 6D",
   categoria: "Belleza / Cosmética",
   descripcion: "Pestañas de efecto 6D para una mirada impactante. Mayor volumen y curvatura para destacar tu belleza.",
   precios: {
     "1": 4.90,
     "3": 3.20,
   },
-  imagen: ""
+  imagen: "Img/Imagen150.jpg"
 },
 {
-  nombre: "CACHETERO CAPIBARA PARA NIÑA",
+  nombre: "4680CACHETERO CAPIBARA PARA NIÑA",
   categoria: "Ropa / Accesorios",
   descripcion: "Ropa interior infantil con diseño de capibara. Suave, cómoda y con estilo divertido para las más pequeñas.",
   precios: {
     "3": 3.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen152.jpg"
 },
 {
-  nombre: "BOXER DAMA CK",
+  nombre: "4711BOXER DAMA CK",
   categoria: "Ropa / Accesorios",
   descripcion: "Boxer femenino inspirado en la comodidad y estilo de Calvin Klein. Ajuste perfecto para uso diario.",
   precios: {
     "1": 4.95,
     "3": 4.65,
   },
-  imagen: ""
+  imagen: "Img/Imagen153.jpg"
 },
 {
-  nombre: "TRUSA CLÁSICA DAMA",
+  nombre: "4662TRUSA CLÁSICA DAMA",
   categoria: "Ropa / Accesorios",
   descripcion: "Trusa clásica para dama, cómoda y de excelente ajuste. Ideal para el uso diario con un diseño sencillo y femenino.",
   precios: {
     "1": 4.95,
     "3": 3.15,
   },
-  imagen: ""
+  imagen: "Img/Imagen154.jpg"
 },
 {
-  nombre: "SET PLASTILINA + MOLDES",
+  nombre: "5040SET PLASTILINA + MOLDES",
   categoria: "Juguetes / Regalos",
   descripcion: "Set creativo con plastilina de colores y moldes incluidos. Perfecto para que los niños desarrollen su imaginación.",
   precios: {
     "1": 3.95,
     "3": 2.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen155.jpg"
 },
 {
-  nombre: "SET DE 7 TEMPERAS + PALETA Y PINCEL",
+  nombre: "5031SET DE 7 TEMPERAS + PALETA Y PINCEL",
   categoria: "Escolar / Papelería",
   descripcion: "Kit de pintura ideal para pequeños artistas. Incluye 7 témperas, paleta y pincel para crear sin límites.",
   precios: {
@@ -1308,20 +1308,20 @@ const productos = [
     "3": 5.65,
     "6": 5.35,
   },
-  imagen: ""
+  imagen: "Img/Imagen156.jpg"
 },
 {
-  nombre: "CINTA DE EMBALAJE DE 60 YARDAS",
+  nombre: "5026CINTA DE EMBALAJE DE 60 YARDAS",
   categoria: "Organización / Almacenamiento",
   descripcion: "Cinta resistente de 60 yardas ideal para embalar, sellar y proteger cajas y paquetes de manera segura.",
   precios: {
     "1": 3.95,
     "6": 1.85,
   },
-  imagen: ""
+  imagen: "Img/Imagen157.jpg"
 },
 {
-  nombre: "CINTA DE EMBALAJE DE 200 YARDAS",
+  nombre: "5025CINTA DE EMBALAJE DE 200 YARDAS",
   categoria: "Organización / Almacenamiento",
   descripcion: "Cinta de embalaje extra larga para trabajos exigentes. Alta adherencia para asegurar tus envíos o almacenamiento.",
   precios: {
@@ -1329,28 +1329,28 @@ const productos = [
     "6": 1.95,
     "12": 1.65,
   },
-  imagen: ""
+  imagen: "Img/Imagen158.jpg"
 },
 {
-  nombre: "SET x 10 CUTTER GARRITA",
+  nombre: "4674SET x 10 CUTTER GARRITA",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 10 prácticos cutter en forma de garrita. Ideal para uso escolar o manualidades en casa.",
   precios: {
     "1": 8.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen159.jpg"
 },
 {
-  nombre: "GUILLOTINA SANRIO / CAPIBARA",
+  nombre: "4650GUILLOTINA SANRIO / CAPIBARA",
   categoria: "Escolar / Papelería",
   descripcion: "Guillotina temática para papel con diseño divertido de Sanrio o Capibara. Ideal para proyectos escolares o de oficina.",
   precios: {
     "1": 15.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen160.jpg"
 },
 {
-  nombre: "ESPIRÓGRAFO",
+  nombre: "4633ESPIRÓGRAFO",
   categoria: "Escolar / Papelería",
   descripcion: "Herramienta creativa para dibujar patrones y espirales únicos. Ideal para estimular la imaginación y precisión.",
   precios: {
@@ -1358,30 +1358,30 @@ const productos = [
     "6": 1.95,
     "12": 1.65,
   },
-  imagen: ""
+  imagen: "Img/Imagen161.jpg"
 },
 {
-  nombre: "LÁPIZ PORTA MINA SANRIO",
+  nombre: "4566LÁPIZ PORTA MINA SANRIO",
   categoria: "Escolar / Papelería",
   descripcion: "Lápiz porta mina con diseño adorable de Sanrio. Ideal para estudiantes que disfrutan de lo tierno y funcional.",
   precios: {
     "1": 2.95,
     "3": 1.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen162.jpg"
 },
 {
-  nombre: "ROLLO CONTACT 1.5m",
+  nombre: "4454ROLLO CONTACT 1.5m",
   categoria: "Organización / Almacenamiento",
   descripcion: "Rollo adhesivo decorativo de 1.5 metros para proteger, forrar o personalizar superficies. Fácil de cortar y aplicar.",
   precios: {
     "1": 3.90,
     "3": 2.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen163.jpg"
 },
 {
-  nombre: "CINTA EMBALAJE 400 YARDAS",
+  nombre: "4440CINTA EMBALAJE 400 YARDAS",
   categoria: "Organización / Almacenamiento",
   descripcion: "Súper rollo de cinta de embalaje de 400 yardas. Ideal para uso intensivo en almacenes, envíos y mudanzas.",
   precios: {
@@ -1389,10 +1389,10 @@ const productos = [
     "3": 6.20,
     "6": 5.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen165.jpg"
 },
 {
-  nombre: "BORRADOR 5 PUNTAS",
+  nombre: "4404BORRADOR 5 PUNTAS",
   categoria: "Escolar / Papelería",
   descripcion: "Borrador creativo con 5 puntas de colores. Ideal para el colegio, con forma divertida y funcional.",
   precios: {
@@ -1400,20 +1400,20 @@ const productos = [
     "6": 1.30,
     "12": 1.00,
   },
-  imagen: ""
+  imagen: "Img/Imagen166.jpg"
 },
 {
-  nombre: "BOLSITA DE BAJALENGUA DE COLORES",
+  nombre: "4373BOLSITA DE BAJALENGUA DE COLORES",
   categoria: "Escolar / Papelería",
   descripcion: "Bajalenguas de colores en práctica bolsita. Ideales para actividades escolares, manualidades o juegos didácticos.",
   precios: {
     "1": 2.90,
     "3": 1.30,
   },
-  imagen: ""
+  imagen: "Img/Imagen167.jpg"
 },
 {
-  nombre: "PACK DE 6 LAPICEROS ARCO IRIS",
+  nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
   categoria: "Escolar / Papelería",
   descripcion: "Conjunto de lapiceros con tinta de colores vibrantes tipo arco iris. Perfectos para escribir o decorar con estilo.",
   precios: {
@@ -1421,10 +1421,10 @@ const productos = [
     "3": 3.50,
     "5": 3.20,
   },
-  imagen: ""
+  imagen: "Img/Imagen168.jpg"
 },
 {
-  nombre: "CINTA FRÁGIL",
+  nombre: "4293CINTA FRÁGIL",
   categoria: "Organización / Almacenamiento",
   descripcion: "Cinta adhesiva con mensaje 'Frágil' para el cuidado de tus paquetes. Esencial en envíos y mudanzas.",
   precios: {
@@ -1435,7 +1435,7 @@ const productos = [
   imagen: "Img/Imagen169.jpg"
 },
 {
-  nombre: "TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
+  nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
   precios: {
@@ -1446,6 +1446,7 @@ const productos = [
   imagen: "Img/Imagen170.jpg"
 }
 ];
+
 
 
 
