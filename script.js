@@ -2,29 +2,49 @@ let carrito = [];
 
 function agregarAlCarrito(nombreProducto) {
   const producto = productos.find(p => p.nombre === nombreProducto);
-  const inputCantidad = document.getElementById(`cant-${producto.nombre}`);
-  const cantidad = parseInt(inputCantidad.value);
+  if (!producto) return;
 
-  if (isNaN(cantidad) || cantidad < 1) return alert("Cantidad no válida");
+  const input = document.getElementById(`cantidad-${nombreProducto.replace(/\s+/g, '')}`);
+  let cantidadSeleccionada = parseInt(input.value);
+
+  if (isNaN(cantidadSeleccionada) || cantidadSeleccionada < 1) {
+    cantidadSeleccionada = 1;
+  }
+  
+  if (cantidadSeleccionada > producto.stock) {
+    cantidadSeleccionada = producto.stock;
+    alert(`Solo hay ${producto.stock} unidades disponibles de "${producto.nombre}".`);
+  }
 
   let precioUnitario = null;
-  const cantidades = Object.keys(producto.precios).map(n => parseInt(n)).sort((a,b) => a - b);
-  for (let i = 0; i < cantidades.length; i++) {
-    if (cantidad >= cantidades[i]) {
-      precioUnitario = producto.precios[cantidades[i]];
+  const escalas = Object.keys(producto.precios).map(Number).sort((a, b) => a - b);
+  for (let i = 0; i < escalas.length; i++) {
+    if (cantidadSeleccionada >= escalas[i]) {
+      precioUnitario = producto.precios[escalas[i]];
     }
   }
 
-  const total = (precioUnitario * cantidad).toFixed(2);
+  const total = (precioUnitario * cantidadSeleccionada).toFixed(2);
+  const itemCarrito = carrito.find(p => p.nombre === nombreProducto);
 
-  carrito.push({
-    nombre: producto.nombre,
-    cantidad: cantidad,
-    precioUnitario: precioUnitario,
-    total: total
-  });
+  if (itemCarrito) {
+    if (itemCarrito.cantidad + cantidadSeleccionada > producto.stock) {
+      alert(`No puedes añadir más de ${producto.stock} unidades de "${producto.nombre}".`);
+      return;
+    }
+    itemCarrito.cantidad += cantidadSeleccionada;
+    itemCarrito.precioUnitario = precioUnitario;
+    itemCarrito.total = (precioUnitario * itemCarrito.cantidad).toFixed(2);
+  } else {
+    carrito.push({
+      ...producto,
+      cantidad: cantidadSeleccionada,
+      precioUnitario: precioUnitario,
+      total: total
+    });
+  }
 
-  alert("Producto añadido al carrito");
+  actualizarVistaCarrito();
 }
 
 function enviarPorWhatsApp() {
@@ -60,52 +80,56 @@ function mostrarProductos(lista) {
   const contenedor = document.getElementById('catalogo');
   contenedor.innerHTML = "";
 
-  const productosPagina = lista;
+  lista.forEach(p => {
+    const card = document.createElement('div');
+    card.classList.add('producto');
 
-  productosPagina.forEach(p => {
-    let tablaPrecios = "";
+    let tablaPrecios = "<table class='tabla-precios'><tr><th>Cantidad</th><th>Precio</th></tr>";
+    for (let cantidad in p.precios) {
+      tablaPrecios += `<tr><td>${cantidad}+</td><td>S/ ${p.precios[cantidad].toFixed(2)}</td></tr>`;
+    }
+    tablaPrecios += "</table>";
 
-    if (p.precios) {
-      tablaPrecios += `
-        <table style="width:100%; font-size:14px; margin-top:10px; border-collapse: collapse; text-align: center;">
-          <thead>
-            <tr>
-              <th style="padding: 6px;">Pedido mínimo</th>
-              <th style="padding: 6px;">Precio unitario</th>
-            </tr>
-          </thead>
-          <tbody>
-      `;
+    let stockHTML = `<p class="stock">Stock: ${p.stock}</p>`;
+    let inputCantidad = '';
+    let botonAgregar = '';
 
-      for (let cantidad in p.precios) {
-        tablaPrecios += `
-          <tr>
-            <td style="padding: 6px;">${cantidad}</td>
-            <td style="padding: 6px;">S/${p.precios[cantidad]}</td>
-          </tr>
-        `;
-      }
-
-      tablaPrecios += `
-          </tbody>
-        </table>
-        <div style="margin-top:10px;">
-          <label>Cantidad: </label>
-          <input type="number" min="1" value="1" id="cant-${p.nombre}" style="width:60px;" />
-          <button onclick="agregarAlCarrito('${p.nombre}')">Añadir</button>
+    if (p.stock > 0) {
+      inputCantidad = `
+        <div class="cantidad-control">
+          <button type="button" onclick="cambiarInputCantidad('${p.nombre}', -1)">−</button>
+          <input type="number" min="1" max="${p.stock}" value="1" id="cantidad-${p.nombre.replace(/\s+/g, '')}">
+          <button type="button" onclick="cambiarInputCantidad('${p.nombre}', 1)">+</button>
         </div>
       `;
+      botonAgregar = `<button class="btn-agregar" onclick="agregarAlCarrito('${p.nombre}')">Añadir</button>`;
+    } else {
+      stockHTML = `<p class="stock agotado">AGOTADO</p>`;
     }
-
-    contenedor.innerHTML += `
-      <div class="producto">
-        <h3>${p.nombre}</h3>
-        <img src="${p.imagen || 'imagenes/no-disponible.jpg'}" alt="${p.nombre}">
-        <p>${p.descripcion || ''}</p>
-        ${tablaPrecios}
-      </div>
+    card.innerHTML = `
+      <img src="${p.imagen}" alt="${p.nombre}">
+      <h3>${p.nombre}</h3>
+      <p>${p.descripcion}</p>
+      ${tablaPrecios}
+      ${stockHTML}
+      ${inputCantidad}
+      ${botonAgregar}
     `;
+
+    contenedor.appendChild(card);
   });
+}
+
+function cambiarInputCantidad(nombreProducto, cambio) {
+  const input = document.getElementById(`cantidad-${nombreProducto.replace(/\s+/g, '')}`);
+  let valor = parseInt(input.value) || 1;
+  valor += cambio;
+
+  if (valor < 1) valor = 1;
+  const producto = productos.find(p => p.nombre === nombreProducto);
+  if (valor > producto.stock) valor = producto.stock;
+
+  input.value = valor;
 }
 
 let timeoutId;
@@ -195,7 +219,6 @@ function actualizarVistaCarrito() {
   totalTexto.textContent = `Total del pedido: S/${total.toFixed(2)}`;
 }
 
-
 function eliminarDelCarrito(index) {
   carrito.splice(index, 1);
   actualizarVistaCarrito();
@@ -240,7 +263,6 @@ function enviarPedidoPorWhatsApp() {
       </div>
     `;
   });
-
   totalTexto.textContent = `Total del pedido: S/${total.toFixed(2)}`;
 }
 
@@ -275,6 +297,8 @@ function cambiarCantidad(index, nuevaCantidad) {
 
   actualizarVistaCarrito();
 }
+
+
 
 
 
