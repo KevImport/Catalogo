@@ -1147,47 +1147,47 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "DELINEADOR 2 EN 1",
+  nombre: "4885DELINEADOR 2 EN 1",
   categoria: "Belleza / Cosmética",
   descripcion: "Delineador doble función con punta precisa y otro extremo para difuminar. Perfecto para crear looks intensos y definidos.",
   precios: {
     "1": 4.95,
     "3": 3.85,
   },
-  imagen: ""
+  imagen: "Img/Imagen138.jpg"
 },
 {
-  nombre: "REMOVEDOR DE VERRUGAS",
+  nombre: "4839REMOVEDOR DE VERRUGAS",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Fórmula efectiva para eliminar verrugas de forma segura y sin dolor. Resultados visibles con uso constante.",
   precios: {
     "1": 8.95,
     "3": 7.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen139.jpg"
 },
 {
-  nombre: "SUERO DE PESTAÑAS",
+  nombre: "4760SUERO DE PESTAÑAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Suero nutritivo que fortalece y estimula el crecimiento de tus pestañas, dándoles volumen y longitud natural.",
   precios: {
     "1": 6.95,
     "3": 5.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen140.jpg"
 },
 {
-  nombre: "ALMOHADILLAS DE DESCANSO",
+  nombre: "4812ALMOHADILLAS DE DESCANSO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Almohadillas suaves para aliviar el cansancio en pies o cuerpo. Ideales para descansar tras un día agitado.",
   precios: {
     "1": 5.95,
     "3": 4.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen141.jpg"
 },
 {
-  nombre: "GLOSS BRILLO + LLAVERO",
+  nombre: "4806GLOSS BRILLO + LLAVERO",
   categoria: "Belleza / Cosmética",
   descripcion: "Brillo labial con efecto hidratante acompañado de un llavero decorativo. Ideal para llevar estilo en tu bolso.",
   precios: {
@@ -1196,30 +1196,30 @@ const productos = [
     "6": 3.45,
     "12": 3.15,
   },
-  imagen: ""
+  imagen: "Img/Imagen143.jpg"
 },
 {
-  nombre: "PACK DE 25 ESPONJAS BEAUTY",
+  nombre: "4781PACK DE 25 ESPONJAS BEAUTY",
   categoria: "Belleza / Cosmética",
   descripcion: "Pack surtido de esponjas beauty blender. Perfectas para aplicar base o corrector con acabado profesional.",
   precios: {
     "1": 4.95,
     "3": 3.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen144.jpg"
 },
 {
-  nombre: "SET DE 5 PARCHES ADELGAZANTES",
+  nombre: "4757SET DE 5 PARCHES ADELGAZANTES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Parches reductores para zonas específicas del cuerpo. Apóyate en tu rutina fitness con este práctico complemento.",
   precios: {
     "1": 3.95,
     "3": 2.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen145.jpg"
 },
 {
-  nombre: "MÁSCARA DE PESTAÑAS",
+  nombre: "4670MÁSCARA DE PESTAÑAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Realza tus pestañas al máximo con esta máscara de larga duración. Volumen, definición y resistencia al agua en un solo producto.",
   precios: {
@@ -1227,10 +1227,10 @@ const productos = [
     "3": 3.95,
     "6": 3.65,
   },
-  imagen: ""
+  imagen: "Img/Imagen146.jpg"
 },
 {
-  nombre: "PESTAÑAS POSTIZAS",
+  nombre: "4648PESTAÑAS POSTIZAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Dale intensidad a tu mirada con estas pestañas postizas naturales y ligeras. Fáciles de colocar y reutilizables.",
   precios: {
@@ -1238,7 +1238,7 @@ const productos = [
     "3": 2.25,
     "6": 1.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen147.jpg"
 },
 {
   nombre: "4492RUBOR LÍQUIDO KEVIN & COCO",
@@ -1446,6 +1446,7 @@ const productos = [
   imagen: "Img/Imagen170.jpg"
 }
 ];
+
 
 
 
