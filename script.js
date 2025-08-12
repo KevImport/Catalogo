@@ -205,9 +205,10 @@ function actualizarVistaCarrito() {
         <input 
           type="number" 
           min="1" 
+          max="${item.stock}" 
           value="${item.cantidad}" 
           onchange="cambiarCantidad(${index}, this.value)" 
-          style="width: 50px;" 
+          style="width: 50px; text-align:center;" 
         /><br>
         Precio unitario: S/${item.precioUnitario}<br>
         Total: S/${item.total}<br>
@@ -218,6 +219,7 @@ function actualizarVistaCarrito() {
 
   totalTexto.textContent = `Total del pedido: S/${total.toFixed(2)}`;
 }
+
 
 function eliminarDelCarrito(index) {
   carrito.splice(index, 1);
@@ -270,35 +272,34 @@ function enviarPedidoPorWhatsApp() {
   window.open(url, "_blank");
 }
 
+function obtenerPrecioPorCantidad(precios, cantidad) {
+  const escalas = Object.keys(precios).map(Number).sort((a, b) => a - b);
+  let precioUnitario = null;
+
+  for (let i = 0; i < escalas.length; i++) {
+    if (cantidad >= escalas[i]) {
+      precioUnitario = precios[escalas[i]];
+    }
+  }
+  return precioUnitario;
+}
+
 function cambiarCantidad(index, nuevaCantidad) {
   nuevaCantidad = parseInt(nuevaCantidad);
 
   if (isNaN(nuevaCantidad) || nuevaCantidad < 1) {
-    alert("Cantidad no válida");
-    return;
+    nuevaCantidad = 1;
+  } else if (nuevaCantidad > carrito[index].stock) {
+    nuevaCantidad = carrito[index].stock;
   }
 
-  const producto = productos.find(p => p.nombre === carrito[index].nombre);
-
-  let nuevoPrecio = null;
-  const escalas = Object.keys(producto.precios).map(Number).sort((a, b) => a - b);
-
-  for (let i = 0; i < escalas.length; i++) {
-    if (nuevaCantidad >= escalas[i]) {
-      nuevoPrecio = producto.precios[escalas[i]];
-    }
-  }
-
-  const nuevoTotal = (nuevoPrecio * nuevaCantidad).toFixed(2);
+  const precioUnitario = obtenerPrecioPorCantidad(carrito[index].precios, nuevaCantidad);
 
   carrito[index].cantidad = nuevaCantidad;
-  carrito[index].precioUnitario = nuevoPrecio;
-  carrito[index].total = nuevoTotal;
+  carrito[index].precioUnitario = precioUnitario;
+  carrito[index].total = (precioUnitario * nuevaCantidad).toFixed(2);
 
   actualizarVistaCarrito();
 }
-
-
-
 
 
