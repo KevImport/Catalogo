@@ -862,140 +862,155 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "MASCARA HALOWEEN",
+  nombre: "2794MASCARA HALOWEEN",
   categoria: "Decoración / Fiesta",
   descripcion: "Máscara ideal para fiestas de Halloween o disfraces. Dale un toque terrorífico a tu look.",
   precios: {
     "1": 3.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen106.jpg",
+  stock: 6
 },
 {
-  nombre: "SET DE 12 GANCHITOS",
+  nombre: "2790SET DE 12 GANCHITOS",
   categoria: "Ropa / Accesorios",
   descripcion: "Ganchitos coloridos y prácticos para sujetar el cabello o decorar peinados. Útiles y decorativos.",
   precios: {
     "2": 3.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen107.jpg",
+  stock: 2
 },
 {
-  nombre: "LIGA DE CIERRE",
+  nombre: "2717LIGA DE CIERRE",
   categoria: "Ropa / Accesorios",
   descripcion: "Liga multiuso con cierre resistente. Ideal para sujetar cables, bolsas o accesorios personales.",
   precios: {
     "5": 1.20,
   },
-  imagen: ""
+  imagen: "Img/Imagen108.jpg",
+  stock: 36
 },
 {
-  nombre: "EQUIPO DE PROTECCIÓN",
+  nombre: "2708EQUIPO DE PROTECCIÓN",
   categoria: "Varios",
   descripcion: "Kit básico de protección para tareas que requieren seguridad personal. Incluye elementos esenciales para cuidar tu bienestar.",
   precios: {
     "1": 6.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen109.jpg",
+  stock: 3
 },
 {
-  nombre: "SET DE 10 FOIL + TAPER",
+  nombre: "2689SET DE 10 FOIL + TAPER",
   categoria: "Hogar / Cocina",
   descripcion: "Set práctico de 10 láminas foil con recipiente tipo taper, ideal para conservar y transportar alimentos con estilo.",
   precios: {
     "5": 1.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen110.jpg",
+  stock: 12
 },
 {
-  nombre: "CAPA DE HALLOWEEN",
+  nombre: "2688CAPA DE HALLOWEEN",
   categoria: "Decoración / Fiesta",
   descripcion: "Capa temática perfecta para complementar tu disfraz de Halloween. Ligera, llamativa y fácil de usar.",
   precios: {
     "2": 3.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen111.jpg",
+  stock: 13
 },
 {
-  nombre: "ORGANIZADOR DE MEDIAS",
+  nombre: "2629ORGANIZADOR DE MEDIAS",
   categoria: "Organización / Almacenamiento",
   descripcion: "Mantén tus medias ordenadas y al alcance con este organizador práctico y compacto. Ideal para cajones o closets.",
   precios: {
     "1": 2.90,
     "3": 1.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen112.jpg",
+  stock: 6
 },
 {
-  nombre: "MOLEDOR DE ESPECIAS",
+  nombre: "2590MOLEDOR DE ESPECIAS",
   categoria: "Hogar / Cocina",
   descripcion: "Muele tus especias favoritas al instante. Ideal para realzar el sabor de tus comidas con ingredientes recién triturados.",
   precios: {
     "2": 3.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen113.jpg",
+  stock: 5
 },
 {
-  nombre: "TACHO KAWAII",
+  nombre: "2481TACHO KAWAII",
   categoria: "Hogar / Cocina",
   descripcion: "Tacho de basura con diseño adorable estilo kawaii. Perfecto para escritorios o espacios pequeños con un toque tierno.",
   precios: {
     "3": 3.80,
   },
-  imagen: ""
+  imagen: "Img/Imagen114.jpg",
+  stock: 28
 },
 {
-  nombre: "EXTRACTOR DE ABOLLADURAS",
+  nombre: "2441EXTRACTOR DE ABOLLADURAS",
   categoria: "Varios",
   descripcion: "Herramienta útil para reparar pequeñas abolladuras en vehículos de forma rápida y sin dañar la pintura.",
   precios: {
     "1": 7.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen115.jpg",
+  stock: 2
 },
 {
-  nombre: "PAQUETE DE BOLSAS TERMORETRACTIL",
+  nombre: "2421PAQUETE DE BOLSAS TERMORETRACTIL",
   categoria: "Organización / Almacenamiento",
   descripcion: "Bolsas que se ajustan al contenido con calor, ideales para embalaje seguro, ordenado y profesional.",
   precios: {
     "1": 24.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen116.jpg",
+  stock: 3
 },
 {
-  nombre: "PORTA SANDALIAS",
+  nombre: "2380PORTA SANDALIAS",
   categoria: "Organización / Almacenamiento",
   descripcion: "Organiza y transporta tus sandalias o zapatos de forma ordenada. Ideal para viajes o almacenaje en casa.",
   precios: {
     "3": 2.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen117.jpg",
+  stock: 3
 },
 {
-  nombre: "PLATO HONGUITO",
+  nombre: "2416PLATO HONGUITO",
   categoria: "Hogar / Cocina",
   descripcion: "Tierno plato con diseño de hongo, perfecto para servir snacks, frutas o decorar tu cocina con un toque divertido.",
   precios: {
     "1": 3.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen118.jpg",
+  stock: 6
 },
 {
-  nombre: "CUCHARA MEZCLADORA",
+  nombre: "1411CUCHARA MEZCLADORA",
   categoria: "Hogar / Cocina",
   descripcion: "Práctica cuchara ideal para remover bebidas, jugos o mezclas de cocina. Útil y resistente para el uso diario.",
   precios: {
     "1": 3.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen119.jpg",
+  stock: 6
 },
 {
-  nombre: "EXPRIMIDOR DE ZUMO",
+  nombre: "1261EXPRIMIDOR DE ZUMO",
   categoria: "Hogar / Cocina",
   descripcion: "Extrae jugo de tus frutas favoritas fácilmente. Diseño ergonómico y funcional para un exprimido sin esfuerzo.",
   precios: {
     "1": 4.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen120.jpg",
+  stock: 12
 },
 {
   nombre: "2410CUCHARÓN ARDILLA",
@@ -1005,8 +1020,8 @@ const productos = [
     "1": 1.90,
     "3": 0.90,
   },
-  imagen: "",
-  stock: 
+  imagen: "Img/Imagen121.png",
+  stock: 6
 },
 {
   nombre: "2415CAJA CUADRADA",
@@ -1458,6 +1473,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
