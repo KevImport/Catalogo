@@ -998,55 +998,52 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "CUCHARÓN ARDILLA",
+  nombre: "2410CUCHARÓN ARDILLA",
   categoria: "Hogar / Cocina",
   descripcion: "Divertido cucharón con forma de ardilla. Ideal para servir sopas o guisos y alegrar tus momentos en la cocina.",
   precios: {
     "1": 1.90,
     "3": 0.90,
   },
-  imagen: ""
+  imagen: "",
+  stock: 
 },
 {
-  nombre: "CREMA BLANQUEADORA CORPORAL - BANANA",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Crema con extracto de banana que ayuda a aclarar la piel de forma natural. Hidrata, suaviza y da luminosidad.",
-  precios: {
-    "1": 9.90,
-  },
-  imagen: ""
-},
-{
-  nombre: "CAJA CUADRADA",
+  nombre: "2415CAJA CUADRADA",
   categoria: "Organización / Almacenamiento",
   descripcion: "Caja cerrada de 8.5 x 8.5 x 2.5 cm, fabricada en material Foldcote color blanco. Incluye espuma en su interior para mayor protección.",
   precios: {
     "3": 1.00,
-    "12": 0.80,
+    "6": 0.80,
+    "12": 0.60,
   },
-  imagen: ""
+  imagen: "Img/Imagen123.jpg",
+  stock: 60
 },
 {
-  nombre: "CAJA PARA LENTES",
+  nombre: "3682CAJA PARA LENTES",
   categoria: "Organización / Almacenamiento",
   descripcion: "Caja de aproximadamente 15.8 x 5.2 x 3.8 cm, elaborada en material Foldcote color blanco.",
   precios: {
-    "3": 1.00,
-    "12": 0.80,
+    "3": 0.90,
+    "6": 0.70,
+    "12": 0.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen124.jpg",
+  stock: 60
 },
 {
-  nombre: "RETARDANTE",
+  nombre: "2331RETARDANTE",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Producto especial para prolongar el momento íntimo. Uso discreto, cómodo y efectivo.",
   precios: {
     "1": 10.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen125.jpg",
+  stock: 18
 },
 {
-  nombre: "JABÓN DE ARROZ",
+  nombre: "5008JABÓN DE ARROZ",
   categoria: "Belleza / Cosmética",
   descripcion: "Jabón con extracto de arroz que limpia profundamente y ayuda a iluminar la piel. Ideal para el uso diario.",
   precios: {
@@ -1054,7 +1051,8 @@ const productos = [
     "3": 3.25,
     "6": 2.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen126.jpg",
+  stock: 17
 },
 {
   nombre: "5016COLET ESPIRAL CORAZÓN",
@@ -1460,6 +1458,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
