@@ -719,17 +719,18 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "CAJA DE JOYERÍA",
+  nombre: "3613CAJA DE JOYERÍA",
   categoria: "Organización / Almacenamiento",
   descripcion: "Organiza tus joyas con estilo. Caja transparente con compartimentos para mantener todo a la vista y ordenado.",
   precios: {
     "1": 6.00,
     "3": 4.90,
   },
-  imagen: ""
+  imagen: "",
+ stock: 7
 },
 {
-  nombre: "PAÑOLETA",
+  nombre: "3562PAÑOLETA",
   categoria: "Ropa / Accesorios",
   descripcion: "Añade estilo y color a tu outfit con esta pañoleta versátil. Ideal para el cuello, el cabello o como accesorio de bolso.",
   precios: {
@@ -738,128 +739,143 @@ const productos = [
     "6": 1.80,
     "12": 1.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen91.jpg",
+  stock: 12
 },
 {
-  nombre: "COLLAR SATURNO",
+  nombre: "3352COLLAR SATURNO",
   categoria: "Ropa / Accesorios",
   descripcion: "Collar moderno con diseño de Saturno, perfecto para destacar tu look con un toque único y astral.",
   precios: {
     "1": 7.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen93.jpg",
+  stock: 4
 },
 {
-  nombre: "JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
+  nombre: "3159JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
   categoria: "Ropa / Accesorios",
   descripcion: "Collares magnéticos para compartir con alguien especial. Al juntarse forman un corazón, ideal para parejas o amistades.",
   precios: {
     "1": 4.90,
-    "3": 3.60,
-    "6": 3.30,
-    "12": 3.00,
+    "3": 3.50,
+    "6": 3.20,
+    "12": 2.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen94.jpg",
+  stock: 34
 },
 {
-  nombre: "AVE DE EQULIBRIO",
+  nombre: "3054AVE DE EQUILIBRIO",
   categoria: "Juguetes / Regalos",
   descripcion: "Curiosa figura de ave que se equilibra mágicamente en una superficie. Sorprende a grandes y chicos.",
   precios: {
     "1": 1.00,
   },
-  imagen: ""
+  imagen: "Img/Imagen95.jpg",
+  stock: 48
 },
 {
-  nombre: "JUGUETE BALANCE",
+  nombre: "3053JUGUETE BALANCE",
   categoria: "Juguetes / Regalos",
   descripcion: "Divertido juguete educativo que ayuda a desarrollar la coordinación y el equilibrio en los más pequeños.",
   precios: {
     "1": 10.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen96.jpg",
+  stock: 5
 },
 {
-  nombre: "SHORT LEVANTA POMPIS",
+  nombre: "3038SHORT LEVANTA POMPIS",
   categoria: "Ropa / Accesorios",
   descripcion: "Short moldeador que realza tu figura. Comodidad y soporte con efecto push-up para tu día a día.",
   precios: {
     "1": 8.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen97.jpg",
+  stock: 3
 },
 {
-  nombre: "MUÑECOS EN ACCIÓN",
+  nombre: "3025MUÑECOS EN ACCIÓN",
   categoria: "Juguetes / Regalos",
   descripcion: "Figuras articuladas llenas de aventura. Ideales para juegos creativos y coleccionistas.",
   precios: {
     "1": 10.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen98.jpg",
+  stock: 1
 },
 {
-  nombre: "CAJA NAVIDEÑA",
+  nombre: "2968CAJA NAVIDEÑA",
   categoria: "Decoración / Fiesta",
   descripcion: "Caja con temática navideña perfecta para regalos, detalles o decoración. Ideal para sorprender en estas fiestas.",
   precios: {
     "1": 3.90,
     "3": 2.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen99.jpg",
+  stock: 6
 },
 {
-  nombre: "MINI FREGONA",
+  nombre: "2943MINI FREGONA",
   categoria: "Hogar / Cocina",
   descripcion: "Compacta y funcional, esta mini fregona es ideal para limpiezas rápidas en espacios reducidos.",
   precios: {
     "1": 4.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen100.jpg",
+  stock: 6
 },
 {
-  nombre: "SET DE 10 ACCESORIOS PARA EL CABELLO",
+  nombre: "2910SET DE 10 ACCESORIOS PARA EL CABELLO",
   categoria: "Ropa / Accesorios",
   descripcion: "Completo set de accesorios para peinar y decorar tu cabello. Práctico, variado y con mucho estilo.",
   precios: {
     "2": 4.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen101.jpg",
+  stock: 2
 },
 {
-  nombre: "SET DE 6 VASOS NAVIDEÑOS",
+  nombre: "2819SET DE 6 VASOS NAVIDEÑOS",
   categoria: "Decoración / Fiesta",
   descripcion: "Vasos con diseños festivos para darle alegría a tus celebraciones navideñas. ¡Ideal para compartir!",
   precios: {
     "1": 9.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen102.jpg",
+  stock: 2
 },
 {
-  nombre: "PEGATINA DE TATUAJE",
+  nombre: "2803PEGATINA DE TATUAJE",
   categoria: "Belleza / Cosmética",
   descripcion: "Pegatinas de tatuaje temporales para lucir diseños únicos sin compromiso. Fáciles de aplicar y remover.",
   precios: {
     "1": 4.90,
+    "3": 3.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen103.jpg",
+  stock: 24
 },
 {
-  nombre: "VASO DE BEBIDA REFRIGERANTE",
+  nombre: "2802VASO DE BEBIDA REFRIGERANTE",
   categoria: "Hogar / Cocina",
   descripcion: "Vaso térmico diseñado para mantener tus bebidas frías por más tiempo. Ideal para el verano.",
   precios: {
     "1": 7.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen104.jpg",
+  stock: 3
 },
 {
-  nombre: "EXCAVADORA A CONTROL REMOTO",
+  nombre: "2795EXCAVADORA A CONTROL REMOTO",
   categoria: "Juguetes / Regalos",
   descripcion: "Excavadora realista con control remoto. Diversión garantizada para los fanáticos de la construcción.",
   precios: {
     "1": 17.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen105.jpg",
+  stock: 2
 },
 {
   nombre: "2794MASCARA HALOWEEN",
@@ -1473,6 +1489,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
