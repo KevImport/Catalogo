@@ -650,44 +650,48 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "ESCUDO Y ESPADA",
+  nombre: "4097ESCUDO Y ESPADA",
   categoria: "Juguetes / Regalos",
   descripcion: "¡A la aventura! Set de escudo y espada de juguete para juegos de rol y horas de entretenimiento.",
   precios: {
     "1": 9.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen79.jpg",
+  stock: 4
 },
 {
-  nombre: "CORTADOR DE VIDRIO Y CERÁMICA",
+  nombre: "3778CORTADOR DE VIDRIO Y CERÁMICA",
   categoria: "Hogar / Cocina",
   descripcion: "Herramienta precisa para bricolaje. Corta fácilmente vidrio o cerámica con precisión profesional.",
   precios: {
     "1": 19.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen81.jpg",
+  stock: 2
 },
 {
-  nombre: "SET DE 12 VELAS NAVIDEÑAS",
+  nombre: "2756SET DE 12 VELAS NAVIDEÑAS",
   categoria: "Decoración / Fiesta",
   descripcion: "Ilumina la Navidad. Set de velas con diseños festivos para decorar mesas, repisas o centros de mesa.",
   precios: {
     "1": 13.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen82.jpg",
+  stock: 1
 },
 {
-  nombre: "VELA LED NAVIDEÑA",
+  nombre: "4041VELA LED NAVIDEÑA",
   categoria: "Decoración / Fiesta",
   descripcion: "Vela LED con diseño navideño que ilumina y decora sin riesgo. Ideal para crear ambientes cálidos y festivos.",
   precios: {
     "1": 4.00,
     "3": 2.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen83.jpg",
+  stock: 12
 },
 {
-  nombre: "SET DE 6 INDIVIDUALES + 6 POSAVASOS NAVIDEÑOS",
+  nombre: "3930SET DE 6 INDIVIDUALES + 6 POSAVASOS NAVIDEÑOS",
   categoria: "Decoración / Fiesta",
   descripcion: "Dale un toque navideño a tu mesa con este set decorativo. Incluye 6 individuales y 6 posavasos con diseños festivos.",
   precios: {
@@ -695,20 +699,22 @@ const productos = [
     "3": 3.20,
     "6": 2.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen84.jpg",
+  stock: 6
 },
 {
-  nombre: "TOMATODO CARTOON",
+  nombre: "3655TOMATODO CARTOON",
   categoria: "Hogar / Cocina",
   descripcion: "Tomatodo con diseños cartoon llamativos, perfecto para niños o fans de personajes animados.",
   precios: {
     "1": 8.00,
     "3": 6.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen86.jpg",
+  stock: 3
 },
 {
-  nombre: "EMBUDO CREMERO",
+  nombre: "3648EMBUDO CREMERO",
   categoria: "Hogar / Cocina",
   descripcion: "Embudo práctico y compacto ideal para servir cremas, líquidos o salsas sin derrames.",
   precios: {
@@ -716,7 +722,8 @@ const productos = [
     "3": 2.60,
     "6": 2.30,
   },
-  imagen: ""
+  imagen: "Img/Imagen87.jpg",
+  stock: 5
 },
 {
   nombre: "3613CAJA DE JOYERÍA",
@@ -726,7 +733,7 @@ const productos = [
     "1": 6.00,
     "3": 4.90,
   },
-  imagen: "",
+  imagen: "Img/Imagen88.jpeg",
  stock: 7
 },
 {
@@ -1489,6 +1496,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
