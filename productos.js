@@ -455,16 +455,17 @@ const productos = [
   imagen: ""
 },
 {
-  nombre: "MINI TELESCOPIO",
+  nombre: "4704MINI TELESCOPIO",
   categoria: "Juguetes / Regalos",
   descripcion: "Explora el mundo desde cerca. Mini telescopio compacto y portátil, ideal para niños curiosos o actividades al aire libre.",
   precios: {
     "1": 24.90,
   },
-  imagen: ""
-},
+  imagen: "Img/Imagen55.jpg",
+  stock: 3
+  },
 {
-  nombre: "COLLAR PURE LOVE",
+  nombre: "4875COLLAR PURE LOVE",
   categoria: "Ropa / Accesorios",
   descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
   precios: {
@@ -473,20 +474,22 @@ const productos = [
     "6": 1.95,
     "12": 1.65,
   },
-  imagen: ""
+  imagen: "Img/Imagen56.jpg",
+  stock: 18
 },
 {
-  nombre: "TAPA SOL CON LICENCIA",
+  nombre: "4638TAPA SOL CON LICENCIA",
   categoria: "Ropa / Accesorios",
   descripcion: "Protección con estilo. Tapa sol con diseño licenciado para niños, ideal para salidas al aire libre.",
   precios: {
     "1": 6.95,
     "3": 5.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen57.jpg",
+  stock: 4
 },
 {
-  nombre: "LAPICERO DOBLE PUNTA",
+  nombre: "4629LAPICERO DOBLE PUNTA",
   categoria: "Escolar / Papelería",
   descripcion: "¡Dos funciones en uno! Lapicero con doble punta para escribir con precisión y comodidad.",
   precios: {
@@ -494,10 +497,11 @@ const productos = [
     "3": 2.25,
     "6": 1.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen58.jpg",
+  stock: 12
 },
 {
-  nombre: "SET DE 5 FUNDAS PARA CEPILLO DE DIENTES",
+  nombre: "4622SET DE 5 FUNDAS PARA CEPILLO DE DIENTES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Protege tus cepillos con estilo. Set de 5 fundas plásticas, ideales para viajes o mantener la higiene en casa.",
   precios: {
@@ -506,20 +510,22 @@ const productos = [
     "6": 1.95,
     "12": 1.65,
   },
-  imagen: ""
+  imagen: "Img/Imagen59.jpg",
+  stock: 15
 },
 {
-  nombre: "MOLDE PARA GOMITAS",
+  nombre: "4576MOLDE PARA GOMITAS",
   categoria: "Hogar / Cocina",
   descripcion: "Haz tus propias gomitas en casa. Molde de silicona reutilizable con figuras divertidas y fácil de desmoldar.",
   precios: {
     "1": 3.95,
     "2": 2.95, 
   },
-  imagen: ""
+  imagen: "Img/Imagen61.jpg",
+  stock: 2
 },
 {
-  nombre: "CORTADOR DE PASTILLA",
+  nombre: "4547CORTADOR DE PASTILLA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Corte exacto y seguro. Herramienta compacta para dividir pastillas con precisión y sin esfuerzo.",
   precios: {
@@ -527,20 +533,22 @@ const productos = [
     "3": 2.85,
     "6": 2.55,
   },
-  imagen: ""
+  imagen: "Img/Imagen62.jpg",
+  stock: 22
 },
 {
-  nombre: "FOCO FIESTA",
+  nombre: "4452FOCO FIESTA",
   categoria: "Decoración / Fiesta",
   descripcion: "Ilumina la diversión. Foco multicolor que proyecta luces giratorias para ambientar cualquier celebración.",
   precios: {
     "1": 4.90,
     "3": 3.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen63.jpg",
+  stock: 5
 },
 {
-  nombre: "JABONERA DE LUJO",
+  nombre: "4445JABONERA DE LUJO",
   categoria: "Hogar / Cocina",
   descripcion: "Un toque elegante en tu baño. Jabonera resistente con diseño moderno, ideal para el hogar u oficina.",
   precios: {
@@ -548,106 +556,116 @@ const productos = [
     "3": 3.50,
     "6": 3.20,
   },
-  imagen: ""
+  imagen: "Img/Imagen64.jpg",
+  stock: 6
 },
 {
-  nombre: "MUÑEQUITO PARA CELULAR",
+  nombre: "4383MUÑEQUITO PARA CELULAR",
   categoria: "Electrónica / Gadgets",
   descripcion: "¡Diversión en miniatura! Soporte decorativo para celular con diseño de muñequito. Práctico y adorable.",
   precios: {
     "1": 5.80,
     "2": 3.80,
   },
-  imagen: ""
+  imagen: "Img/Imagen66.jpg",
+ stock: 2
 },
 {
-  nombre: "PACK DE 10 PEGA MOSCAS",
+  nombre: "4380PACK DE 10 PEGA MOSCAS",
   categoria: "Hogar / Cocina",
   descripcion: "Despídete de los insectos. Pack de 10 trampas adhesivas para moscas, práctico, higiénico y fácil de usar.",
   precios: {
     "1": 6.90,
     "3": 5.00,
   },
-  imagen: ""
+  imagen: "Img/Imagen67.jpg",
+  stock: 4
 },
 {
-  nombre: "SET DE 8 PLATOS OSITO + BASE",
+  nombre: "4338SET DE 8 PLATOS OSITO + BASE",
   categoria: "Hogar / Cocina",
   descripcion: "Comidas divertidas para los peques. Set de platos con forma de osito y base antideslizante, ideal para niños.",
   precios: {
     "1": 9.00,
-    "3": 7.90,
-  },
-  imagen: ""
+},
+  imagen: "Img/Imagen69.jpg",
+  stock: 1
 },
 {
-  nombre: "BLÍSTER DE 12 PARES DE ARETES",
+  nombre: "4330BLÍSTER DE 12 PARES DE ARETES",
   categoria: "Ropa / Accesorios",
   descripcion: "Variedad y estilo. Blíster con 12 pares de aretes para cambiar de look todos los días.",
   precios: {
     "1": 2.90,
-    "6": 1.80,
-    "11": 1.50,
+    "5": 1.80,
+    "10": 1.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen70.jpg",
+  stock: 10
 },
 {
-  nombre: "JUGUETE RESORTE RAINBOW",
+  nombre: "4195JUGUETE RESORTE RAINBOW",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Diversión sin fin! Juguete resorte con colores arcoíris, ideal para jugar en escaleras o mesas.",
   precios: {
     "1": 2.90,
-    "6": 1.80,
-    "12": 1.50,
+    "5": 1.80,
+    "10": 1.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen72.jpg",
+  stock: 10
 },
 {
-  nombre: "LENTES DE SOL 2025",
+  nombre: "4183LENTES DE SOL 2025",
   categoria: "Ropa / Accesorios",
   descripcion: "Protección y estilo moderno. Lentes de sol con diseño actual, perfectos para cualquier ocasión.",
   precios: {
     "1": 6.00,
     "3": 4.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen74.jpg",
+  stock: 3
 },
 {
-  nombre: "FORRO NAVIDEÑO PARA SILLA",
+  nombre: 4175"FORRO NAVIDEÑO PARA SILLA",
   categoria: "Decoración / Fiesta",
   descripcion: "Decora con espíritu navideño. Forro para silla con diseños festivos, ideal para cenas y reuniones familiares.",
   precios: {
     "3": 5.50,
   },
-  imagen: ""
+  imagen: "Img/Imagen75.jpg",
+  stock: 12
 },
 {
-  nombre: "PACK MASITAS CISNE",
+  nombre: "4158PACK MASITAS CISNE",
   categoria: "Juguetes / Regalos",
   descripcion: "Diversión creativa para niños. Masitas moldeables con temática de cisne, perfectas para jugar y modelar.",
   precios: {
     "1": 5.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen76.jpg",
+  stock: 1
 },
 {
-  nombre: "JUEGO TWISTER",
+  nombre: "4154JUEGO TWISTER",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Gira, estírate y ríe! Juego clásico que pone a prueba tu equilibrio y coordinación. Ideal para reuniones.",
   precios: {
     "1": 11.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen77.jpg",
+  stock: 1
 },
 {
-  nombre: "SOPORTE PARA ASIENTO DE AUTO",
+  nombre: "4118SOPORTE PARA ASIENTO DE AUTO",
   categoria: "Hogar / Cocina",
   descripcion: "Organiza tu auto fácilmente. Soporte multiuso para colgar bolsas, carteras o accesorios en el asiento del vehículo.",
   precios: {
     "1": 3.90,
     "3": 2.30,
   },
-  imagen: ""
+  imagen: "Img/Imagen78.jpg",
+  stock: 10
 },
 {
   nombre: "4097ESCUDO Y ESPADA",
@@ -1496,6 +1514,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
