@@ -1546,7 +1546,7 @@ const productos = [
   categoria: "Hogar / Cocina",
   descripcion: "Comodidad y estilo en uno. Cuida tu sofá del polvo, manchas y pelitos con este protector práctico y elegante.  Se adapta fácilmente, es lavable y perfecto para hogares con niños o mascotas. ¡Renueva tu sala sin cambiar de mueble!. De material: poliester, medida aprox.: 1.7 x 2.35 m.",
   precios: {
-    "1": 19.90,
+    "1": 19.90
   },
   imagen: "Img/Imagen174.jpeg",
   stock: 7
@@ -1557,7 +1557,7 @@ const productos = [
   descripcion: "Perfectas para fiestas, reuniones o el día a día. Resistentes, coloridas y súper prácticas. ",
   precios: {
     "1": 3.95,
-    "3": 2.95,
+    "3": 2.95
   },
   imagen: "Img/Imagen175.jpeg",
   stock: 10
@@ -1568,7 +1568,7 @@ const productos = [
   descripcion: "Material: algodón. Suave y cómodo. Tallas disponibles: 1S y 3L",
   precios: {
     "1": 4.95,
-    "3": 3.95,
+    "3": 3.95
   },
   imagen: "Img/Imagen176.jpeg",
   stock: 4
@@ -1580,7 +1580,7 @@ const productos = [
   precios: {
     "1": 4.95,
     "3": 3.05,
-    "6": 2.75,
+    "6": 2.75
   },
   imagen: "Img/Imagen177.jpeg",
   stock: 6
@@ -1593,7 +1593,7 @@ const productos = [
     "1": 3.95,
     "3": 2.95,
     "6": 2.65,
-    "12": 2.35,
+    "12": 2.35
   },
   imagen: "Img/Imagen178.jpeg",
   stock: 12
@@ -1603,7 +1603,7 @@ const productos = [
   categoria: "Belleza / Cosmética",
   descripcion: "Desenreda al instante y suaviza el cabello. Hidratación sin enjuague. Cabello brillante, suave y manejable. Sin frizz, sin enredos, sin esfuerzo. Ideal para usar a diario.",
   precios: {
-    "1": 6.95,
+    "1": 6.95
  },
   imagen: "Img/Imagen179.jpeg",
   stock: 3
@@ -1615,9 +1615,10 @@ const productos = [
   precios: {
     "1": 4.90,
     "3": 2.60,
-    "6": 2.30,
+    "6": 2.30
   },
   imagen: "Img/Imagen170.jpg",
   stock: 6
 }
 ];
+
