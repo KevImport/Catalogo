@@ -1374,17 +1374,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "4662TRUSA CLÁSICA DAMA",
-  categoria: "Ropa / Accesorios",
-  descripcion: "Trusa clásica para dama, cómoda y de excelente ajuste. Ideal para el uso diario con un diseño sencillo y femenino.",
-  precios: {
-    "1": 4.95,
-    "3": 3.15,
-  },
-  imagen: "Img/Imagen154.jpg",
-  stock: 3
-},
-{
   nombre: "5040SET PLASTILINA + MOLDES",
   categoria: "Juguetes / Regalos",
   descripcion: "Set creativo con plastilina de colores y moldes incluidos. Perfecto para que los niños desarrollen su imaginación.",
@@ -1519,6 +1508,83 @@ const productos = [
   imagen: "Img/Imagen169.jpg",
   stock: 12
 },
+ {
+  nombre: "5055PEINETA LAZO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Dale un toque tierno y elegante a tu look. Ideal para peinados coquetos y llenos de estilo.",
+  precios: {
+    "1": 2.95,
+    "3": 1.85,
+    "6": 1.55,
+  },
+  imagen: "Img/Imagen171.jpeg",
+  stock: 6
+},
+{
+  nombre: "5057EMPAQUE DE 50 POST IT TRANSPARENTES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Si, así como lo ves que cosa mas útil y bonita para los apuntes. Cada paquete tiene 50 hojitas.",
+  precios: {
+    "1": 3.95,
+    "3": 2.05,
+  },
+  imagen: "Img/Imagen172.jpeg",
+  stock: 3
+},
+{
+  nombre: "5058SET DE 8 PLUMONES OUTLINE",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideal para hacer las decoraciones. Se puede usar en papel y cartulina.Este plumón realiza los trazos de color por fuera y en el centro plateado. El set contiene 8 plumones por set",
+  precios: {
+    "1": 6.90,
+  },
+  imagen: "Img/Imagen173.jpeg",
+  stock: 6
+},
+{
+  nombre: "5059PROTECTOR DE SOFA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Comodidad y estilo en uno. Cuida tu sofá del polvo, manchas y pelitos con este protector práctico y elegante.  Se adapta fácilmente, es lavable y perfecto para hogares con niños o mascotas. ¡Renueva tu sala sin cambiar de mueble!. De material: poliester, medida aprox.: 1.7 x 2.35 m.",
+  precios: {
+    "1": 19.90,
+  },
+  imagen: "Img/Imagen174.jpeg",
+  stock: 7
+},
+{
+  nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Perfectas para fiestas, reuniones o el día a día. Resistentes, coloridas y súper prácticas. ",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+  },
+  imagen: "Img/Imagen175.jpeg",
+  stock: 10
+},
+{
+  nombre: "5062TRUSA CACHETERO",
+  categoria: "Ropa / Accesorios",
+  descripcion: "Material: algodón. Suave y cómodo. Tallas disponibles: 1S y 3L",
+  precios: {
+    "1": 4.95,
+    "3": 3.95,
+  },
+  imagen: "Img/Imagen176.jpeg",
+  stock: 4
+},
+{
+  nombre: "4660CALZONCILLO CLÁSICO",
+  categoria: "Ropa / Accesorios",
+  descripcion: "Material: algodón. Tallas disponibles: 6S",
+  precios: {
+    "1": 4.95,
+    "3": 3.05,
+    "3": 2.75,
+  },
+  imagen: "Img/Imagen177.jpeg",
+  stock: 6
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1532,6 +1598,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
