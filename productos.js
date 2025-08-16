@@ -1580,10 +1580,33 @@ const productos = [
   precios: {
     "1": 4.95,
     "3": 3.05,
-    "3": 2.75,
+    "6": 2.75,
   },
   imagen: "Img/Imagen177.jpeg",
   stock: 6
+},
+{
+  nombre: "TRUSA BIKINI",
+  categoria: "Ropa / Accesorios",
+  descripcion: "Material: algodón. Talla disponible: 12L",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+    "6": 2.65,
+    "12": 2.35,
+  },
+  imagen: "Img/Imagen178.jpeg",
+  stock: 12
+},
+{
+  nombre: "5068SPRAY ACONDICIONADOR PARA PEINAR 150ML",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Desenreda al instante y suaviza el cabello. Hidratación sin enjuague. Cabello brillante, suave y manejable. Sin frizz, sin enredos, sin esfuerzo. Ideal para usar a diario.",
+  precios: {
+    "1": 6.95,
+ },
+  imagen: "Img/Imagen179.jpeg",
+  stock: 3
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -1598,6 +1621,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
