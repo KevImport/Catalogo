@@ -645,7 +645,7 @@ const productos = [
   stock: 3
 },
 {
-  nombre: 4175"FORRO NAVIDEÑO PARA SILLA",
+  nombre: "4175FORRO NAVIDEÑO PARA SILLA",
   categoria: "Decoración / Fiesta",
   descripcion: "Decora con espíritu navideño. Forro para silla con diseños festivos, ideal para cenas y reuniones familiares.",
   precios: {
@@ -1621,4 +1621,5 @@ const productos = [
   stock: 6
 }
 ];
+
 
