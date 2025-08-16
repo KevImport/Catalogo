@@ -1621,20 +1621,3 @@ const productos = [
   stock: 6
 }
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
