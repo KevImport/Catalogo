@@ -1,6 +1,6 @@
 const productos = [
  {
-  nombre: "PAÑITOS HÚMEDOS X100",
+  nombre: "5053PAÑITOS HÚMEDOS X100",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "¡Limpieza rápida y delicada! Estos pañitos húmedos son suaves, resistentes y perfectos para el día a día. Paquete con 100 unidades.",
   precios: {
@@ -8,26 +8,29 @@ const productos = [
     "3": 3.95,
     "6": 3.75,
   },
-  imagen: ""
+  imagen: "Img/Imagen1.jpg",
+   stock: 21
 },
 {
-  nombre: "PIANITO",
+  nombre: "5052PIANITO",
   categoria: "Juguetes / Regalos",
   descripcion: "¡La música empieza aquí! Un mini pianito ideal para que los más pequeños se diviertan y estimulen su creatividad.",
   precios: {
     "1": 8.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen2.jpg",
+  stock: 4
 },
 {
-  nombre: "FIAMBRERA TÉRMICA",
+  nombre: "5048FIAMBRERA TÉRMICA",
   categoria: "Hogar / Cocina",
   descripcion: "¡Lleva tu almuerzo siempre caliente! Esta fiambrera térmica conserva el calor y es perfecta para la oficina, colegio o viajes.",
   precios: {
     "1": 8.95,
     "3": 7.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen3.jpg",
+  stock: 2
 },
 {
   nombre: "MINI ATOMIZADOR KWAI",
@@ -37,21 +40,11 @@ const productos = [
     "1": 3.95,
     "3": 2.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen4.jpg",
+  stock: 5
 },
 {
-  nombre: "UNGÜENTO DE CANNABIS",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Alivia dolores y relaja tus músculos con este poderoso ungüento natural de cannabis. ¡Tu aliado para el descanso!",
-  precios: {
-    "1": 4.95,
-    "3": 3.25,
-    "5": 2.95,
-  },
-  imagen: ""
-},
-{
-  nombre: "PAPEL TISSUE, 300 HOJAS APROX.",
+  nombre: "5042PAPEL TISSUE, 300 HOJAS APROX.",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Suave, absorbente y rendidor. Ideal para el hogar u oficina con 300 hojas de comodidad.",
   precios: {
@@ -59,10 +52,11 @@ const productos = [
     "3": 1.85,
     "6": 1.55,
   },
-  imagen: ""
+  imagen: "Img/Imagen6.jpg",
+  stock: 6
 },
 {
-  nombre: "ROMPE CHORRO",
+  nombre: "5042ROMPE CHORRO",
   categoria: "Hogar / Cocina",
   descripcion: "¡Ahorra agua y evita salpicaduras! Este rompe chorro se adapta fácilmente a cualquier grifo.",
   precios: {
@@ -70,68 +64,75 @@ const productos = [
     "3": 2.15,
     "6": 1.85,
   },
-  imagen: ""
+  imagen: "Img/Imagen7.jpg",
+  stock: 6
 },
 {
-  nombre: "SET DE 12 GANCHOS PARA ROPA / CLOSET",
+  nombre: "5038SET DE 12 GANCHOS PARA ROPA / CLOSET",
   categoria: "Organización / Almacenamiento",
   descripcion: "Mantén tu closet ordenado con este set de 12 ganchos resistentes y prácticos.",
   precios: {
     "1": 5.95,
     "3": 4.85,
   },
-  imagen: ""
+  imagen: "Img/Imagen8.jpg",
+  stock: 3
 },
 {
-  nombre: "BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
+  nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
   precios: {
     "1": 6.95,
   },
-  imagen: "Img/BALDE CANCHERO + VASO TOMATODO.jpg"
+  imagen: "Img/BALDE CANCHERO + VASO TOMATODO.jpg",
+  stock: 5
 },
 {
-  nombre: "CURITAS X 100",
+  nombre: "5027CURITAS X 100",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "¡Siempre prevenido! Pack económico de 100 curitas adhesivas para cortes y raspones. Indispensables en casa, oficina o viajes.",
   precios: {
     "1": 4.95,
     "3": 3.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen11.jpg",
+  stock: 7
 },
 {
-  nombre: "CANASTILLA PLEGABLE",
+  nombre: "5017CANASTILLA PLEGABLE",
   categoria: "Organización / Almacenamiento",
   descripcion: "Organiza con estilo. Esta canastilla se pliega fácilmente cuando no la usas, ahorrando espacio y manteniendo todo en orden.",
   precios: {
     "1": 3.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen12.jpg",
+  stock: 4
 },
 {
-  nombre: "LIMPIADOR MULTIUSOS",
+  nombre: "5015LIMPIADOR MULTIUSOS",
   categoria: "Hogar / Cocina",
   descripcion: "Poder de limpieza en tus manos. Este limpiador multiusos elimina grasa, suciedad y deja todo reluciente. ¡Imprescindible!",
   precios: {
     "1": 4.95,
     "3": 3.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen13.jpg",
+  stock: 3
 },
 {
-  nombre: "ESCURRIDOR DE ACERO",
+  nombre: "5013ESCURRIDOR DE ACERO",
   categoria: "Hogar / Cocina",
   descripcion: "Escurre tus platos con elegancia. Fabricado en acero resistente, combina funcionalidad y diseño moderno para tu cocina.",
   precios: {
     "1": 6.95,
     "3": 5.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen14.jpg",
+  stock: 8
 },
 {
-  nombre: "COMEDERO + BEBEDERO DE MASCOTA",
+  nombre: "5012COMEDERO + BEBEDERO DE MASCOTA",
   categoria: "Mascotas",
   descripcion: "¡Comodidad para tu engreído! Combo práctico de comedero y bebedero para mantener a tu mascota feliz y bien alimentada.",
   precios: {
@@ -139,28 +140,31 @@ const productos = [
     "3": 3.95,
     "6": 3.65,
   },
-  imagen: ""
+  imagen: "Img/Imagen15.jpg",
+  stock: 6
 },
 {
-  nombre: "MINI CÁMARA ESPÍA",
+  nombre: "5009MINI CÁMARA ESPÍA",
   categoria: "Electrónica / Gadgets",
   descripcion: "Discreta y potente. Esta mini cámara espía graba video y audio en alta calidad. Ideal para seguridad o vigilancia personal.",
   precios: {
     "1": 9.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen16.jpg",
+  stock: 2
 },
 {
-  nombre: "AUDÍFONO P9",
+  nombre: "5000AUDÍFONO P9",
   categoria: "Electrónica / Gadgets",
   descripcion: "Sonido envolvente y diseño moderno. El audífono P9 te ofrece calidad inalámbrica para música, llamadas y más.",
   precios: {
     "1": 12.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen18.png",
+  stock: 1
 },
 {
-  nombre: "SET DE 100 GUANTES",
+  nombre: "4999SET DE 100 GUANTES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Protege tus manos en todo momento. Pack de 100 guantes desechables ideales para limpieza, cocina o cuidado personal.",
   precios: {
@@ -169,20 +173,11 @@ const productos = [
     "6": 2.25,
     "12": 1.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen19.jpg",
+  stock: 35
 },
 {
-  nombre: "SET DE PEGATINAS ANTIRAYADURAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Despídete de los rayones! Coloca estas pegatinas en muebles o electrodomésticos para proteger tus superficies favoritas.",
-  precios: {
-    "1": 3.95,
-    "3": 2.95,
-  },
-  imagen: ""
-},
-{
-  nombre: "ORGANIZADOR DE CALZADO",
+  nombre: "4993ORGANIZADOR DE CALZADO",
   categoria: "Organización / Almacenamiento",
   descripcion: "Ahorra espacio y mantén tus zapatos en orden con este práctico organizador. Ideal para clósets o entradas.",
   precios: {
@@ -190,134 +185,146 @@ const productos = [
     "3": 2.25,
     "6": 1.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen21.jpg",
+  stock: 11
 },
 {
-  nombre: "MOLDE DE SILICONA",
+  nombre: "4986MOLDE DE SILICONA",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para repostería creativa. Molde de silicona antiadherente para hacer figuras dulces con estilo.",
   precios: {
     "1": 3.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen23.jpg",
+  stock: 2
 },
 {
-  nombre: "ENCENDEDOR INFINITO",
+  nombre: "4982ENCENDEDOR INFINITO",
   categoria: "Hogar / Cocina",
   descripcion: "¡Olvídate de los fósforos! Este encendedor recargable es resistente al viento y funciona sin gas ni combustible.",
   precios: {
     "1": 4.95,
     "3": 3.25,
   },
-  imagen: ""
+  imagen: "Img/Imagen24.jpg",
+  stock: 3
 },
 {
-  nombre: "KIT VIAJERO",
+  nombre: "4974KIT VIAJERO",
   categoria: "Varios",
   descripcion: "Todo lo que necesitas para tu viaje en un solo kit: cómodo, práctico y compacto. ¡Listo para la aventura!",
   precios: {
     "1": 5.95,
     "3": 4.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen26.jpg",
+  stock: 5
 },
 {
-  nombre: "TAZA GAMER",
+  nombre: "4966TAZA GAMER",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
   precios: {
     "1": 10.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen27.jpg",
+  stock: 2
 },
 {
-  nombre: "SET DE 3 ORGANIZADORES",
+  nombre: "4964SET DE 3 ORGANIZADORES",
   categoria: "Organización / Almacenamiento",
   descripcion: "Organiza todo con estilo. Este set de 3 organizadores es ideal para ropa interior, cosméticos o accesorios.",
   precios: {
     "1": 8.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen28.jpg",
+  stock: 1
 },
 {
-  nombre: "ESTANTE ORGANIZADOR DE MICROONDAS",
+  nombre: "4970ESTANTE ORGANIZADOR DE MICROONDAS",
   categoria: "Hogar / Cocina",
   descripcion: "Aprovecha cada espacio en tu cocina. Este estante metálico sostiene el microondas y organiza utensilios a la vez.",
   precios: {
     "1": 22.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen29.jpg",
+  stock: 1
 },
 {
-  nombre: "ESTANTE DE COCINA",
+  nombre: "4962ESTANTE DE COCINA",
   categoria: "Hogar / Cocina",
   descripcion: "Práctico y resistente. Mantén tus condimentos, platos o accesorios organizados y siempre al alcance.",
   precios: {
     "1": 29.90
   },
-  imagen: ""
+  imagen: "Img/Imagen30.jpg",
+  stock: 1
 },
 {
-  nombre: "CHUPA PANZA",
+  nombre: "4955CHUPA PANZA",
   categoria: "Belleza / Cosmética",
   descripcion: "¡Reduce medidas al instante! Este gel reafirmante ayuda a tonificar la zona abdominal y estilizar tu figura.",
   precios: {
     "1": 9.90,
     "3": 8.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen31.jpg",
+  stock: 4
 },
 {
-  nombre: "CÁPSULAS x100 - BIOTINA",
+  nombre: "4903CÁPSULAS x100 - BIOTINA",
   categoria: "Belleza / Cosmética",
   descripcion: "Fortalece tu cabello, piel y uñas. Suplemento de biotina en cápsulas, con 100 unidades por frasco.",
   precios: {
     "1": 9.90,
     "3": 8.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen32.jpg",
+  stock: 12
 },
 {
-  nombre: "MANZANA ACRÍLICA SIN LETRAS",
+  nombre: "4930MANZANA ACRÍLICA SIN LETRAS",
   categoria: "Decoración / Fiesta",
   descripcion: "Una pieza decorativa elegante. Esta manzana acrílica es ideal para regalos, escritorios o espacios creativos.",
   precios: {
     "1": 5.95,
     "3": 4.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen34.jpg",
+  stock: 8
 },
 {
-  nombre: "BOLSA DE 144 GANCHOS PINZA PARA ROPA",
+  nombre: "4946BOLSA DE 144 GANCHOS PINZA PARA ROPA",
   categoria: "Organización / Almacenamiento",
   descripcion: "Gran pack para el hogar. 144 ganchos pinza ideales para colgar ropa, accesorios o sujetar prendas delicadas.",
   precios: {
     "1": 8.95,
-    "3": 7.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen35.jpg",
+  stock: 1
 },
 {
-  nombre: "TISSUE 1200 HOJAS",
+  nombre: "4925TISSUE 1200 HOJAS",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Tissue extra rendidor. Suavidad y resistencia en un solo producto. Ideal para el hogar o la oficina.",
   precios: {
     "1": 6.90,
-    "3": 5.90,
-  },
-  imagen: ""
+},
+  imagen: "Img/Imagen36.jpg",
+  stock: 1
 },
 {
-  nombre: "SET DE PLUMÓN DOBLE TRAZO",
+  nombre: "4899SET DE PLUMÓN DOBLE TRAZO",
   categoria: "Escolar / Papelería",
   descripcion: "¡Doble creatividad! Plumones con punta doble para trazos finos y gruesos. Colores intensos y duraderos.",
   precios: {
     "1": 9.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen37.jpg",
+  stock: 3
 },
 {
-  nombre: "TAPETE CAPYBARA",
+  nombre: "4884TAPETE CAPYBARA",
   categoria: "Hogar / Cocina",
   descripcion: "Dale estilo a tu entrada con este adorable tapete de capibara. Suave, resistente y antideslizante.",
   precios: {
@@ -325,134 +332,145 @@ const productos = [
     "3": 3.55,
     "6": 3.25,
   },
-  imagen: ""
+  imagen: "Img/Imagen38.jpg",
+  stock: 22 
 },
 {
-  nombre: "CONTENEDOR DE CEREALES",
+  nombre: "4865CONTENEDOR DE CEREALES",
   categoria: "Hogar / Cocina",
   descripcion: "Mantén tus cereales frescos y bien organizados. Práctico, hermético y fácil de usar en cualquier cocina.",
   precios: {
     "1": 4.95,
     "3": 3.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen40.jpg",
+  stock: 3
 },
 {
-  nombre: "REBANADOR",
+  nombre: "4862REBANADOR",
   categoria: "Hogar / Cocina",
   descripcion: "Haz cortes perfectos. Este rebanador es ideal para frutas, verduras y más, con seguridad y precisión.",
   precios: {
     "1": 3.95,
     "3": 2.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen41.jpg",
+  stock: 15
 },
 {
-  nombre: "PACK DE 12 VINCHAS",
+  nombre: "4861PACK DE 12 VINCHAS",
   categoria: "Ropa / Accesorios",
   descripcion: "Colores para cada día. Set de 12 vinchas elásticas, cómodas y perfectas para peinados o uso diario.",
   precios: {
     "1": 8.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen42.jpg",
+  stock: 2
 },
 {
-  nombre: "CHAL",
+  nombre: "4855CHAL",
   categoria: "Ropa / Accesorios",
   descripcion: "Elegancia ligera. Chal suave y versátil ideal para climas frescos o complementar cualquier look.",
   precios: {
     "1": 7.95,
     "3": 6.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen44.jpg",
+  stock: 10
 },
 {
-  nombre: "GLOBO BOUQUET - PAPA",
+  nombre: "4854GLOBO BOUQUET - PAPA",
   categoria: "Decoración / Fiesta",
   descripcion: "Sorprende a papá con estilo. Bouquet de globos con temática especial para el Día del Padre.",
   precios: {
     "1": 3.55,
   },
-  imagen: ""
+  imagen: "Img/Imagen45.jpg",
+  stock: 5
 },
 {
-  nombre: "GLOBO FELIZ DÍA PAPA",
+  nombre: "4853GLOBO FELIZ DÍA PAPA",
   categoria: "Decoración / Fiesta",
   descripcion: "Un detalle festivo que alegra el día. Globo decorativo con mensaje especial para papá.",
   precios: {
     "1": 2.95,
     "3": 1.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen46.jpg",
+  stock: 10
 },
 {
-  nombre: "COLLAR EQUIPO",
+  nombre: "4843COLLAR EQUIPO",
   categoria: "Ropa / Accesorios",
   descripcion: "Muestra tu pasión por tu equipo. Collar con dije deportivo, ideal como regalo o uso diario.",
   precios: {
     "1": 7.95,
     "2": 6.95,
   },
-  imagen: ""
-},
+  imagen: "Img/Imagen47.jpg",
+  stock: 2
+ },
 {
-  nombre: "KIT DE MANICURE",
+  nombre: "4832KIT DE MANICURE",
   categoria: "Belleza / Cosmética",
   descripcion: "Uñas siempre perfectas. Kit completo con herramientas esenciales para tu cuidado personal en casa o de viaje.",
   precios: {
     "1": 5.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen49.jpg",
+  stock: 5
 },
 {
-  nombre: "GUANTES TOUCH",
+  nombre: "4831GUANTES TOUCH",
   categoria: "Ropa / Accesorios",
   descripcion: "¡Tecnología al alcance de tus dedos! Guantes cálidos compatibles con pantallas táctiles. Ideal para invierno.",
   precios: {
     "1": 4.95,
     "3": 3.85,
-    "6": 3.55,
-    "12": 3.25,
   },
-  imagen: ""
+  imagen: "Img/Imagen50.jpg",
+  stock: 3
 },
 {
-  nombre: "CARRUSEL MUSICAL",
+  nombre: "4816CARRUSEL MUSICAL",
   categoria: "Juguetes / Regalos",
   descripcion: "Un regalo encantador. Carrusel decorativo que gira al ritmo de una dulce melodía, perfecto para decorar o regalar.",
   precios: {
     "1": 7.95,
   },
-  imagen: ""
+  imagen: "Img/Imagen51.jpg",
+  stock: 4
 },
 {
-  nombre: "GORRO AESTHETIC",
+  nombre: "4788GORRO AESTHETIC",
   categoria: "Ropa / Accesorios",
   descripcion: "¡Dale estilo a tu outfit! Gorro moderno con diseño aesthetic, ideal para días fríos o looks urbanos.",
   precios: {
     "1": 6.95,
-    "3": 5.95,
-  },
-  imagen: ""
+},
+  imagen: "Img/Imagen52.jpg",
+  stock: 1
 },
 {
-  nombre: "BOLSO CORAZÓN",
+  nombre: "4775BOLSO CORAZÓN",
   categoria: "Ropa / Accesorios",
   descripcion: "Tierno y a la moda. Bolso en forma de corazón con correa ajustable, ideal para salidas casuales o regalar.",
   precios: {
     "1": 8.90,
   },
-  imagen: ""
+  imagen: "Img/Imagen53.jpg",
+  stock: 5
 },
 {
-  nombre: "CHUPÓN ALIMENTADOR CON REPUESTO",
+  nombre: "4706CHUPÓN ALIMENTADOR CON REPUESTO",
   categoria: "Hogar / Cocina",
   descripcion: "Alimentación segura para bebés. Chupón de silicona con orificios y repuesto, ideal para frutas blandas.",
   precios: {
     "1": 7.95,
     "3": 6.55
   },
-  imagen: ""
+  imagen: "Img/Imagen54.jpg",
+  stock: 3
 },
 {
   nombre: "4704MINI TELESCOPIO",
@@ -1514,6 +1532,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
