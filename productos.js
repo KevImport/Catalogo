@@ -1786,7 +1786,7 @@ const productos = [
     "3": 2.95,
  },
   imagen: "Img/Imagen196.jpeg",
-  stock: 10
+  stock: 9
 },
 {
   nombre: "5103TOMATODO TELEFONO",
@@ -1863,6 +1863,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
