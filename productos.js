@@ -1649,6 +1649,49 @@ const productos = [
   stock: 3
 },
 {
+  nombre: "5074PAQUETE DE 20 PAPELES FOTOGRÁFICOS BRILLANTE A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideal para impresiones full color. Acabado brillante para fotos vibrantes. Tamaño A4 – 180g. Contiene 20 hojas por paquete. Perfecto para proyectos creativos y recuerdos.",
+  precios: {
+    "1": 13.90
+ },
+  imagen: "Img/Imagen184.jpeg",
+  stock: 5
+},
+{
+  nombre: "5077LUZ PARA ESCALERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Luz solar LED para escalones, caminos y escaleras. Se carga con el sol. Resistente al agua y fácil de instalar. ¡Ilumina y decora con estilo y seguridad!.",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+ },
+  imagen: "Img/Imagen185.jpeg",
+  stock: 9
+},
+{
+  nombre: "5078PERFUME DE MUJER JPS23 - DUPE SCANDAL",
+  categoria: "Belleza / Cosmética",
+  descripcion: "DUPE: Scandal Aroma seductor y femenino con un toque atrevido. Diseño único con piernas en tacones ¡pura actitud!. Ideal para destacar donde vayas. Contenido: 250ml.",
+  precios: {
+    "1": 13.95
+ },
+  imagen: "Img/Imagen186.jpeg",
+  stock: 7
+},
+{
+  nombre: "5079BANDEJA ARAÑA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Decoración terrorífica y divertida!. Canastitas con diseño de telaraña. Perfectas para dulces, snacks o decorar en Halloween.",
+  precios: {
+    "1": 4.95,
+    "3": 3.85,
+    "6": 3.55,
+ },
+  imagen: "Img/Imagen187.jpeg",
+  stock: 17
+},
+{
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
@@ -1661,6 +1704,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
