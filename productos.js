@@ -12,16 +12,6 @@ const productos = [
    stock: 21
 },
 {
-  nombre: "5052PIANITO",
-  categoria: "Juguetes / Regalos",
-  descripcion: "¡La música empieza aquí! Un mini pianito ideal para que los más pequeños se diviertan y estimulen su creatividad.",
-  precios: {
-    "1": 8.95,
-  },
-  imagen: "Img/Imagen2.jpg",
-  stock: 4
-},
-{
   nombre: "5048FIAMBRERA TÉRMICA",
   categoria: "Hogar / Cocina",
   descripcion: "¡Lleva tu almuerzo siempre caliente! Esta fiambrera térmica conserva el calor y es perfecta para la oficina, colegio o viajes.",
@@ -430,16 +420,6 @@ const productos = [
   },
   imagen: "Img/Imagen50.jpg",
   stock: 3
-},
-{
-  nombre: "4816CARRUSEL MUSICAL",
-  categoria: "Juguetes / Regalos",
-  descripcion: "Un regalo encantador. Carrusel decorativo que gira al ritmo de una dulce melodía, perfecto para decorar o regalar.",
-  precios: {
-    "1": 7.95,
-  },
-  imagen: "Img/Imagen51.jpg",
-  stock: 4
 },
 {
   nombre: "4788GORRO AESTHETIC",
@@ -1863,6 +1843,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
