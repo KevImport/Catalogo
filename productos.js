@@ -173,10 +173,10 @@ const productos = [
   precios: {
     "1": 3.95,
     "3": 2.25,
-    "6": 1.95,
+    "5": 1.95,
   },
   imagen: "Img/Imagen21.jpg",
-  stock: 11
+  stock: 5
 },
 {
   nombre: "4986MOLDE DE SILICONA",
@@ -194,10 +194,10 @@ const productos = [
   descripcion: "¡Olvídate de los fósforos! Este encendedor recargable es resistente al viento y funciona sin gas ni combustible.",
   precios: {
     "1": 4.95,
-    "3": 3.25,
+    "2": 3.25,
   },
   imagen: "Img/Imagen24.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "4974KIT VIAJERO",
@@ -311,7 +311,7 @@ const productos = [
     "1": 9.90,
   },
   imagen: "Img/Imagen37.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "4884TAPETE CAPYBARA",
@@ -1501,17 +1501,6 @@ const productos = [
   stock: 6
 },
 {
-  nombre: "5057EMPAQUE DE 50 POST IT TRANSPARENTES",
-  categoria: "Escolar / Papelería",
-  descripcion: "Si, así como lo ves que cosa mas útil y bonita para los apuntes. Cada paquete tiene 50 hojitas.",
-  precios: {
-    "1": 3.95,
-    "3": 2.05,
-  },
-  imagen: "Img/Imagen172.jpeg",
-  stock: 3
-},
-{
   nombre: "5058SET DE 8 PLUMONES OUTLINE",
   categoria: "Escolar / Papelería",
   descripcion: "Ideal para hacer las decoraciones. Se puede usar en papel y cartulina.Este plumón realiza los trazos de color por fuera y en el centro plateado. El set contiene 8 plumones por set",
@@ -1843,6 +1832,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
