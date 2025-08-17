@@ -1764,8 +1764,91 @@ const productos = [
   precios: {
     "1": 18.90,
  },
-  imagen: "Img/Imagen193.png",
-  stock: 11
+  imagen: "Img/Imagen194.jpeg",
+  stock: 4
+},
+{
+  nombre: "5095AGENDA A5",
+  categoria: "Escolar / Papelería",
+  descripcion: "Agenda anillada A5 con diseños surtidos y 50 hojas. Ideal para notas, apuntes o planificar tu día con estilo. Perfecta para llevar en tu bolso o mochila y tener tus ideas siempre a mano.",
+  precios: {
+    "1": 4.95,
+ },
+  imagen: "Img/Imagen195.jpeg",
+  stock: 3
+},
+{
+  nombre: "5100PAQUETE DE PAPEL FREIDORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Contiene aprox. 50 bandejas de papel. Papel antiadherente. Resistente a altas temperaturas. A prueba de aceite. Multiusos: para freidora de aire, horno, microondas, cocina, etc.",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+ },
+  imagen: "Img/Imagen196.jpeg",
+  stock: 10
+},
+{
+  nombre: "5103TOMATODO TELEFONO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño kawaii con correa para llevar a todos lados. Ideal para jugos, agua o tus bebidas favoritas en cualquier momento.",
+  precios: {
+    "1": 6.95,
+ },
+  imagen: "Img/Imagen197.jpeg",
+  stock: 5
+},
+{
+  nombre: "5104FLORERO CON FLORES ARTIFICIALES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Arreglo floral colorido y elegante, ideal para decorar tu hogar u oficina. Sin mantenimiento y siempre hermoso.",
+  precios: {
+    "1": 6.95,
+ },
+  imagen: "Img/Imagen198.jpeg",
+  stock: 8
+},
+{
+  nombre: "5105CINTA RGB",
+  categoria: "Hogar / Cocina",
+  descripcion: "Con su control remoto. Medida aprox.: 5 metros de largo. Al ser flexible pueden ser colocadas en cualquier lugar.",
+  precios: {
+    "1": 9.95,
+ },
+  imagen: "Img/Imagen199.jpg",
+  stock: 1
+},
+{
+  nombre: "5108CEPILLO DE BAMBU",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ecológico, biodegradable y libre de plásticos. Cuida tu sonrisa y también el planeta.",
+  precios: {
+    "1": 3.95,
+    "3": 2.25,
+    "6": 1.95,
+ },
+  imagen: "Img/Imagen200.jpeg",
+  stock: 17
+},
+{
+  nombre: "5110BOLSA DE 25 GANCHOS PERNO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fáciles de colocar, sin taladros ni daños en la pared. Ideales para colgar cuadros, marcos o decoraciones. Adhesión fuerte y reutilizables.",
+  precios: {
+    "1": 7.95,
+ },
+  imagen: "Img/Imagen201.jpeg",
+  stock: 4
+},
+{
+  nombre: "5111RODILLO QUITAPELUSAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Rodillo quitapelusas reutilizable que atrapa pelos, pelusas y polvo en segundos. Ideal para ropa, sofás y mantas, fácil de limpiar y siempre listo para usar.",
+  precios: {
+    "1": 5.95,
+ },
+  imagen: "Img/Imagen202.jpeg",
+  stock: 1
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -1780,6 +1863,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
