@@ -1737,6 +1737,36 @@ const productos = [
   imagen: "Img/Imagen191.png",
   stock: 11
 },
+ {
+  nombre: "5089TORTA BURBUJAS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Diversión en forma de pastel! Esta máquina de burbujas con forma de torta lanza burbujas. Con luces y diseño seguro para peques. Funciona con pilas 2A. Ideal para fiestas, juegos y momentos mágicos.",
+  precios: {
+    "1": 18.95,
+ },
+  imagen: "Img/Imagen192.jpg",
+  stock: 6
+},
+{
+  nombre: "5090BOLSA DE 50 GANCHOS TREBOL",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Olvídate de clavos ya es hora de renovarse. Estos ganchos son la mejor alternativa. Buena resistencia. Gancho multiusos para baño, cocina, oficina, dormitorio, etc. Color transparente modelo trébol.",
+  precios: {
+    "1": 9.90,
+ },
+  imagen: "Img/Imagen193.png",
+  stock: 11
+},
+{
+  nombre: "5091SACA CORCHOS ELECTRICO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sacacorchos eléctrico. Abre tus botellas fácil y rápido, sin esfuerzo. Ideal para vino tinto, blanco o espumante.",
+  precios: {
+    "1": 18.90,
+ },
+  imagen: "Img/Imagen193.png",
+  stock: 11
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1750,6 +1780,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
