@@ -1714,7 +1714,7 @@ const productos = [
     "1": 18.95,
  },
   imagen: "Img/Imagen192.jpg",
-  stock: 6
+  stock: 4
 },
 {
   nombre: "5090BOLSA DE 50 GANCHOS TREBOL",
@@ -1832,6 +1832,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
