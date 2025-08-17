@@ -1608,6 +1608,46 @@ const productos = [
   imagen: "Img/Imagen179.jpeg",
   stock: 3
 },
+ {
+  nombre: "5069ESTUCHE DE SOMBRAS PARA OJOS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Tamaño compacto, ideal para llevar en la cartera. Tonos variados para cada ocasión. ¡Maquíllate donde quieras con estilo!",
+  precios: {
+    "1": 5.95
+ },
+  imagen: "Img/Imagen180.jpeg",
+  stock: 1
+},
+ {
+  nombre: "5070ACEITE DE ARGAN 60ML",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Nutre, suaviza y repara puntas abiertas. Aporta brillo y controla el frizz. Rico en vitamina E y ácidos grasos. Práctico tamaño para llevar a donde quieras.",
+  precios: {
+    "1": 9.95
+ },
+  imagen: "Img/Imagen181.jpeg",
+  stock: 6
+},
+{
+  nombre: "5071CREMA FACIAL ANTIARRUGAS CON VITAMINA C",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Hidrata y mejora la elasticidad de la piel. Ayuda a reducir líneas de expresión. Ilumina y unifica el tono del rostro. Ideal para uso diario y todo tipo de piel.",
+  precios: {
+    "1": 9.95
+ },
+  imagen: "Img/Imagen182.jpeg",
+  stock: 5
+},
+{
+  nombre: "5073CREMA + SPLASH + PERFUME PARA MUJER",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Un trío encantador que dejará tu piel suave, radiante y deliciosamente perfumada. Presentación femenina y elegante. Ideal para regalar o darte un capricho.",
+  precios: {
+    "1": 13.90
+ },
+  imagen: "Img/Imagen183.png",
+  stock: 3
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1621,5 +1661,6 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
