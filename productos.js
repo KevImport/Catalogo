@@ -1692,6 +1692,52 @@ const productos = [
   stock: 17
 },
 {
+  nombre: "5080CINTA DOBLE CONTACTO",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Cinta doble contacto súper resistente! Medida: 1.7 cm x 3 m. Ideal para pegar cuadros, decoraciones y más sin clavos ni tornillos.",
+  precios: {
+    "1": 3.95,
+    "3": 1.95,
+    "6": 1.75,
+    "12": 1.55,
+ },
+  imagen: "Img/Imagen188.jpeg",
+  stock: 43
+},
+{
+  nombre: "5083PESTAÑAS POSTIZAS EN RACIMO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Ideal para lograr un look natural o glam. Fáciles de aplicar y súper cómodas. ¡Resalta tu mirada en segundos!. Perfectas para maquillaje profesional o diario.",
+  precios: {
+    "1": 4.95,
+    "3": 3.95,
+ },
+  imagen: "Img/Imagen189.jpeg",
+  stock: 3
+},
+ {
+  nombre: "5086TURBANTE TOALLA PARA EL CABELLO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "¡Seca tu cabello con estilo! Turbante de microfibra súper absorbente. Ideal para después de la ducha, suave y ligero. ¡Práctico, cómodo y elegante!",
+  precios: {
+    "1": 3.95,
+    "3": 2.85,
+    "6": 2.55,
+ },
+  imagen: "Img/Imagen190.jpeg",
+  stock: 13
+},
+{
+  nombre: "5087BOLSO EXPANDIBLE CON ESTAMPADO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "¡Bolso expandible con estilo! Con práctico diseño y estampado moderno, ideal para viajes, compras o el día a día. ¡Llévalo cómodo y con mucho espacio extra!",
+  precios: {
+    "1": 13.95,
+ },
+  imagen: "Img/Imagen191.png",
+  stock: 11
+},
+{
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
@@ -1704,6 +1750,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
