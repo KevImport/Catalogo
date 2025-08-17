@@ -85,7 +85,7 @@ const productos = [
   precios: {
     "1": 6.95,
   },
-  imagen: "Img/BALDE CANCHERO + VASO TOMATODO.jpg",
+  imagen: "Img/Imagen9.jpg",
   stock: 5
 },
 {
@@ -1863,6 +1863,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
