@@ -324,7 +324,7 @@ const productos = [
     "3": 2.95,
   },
   imagen: "Img/Imagen41.jpg",
-  stock: 15
+  stock: 12
 },
 {
   nombre: "4861PACK DE 12 VINCHAS",
@@ -1683,7 +1683,7 @@ const productos = [
     "1": 18.95,
  },
   imagen: "Img/Imagen192.jpg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "5090BOLSA DE 50 GANCHOS TREBOL",
@@ -1801,6 +1801,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
