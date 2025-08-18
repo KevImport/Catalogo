@@ -58,17 +58,6 @@ const productos = [
   stock: 6
 },
 {
-  nombre: "5038SET DE 12 GANCHOS PARA ROPA / CLOSET",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Mantén tu closet ordenado con este set de 12 ganchos resistentes y prácticos.",
-  precios: {
-    "1": 5.95,
-    "3": 4.85,
-  },
-  imagen: "Img/Imagen8.jpg",
-  stock: 3
-},
-{
   nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
@@ -282,16 +271,6 @@ const productos = [
   },
   imagen: "Img/Imagen34.jpg",
   stock: 8
-},
-{
-  nombre: "4946BOLSA DE 144 GANCHOS PINZA PARA ROPA",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Gran pack para el hogar. 144 ganchos pinza ideales para colgar ropa, accesorios o sujetar prendas delicadas.",
-  precios: {
-    "1": 8.95,
-  },
-  imagen: "Img/Imagen35.jpg",
-  stock: 1
 },
 {
   nombre: "4925TISSUE 1200 HOJAS",
@@ -1567,16 +1546,6 @@ const productos = [
   imagen: "Img/Imagen178.jpeg",
   stock: 12
 },
-{
-  nombre: "5068SPRAY ACONDICIONADOR PARA PEINAR 150ML",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Desenreda al instante y suaviza el cabello. Hidratación sin enjuague. Cabello brillante, suave y manejable. Sin frizz, sin enredos, sin esfuerzo. Ideal para usar a diario.",
-  precios: {
-    "1": 6.95
- },
-  imagen: "Img/Imagen179.jpeg",
-  stock: 3
-},
  {
   nombre: "5069ESTUCHE DE SOMBRAS PARA OJOS",
   categoria: "Belleza / Cosmética",
@@ -1832,6 +1801,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
