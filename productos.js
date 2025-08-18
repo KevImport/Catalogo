@@ -442,7 +442,7 @@ const productos = [
   stock: 3
   },
 {
-  nombre: "4875COLLAR PURE LOVE",
+  nombre: "4675COLLAR PURE LOVE",
   categoria: "Ropa / Accesorios",
   descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
   precios: {
@@ -452,7 +452,7 @@ const productos = [
     "12": 1.65,
   },
   imagen: "Img/Imagen56.jpg",
-  stock: 18
+  stock: 15
 },
 {
   nombre: "4638TAPA SOL CON LICENCIA",
@@ -518,11 +518,11 @@ const productos = [
   categoria: "Decoración / Fiesta",
   descripcion: "Ilumina la diversión. Foco multicolor que proyecta luces giratorias para ambientar cualquier celebración.",
   precios: {
-    "1": 4.90,
-    "3": 3.90,
+    "1": 4.95,
+    "2": 3.95,
   },
   imagen: "Img/Imagen63.jpg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "4445JABONERA DE LUJO",
@@ -1433,17 +1433,6 @@ const productos = [
   stock: 4
 },
 {
-  nombre: "4373BOLSITA DE BAJALENGUA DE COLORES",
-  categoria: "Escolar / Papelería",
-  descripcion: "Bajalenguas de colores en práctica bolsita. Ideales para actividades escolares, manualidades o juegos didácticos.",
-  precios: {
-    "1": 2.90,
-    "3": 1.30,
-  },
-  imagen: "Img/Imagen167.jpg",
-  stock: 5
-},
-{
   nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
   categoria: "Escolar / Papelería",
   descripcion: "Conjunto de lapiceros con tinta de colores vibrantes tipo arco iris. Perfectos para escribir o decorar con estilo.",
@@ -1801,6 +1790,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
