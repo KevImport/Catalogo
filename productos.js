@@ -1652,7 +1652,7 @@ const productos = [
     "6": 2.55,
  },
   imagen: "Img/Imagen190.jpeg",
-  stock: 13
+  stock: 10
 },
 {
   nombre: "5087BOLSO EXPANDIBLE CON ESTAMPADO",
@@ -1790,6 +1790,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
