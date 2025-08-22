@@ -1655,16 +1655,6 @@ const productos = [
   stock: 10
 },
 {
-  nombre: "5087BOLSO EXPANDIBLE CON ESTAMPADO",
-  categoria: "Belleza / Cosmética",
-  descripcion: "¡Bolso expandible con estilo! Con práctico diseño y estampado moderno, ideal para viajes, compras o el día a día. ¡Llévalo cómodo y con mucho espacio extra!",
-  precios: {
-    "1": 13.95,
- },
-  imagen: "Img/Imagen191.png",
-  stock: 11
-},
- {
   nombre: "5089TORTA BURBUJAS",
   categoria: "Decoración / Fiesta",
   descripcion: "¡Diversión en forma de pastel! Esta máquina de burbujas con forma de torta lanza burbujas. Con luces y diseño seguro para peques. Funciona con pilas 2A. Ideal para fiestas, juegos y momentos mágicos.",
@@ -1790,6 +1780,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
