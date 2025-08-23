@@ -1778,6 +1778,91 @@ const productos = [
   imagen: "Img/Imagen203.jpeg",
   stock: 3
 },
+ {
+  nombre: "5114DUPE INVICTUS BLACK",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Perfume inspiración Invictus Black – Paco Rabanne. Aroma masculino, intenso y elegante, ideal para destacar en cualquier ocasión. Contenido: 250 ML",
+  precios: {
+    "1": 13.95,
+ },
+  imagen: "Img/Imagen204.jpeg",
+  stock: 4
+},
+ {
+  nombre: "5115CARTUCHERA CON CALCULADORA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Cartuchera con calculadora incorporada. Mantén tus lápices, lapiceros y accesorios siempre ordenados y resuelve operaciones al instante. ¡Práctica y funcional!",
+  precios: {
+    "1": 4.95,
+    "3": 3.95,
+ },
+  imagen: "Img/Imagen205.jpeg",
+  stock: 12
+},
+  {
+  nombre: "5119LONCHERA TERMICA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantiene tus comidas frescas y a la temperatura ideal por más tiempo. Compacta, ligera y fácil de llevar al trabajo, colegio o picnic. Interior aislante y cremallera segura para conservar mejor tus alimentos.",
+  precios: {
+    "1": 5.95,
+    "3": 4.95,
+ },
+  imagen: "Img/Imagen206.jpeg",
+  stock: 8
+},
+ {
+  nombre: "5120LLAVERO LÁSER MULTIFUNCIONAL",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Ligero y resistente, perfecto para iluminar, jugar con tu mascota o señalar a distancia. Siempre a mano y con estilo.",
+  precios: {
+    "1": 2.95,
+    "3": 1.85,
+ },
+  imagen: "Img/Imagen207.jpeg",
+  stock: 4
+},
+ {
+  nombre: "5121VINCHA TRENZA",
+  categoria: "Ropa / Accesorios",
+  descripcion: "El accesorio perfecto para darle un toque chic y elegante a tu look. Cómoda, ligera y fácil de combinar con cualquier outfit. Ideal para uso diario, eventos o para resaltar tu peinado con estilo.",
+  precios: {
+    "1": 3.95,
+    "3": 2.85,
+    "6": 2.55,
+ },
+  imagen: "Img/Imagen208.jpeg",
+  stock: 8
+},
+ {
+  nombre: "5122CAJA ORGANIZADORA",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Organizador multifuncional y moderno. Fabricado en plástico resistente y duradero. Diseño de doble capa rotativa para fácil acceso. Ideal para cosméticos, brochas, lapiceros y más.",
+  precios: {
+    "1": 4.95,
+ },
+  imagen: "Img/Imagen209.jpeg",
+  stock: 12
+},
+ {
+  nombre: "5123BALANZA GRAMERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Balanza gramera digital pesa desde 1 gramo hasta 5 kg. Tiene botón de tarar (tare) así solo pesas el contenido del recipiente. Apagado automático. Fácil de usar, guardar y transportar. Funciona con 2 pilas AA (Incluye pilas).",
+  precios: {
+    "1": 7.95,
+ },
+  imagen: "Img/Imagen210.jpeg",
+  stock: 3
+},
+{
+  nombre: "5128AMULETO COLGANTE - MODELOS VARIADOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Amuleto protector contra las malas energías. Perfecto para decorar tu casa, auto u oficina con estilo y buena vibra.",
+  precios: {
+    "1": 6.95,
+ },
+  imagen: "Img/Imagen211.jpeg",
+  stock: 2
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1791,6 +1876,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
