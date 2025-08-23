@@ -1563,7 +1563,7 @@ const productos = [
     "1": 9.95
  },
   imagen: "Img/Imagen182.jpeg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "5073CREMA + SPLASH + PERFUME PARA MUJER",
@@ -1780,6 +1780,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
