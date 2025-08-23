@@ -1863,6 +1863,48 @@ const productos = [
   imagen: "Img/Imagen211.jpeg",
   stock: 2
 },
+ {
+  nombre: "5133TERMÓMETRO DE COCINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para carnes, postres, líquidos y más. Lectura rápida y precisa en segundos. Fácil de usar, práctico y portátil. ¡El aliado perfecto para tus recetas!",
+  precios: {
+    "1": 4.95,
+    "3": 3.95,
+ },
+  imagen: "Img/Imagen212.jpeg",
+  stock: 6
+},
+ {
+  nombre: "5134SOPORTE UNIVERSAL PARA AUTO",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Ideal para sostener tu celular en el retrovisor. Ajustable y rotatorio. Fácil instalación. Compatible con la mayoría de los teléfonos. ¡Conduce seguro y con las manos libres!.",
+  precios: {
+    "1": 5.95,
+    "3": 4.95,
+ },
+  imagen: "Img/Imagen213.jpeg",
+  stock: 7
+},
+  {
+  nombre: "5135ORGANIZADOR ELEGANTE",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Para brochas de maquillaje con diseño moderno. Incluye compartimentos amplios para mantener todo en orden. Su tapa transparente protege del polvo y la humedad. Ideal para dar un toque sofisticado a tu tocador. Medida aprox.: 23 x 11 cm",
+  precios: {
+    "1": 8.95,
+ },
+  imagen: "Img/Imagen214.jpeg",
+  stock: 5
+},
+ {
+  nombre: "5136MINI KARAOKE + 2 MICROFONOS",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Mini karaoke portátil con parlante y 2 micrófonos. Ideal para cantar solo o en dúo, en casa, fiestas o reuniones. ¡Lleva la música y la diversión a todas partes!.",
+  precios: {
+    "1": 18.90,
+ },
+  imagen: "Img/Imagen215.jpeg",
+  stock: 1
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1876,6 +1918,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
