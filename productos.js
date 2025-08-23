@@ -1767,6 +1767,17 @@ const productos = [
   imagen: "Img/Imagen202.jpeg",
   stock: 1
 },
+ {
+  nombre: "5112CUENCO PARA APERITIVOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfecto para servir una variedad de aperitivos, postres, galletas, frutas, verduras y mucho más. Material: Plástico. Medida aprox.: 24 x 8 cm",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+ },
+  imagen: "Img/Imagen203.jpeg",
+  stock: 3
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1780,6 +1791,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
