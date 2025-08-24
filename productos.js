@@ -1895,16 +1895,6 @@ const productos = [
   imagen: "Img/Imagen214.jpeg",
   stock: 5
 },
- {
-  nombre: "5136MINI KARAOKE + 2 MICROFONOS",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Mini karaoke portátil con parlante y 2 micrófonos. Ideal para cantar solo o en dúo, en casa, fiestas o reuniones. ¡Lleva la música y la diversión a todas partes!.",
-  precios: {
-    "1": 18.90,
- },
-  imagen: "Img/Imagen215.jpeg",
-  stock: 1
-},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1918,6 +1908,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
