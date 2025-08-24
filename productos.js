@@ -76,7 +76,7 @@ const productos = [
     "3": 3.95,
   },
   imagen: "Img/Imagen11.jpg",
-  stock: 7
+  stock: 6
 },
 {
   nombre: "5017CANASTILLA PLEGABLE",
@@ -1682,7 +1682,7 @@ const productos = [
     "1": 18.90,
  },
   imagen: "Img/Imagen194.jpeg",
-  stock: 4
+  stock: 1
 },
 {
   nombre: "5095AGENDA A5",
@@ -1908,6 +1908,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
