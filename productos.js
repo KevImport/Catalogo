@@ -1652,7 +1652,7 @@ const productos = [
     "6": 2.55,
  },
   imagen: "Img/Imagen190.jpeg",
-  stock: 10
+  stock: 7
 },
 {
   nombre: "5089TORTA BURBUJAS",
@@ -1918,6 +1918,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
