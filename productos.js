@@ -488,7 +488,7 @@ const productos = [
     "12": 1.65,
   },
   imagen: "Img/Imagen59.jpg",
-  stock: 15
+  stock: 12
 },
 {
   nombre: "4576MOLDE PARA GOMITAS",
@@ -1713,7 +1713,7 @@ const productos = [
     "1": 6.95,
  },
   imagen: "Img/Imagen197.jpeg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "5104FLORERO CON FLORES ARTIFICIALES",
@@ -1786,7 +1786,7 @@ const productos = [
     "1": 13.95,
  },
   imagen: "Img/Imagen204.jpeg",
-  stock: 4
+  stock: 3
 },
  {
   nombre: "5115CARTUCHERA CON CALCULADORA",
@@ -1908,6 +1908,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
