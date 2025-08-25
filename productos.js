@@ -28,10 +28,10 @@ const productos = [
   descripcion: "Refresca tu rostro al instante. El mini atomizador Kawaii es recargable y portátil, ideal para llevar a todas partes.",
   precios: {
     "1": 3.95,
-    "3": 2.95,
+    "2": 2.95,
   },
   imagen: "Img/Imagen4.jpg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "5042PAPEL TISSUE, 300 HOJAS APROX.",
@@ -290,7 +290,7 @@ const productos = [
     "1": 9.90,
   },
   imagen: "Img/Imagen37.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "4884TAPETE CAPYBARA",
@@ -395,10 +395,10 @@ const productos = [
   descripcion: "¡Tecnología al alcance de tus dedos! Guantes cálidos compatibles con pantallas táctiles. Ideal para invierno.",
   precios: {
     "1": 4.95,
-    "3": 3.85,
+    "2": 3.85,
   },
   imagen: "Img/Imagen50.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "4788GORRO AESTHETIC",
@@ -512,17 +512,6 @@ const productos = [
   },
   imagen: "Img/Imagen62.jpg",
   stock: 22
-},
-{
-  nombre: "4452FOCO FIESTA",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Ilumina la diversión. Foco multicolor que proyecta luces giratorias para ambientar cualquier celebración.",
-  precios: {
-    "1": 4.95,
-    "2": 3.95,
-  },
-  imagen: "Img/Imagen63.jpg",
-  stock: 2
 },
 {
   nombre: "4445JABONERA DE LUJO",
@@ -1430,7 +1419,7 @@ const productos = [
     "3": 2.90,
   },
   imagen: "Img/Imagen163.jpg",
-  stock: 4
+  stock: 1
 },
 {
   nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
@@ -1476,7 +1465,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 6
+  stock: 5
 },
 {
   nombre: "5059PROTECTOR DE SOFA",
@@ -1723,7 +1712,7 @@ const productos = [
     "1": 6.95,
  },
   imagen: "Img/Imagen198.jpeg",
-  stock: 8
+  stock: 6
 },
 {
   nombre: "5105CINTA RGB",
@@ -1883,7 +1872,7 @@ const productos = [
     "3": 4.95,
  },
   imagen: "Img/Imagen213.jpeg",
-  stock: 7
+  stock: 6
 },
   {
   nombre: "5135ORGANIZADOR ELEGANTE",
@@ -1908,6 +1897,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
