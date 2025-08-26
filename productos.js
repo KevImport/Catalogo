@@ -1664,16 +1664,6 @@ const productos = [
   stock: 11
 },
 {
-  nombre: "5091SACA CORCHOS ELECTRICO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Sacacorchos eléctrico. Abre tus botellas fácil y rápido, sin esfuerzo. Ideal para vino tinto, blanco o espumante.",
-  precios: {
-    "1": 18.90,
- },
-  imagen: "Img/Imagen194.jpeg",
-  stock: 1
-},
-{
   nombre: "5095AGENDA A5",
   categoria: "Escolar / Papelería",
   descripcion: "Agenda anillada A5 con diseños surtidos y 50 hojas. Ideal para notas, apuntes o planificar tu día con estilo. Perfecta para llevar en tu bolso o mochila y tener tus ideas siempre a mano.",
@@ -1897,6 +1887,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
