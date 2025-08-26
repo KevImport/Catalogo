@@ -111,18 +111,6 @@ const productos = [
   stock: 8
 },
 {
-  nombre: "5012COMEDERO + BEBEDERO DE MASCOTA",
-  categoria: "Mascotas",
-  descripcion: "¡Comodidad para tu engreído! Combo práctico de comedero y bebedero para mantener a tu mascota feliz y bien alimentada.",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
-    "6": 3.65,
-  },
-  imagen: "Img/Imagen15.jpg",
-  stock: 6
-},
-{
   nombre: "5009MINI CÁMARA ESPÍA",
   categoria: "Electrónica / Gadgets",
   descripcion: "Discreta y potente. Esta mini cámara espía graba video y audio en alta calidad. Ideal para seguridad o vigilancia personal.",
@@ -1887,6 +1875,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
