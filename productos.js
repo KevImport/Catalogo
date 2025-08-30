@@ -144,18 +144,6 @@ const productos = [
   stock: 35
 },
 {
-  nombre: "4993ORGANIZADOR DE CALZADO",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Ahorra espacio y mantén tus zapatos en orden con este práctico organizador. Ideal para clósets o entradas.",
-  precios: {
-    "1": 3.95,
-    "3": 2.25,
-    "5": 1.95,
-  },
-  imagen: "Img/Imagen21.jpg",
-  stock: 5
-},
-{
   nombre: "4986MOLDE DE SILICONA",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para repostería creativa. Molde de silicona antiadherente para hacer figuras dulces con estilo.",
@@ -1886,6 +1874,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
