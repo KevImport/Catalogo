@@ -1861,6 +1861,64 @@ const productos = [
   imagen: "Img/Imagen216.jpeg",
   stock: 23
 },
+  {
+  nombre: "5140SPRAY PARA EL DOLOR INSTANTANEO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Para deportistas, artritis, dolores musculares y nervio ciática.",
+  precios: {
+    "1": 4.95,
+    "3": 3.95,
+ },
+  imagen: "Img/Imagen217.jpeg",
+  stock: 23
+},
+   {
+  nombre: "5142PACK ASEO DENTAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Mantén tu baño ordenado, con gancho adheso para colocarlo en la pared. Es ideal para niños y adultos ya que es práctico. Modelo sin diseño",
+  precios: {
+    "1": 4.50,
+    "3": 3.50,
+ },
+  imagen: "Img/Imagen218.jpeg",
+  stock: 24
+},
+ {
+  nombre: "5143LUZ DECORATIVA LOVE",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Tamaño: 10.5 x 6 cm. Ideal para decorar tu habitación, sala u oficina. Perfecto detalle para regalar.",
+  precios: {
+    "1": 2.95,
+    "3": 1.95,
+ },
+  imagen: "Img/Imagen219.jpeg",
+  stock: 33
+},
+ {
+  nombre: "5144CREMA DE MANOS DE ARROZ BIOAQUA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Hidratación profunda y duradera. Suaviza y nutre la piel. Práctica para llevar a todas partes.",
+  precios: {
+    "1": 2.95,
+    "3": 1.85,
+    "6": 1.55,
+ },
+  imagen: "Img/Imagen220.jpeg",
+  stock: 18
+},
+  {
+  nombre: "5141GANCHO GIRATORIO FULL SPACE",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Con espacios para colgar ropa, accesorios o toallas. Ahorra espacio y mantiene todo ordenado. Práctico, resistente y fácil de usar.",
+  precios: {
+    "1": 2.95,
+    "3": 1.85,
+    "6": 1.55,
+    "12": 1.25,
+ },
+  imagen: "Img/Imagen221.jpeg",
+  stock: 44
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1874,6 +1932,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
