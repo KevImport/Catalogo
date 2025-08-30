@@ -1839,7 +1839,7 @@ const productos = [
     "3": 3.95,
  },
   imagen: "Img/Imagen212.jpeg",
-  stock: 6
+  stock: 3
 },
  {
   nombre: "5134SOPORTE UNIVERSAL PARA AUTO",
@@ -1875,6 +1875,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
