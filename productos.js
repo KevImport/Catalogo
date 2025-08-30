@@ -1463,7 +1463,7 @@ const productos = [
     "1": 19.90
   },
   imagen: "Img/Imagen174.jpeg",
-  stock: 7
+  stock: 6
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -1886,6 +1886,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
