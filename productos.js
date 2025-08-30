@@ -1919,6 +1919,51 @@ const productos = [
   imagen: "Img/Imagen221.jpeg",
   stock: 44
 },
+  {
+  nombre: "5146QUEMADOR DE INCIENSO REFLUJO",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "El humo desciende en forma de cascada. Relaja, armoniza y decora tu espacio. Ideal para hogar, oficina o meditación",
+  precios: {
+    "1": 6.95,
+    "3": 5.95,
+ },
+  imagen: "Img/Imagen222.jpeg",
+  stock: 4
+},
+ {
+  nombre: "5147FOCO LED CON SENSOR DE MOVIMIENTO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Se enciende al detectar movimiento, ideal para seguridad. Luz blanca brillante, perfecta para pasillos, patios y garajes. Ahorra energía con su encendido automático inteligente. Fácil instalación y larga duración para tu hogar u oficina.",
+  precios: {
+    "1": 7.95,
+    "3": 6.95,
+ },
+  imagen: "Img/Imagen223.jpeg",
+  stock: 17
+},
+  {
+  nombre: "5148SET DE 10 PROTECTORES DE HORNILLAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "El set contiene 10 protectores. Protege tu cocina de salpicaduras y derrames. Material: aluminio",
+  precios: {
+    "1": 4.95,
+    "3": 3.85,
+    "6": 3.55,
+ },
+  imagen: "Img/Imagen224.png",
+  stock: 12
+},
+  {
+  nombre: "5149TORTUGA POSAVASOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Posavasos Tortuga Interactivo. Diseño divertido que se activa al colocar la taza. Protege tu mesa de manchas y calor. Ideal como regalo original y funcional.",
+  precios: {
+    "1": 5.95,
+    "3": 4.95,
+ },
+  imagen: "Img/Imagen225.png",
+  stock: 4
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1932,6 +1977,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
