@@ -1862,6 +1862,17 @@ const productos = [
   imagen: "Img/Imagen214.jpeg",
   stock: 5
 },
+  {
+  nombre: "5139RESTAURADOR DE PARTES NEGRAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Restaura partes negras, devuelve el color, brillo y protección a plásticos, molduras y defensas. ¡Fácil de aplicar!",
+  precios: {
+    "1": 6.95,
+    "3": 5.95,
+ },
+  imagen: "Img/Imagen216.jpeg",
+  stock: 23
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1875,6 +1886,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
