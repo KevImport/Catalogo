@@ -121,16 +121,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5000AUDÍFONO P9",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Sonido envolvente y diseño moderno. El audífono P9 te ofrece calidad inalámbrica para música, llamadas y más.",
-  precios: {
-    "1": 12.95,
-  },
-  imagen: "Img/Imagen18.png",
-  stock: 1
-},
-{
   nombre: "4999SET DE 100 GUANTES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Protege tus manos en todo momento. Pack de 100 guantes desechables ideales para limpieza, cocina o cuidado personal.",
@@ -2060,6 +2050,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
