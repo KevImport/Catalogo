@@ -2027,16 +2027,6 @@ const productos = [
   imagen: "Img/Imagen231.jpeg",
   stock: 2
 },
-  {
-  nombre: "5174LUCES ESPACIAL",
-  categoria: "Hogar / Cocina",
-  descripcion: "Lámpara Proyector Estrellado. Proyección giratoria de luna y estrellas. Recargable por USB. Ideal para decoración y noches relajantes. Perfecta para dormitorio, sala o regalo especial.",
-  precios: {
-    "1": 5.40,
- },
-  imagen: "Img/Imagen232.jpeg",
-  stock: 12
-},
  {
   nombre: "5174LUCES ESPACIAL",
   categoria: "Hogar / Cocina",
@@ -2080,6 +2070,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
