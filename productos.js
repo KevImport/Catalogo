@@ -239,16 +239,6 @@ const productos = [
   stock: 8
 },
 {
-  nombre: "4925TISSUE 1200 HOJAS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Tissue extra rendidor. Suavidad y resistencia en un solo producto. Ideal para el hogar o la oficina.",
-  precios: {
-    "1": 6.90,
-},
-  imagen: "Img/Imagen36.jpg",
-  stock: 1
-},
-{
   nombre: "4899SET DE PLUMÓN DOBLE TRAZO",
   categoria: "Escolar / Papelería",
   descripcion: "¡Doble creatividad! Plumones con punta doble para trazos finos y gruesos. Colores intensos y duraderos.",
@@ -2050,6 +2040,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
