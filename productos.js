@@ -1809,16 +1809,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "5128AMULETO COLGANTE - MODELOS VARIADOS",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Amuleto protector contra las malas energías. Perfecto para decorar tu casa, auto u oficina con estilo y buena vibra.",
-  precios: {
-    "1": 6.95,
- },
-  imagen: "Img/Imagen211.jpeg",
-  stock: 2
-},
- {
   nombre: "5133TERMÓMETRO DE COCINA",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para carnes, postres, líquidos y más. Lectura rápida y precisa en segundos. Fácil de usar, práctico y portátil. ¡El aliado perfecto para tus recetas!",
@@ -2070,6 +2060,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
