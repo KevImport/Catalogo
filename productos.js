@@ -579,16 +579,6 @@ const productos = [
   stock: 10
 },
 {
-  nombre: "4097ESCUDO Y ESPADA",
-  categoria: "Juguetes / Regalos",
-  descripcion: "¡A la aventura! Set de escudo y espada de juguete para juegos de rol y horas de entretenimiento.",
-  precios: {
-    "1": 9.90,
-  },
-  imagen: "Img/Imagen79.jpg",
-  stock: 4
-},
-{
   nombre: "3778CORTADOR DE VIDRIO Y CERÁMICA",
   categoria: "Hogar / Cocina",
   descripcion: "Herramienta precisa para bricolaje. Corta fácilmente vidrio o cerámica con precisión profesional.",
@@ -1765,7 +1755,7 @@ const productos = [
     "1": 4.95,
  },
   imagen: "Img/Imagen209.jpeg",
-  stock: 12
+  stock: 11
 },
  {
   nombre: "5123BALANZA GRAMERA",
@@ -2029,6 +2019,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
