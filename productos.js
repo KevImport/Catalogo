@@ -1964,6 +1964,48 @@ const productos = [
   imagen: "Img/Imagen225.png",
   stock: 4
 },
+  {
+  nombre: "5150COLLAR DE PRINCESAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Material: Acero. Presentación en blíster individual. ¡Un detalle encantador para las reinas de la casa!",
+  precios: {
+    "1": 5.95,
+    "3": 4.95,
+ },
+  imagen: "Img/Imagen226.png",
+  stock: 13
+},
+ {
+  nombre: "5152CERA EN BARRA",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Para los peinados por de vuelta al cole. Facilita el peinado, Evita el frizz, Nutre tu cabello. Tamaño ideal para llevar en tu bolso a todas partes. Controla baby Hair (cabellitos pequeños). Fácil y rápido de aplicar",
+  precios: {
+    "1": 8.90,
+    "3": 7.90,
+ },
+  imagen: "Img/Imagen227.png",
+  stock: 5
+},
+ {
+  nombre: "5155PIEDRA DE ALUMBRE DESODORANTE ROLL ON",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Desodorante natural. Frescura y protección duradera. Sin químicos ni alcohol.",
+  precios: {
+    "1": 9.90,
+ },
+  imagen: "Img/Imagen227.png",
+  stock: 2
+},
+  {
+  nombre: "5158SHAMPOO DE ROMERO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1000ML",
+  precios: {
+    "1": 12.90,
+ },
+  imagen: "Img/Imagen228.jpg",
+  stock: 3
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1977,6 +2019,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
