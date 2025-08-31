@@ -1993,7 +1993,7 @@ const productos = [
   precios: {
     "1": 9.90,
  },
-  imagen: "Img/Imagen227.png",
+  imagen: "Img/Imagen228.jpeg",
   stock: 2
 },
   {
@@ -2003,8 +2003,69 @@ const productos = [
   precios: {
     "1": 12.90,
  },
-  imagen: "Img/Imagen228.jpg",
+  imagen: "Img/Imagen229.jpg",
   stock: 3
+},
+ {
+  nombre: "5169PACK DE 10 BOLSITAS DULCERAS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Mini bolsitas reutilizables. Diseños tiernos y coloridos. Perfectas para snacks, dulces o cositas pequeñas. Prácticas y adorables para el día a día.",
+  precios: {
+    "1": 8.95,
+ },
+  imagen: "Img/Imagen230.jpeg",
+  stock: 8
+},
+ {
+  nombre: "5171JABON CON FRAGANCIA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Sensación de pureza. Cuidado para piel mixta. Fórmula suave con colonia.",
+  precios: {
+    "1": 3.95,
+    "2": 2.25,
+ },
+  imagen: "Img/Imagen231.jpeg",
+  stock: 2
+},
+  {
+  nombre: "5174LUCES ESPACIAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lámpara Proyector Estrellado. Proyección giratoria de luna y estrellas. Recargable por USB. Ideal para decoración y noches relajantes. Perfecta para dormitorio, sala o regalo especial.",
+  precios: {
+    "1": 5.40,
+ },
+  imagen: "Img/Imagen232.jpeg",
+  stock: 12
+},
+ {
+  nombre: "5174LUCES ESPACIAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lámpara Proyector Estrellado. Proyección giratoria de luna y estrellas. Recargable por USB. Ideal para decoración y noches relajantes. Perfecta para dormitorio, sala o regalo especial.",
+  precios: {
+    "1": 5.40,
+ },
+  imagen: "Img/Imagen232.jpeg",
+  stock: 12
+},
+ {
+  nombre: "5175CONDIMENTERO GIRATORIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Material: ABS + Metal resistente. Base giratoria 360°. Incluye 18 frascos de 100 ml. Diseño elegante y práctico. Medida aprox.: 37 x 24 x 32 cm",
+  precios: {
+    "1": 31.50,
+ },
+  imagen: "Img/Imagen233.png",
+  stock: 7
+},
+  {
+  nombre: "5178SET DE 10 PARES DE MEDIAS",
+  categoria: "Ropa / Accesorios",
+  descripcion: "Diseños tiernos y variados. Colores combinables. Suaves y cómodas. Talla estándar",
+  precios: {
+    "1": 6.95,
+ },
+  imagen: "Img/Imagen234.jpeg",
+  stock: 6
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2019,6 +2080,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
