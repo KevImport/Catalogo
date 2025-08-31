@@ -23,17 +23,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "MINI ATOMIZADOR KWAI",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Refresca tu rostro al instante. El mini atomizador Kawaii es recargable y portátil, ideal para llevar a todas partes.",
-  precios: {
-    "1": 3.95,
-    "2": 2.95,
-  },
-  imagen: "Img/Imagen4.jpg",
-  stock: 2
-},
-{
   nombre: "5042PAPEL TISSUE, 300 HOJAS APROX.",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Suave, absorbente y rendidor. Ideal para el hogar u oficina con 300 hojas de comodidad.",
@@ -2040,6 +2029,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
