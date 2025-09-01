@@ -1853,7 +1853,7 @@ const productos = [
     "6": 1.55,
  },
   imagen: "Img/Imagen220.png",
-  stock: 18
+  stock: 12
 },
   {
   nombre: "5141GANCHO GIRATORIO FULL SPACE",
@@ -1867,17 +1867,6 @@ const productos = [
  },
   imagen: "Img/Imagen221.jpeg",
   stock: 44
-},
-  {
-  nombre: "5146QUEMADOR DE INCIENSO REFLUJO",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "El humo desciende en forma de cascada. Relaja, armoniza y decora tu espacio. Ideal para hogar, oficina o meditación",
-  precios: {
-    "1": 6.95,
-    "3": 5.95,
- },
-  imagen: "Img/Imagen222.jpeg",
-  stock: 4
 },
  {
   nombre: "5147FOCO LED CON SENSOR DE MOVIMIENTO",
@@ -2019,6 +2008,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
