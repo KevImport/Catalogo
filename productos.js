@@ -23,7 +23,7 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5042PAPEL TISSUE, 300 HOJAS APROX.",
+  nombre: "5044PAPEL TISSUE, 300 HOJAS APROX.",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Suave, absorbente y rendidor. Ideal para el hogar u oficina con 300 hojas de comodidad.",
   precios: {
@@ -32,7 +32,7 @@ const productos = [
     "6": 1.55,
   },
   imagen: "Img/Imagen6.jpg",
-  stock: 6
+  stock: 30
 },
 {
   nombre: "5042ROMPE CHORRO",
@@ -1540,7 +1540,7 @@ const productos = [
     "6": 3.55,
  },
   imagen: "Img/Imagen187.jpeg",
-  stock: 17
+  stock: 11
 },
 {
   nombre: "5080CINTA DOBLE CONTACTO",
@@ -1576,7 +1576,7 @@ const productos = [
     "6": 2.55,
  },
   imagen: "Img/Imagen190.jpeg",
-  stock: 7
+  stock: 6
 },
 {
   nombre: "5089TORTA BURBUJAS",
@@ -2019,6 +2019,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
