@@ -2004,7 +2004,7 @@ const productos = [
     "1": 6.95,
  },
   imagen: "Img/Imagen234.jpeg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2019,6 +2019,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
