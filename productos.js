@@ -120,7 +120,7 @@ const productos = [
     "12": 1.95,
   },
   imagen: "Img/Imagen19.jpg",
-  stock: 35
+  stock: 32
 },
 {
   nombre: "4986MOLDE DE SILICONA",
@@ -130,7 +130,7 @@ const productos = [
     "1": 3.95,
   },
   imagen: "Img/Imagen23.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "4982ENCENDEDOR INFINITO",
@@ -300,7 +300,7 @@ const productos = [
     "1": 3.55,
   },
   imagen: "Img/Imagen45.jpg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "4853GLOBO FELIZ DÍA PAPA",
@@ -1032,7 +1032,7 @@ const productos = [
     "6": 1.85, 
   },
   imagen: "Img/Imagen128.jpg",
-  stock: 9
+  stock: 6
 },
 {
   nombre: "4979MASCARILLA CON COLÁGENO FLOWER SECRET",
@@ -1637,7 +1637,7 @@ const productos = [
     "1": 6.95,
  },
   imagen: "Img/Imagen198.jpeg",
-  stock: 6
+  stock: 4
 },
 {
   nombre: "5105CINTA RGB",
@@ -1911,7 +1911,7 @@ const productos = [
     "3": 4.95,
  },
   imagen: "Img/Imagen225.png",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "5150COLLAR DE PRINCESAS",
@@ -1922,7 +1922,7 @@ const productos = [
     "3": 4.95,
  },
   imagen: "Img/Imagen226.png",
-  stock: 13
+  stock: 12
 },
  {
   nombre: "5152CERA EN BARRA",
@@ -1984,7 +1984,7 @@ const productos = [
     "1": 5.40,
  },
   imagen: "Img/Imagen232.jpeg",
-  stock: 12
+  stock: 9
 },
  {
   nombre: "5175CONDIMENTERO GIRATORIO",
@@ -2019,6 +2019,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
