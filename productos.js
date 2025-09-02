@@ -1181,17 +1181,6 @@ const productos = [
   stock: 7
 },
 {
-  nombre: "4492RUBOR LÍQUIDO KEVIN & COCO",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Rubor líquido de textura ligera que se difumina fácilmente en la piel para un acabado natural y radiante.",
-  precios: {
-    "1": 4.90,
-    "2": 3.50,
-  },
-  imagen: "Img/Imagen149.jpg",
-  stock: 2
-},
-{
   nombre: "4491PESTAÑAS POSTIZAS 6D",
   categoria: "Belleza / Cosmética",
   descripcion: "Pestañas de efecto 6D para una mirada impactante. Mayor volumen y curvatura para destacar tu belleza.",
@@ -1965,6 +1954,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
