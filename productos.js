@@ -269,7 +269,7 @@ const productos = [
     "3": 2.95,
   },
   imagen: "Img/Imagen41.jpg",
-  stock: 12
+  stock: 9
 },
 {
   nombre: "4861PACK DE 12 VINCHAS",
@@ -546,16 +546,6 @@ const productos = [
   },
   imagen: "Img/Imagen75.jpg",
   stock: 12
-},
-{
-  nombre: "4158PACK MASITAS CISNE",
-  categoria: "Juguetes / Regalos",
-  descripcion: "Diversión creativa para niños. Masitas moldeables con temática de cisne, perfectas para jugar y modelar.",
-  precios: {
-    "1": 5.90,
-  },
-  imagen: "Img/Imagen76.jpg",
-  stock: 1
 },
 {
   nombre: "4154JUEGO TWISTER",
@@ -1671,16 +1661,6 @@ const productos = [
   imagen: "Img/Imagen201.jpeg",
   stock: 4
 },
-{
-  nombre: "5111RODILLO QUITAPELUSAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Rodillo quitapelusas reutilizable que atrapa pelos, pelusas y polvo en segundos. Ideal para ropa, sofás y mantas, fácil de limpiar y siempre listo para usar.",
-  precios: {
-    "1": 5.95,
- },
-  imagen: "Img/Imagen202.jpeg",
-  stock: 1
-},
  {
   nombre: "5112CUENCO PARA APERITIVOS",
   categoria: "Hogar / Cocina",
@@ -2008,6 +1988,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
