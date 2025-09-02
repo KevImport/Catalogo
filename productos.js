@@ -54,7 +54,7 @@ const productos = [
     "1": 6.95,
   },
   imagen: "Img/Imagen9.jpg",
-  stock: 5
+  stock: 3
 },
 {
   nombre: "5027CURITAS X 100",
@@ -65,7 +65,7 @@ const productos = [
     "3": 3.95,
   },
   imagen: "Img/Imagen11.jpg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "5017CANASTILLA PLEGABLE",
@@ -1033,17 +1033,7 @@ const productos = [
     "3": 8.95,
   },
   imagen: "Img/Imagen130.jpg",
-  stock: 6
-},
-{
-  nombre: "4859SET DE CUIDADO FACIAL",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Completo set para el cuidado facial diario. Limpia, hidrata y nutre tu piel para mantenerla radiante y saludable.",
-  precios: {
-    "1": 7.95, 
-  },
-  imagen: "Img/Imagen132.jpg",
-  stock: 2
+  stock: 3
 },
 {
   nombre: "4927BOLSA DOY PACK DE 200 PAÑITOS HÚMEDOS PETETIN",
@@ -1143,19 +1133,6 @@ const productos = [
   },
   imagen: "Img/Imagen141.jpg",
   stock: 3
-},
-{
-  nombre: "4806GLOSS BRILLO + LLAVERO",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Brillo labial con efecto hidratante acompañado de un llavero decorativo. Ideal para llevar estilo en tu bolso.",
-  precios: {
-    "1": 4.95,
-    "3": 3.75,
-    "6": 3.45,
-    "12": 3.15,
-  },
-  imagen: "Img/Imagen143.jpg",
-  stock: 12
 },
 {
   nombre: "4781PACK DE 25 ESPONJAS BEAUTY",
@@ -1988,6 +1965,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
