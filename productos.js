@@ -1941,6 +1941,19 @@ const productos = [
   imagen: "Img/Imagen234.jpeg",
   stock: 3
 },
+ {
+  nombre: "4669LABIAL EN BARRA EFECTO MATE",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Descubre la colección de lápices labiales mate Flower Secret, perfectos para un look sofisticado y duradero. Con una gama de tonos vibrantes y nudes, ideales para cualquier ocasión.",
+  precios: {
+    "1": 4.95,
+    "3": 3.55,
+    "6": 3.25,
+    "12": 2.95,
+ },
+  imagen: "Img/Imagen235.jpeg",
+  stock: 18
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1954,6 +1967,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
