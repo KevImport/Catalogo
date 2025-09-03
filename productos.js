@@ -97,7 +97,7 @@ const productos = [
     "3": 5.95,
   },
   imagen: "Img/Imagen14.jpg",
-  stock: 8
+  stock: 7
 },
 {
   nombre: "5009MINI CÁMARA ESPÍA",
@@ -491,16 +491,6 @@ const productos = [
   },
   imagen: "Img/Imagen67.jpg",
   stock: 4
-},
-{
-  nombre: "4338SET DE 8 PLATOS OSITO + BASE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Comidas divertidas para los peques. Set de platos con forma de osito y base antideslizante, ideal para niños.",
-  precios: {
-    "1": 9.00,
-},
-  imagen: "Img/Imagen69.jpg",
-  stock: 1
 },
 {
   nombre: "4330BLÍSTER DE 12 PARES DE ARETES",
@@ -1856,7 +1846,7 @@ const productos = [
     "3": 7.90,
  },
   imagen: "Img/Imagen227.png",
-  stock: 5
+  stock: 7
 },
  {
   nombre: "5155PIEDRA DE ALUMBRE DESODORANTE ROLL ON",
@@ -1955,6 +1945,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
