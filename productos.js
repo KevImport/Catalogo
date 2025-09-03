@@ -120,7 +120,7 @@ const productos = [
     "12": 1.95,
   },
   imagen: "Img/Imagen19.jpg",
-  stock: 32
+  stock: 31
 },
 {
   nombre: "4986MOLDE DE SILICONA",
@@ -1529,10 +1529,9 @@ const productos = [
   precios: {
     "1": 3.95,
     "3": 2.85,
-    "6": 2.55,
  },
   imagen: "Img/Imagen190.jpeg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "5089TORTA BURBUJAS",
@@ -1838,17 +1837,6 @@ const productos = [
   stock: 12
 },
   {
-  nombre: "5149TORTUGA POSAVASOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Posavasos Tortuga Interactivo. Diseño divertido que se activa al colocar la taza. Protege tu mesa de manchas y calor. Ideal como regalo original y funcional.",
-  precios: {
-    "1": 5.95,
-    "3": 4.95,
- },
-  imagen: "Img/Imagen225.png",
-  stock: 3
-},
-  {
   nombre: "5150COLLAR DE PRINCESAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Material: Acero. Presentación en blíster individual. ¡Un detalle encantador para las reinas de la casa!",
@@ -1967,6 +1955,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
