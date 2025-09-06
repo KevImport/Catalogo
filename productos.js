@@ -1901,6 +1901,18 @@ const productos = [
   imagen: "Img/Imagen232.jpeg",
   stock: 9
 },
+ {
+  nombre: "5179ALFOMBRA ABSORBENTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Alfombra absorbente antideslizante. Seca rápido, protege el piso y luce increíble en tu hogar. Medida aprox.: 38 x 58 cm",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+ },
+  imagen: "Img/Imagen236.jpeg",
+  stock: 12
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1914,6 +1926,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
