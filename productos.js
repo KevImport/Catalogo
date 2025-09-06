@@ -1659,7 +1659,7 @@ const productos = [
     "3": 4.95,
  },
   imagen: "Img/Imagen206.jpeg",
-  stock: 8
+  stock: 3
 },
  {
   nombre: "5120LLAVERO LÁSER MULTIFUNCIONAL",
@@ -1914,6 +1914,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
