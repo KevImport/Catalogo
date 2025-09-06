@@ -1913,6 +1913,18 @@ const productos = [
   imagen: "Img/Imagen236.jpeg",
   stock: 12
 },
+  {
+  nombre: "5180SET DE 10 INCIENSO RECTANGULAR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Disfruta de una experiencia sensorial única con nuestro incienso aromático de reflujo. Deja que el aroma envolvente y relajante te transporte a un estado de calma y serenidad. Perfecto para sesiones de meditación, yoga o simplemente para disfrutar de un momento de paz en tu hogar. Experimenta el poder de la fragancia con nuestro incienso de cono reflujo.",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+ },
+  imagen: "Img/Imagen237.jpeg",
+  stock: 15
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1926,6 +1938,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
