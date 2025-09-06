@@ -9,7 +9,7 @@ const productos = [
     "6": 3.75,
   },
   imagen: "Img/Imagen1.jpg",
-   stock: 21
+   stock: 20
 },
 {
   nombre: "5048FIAMBRERA TÉRMICA",
@@ -175,26 +175,6 @@ const productos = [
   stock: 1
 },
 {
-  nombre: "4970ESTANTE ORGANIZADOR DE MICROONDAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Aprovecha cada espacio en tu cocina. Este estante metálico sostiene el microondas y organiza utensilios a la vez.",
-  precios: {
-    "1": 22.90,
-  },
-  imagen: "Img/Imagen29.jpg",
-  stock: 1
-},
-{
-  nombre: "4962ESTANTE DE COCINA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctico y resistente. Mantén tus condimentos, platos o accesorios organizados y siempre al alcance.",
-  precios: {
-    "1": 29.90
-  },
-  imagen: "Img/Imagen30.jpg",
-  stock: 1
-},
-{
   nombre: "4955CHUPA PANZA",
   categoria: "Belleza / Cosmética",
   descripcion: "¡Reduce medidas al instante! Este gel reafirmante ayuda a tonificar la zona abdominal y estilizar tu figura.",
@@ -322,7 +302,7 @@ const productos = [
     "2": 6.95,
   },
   imagen: "Img/Imagen47.jpg",
-  stock: 2
+  stock: 1
  },
 {
   nombre: "4832KIT DE MANICURE",
@@ -344,16 +324,6 @@ const productos = [
   },
   imagen: "Img/Imagen50.jpg",
   stock: 2
-},
-{
-  nombre: "4788GORRO AESTHETIC",
-  categoria: "Ropa / Accesorios",
-  descripcion: "¡Dale estilo a tu outfit! Gorro moderno con diseño aesthetic, ideal para días fríos o looks urbanos.",
-  precios: {
-    "1": 6.95,
-},
-  imagen: "Img/Imagen52.jpg",
-  stock: 1
 },
 {
   nombre: "4775BOLSO CORAZÓN",
@@ -465,10 +435,9 @@ const productos = [
   precios: {
     "1": 4.90,
     "3": 3.50,
-    "6": 3.20,
   },
   imagen: "Img/Imagen64.jpg",
-  stock: 6
+  stock: 5
 },
 {
   nombre: "4383MUÑEQUITO PARA CELULAR",
@@ -656,7 +625,7 @@ const productos = [
     "1": 7.90,
   },
   imagen: "Img/Imagen93.jpg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "3159JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
@@ -669,7 +638,7 @@ const productos = [
     "12": 2.90,
   },
   imagen: "Img/Imagen94.jpg",
-  stock: 34
+  stock: 33
 },
 {
   nombre: "3054AVE DE EQUILIBRIO",
@@ -1089,7 +1058,7 @@ const productos = [
     "3": 3.85,
   },
   imagen: "Img/Imagen138.jpg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "4839REMOVEDOR DE VERRUGAS",
@@ -1518,10 +1487,10 @@ const productos = [
   descripcion: "¡Seca tu cabello con estilo! Turbante de microfibra súper absorbente. Ideal para después de la ducha, suave y ligero. ¡Práctico, cómodo y elegante!",
   precios: {
     "1": 3.95,
-    "3": 2.85,
+    "2": 2.85,
  },
   imagen: "Img/Imagen190.jpeg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "5089TORTA BURBUJAS",
@@ -1917,7 +1886,7 @@ const productos = [
     "1": 6.95,
  },
   imagen: "Img/Imagen234.jpeg",
-  stock: 3
+  stock: 2
 },
  {
   nombre: "4669LABIAL EN BARRA EFECTO MATE",
@@ -1945,6 +1914,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
