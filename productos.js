@@ -11,6 +11,39 @@ const productos = [
   imagen: "Img/Imagen1.jpg",
    stock: 20
 },
+  {
+  nombre: "5175CONDIMENTERO GIRATORIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Material: ABS + Metal resistente. Base giratoria 360°. Incluye 18 frascos de 100 ml. Diseño elegante y práctico. Medida aprox.: 37 x 24 x 32 cm",
+  precios: {
+    "1": 31.50,
+ },
+  imagen: "Img/Imagen233.png",
+  stock: 3
+},
+  {
+  nombre: "5178SET DE 10 PARES DE MEDIAS",
+  categoria: "Ropa / Accesorios",
+  descripcion: "Diseños tiernos y variados. Colores combinables. Suaves y cómodas. Talla estándar",
+  precios: {
+    "1": 6.95,
+ },
+  imagen: "Img/Imagen234.jpeg",
+  stock: 2
+},
+ {
+  nombre: "4669LABIAL EN BARRA EFECTO MATE",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Descubre la colección de lápices labiales mate Flower Secret, perfectos para un look sofisticado y duradero. Con una gama de tonos vibrantes y nudes, ideales para cualquier ocasión.",
+  precios: {
+    "1": 4.95,
+    "3": 3.55,
+    "6": 3.25,
+    "12": 2.95,
+ },
+  imagen: "Img/Imagen235.jpeg",
+  stock: 18
+},
 {
   nombre: "5048FIAMBRERA TÉRMICA",
   categoria: "Hogar / Cocina",
@@ -1868,39 +1901,6 @@ const productos = [
   imagen: "Img/Imagen232.jpeg",
   stock: 9
 },
- {
-  nombre: "5175CONDIMENTERO GIRATORIO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Material: ABS + Metal resistente. Base giratoria 360°. Incluye 18 frascos de 100 ml. Diseño elegante y práctico. Medida aprox.: 37 x 24 x 32 cm",
-  precios: {
-    "1": 31.50,
- },
-  imagen: "Img/Imagen233.png",
-  stock: 7
-},
-  {
-  nombre: "5178SET DE 10 PARES DE MEDIAS",
-  categoria: "Ropa / Accesorios",
-  descripcion: "Diseños tiernos y variados. Colores combinables. Suaves y cómodas. Talla estándar",
-  precios: {
-    "1": 6.95,
- },
-  imagen: "Img/Imagen234.jpeg",
-  stock: 2
-},
- {
-  nombre: "4669LABIAL EN BARRA EFECTO MATE",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Descubre la colección de lápices labiales mate Flower Secret, perfectos para un look sofisticado y duradero. Con una gama de tonos vibrantes y nudes, ideales para cualquier ocasión.",
-  precios: {
-    "1": 4.95,
-    "3": 3.55,
-    "6": 3.25,
-    "12": 2.95,
- },
-  imagen: "Img/Imagen235.jpeg",
-  stock: 18
-},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1914,6 +1914,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
