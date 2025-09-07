@@ -1925,6 +1925,95 @@ const productos = [
   imagen: "Img/Imagen237.jpeg",
   stock: 15
 },
+ {
+  nombre: "5181BASE DE UÑAS DE KERATINA",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Fortalece y protege tus uñas mientras les da un acabado natural y saludable. Nutre y repara uñas débiles o quebradizas. Aporta brillo duradero. Con keratina que ayuda al crecimiento y resistencia.",
+  precios: {
+   "1": 3.55,
+   "3": 2.55,
+ },
+  imagen: "Img/Imagen238.jpeg",
+  stock: 6
+},
+ {
+  nombre: "5182BRAZALETE SERPENTEADO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Pulsera estilo serpiente. Elegante, moderna y perfecta para realzar tu look. Ideal para cualquier ocasión especial.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+ },
+  imagen: "Img/Imagen239.jpeg",
+  stock: 4
+},
+{
+  nombre: "5189ESPALDAR LUMBAR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alivia el estrés en la espalda y mejora tu postura. Ideal para coche y oficina, con correa elástica resistente. Ajustable y mantiene la curvatura natural de tu espalda. Soporte lumbar que reduce molestias en espalda y cuello. Material: Malla + alambre de acero.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+ },
+  imagen: "Img/Imagen240.jpeg",
+  stock: 6
+},
+ {
+  nombre: "5193SET DE ARGOLLAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Desde pequeñas hasta grandes, un clásico infaltable en tu colección de aretes. Versátiles para cualquier ocasión. Diseño ligero y cómodo de usar. Combínalas según tu estilo.",
+  precios: {
+   "1": 4.95,
+ },
+  imagen: "Img/Imagen241.jpeg",
+  stock: 1
+},
+  {
+  nombre: "5195CASCADA DE INCIENSO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Porta incienso tipo cascada de cerámica, ideal para crear un ambiente relajante. Al colocar el cono, el humo desciende en forma de cascada mágica. Medida: 10 × 11 × 3.5 cm – colores surtidos. Perfecto para meditación, yoga o decorar tu espacio con estilo.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+ },
+  imagen: "Img/Imagen242.jpeg",
+  stock: 6
+},
+{
+  nombre: "5200PORTAVELAS DE CRISTAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Aporta un brillo elegante y sofisticado a tu hogar o eventos. Perfecto para crear ambientes cálidos y mágicos. Ideal como decoración o detalle especial para ocasiones únicas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+ },
+  imagen: "Img/Imagen243.jpeg",
+  stock: 3
+},
+ {
+  nombre: "5204NACIMIENTO LED",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para decorar tu hogar con un toque elegante y festivo. Perfecto como centro de mesa, altar o detalle especial en Navidad. Medida aprox.: 12 cm",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+ },
+  imagen: "Img/Imagen244.jpg",
+  stock: 10
+},
+{
+  nombre: "5211QUITAPELUSA PINGÜINO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+ },
+  imagen: "Img/Imagen245.png",
+  stock: 7
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -1938,6 +2027,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
