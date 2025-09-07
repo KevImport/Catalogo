@@ -65,7 +65,7 @@ const productos = [
     "6": 1.55,
   },
   imagen: "Img/Imagen6.jpg",
-  stock: 30
+  stock: 24
 },
 {
   nombre: "5042ROMPE CHORRO",
@@ -182,10 +182,10 @@ const productos = [
   descripcion: "Todo lo que necesitas para tu viaje en un solo kit: cómodo, práctico y compacto. ¡Listo para la aventura!",
   precios: {
     "1": 5.95,
-    "3": 4.95,
+    "2": 4.95,
   },
   imagen: "Img/Imagen26.jpg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "4966TAZA GAMER",
@@ -401,17 +401,6 @@ const productos = [
   },
   imagen: "Img/Imagen56.jpg",
   stock: 15
-},
-{
-  nombre: "4638TAPA SOL CON LICENCIA",
-  categoria: "Ropa / Accesorios",
-  descripcion: "Protección con estilo. Tapa sol con diseño licenciado para niños, ideal para salidas al aire libre.",
-  precios: {
-    "1": 6.95,
-    "3": 5.95,
-  },
-  imagen: "Img/Imagen57.jpg",
-  stock: 4
 },
 {
   nombre: "4629LAPICERO DOBLE PUNTA",
@@ -1239,18 +1228,6 @@ const productos = [
   stock: 6
 },
 {
-  nombre: "5025CINTA DE EMBALAJE DE 200 YARDAS",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Cinta de embalaje extra larga para trabajos exigentes. Alta adherencia para asegurar tus envíos o almacenamiento.",
-  precios: {
-    "1": 2.95,
-    "6": 1.95,
-    "12": 1.65,
-  },
-  imagen: "Img/Imagen158.jpg",
-  stock: 8
-},
-{
   nombre: "4674SET x 10 CUTTER GARRITA",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 10 prácticos cutter en forma de garrita. Ideal para uso escolar o manualidades en casa.",
@@ -1372,17 +1349,6 @@ const productos = [
   stock: 10
 },
 {
-  nombre: "5062TRUSA CACHETERO",
-  categoria: "Ropa / Accesorios",
-  descripcion: "Material: algodón. Suave y cómodo. Tallas disponibles: 1S y 3L",
-  precios: {
-    "1": 4.95,
-    "3": 3.95
-  },
-  imagen: "Img/Imagen176.jpeg",
-  stock: 4
-},
-{
   nombre: "4660CALZONCILLO CLÁSICO",
   categoria: "Ropa / Accesorios",
   descripcion: "Material: algodón. Tallas disponibles: 6S",
@@ -1438,16 +1404,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5073CREMA + SPLASH + PERFUME PARA MUJER",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Un trío encantador que dejará tu piel suave, radiante y deliciosamente perfumada. Presentación femenina y elegante. Ideal para regalar o darte un capricho.",
-  precios: {
-    "1": 13.90
- },
-  imagen: "Img/Imagen183.png",
-  stock: 3
-},
-{
   nombre: "5074PAQUETE DE 20 PAPELES FOTOGRÁFICOS BRILLANTE A4",
   categoria: "Escolar / Papelería",
   descripcion: "Ideal para impresiones full color. Acabado brillante para fotos vibrantes. Tamaño A4 – 180g. Contiene 20 hojas por paquete. Perfecto para proyectos creativos y recuerdos.",
@@ -1501,7 +1457,7 @@ const productos = [
     "12": 1.55,
  },
   imagen: "Img/Imagen188.jpeg",
-  stock: 43
+  stock: 28
 },
 {
   nombre: "5083PESTAÑAS POSTIZAS EN RACIMO",
@@ -1606,7 +1562,7 @@ const productos = [
     "6": 1.95,
  },
   imagen: "Img/Imagen200.jpeg",
-  stock: 17
+  stock: 14
 },
 {
   nombre: "5110BOLSA DE 25 GANCHOS PERNO",
@@ -2027,6 +1983,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
