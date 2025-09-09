@@ -1025,7 +1025,7 @@ const productos = [
     "6": 7.95,
   },
   imagen: "Img/Imagen133.jpg",
-  stock: 3
+  stock: 33
 },
 {
   nombre: "4924STICKERS PARA UÑAS",
@@ -1806,16 +1806,6 @@ const productos = [
   imagen: "Img/Imagen227.png",
   stock: 7
 },
- {
-  nombre: "5155PIEDRA DE ALUMBRE DESODORANTE ROLL ON",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Desodorante natural. Frescura y protección duradera. Sin químicos ni alcohol.",
-  precios: {
-    "1": 9.90,
- },
-  imagen: "Img/Imagen228.jpeg",
-  stock: 2
-},
   {
   nombre: "5158SHAMPOO DE ROMERO",
   categoria: "Belleza / Cosmética",
@@ -1824,7 +1814,7 @@ const productos = [
     "1": 12.90,
  },
   imagen: "Img/Imagen229.jpg",
-  stock: 3
+  stock: 2
 },
  {
   nombre: "5169PACK DE 10 BOLSITAS DULCERAS",
@@ -1855,7 +1845,7 @@ const productos = [
     "1": 5.40,
  },
   imagen: "Img/Imagen232.jpeg",
-  stock: 9
+  stock: 8
 },
  {
   nombre: "5179ALFOMBRA ABSORBENTE",
@@ -1983,6 +1973,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
