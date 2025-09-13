@@ -1696,7 +1696,7 @@ const productos = [
 },
  {
   nombre: "5144CREMA DE MANOS DE ARROZ BIOAQUA",
-  categoria: "Decoración / Fiesta",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Hidratación profunda y duradera. Suaviza y nutre la piel. Práctica para llevar a todas partes.",
   precios: {
     "1": 2.95,
@@ -2029,6 +2029,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
