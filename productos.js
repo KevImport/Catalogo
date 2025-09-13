@@ -21,16 +21,6 @@ const productos = [
   imagen: "Img/Imagen233.png",
   stock: 3
 },
-  {
-  nombre: "5178SET DE 10 PARES DE MEDIAS",
-  categoria: "Ropa / Accesorios",
-  descripcion: "Diseños tiernos y variados. Colores combinables. Suaves y cómodas. Talla estándar",
-  precios: {
-    "1": 6.95,
- },
-  imagen: "Img/Imagen234.jpeg",
-  stock: 2
-},
  {
   nombre: "4669LABIAL EN BARRA EFECTO MATE",
   categoria: "Belleza / Cosmética",
@@ -2039,6 +2029,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
