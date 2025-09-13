@@ -1929,6 +1929,18 @@ const productos = [
   stock: 7
 },
 {
+  nombre: "5211QUITAPELUSA PINGÜINO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+ },
+  imagen: "Img/Imagen245.png",
+  stock: 7
+},
+{
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
@@ -1941,6 +1953,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
