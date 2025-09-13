@@ -1941,6 +1941,92 @@ const productos = [
   stock: 7
 },
 {
+  nombre: "5213PACK PARCHES PARA EL DOLOR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "El pack contiene 10 parches. Parches para el dolor de cuello, columna y rodilla, hechos a base de hierbas. Este parche analgésico externo auto calentable puede aliviar rápidamente todo tipo de dolor, mantener el calor, mantener la sangre, reducir la inflamación y aliviar el dolor. Ya sea que desee aliviar sus hombros, pies, espalda, cuello o rodillas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+ },
+  imagen: "Img/Imagen246.jpg",
+  stock: 19
+},
+{
+  nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "Orgánica y con exquisito aroma. Producto importado de la India. Presentación en caja individual de 10ml.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+ },
+  imagen: "Img/Imagen247.jpeg",
+  stock: 14
+},
+ {
+  nombre: "5218LUCES LINEALES 100 FOCOS - ÁMBAR",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Ilumina tus espacios con un brillo cálido y elegante. Perfectas para decorar interiores y exteriores. Fáciles de colocar y de bajo consumo energético.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+ },
+  imagen: "Img/Imagen248.jpeg",
+  stock: 9
+},
+  {
+  nombre: "5219COLGADOR DE PANTALONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para pantalones, bufandas, faldas y más. Ahorra espacio en tu clóset con diseño práctico y resistente. Gancho giratorio + barras deslizables = fácil de usar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+ },
+  imagen: "Img/Imagen249.png",
+  stock: 17
+},
+{
+  nombre: "5220JOYERO VIAJERO",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Mantén tus anillos, aretes y otras joyas organizadas. Medida aprox.: 10 x 10 cm y 5 cm de alto. Resistente y duradero: la base está bien estructurada. Diseño práctico y de gran capacidad.",
+  precios: {
+   "1": 5.95,
+ },
+  imagen: "Img/Imagen250.png",
+  stock: 2
+},
+{
+  nombre: "5224RENOVADOR DE MADERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Renueva tu mobiliario con nuestro RENOVADOR DE MADERA. ¡Dales nueva vida a tus espacios! Disfrutar de muebles como nuevos por mucho más tiempo. No dejes que el paso del tiempo afecte su belleza.",
+  precios: {
+   "1": 8.95,
+ },
+  imagen: "Img/Imagen251.png",
+  stock: 1
+},
+{
+  nombre: "5228CREMA EXFOLIANTE DE ALOE VERA - 300 ML",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Suaviza y renueva la piel eliminando células muertas de forma delicada. Gracias al poder del aloe vera, hidrata y calma, dejando una sensación fresca y natural.",
+  precios: {
+   "1": 6.95,
+ },
+  imagen: "Img/Imagen252.jpeg",
+  stock: 1
+},
+{
+  nombre: "5229PROTECTOR TÉRMICO ARGÀN – 290 ML",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Protege tu cabello del calor de planchas y secadoras mientras lo nutre y fortalece. De Argán, brillo + nutrición intensa. Luce un cabello sano, sedoso y radiante todos los días.",
+  precios: {
+   "1": 8.90,
+ },
+  imagen: "Img/Imagen253.png",
+  stock: 1
+},
+{
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
@@ -1953,6 +2039,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
