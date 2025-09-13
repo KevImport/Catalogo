@@ -177,17 +177,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4974KIT VIAJERO",
-  categoria: "Varios",
-  descripcion: "Todo lo que necesitas para tu viaje en un solo kit: cómodo, práctico y compacto. ¡Listo para la aventura!",
-  precios: {
-    "1": 5.95,
-    "2": 4.95,
-  },
-  imagen: "Img/Imagen26.jpg",
-  stock: 2
-},
-{
   nombre: "4966TAZA GAMER",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
@@ -1217,17 +1206,6 @@ const productos = [
   stock: 8
 },
 {
-  nombre: "5026CINTA DE EMBALAJE DE 60 YARDAS",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Cinta resistente de 60 yardas ideal para embalar, sellar y proteger cajas y paquetes de manera segura.",
-  precios: {
-    "1": 3.95,
-    "6": 1.85,
-  },
-  imagen: "Img/Imagen157.jpg",
-  stock: 6
-},
-{
   nombre: "4674SET x 10 CUTTER GARRITA",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 10 prácticos cutter en forma de garrita. Ideal para uso escolar o manualidades en casa.",
@@ -1391,7 +1369,7 @@ const productos = [
     "1": 9.95
  },
   imagen: "Img/Imagen181.jpeg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "5071CREMA FACIAL ANTIARRUGAS CON VITAMINA C",
@@ -1963,6 +1941,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
