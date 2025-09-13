@@ -108,7 +108,7 @@ const productos = [
     "1": 3.95,
   },
   imagen: "Img/Imagen12.jpg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "5015LIMPIADOR MULTIUSOS",
@@ -690,7 +690,7 @@ const productos = [
     "1": 8.90,
   },
   imagen: "Img/Imagen97.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "3025MUÑECOS EN ACCIÓN",
@@ -1091,7 +1091,7 @@ const productos = [
     "3": 7.95,
   },
   imagen: "Img/Imagen139.jpg",
-  stock: 7
+  stock: 6
 },
 {
   nombre: "4760SUERO DE PESTAÑAS",
@@ -1482,16 +1482,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5089TORTA BURBUJAS",
-  categoria: "Decoración / Fiesta",
-  descripcion: "¡Diversión en forma de pastel! Esta máquina de burbujas con forma de torta lanza burbujas. Con luces y diseño seguro para peques. Funciona con pilas 2A. Ideal para fiestas, juegos y momentos mágicos.",
-  precios: {
-    "1": 18.95,
- },
-  imagen: "Img/Imagen192.jpg",
-  stock: 1
-},
-{
   nombre: "5090BOLSA DE 50 GANCHOS TREBOL",
   categoria: "Organización / Almacenamiento",
   descripcion: "Olvídate de clavos ya es hora de renovarse. Estos ganchos son la mejor alternativa. Buena resistencia. Gancho multiusos para baño, cocina, oficina, dormitorio, etc. Color transparente modelo trébol.",
@@ -1562,7 +1552,7 @@ const productos = [
     "6": 1.95,
  },
   imagen: "Img/Imagen200.jpeg",
-  stock: 14
+  stock: 11
 },
 {
   nombre: "5110BOLSA DE 25 GANCHOS PERNO",
@@ -1580,10 +1570,10 @@ const productos = [
   descripcion: "Perfecto para servir una variedad de aperitivos, postres, galletas, frutas, verduras y mucho más. Material: Plástico. Medida aprox.: 24 x 8 cm",
   precios: {
     "1": 3.95,
-    "3": 2.95,
+    "2": 2.95,
  },
   imagen: "Img/Imagen203.jpeg",
-  stock: 3
+  stock: 2
 },
  {
   nombre: "5114DUPE INVICTUS BLACK",
@@ -1869,7 +1859,7 @@ const productos = [
    "6": 3.55,
  },
   imagen: "Img/Imagen237.jpeg",
-  stock: 15
+  stock: 8
 },
  {
   nombre: "5181BASE DE UÑAS DE KERATINA",
@@ -1923,7 +1913,7 @@ const productos = [
    "3": 6.95,
  },
   imagen: "Img/Imagen242.jpeg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "5200PORTAVELAS DE CRISTAL",
@@ -1973,6 +1963,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
