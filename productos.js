@@ -156,17 +156,6 @@ const productos = [
   stock: 1
 },
 {
-  nombre: "4982ENCENDEDOR INFINITO",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Olvídate de los fósforos! Este encendedor recargable es resistente al viento y funciona sin gas ni combustible.",
-  precios: {
-    "1": 4.95,
-    "2": 3.25,
-  },
-  imagen: "Img/Imagen24.jpg",
-  stock: 2
-},
-{
   nombre: "4966TAZA GAMER",
   categoria: "Juguetes / Regalos",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
@@ -2029,6 +2018,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
