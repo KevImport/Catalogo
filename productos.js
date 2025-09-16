@@ -177,7 +177,7 @@ const productos = [
 },
 {
   nombre: "4955CHUPA PANZA",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "¡Reduce medidas al instante! Este gel reafirmante ayuda a tonificar la zona abdominal y estilizar tu figura.",
   precios: {
     "1": 9.90,
@@ -188,7 +188,7 @@ const productos = [
 },
 {
   nombre: "4903CÁPSULAS x100 - BIOTINA",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Fortalece tu cabello, piel y uñas. Suplemento de biotina en cápsulas, con 100 unidades por frasco.",
   precios: {
     "1": 9.90,
@@ -307,7 +307,7 @@ const productos = [
  },
 {
   nombre: "4832KIT DE MANICURE",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Uñas siempre perfectas. Kit completo con herramientas esenciales para tu cuidado personal en casa o de viaje.",
   precios: {
     "1": 5.95,
@@ -940,7 +940,7 @@ const productos = [
 },
 {
   nombre: "5008JABÓN DE ARROZ",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Jabón con extracto de arroz que limpia profundamente y ayuda a iluminar la piel. Ideal para el uso diario.",
   precios: {
     "1": 4.95,
@@ -975,7 +975,7 @@ const productos = [
 },
 {
   nombre: "4979MASCARILLA CON COLÁGENO FLOWER SECRET",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Mascarilla facial enriquecida con colágeno para hidratar y rejuvenecer la piel. Ideal para una rutina de belleza efectiva.",
   precios: {
     "1": 9.95,
@@ -1019,7 +1019,7 @@ const productos = [
 },
 {
   nombre: "4895SET DE 3 PERFILADORES",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Pack de 3 perfiladores para cejas y vello facial. Precisión y suavidad para un acabado profesional.",
   precios: {
     "1": 3.90,
@@ -1063,7 +1063,7 @@ const productos = [
 },
 {
   nombre: "4760SUERO DE PESTAÑAS",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Suero nutritivo que fortalece y estimula el crecimiento de tus pestañas, dándoles volumen y longitud natural.",
   precios: {
     "1": 6.95,
@@ -1342,7 +1342,7 @@ const productos = [
 },
  {
   nombre: "5070ACEITE DE ARGAN 60ML",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Nutre, suaviza y repara puntas abiertas. Aporta brillo y controla el frizz. Rico en vitamina E y ácidos grasos. Práctico tamaño para llevar a donde quieras.",
   precios: {
     "1": 9.95
@@ -1352,7 +1352,7 @@ const productos = [
 },
 {
   nombre: "5071CREMA FACIAL ANTIARRUGAS CON VITAMINA C",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Hidrata y mejora la elasticidad de la piel. Ayuda a reducir líneas de expresión. Ilumina y unifica el tono del rostro. Ideal para uso diario y todo tipo de piel.",
   precios: {
     "1": 9.95
@@ -1744,7 +1744,7 @@ const productos = [
 },
  {
   nombre: "5152CERA EN BARRA",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Para los peinados por de vuelta al cole. Facilita el peinado, Evita el frizz, Nutre tu cabello. Tamaño ideal para llevar en tu bolso a todas partes. Controla baby Hair (cabellitos pequeños). Fácil y rápido de aplicar",
   precios: {
     "1": 8.90,
@@ -1755,7 +1755,7 @@ const productos = [
 },
   {
   nombre: "5158SHAMPOO DE ROMERO",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1000ML",
   precios: {
     "1": 12.90,
@@ -1820,7 +1820,7 @@ const productos = [
 },
  {
   nombre: "5181BASE DE UÑAS DE KERATINA",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Fortalece y protege tus uñas mientras les da un acabado natural y saludable. Nutre y repara uñas débiles o quebradizas. Aporta brillo duradero. Con keratina que ayuda al crecimiento y resistencia.",
   precios: {
    "1": 3.55,
@@ -1987,7 +1987,7 @@ const productos = [
 },
 {
   nombre: "5228CREMA EXFOLIANTE DE ALOE VERA - 300 ML",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Suaviza y renueva la piel eliminando células muertas de forma delicada. Gracias al poder del aloe vera, hidrata y calma, dejando una sensación fresca y natural.",
   precios: {
    "1": 6.95,
@@ -1997,7 +1997,7 @@ const productos = [
 },
 {
   nombre: "5229PROTECTOR TÉRMICO ARGÀN – 290 ML",
-  categoria: "Belleza / Cosmética",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Protege tu cabello del calor de planchas y secadoras mientras lo nutre y fortalece. De Argán, brillo + nutrición intensa. Luce un cabello sano, sedoso y radiante todos los días.",
   precios: {
    "1": 8.90,
@@ -2018,6 +2018,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
