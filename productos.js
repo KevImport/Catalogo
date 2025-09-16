@@ -488,7 +488,7 @@ const productos = [
 },
 {
   nombre: "4175FORRO NAVIDEÑO PARA SILLA",
-  categoria: "Navidad",
+  categoria: "Navidad / Regalos",
   descripcion: "Decora con espíritu navideño. Forro para silla con diseños festivos, ideal para cenas y reuniones familiares.",
   precios: {
     "3": 5.50,
@@ -529,7 +529,7 @@ const productos = [
 },
 {
   nombre: "2756SET DE 12 VELAS NAVIDEÑAS",
-  categoria: "Navidad",
+  categoria: "Navidad / Regalos",
   descripcion: "Ilumina la Navidad. Set de velas con diseños festivos para decorar mesas, repisas o centros de mesa.",
   precios: {
     "1": 13.90,
@@ -539,7 +539,7 @@ const productos = [
 },
 {
   nombre: "4041VELA LED NAVIDEÑA",
-  categoria: "Navidad",
+  categoria: "Navidad / Regalos",
   descripcion: "Vela LED con diseño navideño que ilumina y decora sin riesgo. Ideal para crear ambientes cálidos y festivos.",
   precios: {
     "1": 4.00,
@@ -550,7 +550,7 @@ const productos = [
 },
 {
   nombre: "3930SET DE 6 INDIVIDUALES + 6 POSAVASOS NAVIDEÑOS",
-  categoria: "Navidad",
+  categoria: "Navidad / Regalos",
   descripcion: "Dale un toque navideño a tu mesa con este set decorativo. Incluye 6 individuales y 6 posavasos con diseños festivos.",
   precios: {
     "1": 4.90,
@@ -672,7 +672,7 @@ const productos = [
 },
 {
   nombre: "2968CAJA NAVIDEÑA",
-  categoria: "Navidad",
+  categoria: "Navidad / Regalos",
   descripcion: "Caja con temática navideña perfecta para regalos, detalles o decoración. Ideal para sorprender en estas fiestas.",
   precios: {
     "1": 3.90,
@@ -703,7 +703,7 @@ const productos = [
 },
 {
   nombre: "2819SET DE 6 VASOS NAVIDEÑOS",
-  categoria: "Navidad",
+  categoria: "Navidad / Regalos",
   descripcion: "Vasos con diseños festivos para darle alegría a tus celebraciones navideñas. ¡Ideal para compartir!",
   precios: {
     "1": 9.90,
@@ -1945,7 +1945,7 @@ const productos = [
 },
  {
   nombre: "5218LUCES LINEALES 100 FOCOS - ÁMBAR",
-  categoria: "Navidad",
+  categoria: "Navidad / Regalos",
   descripcion: "Ilumina tus espacios con un brillo cálido y elegante. Perfectas para decorar interiores y exteriores. Fáciles de colocar y de bajo consumo energético.",
   precios: {
    "1": 5.95,
@@ -2018,6 +2018,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
