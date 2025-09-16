@@ -359,7 +359,7 @@ const productos = [
   },
 {
   nombre: "4675COLLAR PURE LOVE",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
   precios: {
     "1": 3.95,
@@ -453,7 +453,7 @@ const productos = [
 },
 {
   nombre: "4330BLÍSTER DE 12 PARES DE ARETES",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Variedad y estilo. Blíster con 12 pares de aretes para cambiar de look todos los días.",
   precios: {
     "1": 2.90,
@@ -477,7 +477,7 @@ const productos = [
 },
 {
   nombre: "4183LENTES DE SOL 2025",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Protección y estilo moderno. Lentes de sol con diseño actual, perfectos para cualquier ocasión.",
   precios: {
     "1": 6.00,
@@ -596,7 +596,7 @@ const productos = [
 },
 {
   nombre: "3562PAÑOLETA",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Añade estilo y color a tu outfit con esta pañoleta versátil. Ideal para el cuello, el cabello o como accesorio de bolso.",
   precios: {
     "1": 3.90,
@@ -609,7 +609,7 @@ const productos = [
 },
 {
   nombre: "3352COLLAR SATURNO",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Collar moderno con diseño de Saturno, perfecto para destacar tu look con un toque único y astral.",
   precios: {
     "1": 7.90,
@@ -619,7 +619,7 @@ const productos = [
 },
 {
   nombre: "3159JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Collares magnéticos para compartir con alguien especial. Al juntarse forman un corazón, ideal para parejas o amistades.",
   precios: {
     "1": 4.90,
@@ -693,7 +693,7 @@ const productos = [
 },
 {
   nombre: "2910SET DE 10 ACCESORIOS PARA EL CABELLO",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Completo set de accesorios para peinar y decorar tu cabello. Práctico, variado y con mucho estilo.",
   precios: {
     "2": 4.50,
@@ -754,7 +754,7 @@ const productos = [
 },
 {
   nombre: "2790SET DE 12 GANCHITOS",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Ganchitos coloridos y prácticos para sujetar el cabello o decorar peinados. Útiles y decorativos.",
   precios: {
     "2": 3.90,
@@ -1264,7 +1264,7 @@ const productos = [
 },
  {
   nombre: "5055PEINETA LAZO",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Dale un toque tierno y elegante a tu look. Ideal para peinados coquetos y llenos de estilo.",
   precios: {
     "1": 2.95,
@@ -1733,7 +1733,7 @@ const productos = [
 },
   {
   nombre: "5150COLLAR DE PRINCESAS",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Material: Acero. Presentación en blíster individual. ¡Un detalle encantador para las reinas de la casa!",
   precios: {
     "1": 5.95,
@@ -1831,7 +1831,7 @@ const productos = [
 },
  {
   nombre: "5182BRAZALETE SERPENTEADO",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Pulsera estilo serpiente. Elegante, moderna y perfecta para realzar tu look. Ideal para cualquier ocasión especial.",
   precios: {
    "1": 5.95,
@@ -1853,7 +1853,7 @@ const productos = [
 },
  {
   nombre: "5193SET DE ARGOLLAS",
-  categoria: "Belleza / Cosmética",
+  categoria: "Accesorios",
   descripcion: "Desde pequeñas hasta grandes, un clásico infaltable en tu colección de aretes. Versátiles para cualquier ocasión. Diseño ligero y cómodo de usar. Combínalas según tu estilo.",
   precios: {
    "1": 4.95,
@@ -2018,6 +2018,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
