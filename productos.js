@@ -71,7 +71,7 @@ const productos = [
 },
 {
   nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
   precios: {
     "1": 6.95,
@@ -157,7 +157,7 @@ const productos = [
 },
 {
   nombre: "4966TAZA GAMER",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
   precios: {
     "1": 10.90,
@@ -349,7 +349,7 @@ const productos = [
 },
 {
   nombre: "4704MINI TELESCOPIO",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "Explora el mundo desde cerca. Mini telescopio compacto y portátil, ideal para niños curiosos o actividades al aire libre.",
   precios: {
     "1": 24.90,
@@ -359,7 +359,7 @@ const productos = [
   },
 {
   nombre: "4675COLLAR PURE LOVE",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
   precios: {
     "1": 3.95,
@@ -453,7 +453,7 @@ const productos = [
 },
 {
   nombre: "4330BLÍSTER DE 12 PARES DE ARETES",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Variedad y estilo. Blíster con 12 pares de aretes para cambiar de look todos los días.",
   precios: {
     "1": 2.90,
@@ -465,7 +465,7 @@ const productos = [
 },
 {
   nombre: "4195JUGUETE RESORTE RAINBOW",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "¡Diversión sin fin! Juguete resorte con colores arcoíris, ideal para jugar en escaleras o mesas.",
   precios: {
     "1": 2.90,
@@ -477,7 +477,7 @@ const productos = [
 },
 {
   nombre: "4183LENTES DE SOL 2025",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Protección y estilo moderno. Lentes de sol con diseño actual, perfectos para cualquier ocasión.",
   precios: {
     "1": 6.00,
@@ -498,7 +498,7 @@ const productos = [
 },
 {
   nombre: "4154JUEGO TWISTER",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "¡Gira, estírate y ríe! Juego clásico que pone a prueba tu equilibrio y coordinación. Ideal para reuniones.",
   precios: {
     "1": 11.90,
@@ -596,7 +596,7 @@ const productos = [
 },
 {
   nombre: "3562PAÑOLETA",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Añade estilo y color a tu outfit con esta pañoleta versátil. Ideal para el cuello, el cabello o como accesorio de bolso.",
   precios: {
     "1": 3.90,
@@ -609,7 +609,7 @@ const productos = [
 },
 {
   nombre: "3352COLLAR SATURNO",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Collar moderno con diseño de Saturno, perfecto para destacar tu look con un toque único y astral.",
   precios: {
     "1": 7.90,
@@ -619,7 +619,7 @@ const productos = [
 },
 {
   nombre: "3159JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Collares magnéticos para compartir con alguien especial. Al juntarse forman un corazón, ideal para parejas o amistades.",
   precios: {
     "1": 4.90,
@@ -632,7 +632,7 @@ const productos = [
 },
 {
   nombre: "3054AVE DE EQUILIBRIO",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "Curiosa figura de ave que se equilibra mágicamente en una superficie. Sorprende a grandes y chicos.",
   precios: {
     "1": 1.00,
@@ -642,7 +642,7 @@ const productos = [
 },
 {
   nombre: "3053JUGUETE BALANCE",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "Divertido juguete educativo que ayuda a desarrollar la coordinación y el equilibrio en los más pequeños.",
   precios: {
     "1": 10.90,
@@ -662,7 +662,7 @@ const productos = [
 },
 {
   nombre: "3025MUÑECOS EN ACCIÓN",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "Figuras articuladas llenas de aventura. Ideales para juegos creativos y coleccionistas.",
   precios: {
     "1": 10.90,
@@ -693,7 +693,7 @@ const productos = [
 },
 {
   nombre: "2910SET DE 10 ACCESORIOS PARA EL CABELLO",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Completo set de accesorios para peinar y decorar tu cabello. Práctico, variado y con mucho estilo.",
   precios: {
     "2": 4.50,
@@ -734,7 +734,7 @@ const productos = [
 },
 {
   nombre: "2795EXCAVADORA A CONTROL REMOTO",
-  categoria: "Juguetes / Regalos",
+  categoria: "Navidad / Regalos",
   descripcion: "Excavadora realista con control remoto. Diversión garantizada para los fanáticos de la construcción.",
   precios: {
     "1": 17.90,
@@ -754,7 +754,7 @@ const productos = [
 },
 {
   nombre: "2790SET DE 12 GANCHITOS",
-  categoria: "Ropa / Accesorios",
+  categoria: "Belleza / Cosmética",
   descripcion: "Ganchitos coloridos y prácticos para sujetar el cabello o decorar peinados. Útiles y decorativos.",
   precios: {
     "2": 3.90,
@@ -1163,7 +1163,7 @@ const productos = [
 },
 {
   nombre: "5040SET PLASTILINA + MOLDES",
-  categoria: "Juguetes / Regalos",
+  categoria: "Escolar / Papelería",
   descripcion: "Set creativo con plastilina de colores y moldes incluidos. Perfecto para que los niños desarrollen su imaginación.",
   precios: {
     "1": 3.95,
@@ -2018,6 +2018,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
