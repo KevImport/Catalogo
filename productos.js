@@ -1390,7 +1390,7 @@ const productos = [
     "6": 3.55,
  },
   imagen: "Img/Imagen187.jpeg",
-  stock: 11
+  stock: 8
 },
 {
   nombre: "5080CINTA DOBLE CONTACTO",
@@ -1706,7 +1706,7 @@ const productos = [
     "3": 6.95,
  },
   imagen: "Img/Imagen223.jpeg",
-  stock: 5
+  stock: 4
 },
   {
   nombre: "5148SET DE 10 PROTECTORES DE HORNILLAS",
@@ -1919,7 +1919,7 @@ const productos = [
    "12": 1.95,
  },
   imagen: "Img/Imagen246.jpg",
-  stock: 19
+  stock: 13
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -1952,7 +1952,7 @@ const productos = [
    "3": 2.95,
  },
   imagen: "Img/Imagen249.png",
-  stock: 17
+  stock: 11
 },
 {
   nombre: "5220JOYERO VIAJERO",
@@ -2007,6 +2007,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
