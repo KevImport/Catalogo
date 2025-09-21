@@ -1995,6 +1995,28 @@ const productos = [
   stock: 1
 },
 {
+  nombre: "5232LUCES CASCADA 3 METROS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Crea un ambiente cálido y acogedor en tu hogar. Ideal para decorar fiestas, eventos o habitaciones. Fáciles de instalar, bajo consumo y con efecto mágico.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+ },
+  imagen: "Img/Imagen254.jpeg",
+  stock: 16
+},
+{
+  nombre: "5234MEDIAS DE COMPRESIÓN",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Mejoran la circulación y oxigenación de pies y piernas. Ideales para running, ciclismo, fútbol, básquet y más. Resistencia, comodidad y durabilidad en cada uso.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+ },
+  imagen: "Img/Imagen255.jpeg",
+  stock: 17
+},
+{
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
   descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
@@ -2007,6 +2029,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
