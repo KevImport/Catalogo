@@ -98,7 +98,7 @@ const productos = [
     "1": 3.95,
   },
   imagen: "Img/Imagen12.jpg",
-  stock: 3
+  stock: 1
 },
 {
   nombre: "5015LIMPIADOR MULTIUSOS",
@@ -396,17 +396,6 @@ const productos = [
   stock: 12
 },
 {
-  nombre: "4576MOLDE PARA GOMITAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Haz tus propias gomitas en casa. Molde de silicona reutilizable con figuras divertidas y fácil de desmoldar.",
-  precios: {
-    "1": 3.95,
-    "2": 2.95, 
-  },
-  imagen: "Img/Imagen61.jpg",
-  stock: 2
-},
-{
   nombre: "4547CORTADOR DE PASTILLA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Corte exacto y seguro. Herramienta compacta para dividir pastillas con precisión y sin esfuerzo.",
@@ -427,7 +416,7 @@ const productos = [
     "3": 3.50,
   },
   imagen: "Img/Imagen64.jpg",
-  stock: 5
+  stock: 3
 },
 {
   nombre: "4383MUÑEQUITO PARA CELULAR",
@@ -1303,7 +1292,7 @@ const productos = [
     "3": 2.95
   },
   imagen: "Img/Imagen175.jpeg",
-  stock: 10
+  stock: 9
 },
 {
   nombre: "4660CALZONCILLO CLÁSICO",
@@ -1446,7 +1435,7 @@ const productos = [
     "1": 9.90,
  },
   imagen: "Img/Imagen193.png",
-  stock: 11
+  stock: 10
 },
 {
   nombre: "5095AGENDA A5",
@@ -2018,6 +2007,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
