@@ -1894,19 +1894,7 @@ const productos = [
    "6": 3.65,
  },
   imagen: "Img/Imagen245.png",
-  stock: 7
-},
-{
-  nombre: "5211QUITAPELUSA PINGÜINO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
- },
-  imagen: "Img/Imagen245.png",
-  stock: 7
+  stock: 6
 },
 {
   nombre: "5213PACK PARCHES PARA EL DOLOR",
@@ -1916,10 +1904,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
- },
+  },
   imagen: "Img/Imagen246.jpg",
-  stock: 13
+  stock: 10
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -2029,6 +2016,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
