@@ -2194,11 +2194,11 @@ const productos = [
   stock: 14
 },
   {
-  nombre: "5257JUEGO DE EQUILIBRIO FROG BALANCE",
+  nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
   categoria: "Navidad / Regalos",
-  descripcion: "Desafía tu destreza colocando ranitas sin que caigan. Un juego dinámico y educativo para todas las edades. Ideal para compartir momentos de diversión en familia.",
+  descripcion: "Figuras de arbolitos con diseños navideños (Santa, reno, muñeco de nieve y más). Luces cálidas que crean un ambiente mágico y festivo. Ideal para decorar ventanas, salas o tu arbolito. Dale un brillo especial a tu Navidad. Medida: 3m x 1.5m",
   precios: {
-   "1": 6.95,
+   "1": 14.95,
  },
   imagen: "Img/Imagen273.jpeg",
   stock: 17
@@ -2226,6 +2226,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
