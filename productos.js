@@ -2159,7 +2159,7 @@ const productos = [
    "6": 4.55,
  },
   imagen: "Img/Imagen269.jpeg",
-  stock: 48
+  stock: 100
 },
  {
   nombre: "5255TAPIZ NAVIDEÑO",
@@ -2226,6 +2226,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
