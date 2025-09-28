@@ -390,10 +390,10 @@ const productos = [
     "1": 3.95,
     "3": 2.25,
     "6": 1.95,
-    "12": 1.65,
+    "10": 1.65,
   },
   imagen: "Img/Imagen59.jpg",
-  stock: 12
+  stock: 11
 },
 {
   nombre: "4547CORTADOR DE PASTILLA",
@@ -840,7 +840,7 @@ const productos = [
     "1": 24.90,
   },
   imagen: "Img/Imagen116.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "2380PORTA SANDALIAS",
@@ -957,10 +957,10 @@ const productos = [
   descripcion: "Elástico resistente de gran tamaño, ideal para recoger cabello abundante con firmeza y comodidad.",
   precios: {
     "1": 2.95,
-    "6": 1.85, 
+    "3": 1.85, 
   },
   imagen: "Img/Imagen128.jpg",
-  stock: 6
+  stock: 5
 },
 {
   nombre: "4979MASCARILLA CON COLÁGENO FLOWER SECRET",
@@ -968,10 +968,9 @@ const productos = [
   descripcion: "Mascarilla facial enriquecida con colágeno para hidratar y rejuvenecer la piel. Ideal para una rutina de belleza efectiva.",
   precios: {
     "1": 9.95,
-    "3": 8.95,
   },
   imagen: "Img/Imagen130.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "4927BOLSA DOY PACK DE 200 PAÑITOS HÚMEDOS PETETIN",
@@ -1548,10 +1547,10 @@ const productos = [
   descripcion: "Mantiene tus comidas frescas y a la temperatura ideal por más tiempo. Compacta, ligera y fácil de llevar al trabajo, colegio o picnic. Interior aislante y cremallera segura para conservar mejor tus alimentos.",
   precios: {
     "1": 5.95,
-    "3": 4.95,
+    "2": 4.95,
  },
   imagen: "Img/Imagen206.jpeg",
-  stock: 3
+  stock: 2
 },
  {
   nombre: "5120LLAVERO LÁSER MULTIFUNCIONAL",
@@ -2003,6 +2002,51 @@ const productos = [
   imagen: "Img/Imagen255.jpeg",
   stock: 17
 },
+ {
+  nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Transforma la forma de preparar y servir hielo en casa. Con caja para mantener el hielo fresco. Con pala para servir fácil y con estilo.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+ },
+  imagen: "Img/Imagen256.jpeg",
+  stock: 9
+},
+  {
+  nombre: "5236ORGANIZADOR DE ALIMENTOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ahorra espacio en tu nevera sin volcarse. Con asas prácticas para fácil transporte. Hecha de PP duradero y ecológico, ideal para hogar, trabajo o picnic.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+ },
+  imagen: "Img/Imagen257.jpeg",
+  stock: 18
+},
+  {
+  nombre: "5238GEL DE ALOE VERA ROSA HIDRATANTE BIOAQUA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "¡Descubre el secreto de una piel radiante y fresca! Enriquecido con aloe vera, brinda hidratación profunda. Ideal para todo tipo de piel, incluso la más sensible.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+ },
+  imagen: "Img/Imagen258.jpg",
+  stock: 23
+},
+ 
+  {
+  nombre: "5239LIMPIADOR SCHUBERT",
+  categoria: "Hogar / Cocina",
+  descripcion: "Renueva, limpia y protege con su fórmula especializada. Elimina suciedad y mugre de manera efectiva sin dañar superficies pintadas. Ideal para sillas, mesas, muebles y también para el carro. ¡Un solo producto para múltiples usos, práctico y de gran rendimiento!",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+ },
+  imagen: "Img/Imagen259.png",
+  stock: 8
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2016,6 +2060,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
