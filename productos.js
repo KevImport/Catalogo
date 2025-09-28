@@ -2035,8 +2035,7 @@ const productos = [
   imagen: "Img/Imagen258.jpg",
   stock: 23
 },
- 
-  {
+ {
   nombre: "5239LIMPIADOR SCHUBERT",
   categoria: "Hogar / Cocina",
   descripcion: "Renueva, limpia y protege con su fórmula especializada. Elimina suciedad y mugre de manera efectiva sin dañar superficies pintadas. Ideal para sillas, mesas, muebles y también para el carro. ¡Un solo producto para múltiples usos, práctico y de gran rendimiento!",
@@ -2046,6 +2045,52 @@ const productos = [
  },
   imagen: "Img/Imagen259.png",
   stock: 8
+},
+ {
+  nombre: "5243PACK DE 10 MASCARILLAS BIOAQUA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Pack de 10 mascarillas BIOAQUA. ¡Cuidado facial al siguiente nivel con Bioaqua! Perfectas para cada tipo de piel. Hidrata, revitaliza y luce un rostro radiante todos los días. ¡Elige tu favorita y conciéntete hoy mismo!",
+  precios: {
+   "1": 9.95,
+ },
+  imagen: "Img/Imagen260.jpeg",
+  stock: 6
+},
+  {
+  nombre: "5244INDIVIDUALES REDONDOS ROJOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Hechos de polipropileno tejido, resistentes y duraderos. Color rojo elegante que protege y decora tu mesa con estilo. Ideales para uso diario o para lucir en ocasiones especiales.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+ },
+  imagen: "Img/Imagen261.jpeg",
+  stock: 23
+},
+  {
+  nombre: "5246BOLSA DE REGALO NAVIDEÑA – 32 x 26 x 10 CM",
+  categoria: "Navidad / Regalos",
+  descripcion: "Diseño festivo, resistente y práctico para envolver tus obsequios. Ideal para ropa, juguetes, accesorios u otros presentes navideños. Tamaño perfecto y reutilizable para dar un toque especial a tus regalos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+ },
+  imagen: "Img/Imagen262.jpeg",
+  stock: 18
+},
+  {
+  nombre: "5248LLAVERO CEREZA",
+  categoria: "Accesorios",
+  descripcion: "Diseño tierno y moderno para darle estilo a tus llaves o bolso. Perfecto como regalo o para lucir un accesorio único y divertido.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+ },
+  imagen: "Img/Imagen263.jpg",
+  stock: 16
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2060,6 +2105,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
