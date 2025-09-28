@@ -2092,6 +2092,127 @@ const productos = [
   imagen: "Img/Imagen263.jpg",
   stock: 16
 },
+ {
+  nombre: "5078PERFUME DE MUJER JPS23",
+  categoria: "Accesorios",
+  descripcion: "DUPE: Scandal - Aroma seductor y femenino con un toque atrevido. Diseño único con piernas en tacones ¡pura actitud! Contenido: 250ml – ideal para destacar donde vayas.",
+  precios: {
+   "1": 13.95,
+ },
+  imagen: "Img/Imagen264.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5249BIOBELL PLACENTA CAPILAR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Revitalizante con Panthenol, para evitar la caída del cabello. Te deja el cabello sumamente suave y brilloso. Revitaliza el cabello, combate la caspa, grasa , seborrea y ayuda a frenar la caída. Capacidad: 15ML",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+ },
+  imagen: "Img/Imagen265.jpg",
+  stock: 53
+},
+ {
+  nombre: "5251PALETA DE MAQUILLAJE MARIPOSA",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Incluye una amplia variedad de tonos vibrantes y elegantes para cada ocasión. Ideal para looks diarios o maquillajes más atrevidos y coloridos. Compacta y práctica, perfecta para llevar a todos lados.",
+  precios: {
+   "1": 10.95,
+   "3": 9.95,
+ },
+  imagen: "Img/Imagen266.jpeg",
+  stock: 4
+},
+ {
+  nombre: "5252ROLLO DE STICKERS PARA CONDIMENTOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Transforma tu cocina, despensa u oficina con estas prácticas y elegantes. Ideales para organizar frascos de especias, contenedores de alimentos, cajas de almacenamiento y más. Incluye plumón blanco, contiene 120 stickers aproximadamente.",
+  precios: {
+   "1": 4.95,
+   "3": 3.65,
+   "3": 3.35,
+ },
+  imagen: "Img/Imagen267.jpeg",
+  stock: 7
+},
+ {
+  nombre: "5253MINI SELLADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mini sellador de bolsas recargable. Mantén tus alimentos frescos por más tiempo. Práctico, portátil y fácil de usar en segundos.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+ },
+  imagen: "Img/Imagen268.png",
+  stock: 11
+},
+ {
+  nombre: "5254CARRITOS HW",
+  categoria: "Decoración / Fiesta",
+  descripcion: "De imitación, presentación: Blíster, para tus sorpresas, día del novio, graduado, cumpleaños, etc.",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+ },
+  imagen: "Img/Imagen269.jpeg",
+  stock: 48
+},
+ {
+  nombre: "5255TAPIZ NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu hogar con un toque festivo y acogedor. Ideal para pared, sala o fondo de fotos. Medida: 250 x 220 cm",
+  precios: {
+   "1": 23.95,
+ },
+  imagen: "Img/Imagen270.png",
+  stock: 5
+},
+ {
+  nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque mágico y personalizado a tus celebraciones. Perfectas para pasteles, cupcakes o postres festivos. Un detalle que ilumina momentos inolvidables.",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+ },
+  imagen: "Img/Imagen271.png",
+  stock: 11
+},
+ {
+  nombre: "5257JUEGO DE EQUILIBRIO FROG BALANCE",
+  categoria: "Navidad / Regalos",
+  descripcion: "Desafía tu destreza colocando ranitas sin que caigan. Un juego dinámico y educativo para todas las edades. Ideal para compartir momentos de diversión en familia.",
+  precios: {
+   "1": 6.95,
+ },
+  imagen: "Img/Imagen272.png",
+  stock: 14
+},
+  {
+  nombre: "5257JUEGO DE EQUILIBRIO FROG BALANCE",
+  categoria: "Navidad / Regalos",
+  descripcion: "Desafía tu destreza colocando ranitas sin que caigan. Un juego dinámico y educativo para todas las edades. Ideal para compartir momentos de diversión en familia.",
+  precios: {
+   "1": 6.95,
+ },
+  imagen: "Img/Imagen273.jpeg",
+  stock: 17
+},
+ {
+  nombre: "5214GOMITAS SOTTCOR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alivio de la inflamación: El consumo regular reduce significativamente las molestias inflamatorias, especialmente en el área abdominal. Potente acción antioxidante: Protege las células del daño oxidativo acumulativo, ayudando a prevenir el envejecimiento y enfermedades relacionadas con el estrés oxidativo. Además: Cuidado articular, protección hepática, regulador de la presión arterial.",
+  precios: {
+   "1": 23.90,
+ },
+  imagen: "Img/Imagen274.jpeg",
+  stock: 1
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2105,6 +2226,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
