@@ -1873,18 +1873,6 @@ const productos = [
   stock: 10
 },
 {
-  nombre: "5211QUITAPELUSA PINGÜINO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
- },
-  imagen: "Img/Imagen245.png",
-  stock: 6
-},
-{
   nombre: "5213PACK PARCHES PARA EL DOLOR",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "El pack contiene 10 parches. Parches para el dolor de cuello, columna y rodilla, hechos a base de hierbas. Este parche analgésico externo auto calentable puede aliviar rápidamente todo tipo de dolor, mantener el calor, mantener la sangre, reducir la inflamación y aliviar el dolor. Ya sea que desee aliviar sus hombros, pies, espalda, cuello o rodillas.",
@@ -2158,7 +2146,7 @@ const productos = [
    "1": 23.95,
  },
   imagen: "Img/Imagen270.png",
-  stock: 5
+  stock: 4
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -2205,6 +2193,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
