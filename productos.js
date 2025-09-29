@@ -313,7 +313,7 @@ const productos = [
     "1": 5.95,
   },
   imagen: "Img/Imagen49.jpg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "4831GUANTES TOUCH",
@@ -416,7 +416,7 @@ const productos = [
     "3": 3.50,
   },
   imagen: "Img/Imagen64.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "4383MUÑEQUITO PARA CELULAR",
@@ -1025,7 +1025,7 @@ const productos = [
     "1": 26.90,
   },
   imagen: "Img/Imagen137.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "4885DELINEADOR 2 EN 1",
@@ -1088,10 +1088,10 @@ const productos = [
   descripcion: "Parches reductores para zonas específicas del cuerpo. Apóyate en tu rutina fitness con este práctico complemento.",
   precios: {
     "1": 3.95,
-    "3": 2.95,
+    "2": 2.95,
   },
   imagen: "Img/Imagen145.jpg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "4670MÁSCARA DE PESTAÑAS",
@@ -1336,7 +1336,7 @@ const productos = [
     "1": 9.95
  },
   imagen: "Img/Imagen181.jpeg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "5071CREMA FACIAL ANTIARRUGAS CON VITAMINA C",
@@ -1346,7 +1346,7 @@ const productos = [
     "1": 9.95
  },
   imagen: "Img/Imagen182.jpeg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "5074PAQUETE DE 20 PAPELES FOTOGRÁFICOS BRILLANTE A4",
@@ -1547,10 +1547,9 @@ const productos = [
   descripcion: "Mantiene tus comidas frescas y a la temperatura ideal por más tiempo. Compacta, ligera y fácil de llevar al trabajo, colegio o picnic. Interior aislante y cremallera segura para conservar mejor tus alimentos.",
   precios: {
     "1": 5.95,
-    "2": 4.95,
  },
   imagen: "Img/Imagen206.jpeg",
-  stock: 2
+  stock: 1
 },
  {
   nombre: "5120LLAVERO LÁSER MULTIFUNCIONAL",
@@ -1749,7 +1748,7 @@ const productos = [
     "1": 12.90,
  },
   imagen: "Img/Imagen229.jpg",
-  stock: 2
+  stock: 1
 },
  {
   nombre: "5169PACK DE 10 BOLSITAS DULCERAS",
@@ -1815,7 +1814,7 @@ const productos = [
    "3": 2.55,
  },
   imagen: "Img/Imagen238.jpeg",
-  stock: 6
+  stock: 5
 },
  {
   nombre: "5182BRAZALETE SERPENTEADO",
@@ -1839,17 +1838,7 @@ const productos = [
   imagen: "Img/Imagen240.jpeg",
   stock: 6
 },
- {
-  nombre: "5193SET DE ARGOLLAS",
-  categoria: "Accesorios",
-  descripcion: "Desde pequeñas hasta grandes, un clásico infaltable en tu colección de aretes. Versátiles para cualquier ocasión. Diseño ligero y cómodo de usar. Combínalas según tu estilo.",
-  precios: {
-   "1": 4.95,
- },
-  imagen: "Img/Imagen241.jpeg",
-  stock: 1
-},
-  {
+{
   nombre: "5195CASCADA DE INCIENSO",
   categoria: "Hogar / Cocina",
   descripcion: "Porta incienso tipo cascada de cerámica, ideal para crear un ambiente relajante. Al colocar el cono, el humo desciende en forma de cascada mágica. Medida: 10 × 11 × 3.5 cm – colores surtidos. Perfecto para meditación, yoga o decorar tu espacio con estilo.",
@@ -1938,7 +1927,7 @@ const productos = [
    "3": 2.95,
  },
   imagen: "Img/Imagen249.png",
-  stock: 11
+  stock: 10
 },
 {
   nombre: "5220JOYERO VIAJERO",
@@ -2022,7 +2011,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen257.jpeg",
-  stock: 18
+  stock: 6
 },
   {
   nombre: "5238GEL DE ALOE VERA ROSA HIDRATANTE BIOAQUA",
@@ -2033,7 +2022,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen258.jpg",
-  stock: 23
+  stock: 22
 },
  {
   nombre: "5239LIMPIADOR SCHUBERT",
@@ -2113,7 +2102,7 @@ const productos = [
    "12": 2.35,
  },
   imagen: "Img/Imagen265.jpg",
-  stock: 53
+  stock: 29
 },
  {
   nombre: "5251PALETA DE MAQUILLAJE MARIPOSA",
@@ -2124,7 +2113,7 @@ const productos = [
    "3": 9.95,
  },
   imagen: "Img/Imagen266.jpeg",
-  stock: 4
+  stock: 3
 },
  {
   nombre: "5252ROLLO DE STICKERS PARA CONDIMENTOS",
@@ -2201,17 +2190,7 @@ const productos = [
    "1": 14.95,
  },
   imagen: "Img/Imagen273.jpeg",
-  stock: 17
-},
- {
-  nombre: "5214GOMITAS SOTTCOR",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Alivio de la inflamación: El consumo regular reduce significativamente las molestias inflamatorias, especialmente en el área abdominal. Potente acción antioxidante: Protege las células del daño oxidativo acumulativo, ayudando a prevenir el envejecimiento y enfermedades relacionadas con el estrés oxidativo. Además: Cuidado articular, protección hepática, regulador de la presión arterial.",
-  precios: {
-   "1": 23.90,
- },
-  imagen: "Img/Imagen274.jpeg",
-  stock: 1
+  stock: 16
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2226,6 +2205,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
