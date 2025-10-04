@@ -58,18 +58,6 @@ const productos = [
   stock: 24
 },
 {
-  nombre: "5042ROMPE CHORRO",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Ahorra agua y evita salpicaduras! Este rompe chorro se adapta fácilmente a cualquier grifo.",
-  precios: {
-    "1": 3.95,
-    "3": 2.15,
-    "6": 1.85,
-  },
-  imagen: "Img/Imagen7.jpg",
-  stock: 6
-},
-{
   nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
   categoria: "Navidad / Regalos",
   descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
@@ -1262,16 +1250,6 @@ const productos = [
   stock: 5
 },
 {
-  nombre: "5059PROTECTOR DE SOFA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Comodidad y estilo en uno. Cuida tu sofá del polvo, manchas y pelitos con este protector práctico y elegante.  Se adapta fácilmente, es lavable y perfecto para hogares con niños o mascotas. ¡Renueva tu sala sin cambiar de mueble!. De material: poliester, medida aprox.: 1.7 x 2.35 m.",
-  precios: {
-    "1": 19.90
-  },
-  imagen: "Img/Imagen174.jpeg",
-  stock: 6
-},
-{
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
   categoria: "Decoración / Fiesta",
   descripcion: "Perfectas para fiestas, reuniones o el día a día. Resistentes, coloridas y súper prácticas. ",
@@ -2182,6 +2160,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
