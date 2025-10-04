@@ -1705,7 +1705,7 @@ const productos = [
     "3": 7.90,
  },
   imagen: "Img/Imagen227.png",
-  stock: 7
+  stock: 4
 },
   {
   nombre: "5158SHAMPOO DE ROMERO",
@@ -1758,7 +1758,7 @@ const productos = [
    "6": 4.55,
  },
   imagen: "Img/Imagen236.jpeg",
-  stock: 12
+  stock: 11
 },
   {
   nombre: "5180SET DE 10 INCIENSO RECTANGULAR",
@@ -2103,7 +2103,7 @@ const productos = [
    "6": 4.55,
  },
   imagen: "Img/Imagen269.jpeg",
-  stock: 100
+  stock: 23
 },
  {
   nombre: "5255TAPIZ NAVIDEÑO",
@@ -2135,7 +2135,7 @@ const productos = [
    "1": 6.95,
  },
   imagen: "Img/Imagen272.png",
-  stock: 14
+  stock: 12
 },
   {
   nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
@@ -2146,6 +2146,153 @@ const productos = [
  },
   imagen: "Img/Imagen273.jpeg",
   stock: 16
+},
+   {
+  nombre: "5267MOUSE & RAT",
+  categoria: "Hogar / Cocina",
+  descripcion: "¿Cansado de las ratas y pericotes? Aquí llegó a la solución en el nuevo PEGA RATA ,su fácil y simple manejo te brinda excelentes resultados, dile adiós a los roedores.",
+  precios: {
+   "1": 3.95,
+   "3": 2.15,
+   "6": 1.85,
+   "12": 1.55,
+ },
+  imagen: "Img/Imagen275.jpeg",
+  stock: 16
+},
+   {
+  nombre: "5268CABLE 4 EN 1",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Potencia de 65W. Versátil, resistente y perfecto para el día a día. Ideal para viajes, oficina o uso diario en casa.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+ },
+  imagen: "Img/Imagen276.png",
+  stock: 10
+},
+  {
+  nombre: "5269MINI CEPILLO CON ESPEJO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Puedes llevarlo a todos lados para verte perfecta y linda siempre. Peine retráctil e incluye espejo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+ },
+  imagen: "Img/Imagen277.png",
+  stock: 19
+},
+  {
+  nombre: "5270PLANCHA DE LIGUITAS PARA EL CABELLO",
+  categoria: "Accesorios",
+  descripcion: "Incluye variedad de colores vibrantes y divertidos. Ideales para peinados diarios y ocasiones especiales. Suaves, resistentes y cómodas de usar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen278.jpeg",
+  stock: 16
+},
+ {
+  nombre: "5271BOLA DE NIEVE NAVIDEÑA SANTA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Adorno decorativo con figura de Papá Noel. Base roja con lazo dorado y mensaje Merry Christmas. Ideal para decorar tu hogar o regalar en esta Navidad.  Un detalle clásico y encantador para celebrar la temporada. Medida aprox.: 9cm",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen279.jpeg",
+  stock: 22
+},
+  {
+  nombre: "5272MANDIL CON SECADOR NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Material: tela impermeable, en los costados cuenta con toalla absorbente de franela terciopelo coralino. Resistente al aceite para proteger tu ropa, medida aprox.: 70 x 65 cm.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "Img/Imagen280.jpeg",
+  stock: 11
+},
+ {
+  nombre: "5273VELA FLOR MUSICAL DE CUMPLEAÑOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Al encenderla se abre en forma de flor y gira con música. Cada pétalo incluye pequeñas velitas encendidas. Ideal para dar un toque mágico y especial a la celebración.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen281.png",
+  stock: 37
+},
+  {
+  nombre: "5274DESATORADOR DE TUBERÍAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Desatorador en polvo para tuberías! Disuelve grasa, cabello y residuos en minutos. Ideal para lavamanos, duchas y desagües.",
+  precios: {
+   "1": 4.95,
+  },
+  imagen: "Img/Imagen282.png",
+  stock: 6
+},
+ {
+  nombre: "5275ORGANIZADOR COLGANTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Optimiza tu espacio y mantiene todo ordenado. Perfecto para ropa, toallas o pañales. Diseño colgante para encontrar todo rápido.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "Img/Imagen283.jpeg",
+  stock: 26
+},
+  {
+  nombre: "5276CORTADOR ONDAS DE PAPAS Y VERDURAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Corta papas, verduras y frutas con un divertido estilo ondulado. Acero inoxidable y mango cómodo para uso rápido y seguro. Crea platos creativos y atractivos en segundos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.55,
+  },
+  imagen: "Img/Imagen284.png",
+  stock: 24
+},
+  {
+  nombre: "5277PASTILLA PARA TANQUE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpiador concentrado ultra fuerte y durable. Mata gérmenes y bacterias. Desodoriza y evita las manchas. No daña las cañerías, no mancha ni deja residuos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+  },
+  imagen: "Img/Imagen285.png",
+  stock: 18
+},
+  {
+  nombre: "5278PIJAMA DE DOS PIEZAS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Conjunto: camiseta manga corta + short. Cómodo, ligero y perfecto para descansar con estilo.",
+  precios: {
+   "1": 9.90,
+  },
+  imagen: "Img/Imagen286.jpeg",
+  stock: 3
+},
+   {
+  nombre: "5280GNOMO DECORATIVO DE 30 CM",
+  categoria: "Navidad / Regalos",
+  descripcion: "Perfecto para decorar tu hogar en cualquier temporada. Ideal para regalos y adornos festivos. Hecho con detalles únicos que le dan un toque mágico.",
+  precios: {
+   "1": 11.95,
+  },
+  imagen: "Img/Imagen287.png",
+  stock: 2
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2160,6 +2307,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
