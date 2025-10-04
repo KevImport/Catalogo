@@ -1210,21 +1210,10 @@ const productos = [
   descripcion: "Lápiz porta mina con diseño adorable de Sanrio. Ideal para estudiantes que disfrutan de lo tierno y funcional.",
   precios: {
     "1": 2.95,
-    "3": 1.95,
+    "2": 1.95,
   },
   imagen: "Img/Imagen162.jpg",
-  stock: 3
-},
-{
-  nombre: "4454ROLLO CONTACT 1.5m",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Rollo adhesivo decorativo de 1.5 metros para proteger, forrar o personalizar superficies. Fácil de cortar y aplicar.",
-  precios: {
-    "1": 3.90,
-    "3": 2.90,
-  },
-  imagen: "Img/Imagen163.jpg",
-  stock: 1
+  stock: 2
 },
 {
   nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
@@ -2193,6 +2182,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
