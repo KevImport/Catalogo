@@ -2179,7 +2179,7 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.25,
-   "3": 2.95,
+   "6": 2.95,
   },
   imagen: "Img/Imagen281.png",
   stock: 37
@@ -2263,6 +2263,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
