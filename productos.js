@@ -2240,16 +2240,6 @@ const productos = [
   imagen: "Img/Imagen286.jpeg",
   stock: 3
 },
-   {
-  nombre: "5280GNOMO DECORATIVO DE 30 CM",
-  categoria: "Navidad / Regalos",
-  descripcion: "Perfecto para decorar tu hogar en cualquier temporada. Ideal para regalos y adornos festivos. Hecho con detalles únicos que le dan un toque mágico.",
-  precios: {
-   "1": 11.95,
-  },
-  imagen: "Img/Imagen287.png",
-  stock: 2
-},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2263,6 +2253,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
