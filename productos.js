@@ -131,7 +131,7 @@ const productos = [
     "12": 1.95,
   },
   imagen: "Img/Imagen19.jpg",
-  stock: 31
+  stock: 17
 },
 {
   nombre: "4986MOLDE DE SILICONA",
@@ -438,18 +438,6 @@ const productos = [
     "10": 1.50,
   },
   imagen: "Img/Imagen70.jpg",
-  stock: 10
-},
-{
-  nombre: "4195JUGUETE RESORTE RAINBOW",
-  categoria: "Navidad / Regalos",
-  descripcion: "¡Diversión sin fin! Juguete resorte con colores arcoíris, ideal para jugar en escaleras o mesas.",
-  precios: {
-    "1": 2.90,
-    "5": 1.80,
-    "10": 1.50,
-  },
-  imagen: "Img/Imagen72.jpg",
   stock: 10
 },
 {
@@ -961,17 +949,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4927BOLSA DOY PACK DE 200 PAÑITOS HÚMEDOS PETETIN",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Bolsa resellable con 200 pañitos húmedos de alta calidad. Ideal para el hogar o llevar en viajes largos.",
-  precios: {
-    "1": 8.95,
-    "6": 7.95,
-  },
-  imagen: "Img/Imagen133.jpg",
-  stock: 33
-},
-{
   nombre: "4924STICKERS PARA UÑAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Diseños creativos en stickers para uñas, fáciles de aplicar y perfectos para lograr un look profesional en casa.",
@@ -1111,10 +1088,10 @@ const productos = [
   descripcion: "Pestañas de efecto 6D para una mirada impactante. Mayor volumen y curvatura para destacar tu belleza.",
   precios: {
     "1": 4.90,
-    "3": 3.20,
+    "2": 3.20,
   },
   imagen: "Img/Imagen150.jpg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "4680CACHETERO CAPIBARA PARA NIÑA",
@@ -1294,16 +1271,6 @@ const productos = [
  },
   imagen: "Img/Imagen180.jpeg",
   stock: 1
-},
- {
-  nombre: "5070ACEITE DE ARGAN 60ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Nutre, suaviza y repara puntas abiertas. Aporta brillo y controla el frizz. Rico en vitamina E y ácidos grasos. Práctico tamaño para llevar a donde quieras.",
-  precios: {
-    "1": 9.95
- },
-  imagen: "Img/Imagen181.jpeg",
-  stock: 2
 },
 {
   nombre: "5071CREMA FACIAL ANTIARRUGAS CON VITAMINA C",
@@ -1816,17 +1783,6 @@ const productos = [
   imagen: "Img/Imagen242.jpeg",
   stock: 3
 },
-{
-  nombre: "5200PORTAVELAS DE CRISTAL",
-  categoria: "Hogar / Cocina",
-  descripcion: "Aporta un brillo elegante y sofisticado a tu hogar o eventos. Perfecto para crear ambientes cálidos y mágicos. Ideal como decoración o detalle especial para ocasiones únicas.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
- },
-  imagen: "Img/Imagen243.jpeg",
-  stock: 3
-},
  {
   nombre: "5204NACIMIENTO LED",
   categoria: "Hogar / Cocina",
@@ -2307,6 +2263,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
