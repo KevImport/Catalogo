@@ -65,7 +65,7 @@ const productos = [
     "1": 6.95,
   },
   imagen: "Img/Imagen9.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "5027CURITAS X 100",
@@ -1966,7 +1966,7 @@ const productos = [
    "6": 2.65,
  },
   imagen: "Img/Imagen261.jpeg",
-  stock: 23
+  stock: 17
 },
   {
   nombre: "5246BOLSA DE REGALO NAVIDEÑA – 32 x 26 x 10 CM",
@@ -2215,7 +2215,7 @@ const productos = [
    "6": 2.55,
   },
   imagen: "Img/Imagen284.png",
-  stock: 24
+  stock: 23
 },
   {
   nombre: "5277PASTILLA PARA TANQUE",
@@ -2253,6 +2253,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
