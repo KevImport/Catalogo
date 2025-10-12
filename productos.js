@@ -2240,6 +2240,53 @@ const productos = [
   imagen: "Img/Imagen286.jpeg",
   stock: 3
 },
+   {
+  nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Contiene 50 notas con temática navideña. Diseños encantadores. Ideales para apuntes, recordatorios y mensajes especiales. Un detalle práctico y festivo para la temporada.",
+  precios: {
+   "1": 2.95,
+   "5": 1.25,
+   "10": 0.95,
+  },
+  imagen: "Img/Imagen288.jpeg",
+  stock: 60
+},
+  {
+  nombre: "5284CEPILLO DE VAPORIZADOR DE MASCOTAS",
+  categoria: "Mascotas",
+  descripcion: "Elimina nudos y enredos fácilmente. Suaviza el pelaje con vapor para mayor comodidad. Ideal para perros y gatos de todo tipo de pelo. ¡Cepillado sin estrés y con más brillo!.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+  },
+  imagen: "Img/Imagen289.png",
+  stock: 9
+},
+ {
+  nombre: "5285CAJA DE ABEJITAS",
+  categoria: "Pirotecnicos",
+  descripcion: "Presentación: Caja con 12 unidades. ¡Los clásicos cohetes que nunca faltan! Diversión segura para celebraciones y momentos especiales. Ideal para fiestas, cumpleaños, Año Nuevo y cualquier ocasión festiva.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen290.jpeg",
+  stock: 20
+},
+ {
+  nombre: "5286CAJITA TRONADORES",
+  categoria: "Pirotecnicos",
+  descripcion: "Presentación: Cajita con 50 tronadores. Los clásicos truquitos explosivos que hacen “¡pop!” al lanzarlos. Diversión segura para chicos y grandes. Perfecto para cumpleaños, reuniones y celebraciones especiales.",
+  precios: {
+   "1": 2.95,
+   "3": 1.25,
+   "6": 0.95,
+  },
+  imagen: "Img/Imagen291.jpeg",
+  stock: 250
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2253,6 +2300,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
