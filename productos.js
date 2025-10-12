@@ -2036,7 +2036,7 @@ const productos = [
    "3": 3.35,
  },
   imagen: "Img/Imagen267.jpeg",
-  stock: 7
+  stock: 4
 },
  {
   nombre: "5253MINI SELLADOR",
@@ -2184,16 +2184,6 @@ const productos = [
   imagen: "Img/Imagen281.png",
   stock: 37
 },
-  {
-  nombre: "5274DESATORADOR DE TUBERÍAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Desatorador en polvo para tuberías! Disuelve grasa, cabello y residuos en minutos. Ideal para lavamanos, duchas y desagües.",
-  precios: {
-   "1": 4.95,
-  },
-  imagen: "Img/Imagen282.png",
-  stock: 6
-},
  {
   nombre: "5275ORGANIZADOR COLGANTE",
   categoria: "Hogar / Cocina",
@@ -2215,7 +2205,7 @@ const productos = [
    "6": 2.55,
   },
   imagen: "Img/Imagen284.png",
-  stock: 23
+  stock: 20
 },
   {
   nombre: "5277PASTILLA PARA TANQUE",
@@ -2412,6 +2402,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
