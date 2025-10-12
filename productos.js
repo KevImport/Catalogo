@@ -2287,6 +2287,118 @@ const productos = [
   imagen: "Img/Imagen291.jpeg",
   stock: 250
 },
+  {
+  nombre: "5287SARTA DE COHETECILLOS",
+  categoria: "Pirotecnicos",
+  descripcion: "Encender la mecha y apartarse a una distancia moderada. Se sugiere emplearse bajo la supervisión de un adulto.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+  },
+  imagen: "Img/Imagen292.jpeg",
+  stock: 110
+},
+  {
+  nombre: "5288PAVITO REAL – FUEGOS ARTIFICIALES",
+  categoria: "Pirotecnicos",
+  descripcion: "Disfruta del increíble efecto colorido en forma de pavo real que ilumina la noche. Ideal para celebraciones y momentos especiales.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "Img/Imagen293.jpeg",
+  stock: 40
+},
+ {
+  nombre: "5289DOCENA DE CHISPITAS MARIPOSA",
+  categoria: "Pirotecnicos",
+  descripcion: "Destellos brillantes que hacen tus fiestas más mágicas. Perfectas para celebraciones, cumpleaños y momentos especiales.",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+  },
+  imagen: "Img/Imagen294.jpeg",
+  stock: 6
+},
+  {
+  nombre: "5290PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tamaño amplio para múltiples reparaciones. Ideal para sofás, asientos, carteras y más. Resistente, elegante y fácil de aplicar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "Img/Imagen295.png",
+  stock: 7
+},
+  {
+  nombre: "5291BURLETE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Material: PU + esponja",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+   "12": 2.65,
+  },
+  imagen: "Img/Imagen296.png",
+  stock: 25
+},
+   {
+  nombre: "5292MOLDE PARA HIELO FACIAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Se usa para darle firmeza al rostro. Desinflama ojeras. Puedes utilizarlo en cualquier zona del cuerpo. Incluso para golpes, ya que ayuda a desinflamar. Ayuda a prevenir las arrugas. Puede usarse para bajar la temperatura de la fiebre.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "Img/Imagen297.png",
+  stock: 16
+},
+   {
+  nombre: "5297PROTECTOR SOLAR BIOAQUA SPF50+",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Fórmula ligera que protege tu piel de los rayos UVA y UVB. Hidratante, no grasoso y de rápida absorción para uso diario. Ideal para rostro y cuerpo, dejando la piel suave y luminosa.",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "Img/Imagen298.png",
+  stock: 1
+},
+  {
+  nombre: "5299PACK DE 10 IMPERDIBLES DE PANTALÓN CON PERLAS",
+  categoria: "Accesorios",
+  descripcion: "Accesorio elegante para ajustar la cintura de tus jeans sin necesidad de coser.  Decorado con perlas y detalles dorados que añaden un toque chic. Práctico, reutilizable y perfecto para realzar tu estilo diario. Medida aprox.: 7 cm",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen299.png",
+  stock: 2
+},
+  {
+  nombre: "5300JABONERA PORTATIL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ligera y fácil de transportar, ideal para llevar tu jabón a cualquier lugar. Su tapa unida la hace más resistente y evita derrames. Perfecta para casa, viajes, camping o actividades al aire libre.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "Img/Imagen300.jpg",
+  stock: 18
+},
+  {
+  nombre: "5303SET DE 2 SUJETADORES IMANTADOS DE CORTINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño magnético, fácil de usar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+  },
+  imagen: "Img/Imagen301.jpeg",
+  stock: 11
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2300,6 +2412,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
