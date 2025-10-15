@@ -242,7 +242,7 @@ const productos = [
 },
 {
   nombre: "4861PACK DE 12 VINCHAS",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "Colores para cada día. Set de 12 vinchas elásticas, cómodas y perfectas para peinados o uso diario.",
   precios: {
     "1": 8.90,
@@ -252,7 +252,7 @@ const productos = [
 },
 {
   nombre: "4855CHAL",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "Elegancia ligera. Chal suave y versátil ideal para climas frescos o complementar cualquier look.",
   precios: {
     "1": 7.95,
@@ -284,11 +284,10 @@ const productos = [
 },
 {
   nombre: "4843COLLAR EQUIPO",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "Muestra tu pasión por tu equipo. Collar con dije deportivo, ideal como regalo o uso diario.",
   precios: {
     "1": 7.95,
-    "2": 6.95,
   },
   imagen: "Img/Imagen47.jpg",
   stock: 1
@@ -305,7 +304,7 @@ const productos = [
 },
 {
   nombre: "4831GUANTES TOUCH",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "¡Tecnología al alcance de tus dedos! Guantes cálidos compatibles con pantallas táctiles. Ideal para invierno.",
   precios: {
     "1": 4.95,
@@ -316,7 +315,7 @@ const productos = [
 },
 {
   nombre: "4775BOLSO CORAZÓN",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "Tierno y a la moda. Bolso en forma de corazón con correa ajustable, ideal para salidas casuales o regalar.",
   precios: {
     "1": 8.90,
@@ -716,7 +715,7 @@ const productos = [
 },
 {
   nombre: "2717LIGA DE CIERRE",
-  categoria: "Ropa / Accesorios",
+  categoria: "Hogar / Cocina",
   descripcion: "Liga multiuso con cierre resistente. Ideal para sujetar cables, bolsas o accesorios personales.",
   precios: {
     "5": 1.20,
@@ -893,7 +892,7 @@ const productos = [
 },
 {
   nombre: "5016COLET ESPIRAL CORAZÓN",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "Colet tipo espiral con diseño de corazón. No maltrata el cabello y añade un toque de estilo.",
   precios: {
     "1": 2.95,
@@ -905,7 +904,7 @@ const productos = [
 },
 {
   nombre: "4992COLET BASE GRANDE",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "Elástico resistente de gran tamaño, ideal para recoger cabello abundante con firmeza y comodidad.",
   precios: {
     "1": 2.95,
@@ -1463,7 +1462,7 @@ const productos = [
 },
  {
   nombre: "5121VINCHA TRENZA",
-  categoria: "Ropa / Accesorios",
+  categoria: "Accesorios",
   descripcion: "El accesorio perfecto para darle un toque chic y elegante a tu look. Cómoda, ligera y fácil de combinar con cualquier outfit. Ideal para uso diario, eventos o para resaltar tu peinado con estilo.",
   precios: {
     "1": 3.95,
@@ -2346,6 +2345,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
