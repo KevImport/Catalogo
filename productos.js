@@ -371,19 +371,6 @@ const productos = [
   stock: 12
 },
 {
-  nombre: "4622SET DE 5 FUNDAS PARA CEPILLO DE DIENTES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Protege tus cepillos con estilo. Set de 5 fundas plásticas, ideales para viajes o mantener la higiene en casa.",
-  precios: {
-    "1": 3.95,
-    "3": 2.25,
-    "6": 1.95,
-    "10": 1.65,
-  },
-  imagen: "Img/Imagen59.jpg",
-  stock: 11
-},
-{
   nombre: "4547CORTADOR DE PASTILLA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Corte exacto y seguro. Herramienta compacta para dividir pastillas con precisión y sin esfuerzo.",
@@ -859,17 +846,6 @@ const productos = [
   stock: 12
 },
 {
-  nombre: "2410CUCHARÓN ARDILLA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Divertido cucharón con forma de ardilla. Ideal para servir sopas o guisos y alegrar tus momentos en la cocina.",
-  precios: {
-    "1": 1.90,
-    "3": 0.90,
-  },
-  imagen: "Img/Imagen121.png",
-  stock: 6
-},
-{
   nombre: "2415CAJA CUADRADA",
   categoria: "Organización / Almacenamiento",
   descripcion: "Caja cerrada de 8.5 x 8.5 x 2.5 cm, fabricada en material Foldcote color blanco. Incluye espuma en su interior para mayor protección.",
@@ -947,17 +923,6 @@ const productos = [
   },
   imagen: "Img/Imagen130.jpg",
   stock: 2
-},
-{
-  nombre: "4924STICKERS PARA UÑAS",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Diseños creativos en stickers para uñas, fáciles de aplicar y perfectos para lograr un look profesional en casa.",
-  precios: {
-    "1": 3.95,
-    "6": 2.95, 
-  },
-  imagen: "Img/Imagen134.jpg",
-  stock: 3
 },
 {
   nombre: "4920SET DE UÑAS POSTIZAS - MODELO #2",
@@ -1145,7 +1110,7 @@ const productos = [
     "1": 8.95,
   },
   imagen: "Img/Imagen159.jpg",
-  stock: 6
+  stock: 5
 },
 {
   nombre: "4650GUILLOTINA SANRIO / CAPIBARA",
@@ -1368,7 +1333,7 @@ const productos = [
     "1": 9.90,
  },
   imagen: "Img/Imagen193.png",
-  stock: 10
+  stock: 9
 },
 {
   nombre: "5095AGENDA A5",
@@ -1528,17 +1493,6 @@ const productos = [
   imagen: "Img/Imagen210.jpeg",
   stock: 3
 },
-{
-  nombre: "5133TERMÓMETRO DE COCINA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para carnes, postres, líquidos y más. Lectura rápida y precisa en segundos. Fácil de usar, práctico y portátil. ¡El aliado perfecto para tus recetas!",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
- },
-  imagen: "Img/Imagen212.jpeg",
-  stock: 3
-},
  {
   nombre: "5134SOPORTE UNIVERSAL PARA AUTO",
   categoria: "Electrónica / Gadgets",
@@ -1580,7 +1534,7 @@ const productos = [
     "3": 3.95,
  },
   imagen: "Img/Imagen217.jpeg",
-  stock: 23
+  stock: 34
 },
    {
   nombre: "5142PACK ASEO DENTAL",
@@ -1871,16 +1825,6 @@ const productos = [
   stock: 1
 },
 {
-  nombre: "5229PROTECTOR TÉRMICO ARGÀN – 290 ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Protege tu cabello del calor de planchas y secadoras mientras lo nutre y fortalece. De Argán, brillo + nutrición intensa. Luce un cabello sano, sedoso y radiante todos los días.",
-  precios: {
-   "1": 8.90,
- },
-  imagen: "Img/Imagen253.png",
-  stock: 1
-},
-{
   nombre: "5232LUCES CASCADA 3 METROS",
   categoria: "Navidad / Regalos",
   descripcion: "Crea un ambiente cálido y acogedor en tu hogar. Ideal para decorar fiestas, eventos o habitaciones. Fáciles de instalar, bajo consumo y con efecto mágico.",
@@ -1900,7 +1844,7 @@ const productos = [
    "3": 3.95,
  },
   imagen: "Img/Imagen255.jpeg",
-  stock: 17
+  stock: 14
 },
  {
   nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
@@ -2047,7 +1991,7 @@ const productos = [
    "3": 5.95,
  },
   imagen: "Img/Imagen268.png",
-  stock: 11
+  stock: 10
 },
  {
   nombre: "5254CARRITOS HW",
@@ -2182,7 +2126,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen281.png",
-  stock: 37
+  stock: 33
 },
  {
   nombre: "5275ORGANIZADOR COLGANTE",
@@ -2205,7 +2149,7 @@ const productos = [
    "6": 2.55,
   },
   imagen: "Img/Imagen284.png",
-  stock: 20
+  stock: 17
 },
   {
   nombre: "5277PASTILLA PARA TANQUE",
@@ -2344,7 +2288,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen297.png",
-  stock: 16
+  stock: 13
 },
    {
   nombre: "5297PROTECTOR SOLAR BIOAQUA SPF50+",
@@ -2402,6 +2346,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
