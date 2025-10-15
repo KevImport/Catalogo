@@ -1935,16 +1935,6 @@ const productos = [
   imagen: "Img/Imagen263.jpg",
   stock: 16
 },
- {
-  nombre: "5078PERFUME DE MUJER JPS23",
-  categoria: "Perfumeria",
-  descripcion: "DUPE: Scandal - Aroma seductor y femenino con un toque atrevido. Diseño único con piernas en tacones ¡pura actitud! Contenido: 250ml – ideal para destacar donde vayas.",
-  precios: {
-   "1": 13.95,
- },
-  imagen: "Img/Imagen264.jpeg",
-  stock: 4
-},
   {
   nombre: "5249BIOBELL PLACENTA CAPILAR",
   categoria: "Higiene / Cuidado Personal",
@@ -2332,6 +2322,37 @@ const productos = [
   imagen: "Img/Imagen301.jpeg",
   stock: 10
 },
+   {
+  nombre: "PERFUME PARA MUJER CLHG165 - DUPE CAROLINA HERRERA GOOD GIRL",
+  categoria: "Perfumeria",
+  descripcion: "Dupe de Carolina Herrera Good Girl, elegante y seductor. Fragancia dulce y sofisticada que resalta tu feminidad. Ideal para ocasiones especiales y dejar huella donde vayas.",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "Img/Imagen302.jpeg",
+  stock: 1
+},
+   {
+  nombre: "5296TORTA 25 TIROS",
+  categoria: "Pirotecnicos",
+  descripcion: "Espectáculo pirotécnico compacto, perfecto para celebraciones.",
+  precios: {
+   "1": 24.95,
+  },
+  imagen: "Img/Imagen303.jpeg",
+  stock: 1
+},
+ 
+   {
+  nombre: "5301PERFUME DE MUJER PHG168 - DUPE DE PARIS HILTON",
+  categoria: "Perfumeria",
+  descripcion: "Dupe de Paris Hilton. Un perfume elegante inspirado en Paris Hilton, con notas dulces y frutales. Ideal para mujeres modernas, radiantes y seguras de sí mismas.",
+  precios: {
+   "1": 13.95,
+  },
+  imagen: "Img/Imagen304.jpeg",
+  stock: 1
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2345,6 +2366,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
