@@ -603,7 +603,7 @@ const productos = [
 },
 {
   nombre: "3038SHORT LEVANTA POMPIS",
-  categoria: "Ropa / Accesorios",
+  categoria: "Ropa interior",
   descripcion: "Short moldeador que realza tu figura. Comodidad y soporte con efecto push-up para tu día a día.",
   precios: {
     "1": 8.90,
@@ -1059,7 +1059,7 @@ const productos = [
 },
 {
   nombre: "4680CACHETERO CAPIBARA PARA NIÑA",
-  categoria: "Ropa / Accesorios",
+  categoria: "Ropa interior",
   descripcion: "Ropa interior infantil con diseño de capibara. Suave, cómoda y con estilo divertido para las más pequeñas.",
   precios: {
     "3": 3.95,
@@ -1069,7 +1069,7 @@ const productos = [
 },
 {
   nombre: "4711BOXER DAMA CK",
-  categoria: "Ropa / Accesorios",
+  categoria: "Ropa interior",
   descripcion: "Boxer femenino inspirado en la comodidad y estilo de Calvin Klein. Ajuste perfecto para uso diario.",
   precios: {
     "1": 4.95,
@@ -1203,7 +1203,7 @@ const productos = [
 },
 {
   nombre: "4660CALZONCILLO CLÁSICO",
-  categoria: "Ropa / Accesorios",
+  categoria: "Ropa interior",
   descripcion: "Material: algodón. Tallas disponibles: 6S",
   precios: {
     "1": 4.95,
@@ -1215,7 +1215,7 @@ const productos = [
 },
 {
   nombre: "TRUSA BIKINI",
-  categoria: "Ropa / Accesorios",
+  categoria: "Ropa interior",
   descripcion: "Material: algodón. Talla disponible: 12L",
   precios: {
     "1": 3.95,
@@ -2345,6 +2345,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
