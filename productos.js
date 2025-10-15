@@ -1270,13 +1270,13 @@ const productos = [
 },
 {
   nombre: "5078PERFUME DE MUJER JPS23 - DUPE SCANDAL",
-  categoria: "Belleza / Cosmética",
+  categoria: "Perfumeria",
   descripcion: "DUPE: Scandal Aroma seductor y femenino con un toque atrevido. Diseño único con piernas en tacones ¡pura actitud!. Ideal para destacar donde vayas. Contenido: 250ml.",
   precios: {
     "1": 13.95
  },
   imagen: "Img/Imagen186.jpeg",
-  stock: 7
+  stock: 3
 },
 {
   nombre: "5079BANDEJA ARAÑA",
@@ -1421,13 +1421,13 @@ const productos = [
 },
  {
   nombre: "5114DUPE INVICTUS BLACK",
-  categoria: "Belleza / Cosmética",
+  categoria: "Perfumeria",
   descripcion: "Perfume inspiración Invictus Black – Paco Rabanne. Aroma masculino, intenso y elegante, ideal para destacar en cualquier ocasión. Contenido: 250 ML",
   precios: {
     "1": 13.95,
  },
   imagen: "Img/Imagen204.jpeg",
-  stock: 3
+  stock: 2
 },
  {
   nombre: "5115CARTUCHERA CON CALCULADORA",
@@ -1938,7 +1938,7 @@ const productos = [
 },
  {
   nombre: "5078PERFUME DE MUJER JPS23",
-  categoria: "Accesorios",
+  categoria: "Perfumeria",
   descripcion: "DUPE: Scandal - Aroma seductor y femenino con un toque atrevido. Diseño único con piernas en tacones ¡pura actitud! Contenido: 250ml – ideal para destacar donde vayas.",
   precios: {
    "1": 13.95,
@@ -2346,6 +2346,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
