@@ -196,17 +196,6 @@ const productos = [
   stock: 11
 },
 {
-  nombre: "4865CONTENEDOR DE CEREALES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus cereales frescos y bien organizados. Práctico, hermético y fácil de usar en cualquier cocina.",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
-  },
-  imagen: "Img/Imagen40.jpg",
-  stock: 3
-},
-{
   nombre: "4862REBANADOR",
   categoria: "Hogar / Cocina",
   descripcion: "Haz cortes perfectos. Este rebanador es ideal para frutas, verduras y más, con seguridad y precisión.",
@@ -1322,17 +1311,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "5100PAQUETE DE PAPEL FREIDORA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Contiene aprox. 50 bandejas de papel. Papel antiadherente. Resistente a altas temperaturas. A prueba de aceite. Multiusos: para freidora de aire, horno, microondas, cocina, etc.",
-  precios: {
-    "1": 3.95,
-    "3": 2.95,
- },
-  imagen: "Img/Imagen196.jpeg",
-  stock: 3
-},
-{
   nombre: "5104FLORERO CON FLORES ARTIFICIALES",
   categoria: "Hogar / Cocina",
   descripcion: "Arreglo floral colorido y elegante, ideal para decorar tu hogar u oficina. Sin mantenimiento y siempre hermoso.",
@@ -1634,7 +1612,7 @@ const productos = [
    "6": 4.55,
  },
   imagen: "Img/Imagen236.jpeg",
-  stock: 11
+  stock: 6
 },
  {
   nombre: "5181BASE DE UÑAS DE KERATINA",
@@ -1831,7 +1809,7 @@ const productos = [
    "3": 5.95,
  },
   imagen: "Img/Imagen259.png",
-  stock: 8
+  stock: 4
 },
  {
   nombre: "5243PACK DE 10 MASCARILLAS BIOAQUA",
@@ -2343,6 +2321,18 @@ const productos = [
   imagen: "Img/Imagen308.jpeg",
   stock: 7
 },
+   {
+  nombre: "5310KIT DE LIMPIEZA DE OIDOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Kit reutilizable, fácil de limpiar. Una de las partes que más requieren limpieza son nuestros oídos. Material: Acero inoxidable.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "3": 2.25,
+  },
+  imagen: "Img/Imagen308.jpeg",
+  stock: 7
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2356,6 +2346,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
