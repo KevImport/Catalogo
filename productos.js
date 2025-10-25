@@ -20,7 +20,7 @@ const productos = [
     "12": 2.95,
  },
   imagen: "Img/Imagen235.jpeg",
-  stock: 18
+  stock: 12
 },
 {
   nombre: "5044PAPEL TISSUE, 300 HOJAS APROX.",
@@ -193,7 +193,7 @@ const productos = [
     "6": 3.25,
   },
   imagen: "Img/Imagen38.jpg",
-  stock: 22 
+  stock: 11
 },
 {
   nombre: "4865CONTENEDOR DE CEREALES",
@@ -474,7 +474,7 @@ const productos = [
     "3": 2.90,
   },
   imagen: "Img/Imagen83.jpg",
-  stock: 12
+  stock: 6
 },
 {
   nombre: "3930SET DE 6 INDIVIDUALES + 6 POSAVASOS NAVIDEÑOS",
@@ -1468,7 +1468,7 @@ const productos = [
     "3": 4.95,
  },
   imagen: "Img/Imagen213.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "5135ORGANIZADOR ELEGANTE",
@@ -2356,6 +2356,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
