@@ -1,17 +1,5 @@
 const productos = [
- {
-  nombre: "5053PAÑITOS HÚMEDOS X100",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "¡Limpieza rápida y delicada! Estos pañitos húmedos son suaves, resistentes y perfectos para el día a día. Paquete con 100 unidades.",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
-    "6": 3.75,
-  },
-  imagen: "Img/Imagen1.jpg",
-   stock: 20
-},
-  {
+{
   nombre: "5175CONDIMENTERO GIRATORIO",
   categoria: "Hogar / Cocina",
   descripcion: "Material: ABS + Metal resistente. Base giratoria 360°. Incluye 18 frascos de 100 ml. Diseño elegante y práctico. Medida aprox.: 37 x 24 x 32 cm",
@@ -33,17 +21,6 @@ const productos = [
  },
   imagen: "Img/Imagen235.jpeg",
   stock: 18
-},
-{
-  nombre: "5048FIAMBRERA TÉRMICA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Lleva tu almuerzo siempre caliente! Esta fiambrera térmica conserva el calor y es perfecta para la oficina, colegio o viajes.",
-  precios: {
-    "1": 8.95,
-    "3": 7.95,
-  },
-  imagen: "Img/Imagen3.jpg",
-  stock: 2
 },
 {
   nombre: "5044PAPEL TISSUE, 300 HOJAS APROX.",
@@ -108,7 +85,7 @@ const productos = [
     "3": 5.95,
   },
   imagen: "Img/Imagen14.jpg",
-  stock: 7
+  stock: 5
 },
 {
   nombre: "5009MINI CÁMARA ESPÍA",
@@ -671,7 +648,7 @@ const productos = [
     "3": 3.90,
   },
   imagen: "Img/Imagen103.jpg",
-  stock: 24
+  stock: 22
 },
 {
   nombre: "2802VASO DE BEBIDA REFRIGERANTE",
@@ -921,7 +898,7 @@ const productos = [
     "1": 9.95,
   },
   imagen: "Img/Imagen130.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "4920SET DE UÑAS POSTIZAS - MODELO #2",
@@ -987,7 +964,7 @@ const productos = [
     "3": 5.95,
   },
   imagen: "Img/Imagen140.jpg",
-  stock: 9
+  stock: 4
 },
 {
   nombre: "4812ALMOHADILLAS DE DESCANSO",
@@ -1332,7 +1309,7 @@ const productos = [
     "1": 9.90,
  },
   imagen: "Img/Imagen193.png",
-  stock: 9
+  stock: 2
 },
 {
   nombre: "5095AGENDA A5",
@@ -1354,16 +1331,6 @@ const productos = [
  },
   imagen: "Img/Imagen196.jpeg",
   stock: 3
-},
-{
-  nombre: "5103TOMATODO TELEFONO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Diseño kawaii con correa para llevar a todos lados. Ideal para jugos, agua o tus bebidas favoritas en cualquier momento.",
-  precios: {
-    "1": 6.95,
- },
-  imagen: "Img/Imagen197.jpeg",
-  stock: 4
 },
 {
   nombre: "5104FLORERO CON FLORES ARTIFICIALES",
@@ -1405,7 +1372,7 @@ const productos = [
     "1": 7.95,
  },
   imagen: "Img/Imagen201.jpeg",
-  stock: 4
+  stock: 3
 },
  {
   nombre: "5112CUENCO PARA APERITIVOS",
@@ -1480,7 +1447,7 @@ const productos = [
     "1": 4.95,
  },
   imagen: "Img/Imagen209.jpeg",
-  stock: 11
+  stock: 9
 },
  {
   nombre: "5123BALANZA GRAMERA",
@@ -1511,7 +1478,7 @@ const productos = [
     "1": 8.95,
  },
   imagen: "Img/Imagen214.jpeg",
-  stock: 5
+  stock: 4
 },
   {
   nombre: "5139RESTAURADOR DE PARTES NEGRAS",
@@ -1555,7 +1522,7 @@ const productos = [
     "3": 1.95,
  },
   imagen: "Img/Imagen219.jpeg",
-  stock: 33
+  stock: 29
 },
  {
   nombre: "5144CREMA DE MANOS DE ARROZ BIOAQUA",
@@ -1580,18 +1547,7 @@ const productos = [
     "12": 1.25,
  },
   imagen: "Img/Imagen221.jpeg",
-  stock: 44
-},
- {
-  nombre: "5147FOCO LED CON SENSOR DE MOVIMIENTO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Se enciende al detectar movimiento, ideal para seguridad. Luz blanca brillante, perfecta para pasillos, patios y garajes. Ahorra energía con su encendido automático inteligente. Fácil instalación y larga duración para tu hogar u oficina.",
-  precios: {
-    "1": 7.95,
-    "3": 6.95,
- },
-  imagen: "Img/Imagen223.jpeg",
-  stock: 4
+  stock: 40
 },
   {
   nombre: "5148SET DE 10 PROTECTORES DE HORNILLAS",
@@ -1679,18 +1635,6 @@ const productos = [
  },
   imagen: "Img/Imagen236.jpeg",
   stock: 11
-},
-  {
-  nombre: "5180SET DE 10 INCIENSO RECTANGULAR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Disfruta de una experiencia sensorial única con nuestro incienso aromático de reflujo. Deja que el aroma envolvente y relajante te transporte a un estado de calma y serenidad. Perfecto para sesiones de meditación, yoga o simplemente para disfrutar de un momento de paz en tu hogar. Experimenta el poder de la fragancia con nuestro incienso de cono reflujo.",
-  precios: {
-   "1": 4.95,
-   "3": 3.85,
-   "6": 3.55,
- },
-  imagen: "Img/Imagen237.jpeg",
-  stock: 8
 },
  {
   nombre: "5181BASE DE UÑAS DE KERATINA",
@@ -1843,7 +1787,7 @@ const productos = [
    "3": 3.95,
  },
   imagen: "Img/Imagen255.jpeg",
-  stock: 14
+  stock: 11
 },
  {
   nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
@@ -1854,7 +1798,7 @@ const productos = [
    "3": 5.95,
  },
   imagen: "Img/Imagen256.jpeg",
-  stock: 9
+  stock: 7
 },
   {
   nombre: "5236ORGANIZADOR DE ALIMENTOS",
@@ -2058,7 +2002,7 @@ const productos = [
    "3": 3.95,
  },
   imagen: "Img/Imagen276.png",
-  stock: 10
+  stock: 4
 },
   {
   nombre: "5269MINI CEPILLO CON ESPEJO",
@@ -2115,7 +2059,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen281.png",
-  stock: 33
+  stock: 30
 },
  {
   nombre: "5275ORGANIZADOR COLGANTE",
@@ -2308,7 +2252,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen300.jpg",
-  stock: 18
+  stock: 13
 },
   {
   nombre: "5303SET DE 2 SUJETADORES IMANTADOS DE CORTINA",
@@ -2320,7 +2264,7 @@ const productos = [
    "6": 3.55,
   },
   imagen: "Img/Imagen301.jpeg",
-  stock: 10
+  stock: 7
 },
    {
   nombre: "PERFUME PARA MUJER CLHG165 - DUPE CAROLINA HERRERA GOOD GIRL",
@@ -2366,6 +2310,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
