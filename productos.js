@@ -854,7 +854,7 @@ const productos = [
     "6": 2.95,
   },
   imagen: "Img/Imagen126.jpg",
-  stock: 17
+  stock: 11
 },
 {
   nombre: "5016COLET ESPIRAL CORAZÓN",
@@ -906,11 +906,11 @@ const productos = [
   descripcion: "Pack de 3 perfiladores para cejas y vello facial. Precisión y suavidad para un acabado profesional.",
   precios: {
     "1": 3.90,
-    "6": 2.15,
-    "12": 1.85,
+    "3": 2.15,
+    "6": 1.85,
   },
   imagen: "Img/Imagen136.jpg",
-  stock: 20
+  stock: 15
 },
 {
   nombre: "4890MASAJEADOR CORPORAL",
@@ -1416,16 +1416,6 @@ const productos = [
  },
   imagen: "Img/Imagen208.jpeg",
   stock: 8
-},
- {
-  nombre: "5122CAJA ORGANIZADORA",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Organizador multifuncional y moderno. Fabricado en plástico resistente y duradero. Diseño de doble capa rotativa para fácil acceso. Ideal para cosméticos, brochas, lapiceros y más.",
-  precios: {
-    "1": 4.95,
- },
-  imagen: "Img/Imagen209.jpeg",
-  stock: 9
 },
  {
   nombre: "5123BALANZA GRAMERA",
@@ -2254,17 +2244,7 @@ const productos = [
   imagen: "Img/Imagen302.jpeg",
   stock: 1
 },
-   {
-  nombre: "5296TORTA 25 TIROS",
-  categoria: "Pirotecnicos",
-  descripcion: "Espectáculo pirotécnico compacto, perfecto para celebraciones.",
-  precios: {
-   "1": 24.95,
-  },
-  imagen: "Img/Imagen303.jpeg",
-  stock: 1
-},
- {
+{
   nombre: "5301PERFUME DE MUJER PHG168 - DUPE DE PARIS HILTON",
   categoria: "Perfumeria",
   descripcion: "Dupe de Paris Hilton. Un perfume elegante inspirado en Paris Hilton, con notas dulces y frutales. Ideal para mujeres modernas, radiantes y seguras de sí mismas.",
@@ -2316,7 +2296,7 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "3": 2.25,
+   "6": 2.25,
   },
   imagen: "Img/Imagen308.jpeg",
   stock: 7
@@ -2326,12 +2306,35 @@ const productos = [
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Kit reutilizable, fácil de limpiar. Una de las partes que más requieren limpieza son nuestros oídos. Material: Acero inoxidable.",
   precios: {
-   "1": 3.95,
-   "3": 2.55,
-   "3": 2.25,
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.65,
   },
-  imagen: "Img/Imagen308.jpeg",
-  stock: 7
+  imagen: "Img/Imagen309.jpg",
+  stock: 14
+},
+     {
+  nombre: "5311ORGANIZADOR DE HUEVOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño plegable sin montaje, acomoda hasta 24 huevos en capas separadas. Hecho de plástico resistente, ideal para mantener frescura y ahorrar espacio en tu refrigerador.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "Img/Imagen310.jpeg",
+  stock: 5
+},
+       {
+  nombre: "5312MANGO UNIVERSAL PARA TAPAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "De acero y madera resistente, mide 5.5 x 3 cm — ¡fácil de instalar y duradero! Ideal para renovar tus tapas de olla y darles un toque elegante y funcional.",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+   "6": 1.25,
+   "12": 0.95,
+  },
+  imagen: "Img/Imagen310.jpeg",
+  stock: 18
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2346,6 +2349,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
