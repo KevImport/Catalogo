@@ -2307,6 +2307,42 @@ const productos = [
   imagen: "Img/Imagen305.jpeg",
   stock: 10
 },
+      {
+  nombre: "5306TOALLA DE MANO KAWAII",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Suave, absorbente y con adorables diseños que llenan de ternura tu rutina. Perfecta para baño, rostro o llevar en la mochila — ¡cute y práctica!",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+   "12": 1.65,
+  },
+  imagen: "Img/Imagen306.jpeg",
+  stock: 21
+},
+  {
+  nombre: "5307ENCENDEDOR RECARGABLE DE COCINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Alimentado por una batería recargable. (Incluye cable USB). No crea una llama, es operado eléctricamente y respetuoso con el medio ambiente. Apto para cocina casera, barbacoa al aire libre, Etc.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+  },
+  imagen: "Img/Imagen307.png",
+  stock: 8
+},
+  {
+  nombre: "5308PAQUETE DE BOLSAS CUBRE PLATOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "El paquete contiene aprox. 100 bolsas. No tóxico, insípido, ecológico y seguro, por lo que se puede utilizar con seguridad para cubrir alimentos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "3": 2.25,
+  },
+  imagen: "Img/Imagen308.jpeg",
+  stock: 7
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2320,6 +2356,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
