@@ -2336,6 +2336,16 @@ const productos = [
   imagen: "Img/Imagen310.jpeg",
   stock: 18
 },
+   {
+  nombre: "5313CASA DE JENGIBRE NAVIDEÑA CON MÚSICA Y LUCES",
+  categoria: "Navidad / Regalos",
+  descripcion: "Adorable casita decorativa con detalles navideños, luces brillantes y melodías festivas. Ideal para decorar tu hogar, mesa o vitrina y llenar el ambiente de alegría. Medidas: 13 × 12 × 16 cm",
+  precios: {
+   "1": 2.95,
+  },
+  imagen: "Img/Imagen311.jpeg",
+  stock: 2
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2349,6 +2359,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
