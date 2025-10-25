@@ -2219,7 +2219,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen299.png",
-  stock: 2
+  stock: 1
 },
   {
   nombre: "5300JABONERA PORTATIL",
@@ -2346,6 +2346,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
