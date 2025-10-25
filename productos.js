@@ -2276,7 +2276,7 @@ const productos = [
    "12": 1.65,
   },
   imagen: "Img/Imagen306.jpeg",
-  stock: 21
+  stock: 18
 },
   {
   nombre: "5307ENCENDEDOR RECARGABLE DE COCINA",
@@ -2353,12 +2353,12 @@ const productos = [
   precios: {
     "1": 4.90,
     "3": 2.60,
-    "6": 2.30
   },
   imagen: "Img/Imagen170.jpg",
-  stock: 6
+  stock: 3
 }
 ];
+
 
 
 
