@@ -2286,8 +2286,7 @@ const productos = [
   imagen: "Img/Imagen303.jpeg",
   stock: 1
 },
- 
-   {
+ {
   nombre: "5301PERFUME DE MUJER PHG168 - DUPE DE PARIS HILTON",
   categoria: "Perfumeria",
   descripcion: "Dupe de Paris Hilton. Un perfume elegante inspirado en Paris Hilton, con notas dulces y frutales. Ideal para mujeres modernas, radiantes y seguras de sí mismas.",
@@ -2296,6 +2295,17 @@ const productos = [
   },
   imagen: "Img/Imagen304.jpeg",
   stock: 1
+},
+    {
+  nombre: "5305QUITA OXIDO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Es el aliado perfecto para mantener tu ropa libre de manchas de óxido. Este quitamanchas líquido viene en una práctica botella que facilita su aplicación en las áreas afectadas.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "Img/Imagen305.jpeg",
+  stock: 10
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2310,6 +2320,7 @@ const productos = [
   stock: 6
 }
 ];
+
 
 
 
