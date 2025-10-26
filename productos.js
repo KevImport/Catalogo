@@ -2341,7 +2341,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Adorable casita decorativa con detalles navideños, luces brillantes y melodías festivas. Ideal para decorar tu hogar, mesa o vitrina y llenar el ambiente de alegría. Medidas: 13 × 12 × 16 cm",
   precios: {
-   "1": 2.95,
+   "1": 49.90,
   },
   imagen: "Img/Imagen311.jpeg",
   stock: 2
@@ -2358,6 +2358,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
