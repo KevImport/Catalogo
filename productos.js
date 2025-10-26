@@ -2154,7 +2154,7 @@ const productos = [
    "6": 4.55,
   },
   imagen: "Img/Imagen294.jpeg",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "5290PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
@@ -2445,6 +2445,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
