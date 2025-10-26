@@ -2346,6 +2346,93 @@ const productos = [
   imagen: "Img/Imagen311.jpeg",
   stock: 2
 },
+     {
+  nombre: "5314CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Shampoo cubre canas para todo tipo de cabellos. ️La mejor solución a esas canitas. El uso es sencillo y no se necesita decolorar ni pasar por ningún tratamiento previo al uso.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "Img/Imagen312.jpeg",
+  stock: 1
+},
+      {
+  nombre: "5315TOALLITAS HIGIÉNICAS DE NOCHE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Diseñadas para la noche, con alas y absorción rápida para mayor protección. Hechas de tela de algodón, suaves y cómodas con flujo moderado. Paquete de 10 unidades, 100% sin filtraciones y extra suave con tu piel.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+  },
+  imagen: "Img/Imagen313.jpeg",
+  stock: 4
+},
+ {
+  nombre: "5317INFLADOR DE LLANTAS Y PELOTAS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Práctico y portátil, ideal para autos, bicicletas, pelotas y más. Fácil de usar, con gran potencia y diseño compacto para llevar a cualquier lugar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "Img/Imagen314.jpeg",
+  stock: 7
+},
+  {
+  nombre: "5318SHAMPOO DE ROMERO 1100ML",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Fortalece y estimula el crecimiento del cabello desde la raíz. Aporta brillo, suavidad y ayuda a reducir la caída. Presentación familiar de 1100 ml para uso prolongado.",
+  precios: {
+   "1": 9.90,
+  },
+  imagen: "Img/Imagen315.jpeg",
+  stock: 7
+},
+    {
+  nombre: "5319PAÑITOS HÚMEDOS EN LATA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Suaves, sin alcohol y con Aloe Vera para cuidar y refrescar tu piel al instante. Llévalas en tu cartera, auto u oficina — ¡siempre listas para acompañarte!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen316.png",
+  stock: 12
+},
+  {
+  nombre: "5321SPLASH PARA EL CABELLO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Las lociones para el cabello son preparaciones destinadas a cuidar del aspecto y la salud del cabello, sin dañar tu cuero cabelludo. Harán lucir tu cabello brillante y con aroma exquisito. Te encantará ya que también sirve como hidratante para el cabello.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen317.jpg",
+  stock: 11
+},
+    {
+  nombre: "5322PACK DE 10 VELAS MÁGICAS REENCENDIBLES",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Sopla y sorpréndete al ver cómo se encienden solas otra vez. Perfectas para cumpleaños divertidos y momentos inolvidables.",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+   "6": 1.25,
+   "12": 0.95,
+  },
+  imagen: "Img/Imagen318.jpeg",
+  stock: 27
+},
+      {
+  nombre: "5324ARBOL DE 60CM CON ACCESORIOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para decorar tu oficina centro de trabajo o habitación. Medida: 60 cm",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen319.jpeg",
+  stock: 2
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2358,6 +2445,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
