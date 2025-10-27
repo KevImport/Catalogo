@@ -1551,16 +1551,6 @@ const productos = [
   imagen: "Img/Imagen227.png",
   stock: 4
 },
-  {
-  nombre: "5158SHAMPOO DE ROMERO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1000ML",
-  precios: {
-    "1": 12.90,
- },
-  imagen: "Img/Imagen229.jpg",
-  stock: 1
-},
  {
   nombre: "5169PACK DE 10 BOLSITAS DULCERAS",
   categoria: "Decoración / Fiesta",
@@ -2265,19 +2255,6 @@ const productos = [
   imagen: "Img/Imagen305.jpeg",
   stock: 10
 },
-      {
-  nombre: "5306TOALLA DE MANO KAWAII",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Suave, absorbente y con adorables diseños que llenan de ternura tu rutina. Perfecta para baño, rostro o llevar en la mochila — ¡cute y práctica!",
-  precios: {
-   "1": 3.95,
-   "3": 2.25,
-   "6": 1.95,
-   "12": 1.65,
-  },
-  imagen: "Img/Imagen306.jpeg",
-  stock: 18
-},
   {
   nombre: "5307ENCENDEDOR RECARGABLE DE COCINA",
   categoria: "Hogar / Cocina",
@@ -2386,7 +2363,7 @@ const productos = [
    "1": 9.90,
   },
   imagen: "Img/Imagen315.jpeg",
-  stock: 7
+  stock: 2
 },
     {
   nombre: "5319PAÑITOS HÚMEDOS EN LATA",
@@ -2445,6 +2422,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
