@@ -266,7 +266,7 @@ const productos = [
     "1": 5.95,
   },
   imagen: "Img/Imagen49.jpg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "4831GUANTES TOUCH",
@@ -1298,7 +1298,7 @@ const productos = [
     "1": 9.90,
  },
   imagen: "Img/Imagen193.png",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "5095AGENDA A5",
@@ -1778,7 +1778,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen258.jpg",
-  stock: 22
+  stock: 19
 },
  {
   nombre: "5239LIMPIADOR SCHUBERT",
@@ -2210,7 +2210,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen300.jpg",
-  stock: 13
+  stock: 4
 },
   {
   nombre: "5303SET DE 2 SUJETADORES IMANTADOS DE CORTINA",
@@ -2323,17 +2323,7 @@ const productos = [
   imagen: "Img/Imagen311.jpeg",
   stock: 2
 },
-     {
-  nombre: "5314CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Shampoo cubre canas para todo tipo de cabellos. ️La mejor solución a esas canitas. El uso es sencillo y no se necesita decolorar ni pasar por ningún tratamiento previo al uso.",
-  precios: {
-   "1": 6.95,
-  },
-  imagen: "Img/Imagen312.jpeg",
-  stock: 1
-},
-      {
+  {
   nombre: "5315TOALLITAS HIGIÉNICAS DE NOCHE",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Diseñadas para la noche, con alas y absorción rápida para mayor protección. Hechas de tela de algodón, suaves y cómodas con flujo moderado. Paquete de 10 unidades, 100% sin filtraciones y extra suave con tu piel.",
@@ -2355,17 +2345,7 @@ const productos = [
   imagen: "Img/Imagen314.jpeg",
   stock: 7
 },
-  {
-  nombre: "5318SHAMPOO DE ROMERO 1100ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Fortalece y estimula el crecimiento del cabello desde la raíz. Aporta brillo, suavidad y ayuda a reducir la caída. Presentación familiar de 1100 ml para uso prolongado.",
-  precios: {
-   "1": 9.90,
-  },
-  imagen: "Img/Imagen315.jpeg",
-  stock: 2
-},
-    {
+   {
   nombre: "5319PAÑITOS HÚMEDOS EN LATA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Suaves, sin alcohol y con Aloe Vera para cuidar y refrescar tu piel al instante. Llévalas en tu cartera, auto u oficina — ¡siempre listas para acompañarte!",
@@ -2422,6 +2402,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
