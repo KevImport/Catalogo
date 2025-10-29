@@ -2390,6 +2390,29 @@ const productos = [
   imagen: "Img/Imagen319.jpeg",
   stock: 2
 },
+        {
+  nombre: "5325HADA VOLADORA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Gira, vuela y brilla con magia. Fácil de usar, solo enciéndela y déjala volar. Diversión mágica para niñas y niños.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "Img/Imagen320.png",
+  stock: 32
+},
+  {
+  nombre: "5326FIGURA LED NAVIDEÑA - 1 PIEZA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para la decoración de la sala, dormitorio, etc. Se adhiere con su ventosa. Material: Plástico",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+  },
+  imagen: "Img/Imagen321.jpeg",
+  stock: 30
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2402,6 +2425,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
