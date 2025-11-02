@@ -717,7 +717,7 @@ const productos = [
     "2": 3.90,
   },
   imagen: "Img/Imagen111.jpg",
-  stock: 13
+  stock: 11
 },
 {
   nombre: "2629ORGANIZADOR DE MEDIAS",
@@ -1382,7 +1382,7 @@ const productos = [
     "3": 3.95,
  },
   imagen: "Img/Imagen205.jpeg",
-  stock: 12
+  stock: 11
 },
   {
   nombre: "5119LONCHERA TERMICA",
@@ -1926,7 +1926,7 @@ const productos = [
    "1": 6.95,
  },
   imagen: "Img/Imagen272.png",
-  stock: 12
+  stock: 10
 },
   {
   nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
@@ -2098,7 +2098,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen290.jpeg",
-  stock: 20
+  stock: 15
 },
  {
   nombre: "5286CAJITA TRONADORES",
@@ -2313,16 +2313,6 @@ const productos = [
   imagen: "Img/Imagen310.jpeg",
   stock: 18
 },
-   {
-  nombre: "5313CASA DE JENGIBRE NAVIDEÑA CON MÚSICA Y LUCES",
-  categoria: "Navidad / Regalos",
-  descripcion: "Adorable casita decorativa con detalles navideños, luces brillantes y melodías festivas. Ideal para decorar tu hogar, mesa o vitrina y llenar el ambiente de alegría. Medidas: 13 × 12 × 16 cm",
-  precios: {
-   "1": 49.90,
-  },
-  imagen: "Img/Imagen311.jpeg",
-  stock: 2
-},
   {
   nombre: "5315TOALLITAS HIGIÉNICAS DE NOCHE",
   categoria: "Higiene / Cuidado Personal",
@@ -2399,7 +2389,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen320.png",
-  stock: 32
+  stock: 28
 },
   {
   nombre: "5326FIGURA LED NAVIDEÑA - 1 PIEZA",
@@ -2413,6 +2403,177 @@ const productos = [
   imagen: "Img/Imagen321.jpeg",
   stock: 30
 },
+    {
+  nombre: "5327ARMABLE DIDÁCTICO ITALIAN BRAINROT",
+  categoria: "Navidad / Regalos",
+  descripcion: "Divertidos sets para armar con entre 56 y 73 piezas, según el modelo. Estimula la creatividad, la concentración y la coordinación. Ideal para niños desde 6 años.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+  },
+  imagen: "Img/Imagen322.jpeg",
+  stock: 14
+},
+    {
+  nombre: "5328DUPES DE PERFUMES ARABES",
+  categoria: "Perfumeria",
+  descripcion: "Fragancias intensas, elegantes y duraderas — inspiran lujo y sofisticación. Aromas que conquistan con su estilo exótico y sensual. Capacidad: 250ml",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "Img/Imagen323.jpeg",
+  stock: 10
+},
+      {
+  nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
+  categoria: "Accesorios",
+  descripcion: "Incluye lentes modernos y ganchos para el cabello a juego. Perfecto para un look fresco, divertido y con mucho estilo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen324.jpeg",
+  stock: 27
+},
+        {
+  nombre: "5330ROMPECABEZAS DE MADERA DIDÁCTICO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Diseños divertidos de animalitos y dinosaurios que estimulan la motricidad y creatividad. Mide 10.8 × 10.8 × 0.5 cm — ¡ideal para manos pequeñas y horas de diversión educativa!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+  },
+  imagen: "Img/Imagen325.jpeg",
+  stock: 26
+},
+  {
+  nombre: "5331DOMINÓ CLÁSICO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Fichas negras con puntos blancos, presentadas en caja resistente y elegante. Mide 14.7 × 5 × 3 cm — ¡perfecto para jugar en casa o llevar a cualquier lugar!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "Img/Imagen326.jpeg",
+  stock: 25
+},
+  {
+  nombre: "5332GANCHO CLIP FLOWER",
+  categoria: "Accesorios",
+  descripcion: "Diseño de flores brillantes que aportan un toque fresco y veraniego. Ideal para uso diario, ocasiones especiales o looks creativos — ¡práctica y hermosa!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.65,
+  },
+  imagen: "Img/Imagen327.jpeg",
+  stock: 35
+},
+   {
+  nombre: "5334PACK DE 10 BOLSAS PARA HIELO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Hecho de 100% esteres de BPA y ftalato. Autosellado, no se necesita máquina de sellado. Se puede utilizar para hacer diferentes sabores de cubitos de hielo según su gusto. Puedes añadir varias frutas, verduras, dulces, etc.",
+  precios: {
+   "1": 2.95,
+   "3": 1.65,
+   "6": 1.35,
+   "6": 1.05,
+  },
+  imagen: "Img/Imagen328.png",
+  stock: 20
+},
+    {
+  nombre: "5335FUNDA NAVIDEÑA PARA PUERTA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Transforma tu entrada en un espacio lleno de magia. Fácil de colocar y reutilizable. Ideal para casa u oficina. Recibe a tus visitas con el mejor espíritu navideño.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen329.png",
+  stock: 14
+},
+      {
+  nombre: "5337ROLLO DE ADHESIVO DE VENTANA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 60cm x 2m. Ideal para privacidad y decoración, dejando pasar la luz natural. Fácil de colocar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+  },
+  imagen: "Img/Imagen330.jpeg",
+  stock: 13
+},
+      {
+  nombre: "5338PROTECTOR DE TALÓN",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Olvídate de las molestias! Protector antiampollas para el talón. Suave, cómodo y discreto. Evita roces y ampollas. Ideal para caminar, correr o usar zapatos nuevos.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "Img/Imagen331.png",
+  stock: 35
+},
+        {
+  nombre: "5339SET DE CUBRE PEZONES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Contiene 5 pares. ¡Discreción y seguridad en cada look! Se adhieren fácilmente. Perfectos para ropa sin tirantes o escotes profundos. ¡Luce libre y sin preocupaciones!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen332.jpeg",
+  stock: 19
+},
+          {
+  nombre: "5340PORTA TOALLITAS HÚMEDAS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Cierre Hermético. Fácil de Usar. ️Bolsa dispensadora. Delgado para llevarlo en el bolso, pañalera, etc.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen333.png",
+  stock: 38
+},
+            {
+  nombre: "5341PERCHERO DE PUERTA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico y resistente para colgar ropa, toallas o accesorios. Fácil de instalar, sin necesidad de taladrar. Ideal para mantener espacios ordenados y funcionales.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+  },
+  imagen: "Img/Imagen334.jpeg",
+  stock: 10
+},
+             {
+  nombre: "5342LINTERNA DE LARGO ALCANCE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Iluminación potente con varios modos de luz. Diseño compacto, resistente y fácil de llevar. Incluye cable USB para carga rápida y práctica.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "Img/Imagen335.jpeg",
+  stock: 15
+},
+{
+  nombre: "5343RIÑONERA CON DETALLES TORNASOLADOS",
+  categoria: "Accesorios",
+  descripcion: "Moderna y brillante. Ideal para llevar celular, llaves y accesorios con estilo. Perfecta para paseos, viajes o looks urbanos con toque fashion.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen336.jpeg",
+  stock: 8
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2425,6 +2586,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
