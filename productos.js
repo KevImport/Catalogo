@@ -1627,17 +1627,6 @@ const productos = [
   imagen: "Img/Imagen240.jpeg",
   stock: 6
 },
-{
-  nombre: "5195CASCADA DE INCIENSO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Porta incienso tipo cascada de cerámica, ideal para crear un ambiente relajante. Al colocar el cono, el humo desciende en forma de cascada mágica. Medida: 10 × 11 × 3.5 cm – colores surtidos. Perfecto para meditación, yoga o decorar tu espacio con estilo.",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
- },
-  imagen: "Img/Imagen242.jpeg",
-  stock: 3
-},
  {
   nombre: "5204NACIMIENTO LED",
   categoria: "Hogar / Cocina",
@@ -1848,7 +1837,7 @@ const productos = [
    "12": 2.35,
  },
   imagen: "Img/Imagen265.jpg",
-  stock: 29
+  stock: 23
 },
  {
   nombre: "5251PALETA DE MAQUILLAJE MARIPOSA",
@@ -2586,6 +2575,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
