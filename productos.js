@@ -2098,7 +2098,7 @@ const productos = [
    "6": 0.95,
   },
   imagen: "Img/Imagen291.jpeg",
-  stock: 250
+  stock: 244
 },
   {
   nombre: "5287SARTA DE COHETECILLOS",
@@ -2109,7 +2109,7 @@ const productos = [
    "3": 2.55,
   },
   imagen: "Img/Imagen292.jpeg",
-  stock: 110
+  stock: 100
 },
   {
   nombre: "5288PAVITO REAL – FUEGOS ARTIFICIALES",
@@ -2120,7 +2120,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen293.jpeg",
-  stock: 40
+  stock: 37
 },
  {
   nombre: "5289DOCENA DE CHISPITAS MARIPOSA",
@@ -2574,6 +2574,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
