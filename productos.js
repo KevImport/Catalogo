@@ -555,7 +555,7 @@ const productos = [
     "1": 1.00,
   },
   imagen: "Img/Imagen95.jpg",
-  stock: 48
+  stock: 43
 },
 {
   nombre: "3053JUGUETE BALANCE",
@@ -1154,7 +1154,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -1589,10 +1589,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.85,
-   "6": 4.55,
  },
   imagen: "Img/Imagen236.jpeg",
-  stock: 6
+  stock: 2
 },
  {
   nombre: "5181BASE DE UÑAS DE KERATINA",
@@ -2575,6 +2574,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
