@@ -1580,7 +1580,7 @@ const productos = [
     "1": 5.40,
  },
   imagen: "Img/Imagen232.jpeg",
-  stock: 8
+  stock: 7
 },
  {
   nombre: "5179ALFOMBRA ABSORBENTE",
@@ -1624,7 +1624,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen240.jpeg",
-  stock: 6
+  stock: 5
 },
  {
   nombre: "5204NACIMIENTO LED",
@@ -2156,7 +2156,7 @@ const productos = [
    "12": 2.65,
   },
   imagen: "Img/Imagen296.png",
-  stock: 25
+  stock: 19
 },
    {
   nombre: "5292MOLDE PARA HIELO FACIAL",
@@ -2574,6 +2574,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
