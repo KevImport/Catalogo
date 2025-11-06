@@ -910,7 +910,7 @@ const productos = [
     "6": 1.85,
   },
   imagen: "Img/Imagen136.jpg",
-  stock: 15
+  stock: 9
 },
 {
   nombre: "4890MASAJEADOR CORPORAL",
@@ -2549,6 +2549,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
