@@ -2241,18 +2241,6 @@ const productos = [
   imagen: "Img/Imagen307.png",
   stock: 8
 },
-  {
-  nombre: "5308PAQUETE DE BOLSAS CUBRE PLATOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "El paquete contiene aprox. 100 bolsas. No tóxico, insípido, ecológico y seguro, por lo que se puede utilizar con seguridad para cubrir alimentos.",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-   "6": 2.25,
-  },
-  imagen: "Img/Imagen308.jpeg",
-  stock: 7
-},
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
   categoria: "Higiene / Cuidado Personal",
@@ -2561,6 +2549,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
