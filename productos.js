@@ -2145,19 +2145,6 @@ const productos = [
   imagen: "Img/Imagen295.png",
   stock: 7
 },
-  {
-  nombre: "5291BURLETE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Material: PU + esponja",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "6": 2.95,
-   "12": 2.65,
-  },
-  imagen: "Img/Imagen296.png",
-  stock: 19
-},
    {
   nombre: "5292MOLDE PARA HIELO FACIAL",
   categoria: "Higiene / Cuidado Personal",
@@ -2574,6 +2561,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
