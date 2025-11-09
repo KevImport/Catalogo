@@ -1837,7 +1837,7 @@ const productos = [
    "3": 3.35,
  },
   imagen: "Img/Imagen267.jpeg",
-  stock: 4
+  stock: 3
 },
  {
   nombre: "5253MINI SELLADOR",
@@ -2133,16 +2133,6 @@ const productos = [
   },
   imagen: "Img/Imagen297.png",
   stock: 13
-},
-   {
-  nombre: "5297PROTECTOR SOLAR BIOAQUA SPF50+",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Fórmula ligera que protege tu piel de los rayos UVA y UVB. Hidratante, no grasoso y de rápida absorción para uso diario. Ideal para rostro y cuerpo, dejando la piel suave y luminosa.",
-  precios: {
-   "1": 9.95,
-  },
-  imagen: "Img/Imagen298.png",
-  stock: 1
 },
   {
   nombre: "5299PACK DE 10 IMPERDIBLES DE PANTALÓN CON PERLAS",
@@ -2446,7 +2436,7 @@ const productos = [
    "6": 3.95,
   },
   imagen: "Img/Imagen330.jpeg",
-  stock: 13
+  stock: 12
 },
       {
   nombre: "5338PROTECTOR DE TALÓN",
@@ -2544,7 +2534,7 @@ const productos = [
    "1": 10.90,
   },
   imagen: "Img/Imagen339.jpeg",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "5351QUITAPELUSA PINGÜINO",
@@ -2581,6 +2571,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
