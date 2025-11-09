@@ -308,7 +308,7 @@ const productos = [
     "1": 24.90,
   },
   imagen: "Img/Imagen55.jpg",
-  stock: 3
+  stock: 1
   },
 {
   nombre: "4675COLLAR PURE LOVE",
@@ -2613,6 +2613,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
