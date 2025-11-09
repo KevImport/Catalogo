@@ -71,10 +71,10 @@ const productos = [
   descripcion: "Poder de limpieza en tus manos. Este limpiador multiusos elimina grasa, suciedad y deja todo reluciente. ¡Imprescindible!",
   precios: {
     "1": 4.95,
-    "3": 3.95,
+    "2": 3.95,
   },
   imagen: "Img/Imagen13.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "5013ESCURRIDOR DE ACERO",
@@ -287,7 +287,7 @@ const productos = [
     "1": 8.90,
   },
   imagen: "Img/Imagen53.jpg",
-  stock: 5
+  stock: 3
 },
 {
   nombre: "4706CHUPÓN ALIMENTADOR CON REPUESTO",
@@ -379,18 +379,6 @@ const productos = [
   },
   imagen: "Img/Imagen67.jpg",
   stock: 4
-},
-{
-  nombre: "4330BLÍSTER DE 12 PARES DE ARETES",
-  categoria: "Accesorios",
-  descripcion: "Variedad y estilo. Blíster con 12 pares de aretes para cambiar de look todos los días.",
-  precios: {
-    "1": 2.90,
-    "5": 1.80,
-    "10": 1.50,
-  },
-  imagen: "Img/Imagen70.jpg",
-  stock: 10
 },
 {
   nombre: "4183LENTES DE SOL 2025",
@@ -1291,16 +1279,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5090BOLSA DE 50 GANCHOS TREBOL",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Olvídate de clavos ya es hora de renovarse. Estos ganchos son la mejor alternativa. Buena resistencia. Gancho multiusos para baño, cocina, oficina, dormitorio, etc. Color transparente modelo trébol.",
-  precios: {
-    "1": 9.90,
- },
-  imagen: "Img/Imagen193.png",
-  stock: 1
-},
-{
   nombre: "5095AGENDA A5",
   categoria: "Escolar / Papelería",
   descripcion: "Agenda anillada A5 con diseños surtidos y 50 hojas. Ideal para notas, apuntes o planificar tu día con estilo. Perfecta para llevar en tu bolso o mochila y tener tus ideas siempre a mano.",
@@ -1308,7 +1286,7 @@ const productos = [
     "1": 4.95,
  },
   imagen: "Img/Imagen195.jpeg",
-  stock: 3
+  stock: 1
 },
 {
   nombre: "5104FLORERO CON FLORES ARTIFICIALES",
@@ -2580,16 +2558,6 @@ const productos = [
   imagen: "Img/Imagen340.png",
   stock: 5
 },
-   {
-  nombre: "5353MESA MULTIFUNCIONAL DE BLOQUES 88 PCS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Incluye 88 piezas de construcción + mesa + banquito. 3 en 1: mesa para armar bloques, pizarrita para dibujar y mesa de actividades. Ideal para niños desde 3 años — desarrolla creatividad, motricidad y juego libre.",
-  precios: {
-   "1": 29.95,
-  },
-  imagen: "Img/Imagen341.jpeg",
-  stock: 4
-},
      {
   nombre: "5354CREMA DE MANOS FRUTAL",
   categoria: "Higiene / Cuidado Personal",
@@ -2613,6 +2581,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
