@@ -266,7 +266,7 @@ const productos = [
     "1": 5.95,
   },
   imagen: "Img/Imagen49.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "4831GUANTES TOUCH",
@@ -2571,6 +2571,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
