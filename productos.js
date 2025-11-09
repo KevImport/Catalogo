@@ -2537,6 +2537,70 @@ const productos = [
   imagen: "Img/Imagen336.jpeg",
   stock: 8
 },
+  {
+  nombre: "5346SET DE 3 BOWLS CON TAPA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diámetros de 12, 14 y 16 cm, perfectos para guardar o servir alimentos. Prácticos, apilables y con tapas — ¡mantén todo fresco y ordenado!",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen337.jpeg",
+  stock: 1
+},
+    {
+  nombre: "5348PELUCHE TRALALERO MUSICAL",
+  categoria: "Navidad / Regalos",
+  descripcion: "Con luz y musical. Tamaño entre 25 y 30 cm.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+  },
+  imagen: "Img/Imagen338.jpeg",
+  stock: 5
+},
+   {
+  nombre: "5350PACK DE 10 GUIRNALDAS NAVIDEÑAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Medida aprox.: 2m x 7cm. Ideal para decorar árboles, barandas, puertas o ventanas con estilo festivo. Reutilizable y lista para llenar tu hogar de espíritu navideño.",
+  precios: {
+   "1": 10.90,
+  },
+  imagen: "Img/Imagen339.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5351QUITAPELUSA PINGÜINO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino. Lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+  },
+  imagen: "Img/Imagen340.png",
+  stock: 5
+},
+   {
+  nombre: "5353MESA MULTIFUNCIONAL DE BLOQUES 88 PCS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Incluye 88 piezas de construcción + mesa + banquito. 3 en 1: mesa para armar bloques, pizarrita para dibujar y mesa de actividades. Ideal para niños desde 3 años — desarrolla creatividad, motricidad y juego libre.",
+  precios: {
+   "1": 29.95,
+  },
+  imagen: "Img/Imagen341.jpeg",
+  stock: 4
+},
+     {
+  nombre: "5354CREMA DE MANOS FRUTAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Hidrata y suaviza tus manos con estas cremas inspiradas en deliciosas frutas. Envases con forma de fresa, durazno, pera y manzana, ¡súper tiernos y decorativos! Perfectas para llevar en la cartera y mantener tus manos siempre suaves.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen342.jpeg",
+  stock: 25
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2549,6 +2613,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
