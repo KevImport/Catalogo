@@ -1852,7 +1852,7 @@ const productos = [
 },
  {
   nombre: "5254CARRITOS HW",
-  categoria: "Decoración / Fiesta",
+  categoria: "Navidad / Regalos",
   descripcion: "De imitación, presentación: Blíster, para tus sorpresas, día del novio, graduado, cumpleaños, etc.",
   precios: {
    "1": 5.95,
@@ -2581,6 +2581,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
