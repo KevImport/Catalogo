@@ -679,7 +679,7 @@ const productos = [
 },
 {
   nombre: "2708EQUIPO DE PROTECCIÓN",
-  categoria: "Varios",
+  categoria: "Navidad / Regalos",
   descripcion: "Kit básico de protección para tareas que requieren seguridad personal. Incluye elementos esenciales para cuidar tu bienestar.",
   precios: {
     "1": 6.90,
@@ -2581,6 +2581,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
