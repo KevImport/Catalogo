@@ -2524,7 +2524,7 @@ const productos = [
    "3": 7.95,
   },
   imagen: "Img/Imagen338.jpeg",
-  stock: 5
+  stock: 8
 },
    {
   nombre: "5350PACK DE 10 GUIRNALDAS NAVIDEÑAS",
@@ -2571,6 +2571,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
