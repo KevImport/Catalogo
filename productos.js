@@ -1787,10 +1787,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
  },
   imagen: "Img/Imagen262.jpeg",
-  stock: 18
+  stock: 6
 },
   {
   nombre: "5248LLAVERO CEREZA",
@@ -1848,7 +1847,7 @@ const productos = [
    "3": 5.95,
  },
   imagen: "Img/Imagen268.png",
-  stock: 10
+  stock: 9
 },
  {
   nombre: "5254CARRITOS HW",
@@ -2344,7 +2343,7 @@ const productos = [
    "6": 3.95,
   },
   imagen: "Img/Imagen322.jpeg",
-  stock: 14
+  stock: 11
 },
     {
   nombre: "5328DUPES DE PERFUMES ARABES",
@@ -2571,6 +2570,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
