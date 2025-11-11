@@ -1847,7 +1847,7 @@ const productos = [
    "3": 5.95,
  },
   imagen: "Img/Imagen268.png",
-  stock: 9
+  stock: 6
 },
  {
   nombre: "5254CARRITOS HW",
@@ -2112,16 +2112,6 @@ const productos = [
   stock: 3
 },
   {
-  nombre: "5290PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Tamaño amplio para múltiples reparaciones. Ideal para sofás, asientos, carteras y más. Resistente, elegante y fácil de aplicar.",
-  precios: {
-   "1": 6.95,
-  },
-  imagen: "Img/Imagen295.png",
-  stock: 1
-},
-   {
   nombre: "5292MOLDE PARA HIELO FACIAL",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Se usa para darle firmeza al rostro. Desinflama ojeras. Puedes utilizarlo en cualquier zona del cuerpo. Incluso para golpes, ya que ayuda a desinflamar. Ayuda a prevenir las arrugas. Puede usarse para bajar la temperatura de la fiebre.",
@@ -2569,6 +2559,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
