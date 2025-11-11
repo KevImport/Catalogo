@@ -2117,10 +2117,9 @@ const productos = [
   descripcion: "Tamaño amplio para múltiples reparaciones. Ideal para sofás, asientos, carteras y más. Resistente, elegante y fácil de aplicar.",
   precios: {
    "1": 6.95,
-   "3": 5.95,
   },
   imagen: "Img/Imagen295.png",
-  stock: 7
+  stock: 1
 },
    {
   nombre: "5292MOLDE PARA HIELO FACIAL",
@@ -2570,6 +2569,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
