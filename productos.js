@@ -399,7 +399,7 @@ const productos = [
     "3": 5.50,
   },
   imagen: "Img/Imagen75.jpg",
-  stock: 12
+  stock: 11
 },
 {
   nombre: "4154JUEGO TWISTER",
@@ -584,7 +584,7 @@ const productos = [
     "3": 2.90,
   },
   imagen: "Img/Imagen99.jpg",
-  stock: 6
+  stock: 25
 },
 {
   nombre: "2943MINI FREGONA",
@@ -1672,16 +1672,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5224RENOVADOR DE MADERA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Renueva tu mobiliario con nuestro RENOVADOR DE MADERA. ¡Dales nueva vida a tus espacios! Disfrutar de muebles como nuevos por mucho más tiempo. No dejes que el paso del tiempo afecte su belleza.",
-  precios: {
-   "1": 8.95,
- },
-  imagen: "Img/Imagen251.png",
-  stock: 1
-},
-{
   nombre: "5228CREMA EXFOLIANTE DE ALOE VERA - 300 ML",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Suaviza y renueva la piel eliminando células muertas de forma delicada. Gracias al poder del aloe vera, hidrata y calma, dejando una sensación fresca y natural.",
@@ -1777,7 +1767,7 @@ const productos = [
    "6": 2.65,
  },
   imagen: "Img/Imagen261.jpeg",
-  stock: 17
+  stock: 11
 },
   {
   nombre: "5246BOLSA DE REGALO NAVIDEÑA – 32 x 26 x 10 CM",
@@ -1869,7 +1859,7 @@ const productos = [
    "1": 23.95,
  },
   imagen: "Img/Imagen270.png",
-  stock: 4
+  stock: 3
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -1959,7 +1949,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen279.jpeg",
-  stock: 22
+  stock: 21
 },
   {
   nombre: "5272MANDIL CON SECADOR NAVIDEÑO",
@@ -1982,7 +1972,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen281.png",
-  stock: 30
+  stock: 24
 },
  {
   nombre: "5275ORGANIZADOR COLGANTE",
@@ -2049,10 +2039,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.25,
-   "6": 3.95,
   },
   imagen: "Img/Imagen289.png",
-  stock: 9
+  stock: 3
 },
  {
   nombre: "5285CAJA DE ABEJITAS",
@@ -2412,7 +2401,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen329.png",
-  stock: 14
+  stock: 12
 },
       {
   nombre: "5337ROLLO DE ADHESIVO DE VENTANA",
@@ -2559,6 +2548,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
