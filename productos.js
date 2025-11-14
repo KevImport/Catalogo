@@ -2005,10 +2005,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
   },
   imagen: "Img/Imagen285.png",
-  stock: 18
+  stock: 6
 },
   {
   nombre: "5278PIJAMA DE DOS PIEZAS",
@@ -2018,7 +2017,7 @@ const productos = [
    "1": 9.90,
   },
   imagen: "Img/Imagen286.jpeg",
-  stock: 3
+  stock: 2
 },
    {
   nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
@@ -2482,16 +2481,6 @@ const productos = [
   imagen: "Img/Imagen336.jpeg",
   stock: 8
 },
-  {
-  nombre: "5346SET DE 3 BOWLS CON TAPA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Diámetros de 12, 14 y 16 cm, perfectos para guardar o servir alimentos. Prácticos, apilables y con tapas — ¡mantén todo fresco y ordenado!",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen337.jpeg",
-  stock: 1
-},
     {
   nombre: "5348PELUCHE TRALALERO MUSICAL",
   categoria: "Navidad / Regalos",
@@ -2520,10 +2509,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.95,
-   "6": 3.65,
   },
   imagen: "Img/Imagen340.png",
-  stock: 5
+  stock: 3
 },
      {
   nombre: "5354CREMA DE MANOS FRUTAL",
@@ -2548,6 +2536,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
