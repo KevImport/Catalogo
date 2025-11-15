@@ -1342,16 +1342,6 @@ const productos = [
   stock: 2
 },
  {
-  nombre: "5114DUPE INVICTUS BLACK",
-  categoria: "Perfumeria",
-  descripcion: "Perfume inspiración Invictus Black – Paco Rabanne. Aroma masculino, intenso y elegante, ideal para destacar en cualquier ocasión. Contenido: 250 ML",
-  precios: {
-    "1": 13.95,
- },
-  imagen: "Img/Imagen204.jpeg",
-  stock: 2
-},
- {
   nombre: "5115CARTUCHERA CON CALCULADORA",
   categoria: "Escolar / Papelería",
   descripcion: "Cartuchera con calculadora incorporada. Mantén tus lápices, lapiceros y accesorios siempre ordenados y resuelve operaciones al instante. ¡Práctica y funcional!",
@@ -2330,7 +2320,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen323.jpeg",
-  stock: 10
+  stock: 6
 },
       {
   nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
@@ -2536,6 +2526,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
