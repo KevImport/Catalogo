@@ -1859,7 +1859,7 @@ const productos = [
    "1": 23.95,
  },
   imagen: "Img/Imagen270.png",
-  stock: 1
+  stock: 5
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -2536,6 +2536,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
