@@ -2482,16 +2482,6 @@ const productos = [
   imagen: "Img/Imagen338.jpeg",
   stock: 8
 },
-   {
-  nombre: "5350PACK DE 10 GUIRNALDAS NAVIDEÑAS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Medida aprox.: 2m x 7cm. Ideal para decorar árboles, barandas, puertas o ventanas con estilo festivo. Reutilizable y lista para llenar tu hogar de espíritu navideño.",
-  precios: {
-   "1": 10.90,
-  },
-  imagen: "Img/Imagen339.jpeg",
-  stock: 3
-},
   {
   nombre: "5351QUITAPELUSA PINGÜINO",
   categoria: "Hogar / Cocina",
@@ -2526,6 +2516,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
