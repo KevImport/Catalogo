@@ -399,7 +399,7 @@ const productos = [
     "3": 5.50,
   },
   imagen: "Img/Imagen75.jpg",
-  stock: 11
+  stock: 3
 },
 {
   nombre: "4154JUEGO TWISTER",
@@ -1859,7 +1859,7 @@ const productos = [
    "1": 23.95,
  },
   imagen: "Img/Imagen270.png",
-  stock: 2
+  stock: 1
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -2536,6 +2536,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
