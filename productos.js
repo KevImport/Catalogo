@@ -1393,7 +1393,7 @@ const productos = [
     "1": 7.95,
  },
   imagen: "Img/Imagen210.jpeg",
-  stock: 3
+  stock: 1
 },
  {
   nombre: "5134SOPORTE UNIVERSAL PARA AUTO",
@@ -1997,7 +1997,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen285.png",
-  stock: 6
+  stock: 12
 },
   {
   nombre: "5278PIJAMA DE DOS PIEZAS",
@@ -2504,6 +2504,74 @@ const productos = [
   imagen: "Img/Imagen342.jpeg",
   stock: 7
 },
+    {
+  nombre: "5356BLOQUES ARMABLES 3D - TRALALERO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Set de bloques 3D para armar divertidas figuras de animales y personajes. Piezas multicolores que estimulan la creatividad y la concentración. Son 12 modelos coleccionables, incluye instrucciones para el armado.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "Img/Imagen343.jpg",
+  stock: 32
+},
+      {
+  nombre: "5360ESTUCHE DE 20 COLET KAWAII",
+  categoria: "Accesorios",
+",
+  descripcion: "El paquete más tierno y colorido de ligas para el cabello: ¡20 gomas elásticas con diseños de frutas, flores y/o animales! Son suaves y seguras (no dañan el cabello), perfectas para peinados diarios que encantarán a tus niñas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "Img/Imagen344.jpeg",
+  stock: 6
+},
+        {
+  nombre: "5363CINTA LED DE 3 METROS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Use esta cinta led para crear un ambiente festivo, ideal para empacar regalos de Navidad, hacer coronas navideñas, decorar árboles de Navidad, etc. Material sobre cinta: hecho de organza. Color de la cinta: Dorado",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "Img/Imagen345.png",
+  stock: 10
+},
+          {
+  nombre: "5364CORREA DAMA",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque chic y romántico a tus outfits diarios. Hebilla doble corazón con acabado brillante y moderno. Ideal para jeans, vestidos o faldas, ¡resalta tu estilo! ",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+  },
+  imagen: "Img/Imagen346.jpeg",
+  stock: 10
+},
+  {
+  nombre: "5366PIANITO MUSICAL",
+  categoria: "Navidad / Regalos",
+  descripcion: "Diseño colorido y divertido.  Medida: 22 x 10 cm. Ideal para los peques que aman la música y Disney.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen347.jpg",
+  stock: 12
+},
+  {
+  nombre: "5367XILOFONO DISNEY",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para estimular la creatividad y coordinación musical de los niños. Perfecto como regalo educativo y entretenido para los más pequeños.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "Img/Imagen348.jpeg",
+  stock: 6
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2516,6 +2584,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
