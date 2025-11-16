@@ -2519,7 +2519,6 @@ const productos = [
       {
   nombre: "5360ESTUCHE DE 20 COLET KAWAII",
   categoria: "Accesorios",
-",
   descripcion: "El paquete más tierno y colorido de ligas para el cabello: ¡20 gomas elásticas con diseños de frutas, flores y/o animales! Son suaves y seguras (no dañan el cabello), perfectas para peinados diarios que encantarán a tus niñas.",
   precios: {
    "1": 3.95,
@@ -2584,6 +2583,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
