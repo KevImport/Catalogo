@@ -2067,18 +2067,6 @@ const productos = [
   imagen: "Img/Imagen293.jpeg",
   stock: 37
 },
- {
-  nombre: "5289DOCENA DE CHISPITAS MARIPOSA",
-  categoria: "Pirotecnicos",
-  descripcion: "Destellos brillantes que hacen tus fiestas más mágicas. Perfectas para celebraciones, cumpleaños y momentos especiales.",
-  precios: {
-   "1": 5.95,
-   "3": 4.85,
-   "6": 4.55,
-  },
-  imagen: "Img/Imagen294.jpeg",
-  stock: 3
-},
   {
   nombre: "5292MOLDE PARA HIELO FACIAL",
   categoria: "Higiene / Cuidado Personal",
@@ -2573,6 +2561,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
