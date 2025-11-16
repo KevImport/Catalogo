@@ -433,16 +433,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "2756SET DE 12 VELAS NAVIDEÑAS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ilumina la Navidad. Set de velas con diseños festivos para decorar mesas, repisas o centros de mesa.",
-  precios: {
-    "1": 13.90,
-  },
-  imagen: "Img/Imagen82.jpg",
-  stock: 1
-},
-{
   nombre: "4041VELA LED NAVIDEÑA",
   categoria: "Navidad / Regalos",
   descripcion: "Vela LED con diseño navideño que ilumina y decora sin riesgo. Ideal para crear ambientes cálidos y festivos.",
@@ -2583,6 +2573,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
