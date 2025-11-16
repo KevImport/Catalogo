@@ -1548,7 +1548,7 @@ const productos = [
     "1": 5.40,
  },
   imagen: "Img/Imagen232.jpeg",
-  stock: 7
+  stock: 6
 },
  {
   nombre: "5179ALFOMBRA ABSORBENTE",
@@ -2516,6 +2516,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
