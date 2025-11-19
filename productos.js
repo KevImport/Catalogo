@@ -1839,7 +1839,7 @@ const productos = [
    "1": 23.95,
  },
   imagen: "Img/Imagen270.png",
-  stock: 5
+  stock: 2
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -1871,7 +1871,7 @@ const productos = [
    "1": 14.95,
  },
   imagen: "Img/Imagen273.jpeg",
-  stock: 16
+  stock: 15
 },
    {
   nombre: "5267MOUSE & RAT",
@@ -1929,7 +1929,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen279.jpeg",
-  stock: 21
+  stock: 20
 },
   {
   nombre: "5272MANDIL CON SECADOR NAVIDEÑO",
@@ -1940,7 +1940,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen280.jpeg",
-  stock: 11
+  stock: 6
 },
  {
   nombre: "5273VELA FLOR MUSICAL DE CUMPLEAÑOS",
@@ -2253,7 +2253,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen319.jpeg",
-  stock: 2
+  stock: 1
 },
         {
   nombre: "5325HADA VOLADORA",
@@ -2368,7 +2368,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen329.png",
-  stock: 12
+  stock: 11
 },
       {
   nombre: "5337ROLLO DE ADHESIVO DE VENTANA",
@@ -2402,7 +2402,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen332.jpeg",
-  stock: 19
+  stock: 13
 },
           {
   nombre: "5340PORTA TOALLITAS HÚMEDAS",
@@ -2561,6 +2561,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
