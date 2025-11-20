@@ -2523,11 +2523,10 @@ const productos = [
   descripcion: "Dale un toque chic y romántico a tus outfits diarios. Hebilla doble corazón con acabado brillante y moderno. Ideal para jeans, vestidos o faldas, ¡resalta tu estilo! ",
   precios: {
    "1": 5.95,
-   "3": 4.25,
-   "6": 3.95,
+   "2": 4.25,
   },
   imagen: "Img/Imagen346.jpeg",
-  stock: 10
+  stock: 2
 },
   {
   nombre: "5366PIANITO MUSICAL",
@@ -2561,6 +2560,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
