@@ -858,16 +858,6 @@ const productos = [
   stock: 5
 },
 {
-  nombre: "4979MASCARILLA CON COLÁGENO FLOWER SECRET",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Mascarilla facial enriquecida con colágeno para hidratar y rejuvenecer la piel. Ideal para una rutina de belleza efectiva.",
-  precios: {
-    "1": 9.95,
-  },
-  imagen: "Img/Imagen130.jpg",
-  stock: 1
-},
-{
   nombre: "4920SET DE UÑAS POSTIZAS - MODELO #2",
   categoria: "Belleza / Cosmética",
   descripcion: "Set de uñas postizas con diseño moderno. Fáciles de colocar, resistentes y perfectas para cualquier ocasión.",
@@ -2560,6 +2550,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
