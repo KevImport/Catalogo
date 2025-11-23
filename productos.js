@@ -32,7 +32,7 @@ const productos = [
     "6": 1.55,
   },
   imagen: "Img/Imagen6.jpg",
-  stock: 24
+  stock: 6
 },
 {
   nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
@@ -2697,6 +2697,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
