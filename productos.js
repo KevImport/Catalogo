@@ -896,10 +896,9 @@ const productos = [
   descripcion: "Delineador doble función con punta precisa y otro extremo para difuminar. Perfecto para crear looks intensos y definidos.",
   precios: {
     "1": 4.95,
-    "3": 3.85,
   },
   imagen: "Img/Imagen138.jpg",
-  stock: 3
+  stock: 1
 },
 {
   nombre: "4839REMOVEDOR DE VERRUGAS",
@@ -973,12 +972,11 @@ const productos = [
   categoria: "Belleza / Cosmética",
   descripcion: "Dale intensidad a tu mirada con estas pestañas postizas naturales y ligeras. Fáciles de colocar y reutilizables.",
   precios: {
-    "1": 3.95,
-    "3": 2.25,
-    "6": 1.95,
+    "1": 2.95,
+    "3": 1.95,
   },
   imagen: "Img/Imagen147.jpg",
-  stock: 7
+  stock: 3
 },
 {
   nombre: "4491PESTAÑAS POSTIZAS 6D",
@@ -2550,6 +2548,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
