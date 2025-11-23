@@ -2600,16 +2600,6 @@ const productos = [
   imagen: "Img/Imagen355.jpeg",
   stock: 12
 },
-                {
-  nombre: "5375ACEITE DE ARGAN",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Aceite de Argán y Keratina Esencial Hidratante, para nutrir el cuero cabelludo y reparar eficazmente las puntas y cabellos quebradizos. Agrega Brillo al Cabello, apto para todo tipo de Cabello y mejora el cabello graso y seco, ideal para fomentar un cabello saludable y más manejable. Para Uso Personal y Profesional, como Salones de Belleza y Spa. Contenido: 125 ML",
-  precios: {
-   "1": 10.90,
-  },
-  imagen: "Img/Imagen356.jpeg",
-  stock: 2
-},
                   {
   nombre: "5376PORTAVELAS DE CRISTAL EN FORMA DE CORONA",
   categoria: "Decoración / Fiesta",
@@ -2697,6 +2687,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
