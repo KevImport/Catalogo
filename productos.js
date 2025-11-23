@@ -1880,10 +1880,9 @@ const productos = [
   descripcion: "Potencia de 65W. Versátil, resistente y perfecto para el día a día. Ideal para viajes, oficina o uso diario en casa.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
  },
   imagen: "Img/Imagen276.png",
-  stock: 4
+  stock: 2
 },
   {
   nombre: "5269MINI CEPILLO CON ESPEJO",
@@ -2687,6 +2686,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
