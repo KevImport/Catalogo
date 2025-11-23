@@ -2536,6 +2536,165 @@ const productos = [
   imagen: "Img/Imagen348.jpeg",
   stock: 6
 },
+    {
+  nombre: "5368FLY NOVA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Diviértete con esta esfera voladora con luces LED brillantes. Se controla fácilmente con la mano, ideal para juegos en grupo.",
+  precios: {
+   "1": 9.95,
+   "3": 8.95,
+  },
+  imagen: "Img/Imagen349.png",
+  stock: 5
+},
+      {
+  nombre: "TAZA DE CERAMICA NAVIDEÑA 20onzas",
+  categoria: "Navidad / Regalos",
+  descripcion: "Tazas festivas con diseños súper lindos de Navidad, perfectas para regalar o decorar tu cocina. Material resistente, colores vibrantes y listos para darle magia a tus mañanas.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+  },
+  imagen: "Img/Imagen350.jpeg",
+  stock: 13
+},
+        {
+  nombre: "5370GUITARRITA MUSICAL",
+  categoria: "Navidad / Regalos",
+  descripcion: "Divertida guitarra con personajes Disney y sonidos encantadores. Ideal para estimular la creatividad musical de los más pequeños. Perfecta para regalo, ligera y fácil de usar.",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "Img/Imagen351.jpeg",
+  stock: 10
+},
+            {
+  nombre: "5371BARBIE VIAJERA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Lista para nuevas aventuras con su estilo único y moderno. Incluye accesorios de viaje para hacer el juego más divertido. Perfecta para desarrollar la imaginación y crear historias sin límites.",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "Img/Imagen352.jpeg",
+  stock: 4
+},
+          {
+  nombre: "5372GORRO DISEÑO MILITAR",
+  categoria: "Accesorios",
+  descripcion: "Gorra estilo militar. Resistente, cómoda y con actitud. Ajustable, perfecta para un look urbano, táctico o casual.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "Img/Imagen353.jpeg",
+  stock: 7
+},
+            {
+  nombre: "5373PERFUME ARABE PARA HOMBRE - DUPE LATAFFA ASAD",
+  categoria: "Perfumeria",
+  descripcion: "Dupe: Lattafa Asad. Estilo árabe, aroma intenso y masculino. Ideal para quienes marcan presencia. ¡Duradero, envolvente y con actitud! Capacidad: 100 ML",
+  precios: {
+   "1": 14.90,
+  },
+  imagen: "Img/Imagen354.jpeg",
+  stock: 2
+},
+              {
+  nombre: "5374ESMALTE DE UÑAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Colores vibrantes y de larga duración para lucir uñas perfectas. Acabado brillante y profesional en cada aplicación. Ideal para uso diario o para completar tu look con estilo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "Img/Imagen355.jpeg",
+  stock: 12
+},
+                {
+  nombre: "5375ACEITE DE ARGAN",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Aceite de Argán y Keratina Esencial Hidratante, para nutrir el cuero cabelludo y reparar eficazmente las puntas y cabellos quebradizos. Agrega Brillo al Cabello, apto para todo tipo de Cabello y mejora el cabello graso y seco, ideal para fomentar un cabello saludable y más manejable. Para Uso Personal y Profesional, como Salones de Belleza y Spa. Contenido: 125 ML",
+  precios: {
+   "1": 10.90,
+  },
+  imagen: "Img/Imagen356.jpeg",
+  stock: 2
+},
+                  {
+  nombre: "5376PORTAVELAS DE CRISTAL EN FORMA DE CORONA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Aporta un brillo elegante y sofisticado a tu hogar o eventos. Perfecto para crear ambientes cálidos y mágicos. Ideal como decoración o detalle especial para ocasiones únicas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen357.jpeg",
+  stock: 9
+},
+{
+  nombre: "5377BASE MÓVIL",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Transporta balones, cubos de agua, macetas, etc. Material: plástico. Capacidad: 40kg",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "Img/Imagen358.jpeg",
+  stock: 24
+},
+  {
+  nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Texturas suaves y elásticas perfectas para moldear, aplastar y crear. Incluye 24 unidades en colores variados para horas de diversión. Ideal para niños, manualidades, regalos y actividades sensoriales.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+  },
+  imagen: "Img/Imagen359.jpeg",
+  stock: 22
+},
+    {
+  nombre: "5379JABONERA CON CAJÓN",
+  categoria: "Hogar / Cocina",
+  descripcion: "Jabonera elegante con drenaje. Diseño moderno que evita la acumulación de agua y mantiene tu jabón siempre fresco y duradero.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "Img/Imagen360.png",
+  stock: 21
+},
+   {
+  nombre: "5381CELULAR EDUCATIVO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Incluye sonidos, música y actividades para aprender jugando. Estimula la memoria, colores, números y palabras. Recargable. Color al azar.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen361.jpeg",
+  stock: 17
+},
+     {
+  nombre: "5382CASTILLO DE MUÑECAS DE 162pzs",
+  categoria: "Navidad / Regalos",
+  descripcion: "Un hermoso set para armar un castillo lleno de magia y creatividad. Incluye piezas encajables y detalladas para horas de juego imaginativo. ¡Perfecto para regalar y crear un mundo de fantasía!",
+  precios: {
+   "1": 34.90,
+  },
+  imagen: "Img/Imagen362.jpeg",
+  stock: 9
+},
+       {
+  nombre: "5383FOCO LED 30W",
+  categoria: "Hogar / Cocina",
+  descripcion: "Iluminación potente y de bajo consumo energético. Ideal para interiores o exteriores, brinda luz clara y uniforme. Ahorra energía y disfruta de mayor durabilidad.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "Img/Imagen363.jpeg",
+  stock: 14
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2548,6 +2707,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
