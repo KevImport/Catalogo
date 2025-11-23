@@ -1875,16 +1875,6 @@ const productos = [
   stock: 16
 },
    {
-  nombre: "5268CABLE 4 EN 1",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Potencia de 65W. Versátil, resistente y perfecto para el día a día. Ideal para viajes, oficina o uso diario en casa.",
-  precios: {
-   "1": 4.95,
- },
-  imagen: "Img/Imagen276.png",
-  stock: 2
-},
-  {
   nombre: "5269MINI CEPILLO CON ESPEJO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Puedes llevarlo a todos lados para verte perfecta y linda siempre. Peine retráctil e incluye espejo.",
@@ -2686,6 +2676,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
