@@ -2547,17 +2547,7 @@ const productos = [
   imagen: "Img/Imagen351.jpeg",
   stock: 10
 },
-            {
-  nombre: "5371BARBIE VIAJERA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Lista para nuevas aventuras con su estilo único y moderno. Incluye accesorios de viaje para hacer el juego más divertido. Perfecta para desarrollar la imaginación y crear historias sin límites.",
-  precios: {
-   "1": 7.95,
-  },
-  imagen: "Img/Imagen352.jpeg",
-  stock: 4
-},
-          {
+           {
   nombre: "5372GORRO DISEÑO MILITAR",
   categoria: "Accesorios",
   descripcion: "Gorra estilo militar. Resistente, cómoda y con actitud. Ajustable, perfecta para un look urbano, táctico o casual.",
@@ -2676,6 +2666,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
