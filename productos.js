@@ -2526,17 +2526,7 @@ const productos = [
   imagen: "Img/Imagen347.jpg",
   stock: 12
 },
-  {
-  nombre: "5367XILOFONO DISNEY",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ideal para estimular la creatividad y coordinación musical de los niños. Perfecto como regalo educativo y entretenido para los más pequeños.",
-  precios: {
-   "1": 6.95,
-  },
-  imagen: "Img/Imagen348.jpeg",
-  stock: 6
-},
-    {
+   {
   nombre: "5368FLY NOVA",
   categoria: "Navidad / Regalos",
   descripcion: "Diviértete con esta esfera voladora con luces LED brillantes. Se controla fácilmente con la mano, ideal para juegos en grupo.",
@@ -2707,6 +2697,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
