@@ -2538,7 +2538,7 @@ const productos = [
   stock: 5
 },
       {
-  nombre: "TAZA DE CERAMICA NAVIDEÑA 20onzas",
+  nombre: "5369TAZA DE CERAMICA NAVIDEÑA 20onzas",
   categoria: "Navidad / Regalos",
   descripcion: "Tazas festivas con diseños súper lindos de Navidad, perfectas para regalar o decorar tu cocina. Material resistente, colores vibrantes y listos para darle magia a tus mañanas.",
   precios: {
@@ -2697,6 +2697,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
