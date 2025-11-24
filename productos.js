@@ -1364,16 +1364,6 @@ const productos = [
   stock: 8
 },
  {
-  nombre: "5123BALANZA GRAMERA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Balanza gramera digital pesa desde 1 gramo hasta 5 kg. Tiene botón de tarar (tare) así solo pesas el contenido del recipiente. Apagado automático. Fácil de usar, guardar y transportar. Funciona con 2 pilas AA (Incluye pilas).",
-  precios: {
-    "1": 7.95,
- },
-  imagen: "Img/Imagen210.jpeg",
-  stock: 1
-},
- {
   nombre: "5134SOPORTE UNIVERSAL PARA AUTO",
   categoria: "Electrónica / Gadgets",
   descripcion: "Ideal para sostener tu celular en el retrovisor. Ajustable y rotatorio. Fácil instalación. Compatible con la mayoría de los teléfonos. ¡Conduce seguro y con las manos libres!.",
@@ -2666,6 +2656,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
