@@ -2447,7 +2447,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen342.jpeg",
-  stock: 7
+  stock: 5
 },
     {
   nombre: "5356BLOQUES ARMABLES 3D - TRALALERO",
@@ -2505,17 +2505,6 @@ const productos = [
   imagen: "Img/Imagen347.jpg",
   stock: 12
 },
-   {
-  nombre: "5368FLY NOVA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Diviértete con esta esfera voladora con luces LED brillantes. Se controla fácilmente con la mano, ideal para juegos en grupo.",
-  precios: {
-   "1": 9.95,
-   "3": 8.95,
-  },
-  imagen: "Img/Imagen349.png",
-  stock: 4
-},
       {
   nombre: "5369TAZA DE CERAMICA NAVIDEÑA 20onzas",
   categoria: "Navidad / Regalos",
@@ -2545,7 +2534,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen353.jpeg",
-  stock: 7
+  stock: 6
 },
             {
   nombre: "5373PERFUME ARABE PARA HOMBRE - DUPE LATAFFA ASAD",
@@ -2567,7 +2556,7 @@ const productos = [
    "6": 2.65,
   },
   imagen: "Img/Imagen355.jpeg",
-  stock: 12
+  stock: 6
 },
                   {
   nombre: "5376PORTAVELAS DE CRISTAL EN FORMA DE CORONA",
@@ -2600,7 +2589,7 @@ const productos = [
    "6": 3.65,
   },
   imagen: "Img/Imagen359.jpeg",
-  stock: 22
+  stock: 21
 },
     {
   nombre: "5379JABONERA CON CAJÓN",
@@ -2611,7 +2600,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen360.png",
-  stock: 21
+  stock: 15
 },
    {
   nombre: "5381CELULAR EDUCATIVO",
@@ -2621,7 +2610,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen361.jpeg",
-  stock: 17
+  stock: 11
 },
      {
   nombre: "5382CASTILLO DE MUÑECAS DE 162pzs",
@@ -2644,6 +2633,17 @@ const productos = [
   imagen: "Img/Imagen363.jpeg",
   stock: 14
 },
+         {
+  nombre: "5184PULSERA DISEÑO BODHI",
+  categoria: "Accesorios",
+  descripcion: "Pulsera artesanal con cuentas Bodhi, símbolo de calma, espiritualidad y protección. Ajustable y cómoda. Estilo bohemio/zen. Ideal para meditación o uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen364.jpeg",
+  stock: 9
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2656,6 +2656,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
