@@ -503,16 +503,6 @@ const productos = [
   stock: 12
 },
 {
-  nombre: "3352COLLAR SATURNO",
-  categoria: "Accesorios",
-  descripcion: "Collar moderno con diseño de Saturno, perfecto para destacar tu look con un toque único y astral.",
-  precios: {
-    "1": 7.90,
-  },
-  imagen: "Img/Imagen93.jpg",
-  stock: 3
-},
-{
   nombre: "3159JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
   categoria: "Accesorios",
   descripcion: "Collares magnéticos para compartir con alguien especial. Al juntarse forman un corazón, ideal para parejas o amistades.",
@@ -523,7 +513,7 @@ const productos = [
     "12": 2.90,
   },
   imagen: "Img/Imagen94.jpg",
-  stock: 33
+  stock: 21
 },
 {
   nombre: "3054AVE DE EQUILIBRIO",
@@ -1000,17 +990,6 @@ const productos = [
   stock: 6
 },
 {
-  nombre: "4711BOXER DAMA CK",
-  categoria: "Ropa interior",
-  descripcion: "Boxer femenino inspirado en la comodidad y estilo de Calvin Klein. Ajuste perfecto para uso diario.",
-  precios: {
-    "1": 4.95,
-    "3": 4.65,
-  },
-  imagen: "Img/Imagen153.jpg",
-  stock: 3
-},
-{
   nombre: "5040SET PLASTILINA + MOLDES",
   categoria: "Escolar / Papelería",
   descripcion: "Set creativo con plastilina de colores y moldes incluidos. Perfecto para que los niños desarrollen su imaginación.",
@@ -1183,10 +1162,11 @@ const productos = [
   categoria: "Escolar / Papelería",
   descripcion: "Ideal para impresiones full color. Acabado brillante para fotos vibrantes. Tamaño A4 – 180g. Contiene 20 hojas por paquete. Perfecto para proyectos creativos y recuerdos.",
   precios: {
-    "1": 13.90
+    "1": 5.95,
+    "3": 4.95,
  },
   imagen: "Img/Imagen184.jpeg",
-  stock: 5
+  stock: 3
 },
 {
   nombre: "5077LUZ PARA ESCALERA",
@@ -1628,16 +1608,6 @@ const productos = [
  },
   imagen: "Img/Imagen250.png",
   stock: 2
-},
-{
-  nombre: "5228CREMA EXFOLIANTE DE ALOE VERA - 300 ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Suaviza y renueva la piel eliminando células muertas de forma delicada. Gracias al poder del aloe vera, hidrata y calma, dejando una sensación fresca y natural.",
-  precios: {
-   "1": 6.95,
- },
-  imagen: "Img/Imagen252.jpeg",
-  stock: 1
 },
 {
   nombre: "5232LUCES CASCADA 3 METROS",
@@ -2609,7 +2579,7 @@ const productos = [
    "1": 34.90,
   },
   imagen: "Img/Imagen362.jpeg",
-  stock: 8
+  stock: 6
 },
        {
   nombre: "5383FOCO LED 30W",
@@ -2750,7 +2720,7 @@ const productos = [
    "12": 2.35,
      },
   imagen: "Img/Imagen375.png",
-  stock: 30
+  stock: 18
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2764,6 +2734,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
