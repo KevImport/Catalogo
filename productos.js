@@ -1866,7 +1866,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen279.jpeg",
-  stock: 20
+  stock: 8
 },
   {
   nombre: "5272MANDIL CON SECADOR NAVIDEÑO",
@@ -2734,6 +2734,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
