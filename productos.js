@@ -2642,7 +2642,126 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen364.jpeg",
+  stock: 8
+},
+         {
+  nombre: "5384CONSOLA DE JUEGOS - 10000 JUEGOS EN 1",
+  categoria: "Navidad / Regalos",
+  descripcion: "¡Revive la Nostalgia! ¿Recuerdas las horas de diversión con los clásicos de la infancia? ¡Es hora de volver a vivirlas! Presentamos la Consola de Videojuegos, tu portal directo a la era dorada del gaming, todo en un dispositivo moderno y fácil de usar.",
+  precios: {
+   "1": 68.90,
+     },
+  imagen: "Img/Imagen365.png",
+  stock: 1
+},
+  {
+  nombre: "5385PROTECTORES DE ANTEBRAZO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protectores de antebrazo de cuero PU resistente, impermeables y duraderos. Fácil limpieza y reutilizables, ideales para mantener la ropa protegida en todo momento. Perfectos para cocina, limpieza, jardinería, pesca, carnicería y más.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Img/Imagen366.jpeg",
+  stock: 32
+},
+    {
+  nombre: "5386PACK DE 10 LUCES HADA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Perfecto para tus decoraciones, envases, detalles, globos, regalos y mucho más. Medida aprox.: 3m. Funciona con pilas.",
+  precios: {
+   "1": 13.95,
+     },
+  imagen: "Img/Imagen367.jpg",
+  stock: 4
+},
+      {
+  nombre: "5387SET DE MINI DRAGONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 6 mini dragones con detalles increíbles y llenos de carácter. Fabricados en resina, resistentes y perfectos para coleccionar o decorar. Ideales para escritorios, repisas o como regalo para amantes de la fantasía.",
+  precios: {
+   "1": 4.95,
+   "1": 3.95,
+     },
+  imagen: "Img/Imagen368.jpeg",
+  stock: 21
+},
+        {
+  nombre: "5388PULSERA DE ABUNDANCIA Y RIQUEZA",
+  categoria: "Accesorios",
+  descripcion: "Atrae buena vibra. Favorece la llegada del dinero. Protege de la envidia. Ideal como amuleto diario.",
+  precios: {
+   "1": 2.95,
+   "1": 1.95,
+     },
+  imagen: "Img/Imagen369.jpeg",
+  stock: 18
+},
+          {
+  nombre: "5389MINI TALADRO MONTESSORI",
+  categoria: "Navidad / Regalos",
+  descripcion: "Estimula la creatividad y la motricidad con este divertido set tipo Montessori ideal para los más pequeños. Incluye múltiples piezas para construir figuras y desarrollar habilidades mientras juegan. Viene en una práctica maletita para llevar y guardar todo fácilmente.",
+  precios: {
+   "1": 33.90,
+   },
+  imagen: "Img/Imagen370.png",
   stock: 9
+},
+          {
+  nombre: "5390SMARTWATCH D20 MACARON",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Con este moderno reloj inteligente podrás llevar tus actividades diarias con estilo. Incluye funciones deportivas, monitorización básica y pantalla táctil para mayor comodidad. Disponible en diseños juveniles y brillantes, ideal para regalar o usar a diario.",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "Img/Imagen371.jpeg",
+  stock: 12
+},
+            {
+  nombre: "5391CAMPANAS DE VIENTO MÍSTICOS Y ENERGÉTICOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Atrae paz, armonía y vibras positivas con estos carillones llenos de simbolismo espiritual. Sus detalles representan protección, equilibrio y buena fortuna para tu hogar. Perfectos para decorar interiores o exteriores, con un sonido relajante que llena cualquier espacio de magia.",
+  precios: {
+   "1": 7.90,
+     },
+  imagen: "Img/Imagen372.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5393COLET ELEGANTE",
+  categoria: "Accesorios",
+  descripcion: "Hermoso diseño sofisticado que realza cualquier peinado. Suave, resistente y perfecto para lucir un estilo chic en cualquier ocasión. Ideal para uso diario o eventos especiales.",
+  precios: {
+   "1": 2.95,
+   "3": 1.85,
+   "6": 1.55,
+     },
+  imagen: "Img/Imagen373.jpeg",
+  stock: 19
+},
+    {
+  nombre: "5394STAR BELLY LAVABLE DE FELPA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Suave y adorable peluche con luz proyectora, hecho de felpa súper cómoda. Es lavable, ideal para mantenerlo siempre limpio y listo para acompañar a los peques. Perfecto para dormir con tranquilidad y llenar la habitación de magia.",
+  precios: {
+   "1": 12.90,
+     },
+  imagen: "Img/Imagen374.jpeg",
+  stock: 8
+},
+  
+    {
+  nombre: "5395BURLETE",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Dile adiós a las corrientes de aire, al ruido molesto y al polvo! Burlete de Puerta de Alto Rendimiento es la solución definitiva para transformar su hogar en un espacio confortable, tranquilo y eficiente.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+     },
+  imagen: "Img/Imagen375.png",
+  stock: 30
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2656,6 +2775,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
