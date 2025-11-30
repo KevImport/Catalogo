@@ -2484,17 +2484,6 @@ const productos = [
   imagen: "Img/Imagen345.png",
   stock: 10
 },
-          {
-  nombre: "5364CORREA DAMA",
-  categoria: "Accesorios",
-  descripcion: "Dale un toque chic y romántico a tus outfits diarios. Hebilla doble corazón con acabado brillante y moderno. Ideal para jeans, vestidos o faldas, ¡resalta tu estilo! ",
-  precios: {
-   "1": 5.95,
-   "2": 4.25,
-  },
-  imagen: "Img/Imagen346.jpeg",
-  stock: 2
-},
   {
   nombre: "5366PIANITO MUSICAL",
   categoria: "Navidad / Regalos",
@@ -2775,6 +2764,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
