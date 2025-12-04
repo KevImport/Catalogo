@@ -1577,17 +1577,6 @@ const productos = [
   imagen: "Img/Imagen247.jpeg",
   stock: 14
 },
- {
-  nombre: "5218LUCES LINEALES 100 FOCOS - ÁMBAR",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ilumina tus espacios con un brillo cálido y elegante. Perfectas para decorar interiores y exteriores. Fáciles de colocar y de bajo consumo energético.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
- },
-  imagen: "Img/Imagen248.jpeg",
-  stock: 9
-},
   {
   nombre: "5219COLGADOR DE PANTALONES",
   categoria: "Hogar / Cocina",
@@ -1608,17 +1597,6 @@ const productos = [
  },
   imagen: "Img/Imagen250.png",
   stock: 2
-},
-{
-  nombre: "5232LUCES CASCADA 3 METROS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Crea un ambiente cálido y acogedor en tu hogar. Ideal para decorar fiestas, eventos o habitaciones. Fáciles de instalar, bajo consumo y con efecto mágico.",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
- },
-  imagen: "Img/Imagen254.jpeg",
-  stock: 16
 },
 {
   nombre: "5234MEDIAS DE COMPRESIÓN",
@@ -2734,6 +2712,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
