@@ -1158,17 +1158,6 @@ const productos = [
   stock: 1
 },
 {
-  nombre: "5074PAQUETE DE 20 PAPELES FOTOGRÁFICOS BRILLANTE A4",
-  categoria: "Escolar / Papelería",
-  descripcion: "Ideal para impresiones full color. Acabado brillante para fotos vibrantes. Tamaño A4 – 180g. Contiene 20 hojas por paquete. Perfecto para proyectos creativos y recuerdos.",
-  precios: {
-    "1": 5.95,
-    "3": 4.95,
- },
-  imagen: "Img/Imagen184.jpeg",
-  stock: 3
-},
-{
   nombre: "5077LUZ PARA ESCALERA",
   categoria: "Hogar / Cocina",
   descripcion: "Luz solar LED para escalones, caminos y escaleras. Se carga con el sol. Resistente al agua y fácil de instalar. ¡Ilumina y decora con estilo y seguridad!.",
@@ -2557,7 +2546,7 @@ const productos = [
    "1": 34.90,
   },
   imagen: "Img/Imagen362.jpeg",
-  stock: 6
+  stock: 2
 },
        {
   nombre: "5383FOCO LED 30W",
@@ -2642,7 +2631,7 @@ const productos = [
    "1": 33.90,
    },
   imagen: "Img/Imagen370.png",
-  stock: 9
+  stock: 5
 },
           {
   nombre: "5390SMARTWATCH D20 MACARON",
@@ -2712,6 +2701,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
