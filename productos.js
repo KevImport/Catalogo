@@ -2628,7 +2628,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Estimula la creatividad y la motricidad con este divertido set tipo Montessori ideal para los más pequeños. Incluye múltiples piezas para construir figuras y desarrollar habilidades mientras juegan. Viene en una práctica maletita para llevar y guardar todo fácilmente.",
   precios: {
-   "1": 33.90,
+   "1": 34.90,
    },
   imagen: "Img/Imagen370.png",
   stock: 5
@@ -2701,6 +2701,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
