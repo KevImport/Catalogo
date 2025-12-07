@@ -2270,7 +2270,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen329.png",
-  stock: 11
+  stock: 3
 },
       {
   nombre: "5337ROLLO DE ADHESIVO DE VENTANA",
@@ -2761,6 +2761,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
