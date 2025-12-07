@@ -2675,8 +2675,7 @@ const productos = [
   imagen: "Img/Imagen374.jpeg",
   stock: 8
 },
-  
-    {
+  {
   nombre: "5395BURLETE",
   categoria: "Hogar / Cocina",
   descripcion: "¡Dile adiós a las corrientes de aire, al ruido molesto y al polvo! Burlete de Puerta de Alto Rendimiento es la solución definitiva para transformar su hogar en un espacio confortable, tranquilo y eficiente.",
@@ -2688,6 +2687,80 @@ const productos = [
      },
   imagen: "Img/Imagen375.png",
   stock: 18
+},
+    {
+  nombre: "5396CARGADOR DE 75W + CABLE TIPO C",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Carga súper rápida para celulares, tablets y laptops compatibles. Incluye cable Tipo C resistente y de alto rendimiento. Ideal para uso diario, viajes y carga eficiente sin esperar horas.",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen376.jpeg",
+  stock: 8
+},
+      {
+  nombre: "5397SHAMPOO DE ROMERO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1000ML",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "Img/Imagen377.jpeg",
+  stock: 3
+},
+   {
+  nombre: "5406CARTERA MODERNO – LUXE",
+  categoria: "Accesorios",
+  descripcion: "Elegante, compacta y súper práctica, ideal para acompañarte en el día a día. Con detalles en tono cuero, estampado clásico y correa ajustable, aporta un toque sofisticado a cualquier outfit. Medida: 25 x 18 x 8 cm",
+  precios: {
+   "1": 14.90,
+     },
+  imagen: "Img/Imagen378.jpeg",
+  stock: 13
+},
+     {
+  nombre: "5407SET DE 120 PLUMONES DUAL BRUSH",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
+  precios: {
+   "1": 36.90,
+     },
+  imagen: "Img/Imagen379.jpeg",
+  stock: 6
+},
+       {
+  nombre: "5408CINTA DOBLE CONTACTO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida aprox.: 5 metros. Ideal para fijar objetos de forma rápida y segura sin necesidad de clavos. Adhiere en superficies lisas como paredes, vidrio, metal y plástico. Perfecta para manualidades, decoración y uso doméstico.",
+  precios: {
+   "1": 4.95,
+   "3": 3.65,
+   "6": 3.35,
+   "12": 3.05,
+     },
+  imagen: "Img/Imagen380.jpeg",
+  stock: 13
+},
+         {
+  nombre: "5409STICKER IMANTADO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu refri con tiernos imanes navideños, súper fáciles de colocar y quitar. Añaden color, alegría y espíritu festivo a tu cocina en segundos. Perfectos para el hogar, oficina o para regalar esta temporada. Diseño al azar",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen381.jpeg",
+  stock: 14
+},
+           {
+  nombre: "5410CORTADOR DE PAPEL PORTÁTIL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Medida: 33.5 x 6.5 cm. Material: Plástico. Ideal para manualidades, scrapbooking y trabajos escolares, con medida precisa y deslizador suave para cortes limpios. ",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen382.png",
+  stock: 14
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2701,6 +2774,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
