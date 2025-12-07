@@ -1729,10 +1729,9 @@ const productos = [
   descripcion: "Mini sellador de bolsas recargable. Mantén tus alimentos frescos por más tiempo. Práctico, portátil y fácil de usar en segundos.",
   precios: {
    "1": 6.95,
-   "3": 5.95,
  },
   imagen: "Img/Imagen268.png",
-  stock: 6
+  stock: 1
 },
  {
   nombre: "5254CARRITOS HW",
@@ -1980,7 +1979,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen297.png",
-  stock: 13
+  stock: 8
 },
   {
   nombre: "5299PACK DE 10 IMPERDIBLES DE PANTALÓN CON PERLAS",
@@ -2010,10 +2009,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.85,
-   "6": 3.55,
   },
   imagen: "Img/Imagen301.jpeg",
-  stock: 7
+  stock: 5
 },
    {
   nombre: "PERFUME PARA MUJER CLHG165 - DUPE CAROLINA HERRERA GOOD GIRL",
@@ -2044,7 +2042,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen305.jpeg",
-  stock: 10
+  stock: 7
 },
   {
   nombre: "5307ENCENDEDOR RECARGABLE DE COCINA",
@@ -2363,17 +2361,6 @@ const productos = [
   },
   imagen: "Img/Imagen338.jpeg",
   stock: 8
-},
-  {
-  nombre: "5351QUITAPELUSA PINGÜINO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino. Lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-  },
-  imagen: "Img/Imagen340.png",
-  stock: 3
 },
      {
   nombre: "5354CREMA DE MANOS FRUTAL",
@@ -2774,6 +2761,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
