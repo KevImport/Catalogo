@@ -423,17 +423,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4041VELA LED NAVIDEÑA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Vela LED con diseño navideño que ilumina y decora sin riesgo. Ideal para crear ambientes cálidos y festivos.",
-  precios: {
-    "1": 4.00,
-    "3": 2.90,
-  },
-  imagen: "Img/Imagen83.jpg",
-  stock: 6
-},
-{
   nombre: "3930SET DE 6 INDIVIDUALES + 6 POSAVASOS NAVIDEÑOS",
   categoria: "Navidad / Regalos",
   descripcion: "Dale un toque navideño a tu mesa con este set decorativo. Incluye 6 individuales y 6 posavasos con diseños festivos.",
@@ -2719,6 +2708,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
