@@ -56,16 +56,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "5017CANASTILLA PLEGABLE",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Organiza con estilo. Esta canastilla se pliega fácilmente cuando no la usas, ahorrando espacio y manteniendo todo en orden.",
-  precios: {
-    "1": 3.95,
-  },
-  imagen: "Img/Imagen12.jpg",
-  stock: 1
-},
-{
   nombre: "5015LIMPIADOR MULTIUSOS",
   categoria: "Hogar / Cocina",
   descripcion: "Poder de limpieza en tus manos. Este limpiador multiusos elimina grasa, suciedad y deja todo reluciente. ¡Imprescindible!",
@@ -1203,17 +1193,6 @@ const productos = [
   imagen: "Img/Imagen188.jpeg",
   stock: 28
 },
-{
-  nombre: "5083PESTAÑAS POSTIZAS EN RACIMO",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Ideal para lograr un look natural o glam. Fáciles de aplicar y súper cómodas. ¡Resalta tu mirada en segundos!. Perfectas para maquillaje profesional o diario.",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
- },
-  imagen: "Img/Imagen189.jpeg",
-  stock: 3
-},
  {
   nombre: "5086TURBANTE TOALLA PARA EL CABELLO",
   categoria: "Higiene / Cuidado Personal",
@@ -1244,16 +1223,6 @@ const productos = [
  },
   imagen: "Img/Imagen198.jpeg",
   stock: 4
-},
-{
-  nombre: "5105CINTA RGB",
-  categoria: "Hogar / Cocina",
-  descripcion: "Con su control remoto. Medida aprox.: 5 metros de largo. Al ser flexible pueden ser colocadas en cualquier lugar.",
-  precios: {
-    "1": 9.95,
- },
-  imagen: "Img/Imagen199.jpg",
-  stock: 1
 },
 {
   nombre: "5108CEPILLO DE BAMBU",
@@ -1630,17 +1599,6 @@ const productos = [
  },
   imagen: "Img/Imagen258.jpg",
   stock: 19
-},
- {
-  nombre: "5239LIMPIADOR SCHUBERT",
-  categoria: "Hogar / Cocina",
-  descripcion: "Renueva, limpia y protege con su fórmula especializada. Elimina suciedad y mugre de manera efectiva sin dañar superficies pintadas. Ideal para sillas, mesas, muebles y también para el carro. ¡Un solo producto para múltiples usos, práctico y de gran rendimiento!",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
- },
-  imagen: "Img/Imagen259.png",
-  stock: 4
 },
  {
   nombre: "5243PACK DE 10 MASCARILLAS BIOAQUA",
@@ -2121,7 +2079,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen316.png",
-  stock: 12
+  stock: 9
 },
   {
   nombre: "5321SPLASH PARA EL CABELLO",
@@ -2761,6 +2719,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
