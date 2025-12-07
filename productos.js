@@ -2525,16 +2525,6 @@ const productos = [
   imagen: "Img/Imagen361.jpeg",
   stock: 11
 },
-     {
-  nombre: "5382CASTILLO DE MUÑECAS DE 162pzs",
-  categoria: "Navidad / Regalos",
-  descripcion: "Un hermoso set para armar un castillo lleno de magia y creatividad. Incluye piezas encajables y detalladas para horas de juego imaginativo. ¡Perfecto para regalar y crear un mundo de fantasía!",
-  precios: {
-   "1": 34.90,
-  },
-  imagen: "Img/Imagen362.jpeg",
-  stock: 2
-},
        {
   nombre: "5383FOCO LED 30W",
   categoria: "Hogar / Cocina",
@@ -2761,6 +2751,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
