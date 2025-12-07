@@ -2647,7 +2647,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Suave y adorable peluche con luz proyectora, hecho de felpa súper cómoda. Es lavable, ideal para mantenerlo siempre limpio y listo para acompañar a los peques. Perfecto para dormir con tranquilidad y llenar la habitación de magia.",
   precios: {
-   "1": 12.90,
+   "1": 14.90,
      },
   imagen: "Img/Imagen374.jpeg",
   stock: 8
@@ -2700,7 +2700,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
   precios: {
-   "1": 36.90,
+   "1": 38.90,
      },
   imagen: "Img/Imagen379.jpeg",
   stock: 6
@@ -2761,6 +2761,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
