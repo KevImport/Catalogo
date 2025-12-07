@@ -2610,7 +2610,7 @@ const productos = [
    "1": 3.95,
      },
   imagen: "Img/Imagen368.jpeg",
-  stock: 21
+  stock: 18
 },
         {
   nombre: "5388PULSERA DE ABUNDANCIA Y RIQUEZA",
@@ -2621,7 +2621,7 @@ const productos = [
    "1": 1.95,
      },
   imagen: "Img/Imagen369.jpeg",
-  stock: 18
+  stock: 15
 },
           {
   nombre: "5389MINI TALADRO MONTESSORI",
@@ -2631,7 +2631,7 @@ const productos = [
    "1": 34.90,
    },
   imagen: "Img/Imagen370.png",
-  stock: 5
+  stock: 4
 },
           {
   nombre: "5390SMARTWATCH D20 MACARON",
@@ -2641,7 +2641,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen371.jpeg",
-  stock: 12
+  stock: 8
 },
             {
   nombre: "5391CAMPANAS DE VIENTO MÍSTICOS Y ENERGÉTICOS",
@@ -2663,7 +2663,7 @@ const productos = [
    "6": 1.55,
      },
   imagen: "Img/Imagen373.jpeg",
-  stock: 19
+  stock: 7
 },
     {
   nombre: "5394STAR BELLY LAVABLE DE FELPA",
@@ -2701,6 +2701,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
