@@ -2731,13 +2731,23 @@ const productos = [
            {
   nombre: "5410CORTADOR DE PAPEL PORTÁTIL",
   categoria: "Escolar / Papelería",
-  descripcion: "Medida: 33.5 x 6.5 cm. Material: Plástico. Ideal para manualidades, scrapbooking y trabajos escolares, con medida precisa y deslizador suave para cortes limpios. ",
+  descripcion: "Medida: 33.5 x 6.5 cm. Material: Plástico. Ideal para manualidades, scrapbooking y trabajos escolares, con medida precisa y deslizador suave para cortes limpios.",
   precios: {
    "1": 5.95,
    "3": 4.95,
      },
   imagen: "Img/Imagen382.png",
   stock: 14
+},
+            {
+  nombre: "5411PRINCESA MUSICAL GIRATORIA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Encantadora muñeca sirena que baila, gira y brilla con luces de colores. Incluye música divertida y movimientos que capturan la atención de los peques. Ideal para niñas desde 3 años y perfecto como regalo mágico.",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen383.jpeg",
+  stock: 3
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2751,6 +2761,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
