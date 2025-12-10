@@ -2075,11 +2075,10 @@ const productos = [
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Las lociones para el cabello son preparaciones destinadas a cuidar del aspecto y la salud del cabello, sin dañar tu cuero cabelludo. Harán lucir tu cabello brillante y con aroma exquisito. Te encantará ya que también sirve como hidratante para el cabello.",
   precios: {
-   "1": 7.95,
-   "3": 6.95,
-  },
+   "1": 6.95,
+     },
   imagen: "Img/Imagen317.jpg",
-  stock: 11
+  stock: 2
 },
     {
   nombre: "5322PACK DE 10 VELAS MÁGICAS REENCENDIBLES",
@@ -2708,6 +2707,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
