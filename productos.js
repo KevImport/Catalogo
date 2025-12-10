@@ -1690,17 +1690,7 @@ const productos = [
    "6": 4.55,
  },
   imagen: "Img/Imagen269.jpeg",
-  stock: 23
-},
- {
-  nombre: "5255TAPIZ NAVIDEÑO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Decora tu hogar con un toque festivo y acogedor. Ideal para pared, sala o fondo de fotos. Medida: 250 x 220 cm",
-  precios: {
-   "1": 23.95,
- },
-  imagen: "Img/Imagen270.png",
-  stock: 2
+  stock: 16
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -2707,6 +2697,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
