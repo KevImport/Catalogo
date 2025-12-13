@@ -204,7 +204,7 @@ const productos = [
     "1": 8.90,
   },
   imagen: "Img/Imagen42.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "4855CHAL",
@@ -1031,10 +1031,9 @@ const productos = [
   precios: {
     "1": 4.50,
     "3": 3.50,
-    "5": 3.20,
   },
   imagen: "Img/Imagen168.jpg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "4293CINTA FRÁGIL",
@@ -1170,17 +1169,6 @@ const productos = [
  },
   imagen: "Img/Imagen188.jpeg",
   stock: 28
-},
- {
-  nombre: "5086TURBANTE TOALLA PARA EL CABELLO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "¡Seca tu cabello con estilo! Turbante de microfibra súper absorbente. Ideal para después de la ducha, suave y ligero. ¡Práctico, cómodo y elegante!",
-  precios: {
-    "1": 3.95,
-    "2": 2.85,
- },
-  imagen: "Img/Imagen190.jpeg",
-  stock: 2
 },
 {
   nombre: "5095AGENDA A5",
@@ -1747,7 +1735,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen278.jpeg",
-  stock: 16
+  stock: 13
 },
  {
   nombre: "5271BOLA DE NIEVE NAVIDEÑA SANTA",
@@ -1860,7 +1848,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen290.jpeg",
-  stock: 15
+  stock: 12
 },
  {
   nombre: "5286CAJITA TRONADORES",
@@ -1872,7 +1860,7 @@ const productos = [
    "6": 0.95,
   },
   imagen: "Img/Imagen291.jpeg",
-  stock: 244
+  stock: 240
 },
   {
   nombre: "5287SARTA DE COHETECILLOS",
@@ -1883,7 +1871,7 @@ const productos = [
    "3": 2.55,
   },
   imagen: "Img/Imagen292.jpeg",
-  stock: 100
+  stock: 94
 },
   {
   nombre: "5288PAVITO REAL – FUEGOS ARTIFICIALES",
@@ -2285,7 +2273,7 @@ const productos = [
    "3": 7.95,
   },
   imagen: "Img/Imagen338.jpeg",
-  stock: 8
+  stock: 4
 },
      {
   nombre: "5354CREMA DE MANOS FRUTAL",
@@ -2317,10 +2305,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
   },
   imagen: "Img/Imagen344.jpeg",
-  stock: 6
+  stock: 4
 },
         {
   nombre: "5363CINTA LED DE 3 METROS",
@@ -2331,7 +2318,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen345.png",
-  stock: 10
+  stock: 7
 },
   {
   nombre: "5366PIANITO MUSICAL",
@@ -2628,7 +2615,7 @@ const productos = [
    "1": 38.90,
      },
   imagen: "Img/Imagen379.jpeg",
-  stock: 8
+  stock: 7
 },
        {
   nombre: "5408CINTA DOBLE CONTACTO",
@@ -2686,6 +2673,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
