@@ -1736,7 +1736,7 @@ const productos = [
    "6": 2.65,
  },
   imagen: "Img/Imagen277.png",
-  stock: 19
+  stock: 18
 },
   {
   nombre: "5270PLANCHA DE LIGUITAS PARA EL CABELLO",
@@ -2372,7 +2372,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen353.jpeg",
-  stock: 6
+  stock: 5
 },
             {
   nombre: "5373PERFUME ARABE PARA HOMBRE - DUPE LATAFFA ASAD",
@@ -2533,7 +2533,7 @@ const productos = [
    "1": 34.90,
    },
   imagen: "Img/Imagen370.png",
-  stock: 3
+  stock: 6
 },
           {
   nombre: "5390SMARTWATCH D20 MACARON",
@@ -2543,7 +2543,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen371.jpeg",
-  stock: 8
+  stock: 6
 },
             {
   nombre: "5391CAMPANAS DE VIENTO MÍSTICOS Y ENERGÉTICOS",
@@ -2618,7 +2618,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen378.jpeg",
-  stock: 13
+  stock: 11
 },
      {
   nombre: "5407SET DE 120 PLUMONES DUAL BRUSH",
@@ -2628,7 +2628,7 @@ const productos = [
    "1": 38.90,
      },
   imagen: "Img/Imagen379.jpeg",
-  stock: 5
+  stock: 8
 },
        {
   nombre: "5408CINTA DOBLE CONTACTO",
@@ -2686,6 +2686,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
