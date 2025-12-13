@@ -392,16 +392,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "4154JUEGO TWISTER",
-  categoria: "Navidad / Regalos",
-  descripcion: "¡Gira, estírate y ríe! Juego clásico que pone a prueba tu equilibrio y coordinación. Ideal para reuniones.",
-  precios: {
-    "1": 11.90,
-  },
-  imagen: "Img/Imagen77.jpg",
-  stock: 1
-},
-{
   nombre: "4118SOPORTE PARA ASIENTO DE AUTO",
   categoria: "Hogar / Cocina",
   descripcion: "Organiza tu auto fácilmente. Soporte multiuso para colgar bolsas, carteras o accesorios en el asiento del vehículo.",
@@ -1106,15 +1096,14 @@ const productos = [
 {
   nombre: "TRUSA BIKINI",
   categoria: "Ropa interior",
-  descripcion: "Material: algodón. Talla disponible: 12L",
+  descripcion: "Material: algodón. Talla disponible: L",
   precios: {
     "1": 3.95,
     "3": 2.95,
     "6": 2.65,
-    "12": 2.35
   },
   imagen: "Img/Imagen178.jpeg",
-  stock: 12
+  stock: 9
 },
  {
   nombre: "5069ESTUCHE DE SOMBRAS PARA OJOS",
@@ -1712,7 +1701,7 @@ const productos = [
    "1": 6.95,
  },
   imagen: "Img/Imagen272.png",
-  stock: 10
+  stock: 8
 },
   {
   nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
@@ -1792,7 +1781,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen281.png",
-  stock: 24
+  stock: 8
 },
  {
   nombre: "5275ORGANIZADOR COLGANTE",
@@ -2159,7 +2148,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen325.jpeg",
-  stock: 26
+  stock: 23
 },
   {
   nombre: "5331DOMINÓ CLÁSICO",
@@ -2171,7 +2160,7 @@ const productos = [
    "6": 2.65,
   },
   imagen: "Img/Imagen326.jpeg",
-  stock: 25
+  stock: 23
 },
   {
   nombre: "5332GANCHO CLIP FLOWER",
@@ -2196,7 +2185,7 @@ const productos = [
    "6": 1.05,
   },
   imagen: "Img/Imagen328.png",
-  stock: 20
+  stock: 14
 },
     {
   nombre: "5335FUNDA NAVIDEÑA PARA PUERTA",
@@ -2426,7 +2415,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen358.jpeg",
-  stock: 24
+  stock: 23
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -2697,6 +2686,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
