@@ -2638,7 +2638,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen381.jpeg",
-  stock: 2
+  stock: 1
 },
            {
   nombre: "5410CORTADOR DE PAPEL PORTÁTIL",
@@ -2661,6 +2661,61 @@ const productos = [
   imagen: "Img/Imagen383.jpeg",
   stock: 3
 },
+              {
+  nombre: "5415SET x 12 PLUMONES MÁGICOS - CAMBIAN DE COLOR",
+  categoria: "Navidad / Regalos",
+  descripcion: "Contiene 12 plumones. ¿Ya conocías los PLUMONES MÁGICOS? Sí, estos plumones te van a sorprender ya que cambian de color. Ponte muy creativo e imagina todo lo que podrás hacer con ellos decorar, pintar, letras, títulos, manualidades y mucho más.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen384.jpeg",
+  stock: 22
+},
+                {
+  nombre: "5416SET AROMÁTICO DECORATIVO EN CAJA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Hermoso set ideal para decorar, aromatizar y crear un ambiente relajante en tu hogar. Incluye velas, portavelas de vidrio y adornos decorativos, todo presentado en una elegante cajita. Color al azar",
+  precios: {
+   "1": 7.90,
+     },
+  imagen: "Img/Imagen385.jpeg",
+  stock: 4
+},
+  
+                {
+  nombre: "5417SOPORTE DE CELULAR",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Práctico, estable y perfecto para ver videos o videollamadas. Ligero y fácil de llevar a cualquier lugar. Compatible con la mayoría de smartphones. Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.55,
+     },
+  imagen: "Img/Imagen386.jpeg",
+  stock: 11
+},
+                {
+  nombre: "5418ALMOHADA VICOELÁSTICA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Anti Ácaros - Anti Moho - Anti Sudor - Anti Bacterianas. Ayuda a regular la temperatura. Descanso sin interrupciones.",
+  precios: {
+   "1": 15.95,
+     },
+  imagen: "Img/Imagen387.jpeg",
+  stock: 2
+},
+  {
+  nombre: "5419ESTANTE DE COCINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Descubre el estante con colgadores, la solución perfecta para optimizar cualquier espacio en tu hogar. Diseñado para la cocina, lavandería, y más, este organizador multifuncional cuenta con cinco amplios niveles que te permitirán almacenar desde electrodomésticos hasta utensilios, manteniendo todo ordenado y al alcance. Medida aprox.: 152 x 34 x 42 cm - Color según disponibilidad ",
+  precios: {
+   "1": 21.90,
+     },
+  imagen: "Img/Imagen388.jpeg",
+  stock: 1
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2673,6 +2728,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
