@@ -1521,7 +1521,7 @@ const productos = [
    "3": 3.95,
  },
   imagen: "Img/Imagen255.jpeg",
-  stock: 11
+  stock: 4
 },
  {
   nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
@@ -2415,7 +2415,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen360.png",
-  stock: 15
+  stock: 9
 },
    {
   nombre: "5381CELULAR EDUCATIVO",
@@ -2769,6 +2769,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
