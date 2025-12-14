@@ -2359,7 +2359,7 @@ const productos = [
    "1": 14.90,
   },
   imagen: "Img/Imagen354.jpeg",
-  stock: 2
+  stock: 1
 },
               {
   nombre: "5374ESMALTE DE UÑAS",
@@ -2769,6 +2769,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
