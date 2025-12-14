@@ -270,17 +270,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "4706CHUPÓN ALIMENTADOR CON REPUESTO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Alimentación segura para bebés. Chupón de silicona con orificios y repuesto, ideal para frutas blandas.",
-  precios: {
-    "1": 7.95,
-    "3": 6.55
-  },
-  imagen: "Img/Imagen54.jpg",
-  stock: 3
-},
-{
   nombre: "4704MINI TELESCOPIO",
   categoria: "Navidad / Regalos",
   descripcion: "Explora el mundo desde cerca. Mini telescopio compacto y portátil, ideal para niños curiosos o actividades al aire libre.",
@@ -2759,6 +2748,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
