@@ -1401,17 +1401,6 @@ const productos = [
   stock: 2
 },
  {
-  nombre: "5181BASE DE UÑAS DE KERATINA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Fortalece y protege tus uñas mientras les da un acabado natural y saludable. Nutre y repara uñas débiles o quebradizas. Aporta brillo duradero. Con keratina que ayuda al crecimiento y resistencia.",
-  precios: {
-   "1": 3.55,
-   "3": 2.55,
- },
-  imagen: "Img/Imagen238.jpeg",
-  stock: 5
-},
- {
   nombre: "5182BRAZALETE SERPENTEADO",
   categoria: "Accesorios",
   descripcion: "Pulsera estilo serpiente. Elegante, moderna y perfecta para realzar tu look. Ideal para cualquier ocasión especial.",
@@ -1807,17 +1796,6 @@ const productos = [
   stock: 3
 },
  {
-  nombre: "5285CAJA DE ABEJITAS",
-  categoria: "Pirotecnicos",
-  descripcion: "Presentación: Caja con 12 unidades. ¡Los clásicos cohetes que nunca faltan! Diversión segura para celebraciones y momentos especiales. Ideal para fiestas, cumpleaños, Año Nuevo y cualquier ocasión festiva.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen290.jpeg",
-  stock: 12
-},
- {
   nombre: "5286CAJITA TRONADORES",
   categoria: "Pirotecnicos",
   descripcion: "Presentación: Cajita con 50 tronadores. Los clásicos truquitos explosivos que hacen “¡pop!” al lanzarlos. Diversión segura para chicos y grandes. Perfecto para cumpleaños, reuniones y celebraciones especiales.",
@@ -1827,7 +1805,7 @@ const productos = [
    "6": 0.95,
   },
   imagen: "Img/Imagen291.jpeg",
-  stock: 240
+  stock: 150
 },
   {
   nombre: "5287SARTA DE COHETECILLOS",
@@ -1838,7 +1816,7 @@ const productos = [
    "3": 2.55,
   },
   imagen: "Img/Imagen292.jpeg",
-  stock: 94
+  stock: 82
 },
   {
   nombre: "5288PAVITO REAL – FUEGOS ARTIFICIALES",
@@ -1849,7 +1827,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen293.jpeg",
-  stock: 37
+  stock: 25
 },
   {
   nombre: "5292MOLDE PARA HIELO FACIAL",
@@ -2263,7 +2241,7 @@ const productos = [
    "6": 2.65,
   },
   imagen: "Img/Imagen343.jpg",
-  stock: 23
+  stock: 11
 },
       {
   nombre: "5360ESTUCHE DE 20 COLET KAWAII",
@@ -2413,7 +2391,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen363.jpeg",
-  stock: 14
+  stock: 11
 },
          {
   nombre: "5184PULSERA DISEÑO BODHI",
@@ -2552,7 +2530,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen376.jpeg",
-  stock: 8
+  stock: 5
 },
       {
   nombre: "5397SHAMPOO DE ROMERO",
@@ -2681,7 +2659,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen389.jpeg",
-  stock: 12
+  stock: 9
 },
     {
   nombre: "5421JUEGO RÍTMICO",
@@ -2736,6 +2714,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
