@@ -2380,7 +2380,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen361.jpeg",
-  stock: 12
+  stock: 9
 },
        {
   nombre: "5383FOCO LED 30W",
@@ -2714,6 +2714,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
