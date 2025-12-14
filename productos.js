@@ -23,18 +23,6 @@ const productos = [
   stock: 12
 },
 {
-  nombre: "5044PAPEL TISSUE, 300 HOJAS APROX.",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Suave, absorbente y rendidor. Ideal para el hogar u oficina con 300 hojas de comodidad.",
-  precios: {
-    "1": 2.95,
-    "3": 1.85,
-    "6": 1.55,
-  },
-  imagen: "Img/Imagen6.jpg",
-  stock: 6
-},
-{
   nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
   categoria: "Navidad / Regalos",
   descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
@@ -2714,7 +2702,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen391.jpg",
-  stock: 5
+  stock: 1
 },
        {
   nombre: "5423PERRITO INTERACTIVO",
@@ -2748,6 +2736,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
