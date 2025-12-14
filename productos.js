@@ -2709,12 +2709,33 @@ const productos = [
   {
   nombre: "5419ESTANTE DE COCINA",
   categoria: "Hogar / Cocina",
-  descripcion: "Descubre el estante con colgadores, la solución perfecta para optimizar cualquier espacio en tu hogar. Diseñado para la cocina, lavandería, y más, este organizador multifuncional cuenta con cinco amplios niveles que te permitirán almacenar desde electrodomésticos hasta utensilios, manteniendo todo ordenado y al alcance. Medida aprox.: 152 x 34 x 42 cm - Color según disponibilidad ",
+  descripcion: "Descubre el estante con colgadores, la solución perfecta para optimizar cualquier espacio en tu hogar. Diseñado para la cocina, lavandería, y más, este organizador multifuncional cuenta con cinco amplios niveles que te permitirán almacenar desde electrodomésticos hasta utensilios, manteniendo todo ordenado y al alcance. Medida aprox.: 152 x 34 x 42 cm - Color según disponibilidad",
   precios: {
    "1": 21.90,
      },
   imagen: "Img/Imagen388.jpeg",
   stock: 1
+},
+    {
+  nombre: "5420ORUGUITA DE PELUCHE",
+  categoria: "Navidad / Regalos",
+  descripcion: "Suave, colorida y perfecta para abrazar, ideal para niños y bebés. Diseño tierno con múltiples colores que encantan a primera vista. Medida: 39 x 12.5 x 10 cm",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "Img/Imagen389.jpeg",
+  stock: 12
+},
+    {
+  nombre: "5421JUEGO RÍTMICO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Desliza, presiona y sigue el ritmo en este juego súper divertido. Ideal para mejorar coordinación y pasar horas de entretenimiento. Modelo al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen390.jpeg",
+  stock: 11
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2728,6 +2749,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
