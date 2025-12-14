@@ -2328,7 +2328,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen347.jpg",
-  stock: 12
+  stock: 4
 },
       {
   nombre: "5369TAZA DE CERAMICA NAVIDEÑA 20onzas",
@@ -2769,6 +2769,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
