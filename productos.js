@@ -2560,7 +2560,7 @@ const productos = [
    "1": 38.90,
      },
   imagen: "Img/Imagen379.jpeg",
-  stock: 5
+  stock: 4
 },
        {
   nombre: "5408CINTA DOBLE CONTACTO",
@@ -2714,6 +2714,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
