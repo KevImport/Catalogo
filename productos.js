@@ -1805,7 +1805,7 @@ const productos = [
    "6": 0.95,
   },
   imagen: "Img/Imagen291.jpeg",
-  stock: 150
+  stock: 138
 },
   {
   nombre: "5287SARTA DE COHETECILLOS",
@@ -1816,7 +1816,7 @@ const productos = [
    "3": 2.55,
   },
   imagen: "Img/Imagen292.jpeg",
-  stock: 82
+  stock: 79
 },
   {
   nombre: "5288PAVITO REAL – FUEGOS ARTIFICIALES",
@@ -1827,7 +1827,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen293.jpeg",
-  stock: 25
+  stock: 22
 },
   {
   nombre: "5292MOLDE PARA HIELO FACIAL",
@@ -2714,6 +2714,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
