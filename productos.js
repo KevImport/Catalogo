@@ -2552,7 +2552,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen374.jpeg",
-  stock: 8
+  stock: 6
 },
   {
   nombre: "5395BURLETE",
@@ -2696,16 +2696,6 @@ const productos = [
   imagen: "Img/Imagen387.jpeg",
   stock: 2
 },
-  {
-  nombre: "5419ESTANTE DE COCINA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Descubre el estante con colgadores, la solución perfecta para optimizar cualquier espacio en tu hogar. Diseñado para la cocina, lavandería, y más, este organizador multifuncional cuenta con cinco amplios niveles que te permitirán almacenar desde electrodomésticos hasta utensilios, manteniendo todo ordenado y al alcance. Medida aprox.: 152 x 34 x 42 cm - Color según disponibilidad",
-  precios: {
-   "1": 21.90,
-     },
-  imagen: "Img/Imagen388.jpeg",
-  stock: 1
-},
     {
   nombre: "5420ORUGUITA DE PELUCHE",
   categoria: "Navidad / Regalos",
@@ -2769,6 +2759,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
