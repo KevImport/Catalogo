@@ -1689,7 +1689,7 @@ const productos = [
    "1": 14.95,
  },
   imagen: "Img/Imagen273.jpeg",
-  stock: 15
+  stock: 11
 },
    {
   nombre: "5267MOUSE & RAT",
@@ -2103,7 +2103,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen323.jpeg",
-  stock: 6
+  stock: 5
 },
       {
   nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
@@ -2173,7 +2173,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen329.png",
-  stock: 3
+  stock: 2
 },
       {
   nombre: "5337ROLLO DE ADHESIVO DE VENTANA",
@@ -2230,7 +2230,7 @@ const productos = [
    "6": 3.65,
   },
   imagen: "Img/Imagen334.jpeg",
-  stock: 10
+  stock: 6
 },
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
@@ -2286,7 +2286,7 @@ const productos = [
    "6": 2.65,
   },
   imagen: "Img/Imagen343.jpg",
-  stock: 32
+  stock: 23
 },
       {
   nombre: "5360ESTUCHE DE 20 COLET KAWAII",
@@ -2510,7 +2510,7 @@ const productos = [
    "1": 34.90,
    },
   imagen: "Img/Imagen370.png",
-  stock: 6
+  stock: 3
 },
           {
   nombre: "5390SMARTWATCH D20 MACARON",
@@ -2585,7 +2585,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen377.jpeg",
-  stock: 3
+  stock: 20
 },
    {
   nombre: "5406CARTERA MODERNO – LUXE",
@@ -2769,6 +2769,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
