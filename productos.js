@@ -2414,7 +2414,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen361.jpeg",
-  stock: 16
+  stock: 12
 },
        {
   nombre: "5383FOCO LED 30W",
@@ -2541,7 +2541,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen374.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "5395BURLETE",
@@ -2748,6 +2748,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
