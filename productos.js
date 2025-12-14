@@ -78,16 +78,6 @@ const productos = [
   stock: 5
 },
 {
-  nombre: "5009MINI CÁMARA ESPÍA",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Discreta y potente. Esta mini cámara espía graba video y audio en alta calidad. Ideal para seguridad o vigilancia personal.",
-  precios: {
-    "1": 9.95,
-  },
-  imagen: "Img/Imagen16.jpg",
-  stock: 2
-},
-{
   nombre: "4999SET DE 100 GUANTES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Protege tus manos en todo momento. Pack de 100 guantes desechables ideales para limpieza, cocina o cuidado personal.",
@@ -2757,6 +2747,16 @@ const productos = [
   imagen: "Img/Imagen392.jpeg",
   stock: 2
 },
+         {
+  nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Sonido potente para disfrutar tu música al máximo. Conexión inalámbrica compatible con celulares y más dispositivos. Compactos, ligeros y perfectos para llevar a todas partes.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen393.jpeg",
+  stock: 14
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2769,6 +2769,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
