@@ -2745,7 +2745,7 @@ const productos = [
    "1": 40.90,
      },
   imagen: "Img/Imagen392.jpeg",
-  stock: 2
+  stock: 1
 },
          {
   nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
@@ -2769,6 +2769,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
