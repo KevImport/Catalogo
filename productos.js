@@ -1539,10 +1539,10 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
+   "5": 2.65,
  },
   imagen: "Img/Imagen261.jpeg",
-  stock: 11
+  stock: 5
 },
   {
   nombre: "5246BOLSA DE REGALO NAVIDEÑA – 32 x 26 x 10 CM",
@@ -2714,6 +2714,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
