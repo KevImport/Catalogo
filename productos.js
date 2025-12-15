@@ -1870,7 +1870,7 @@ const productos = [
    "3": 3.85,
   },
   imagen: "Img/Imagen301.jpeg",
-  stock: 5
+  stock: 4
 },
    {
   nombre: "PERFUME PARA MUJER CLHG165 - DUPE CAROLINA HERRERA GOOD GIRL",
@@ -2036,7 +2036,7 @@ const productos = [
    "6": 4.65,
   },
   imagen: "Img/Imagen321.jpeg",
-  stock: 30
+  stock: 28
 },
     {
   nombre: "5327ARMABLE DIDÁCTICO ITALIAN BRAINROT",
@@ -2404,16 +2404,6 @@ const productos = [
   imagen: "Img/Imagen364.jpeg",
   stock: 8
 },
-         {
-  nombre: "5384CONSOLA DE JUEGOS - 10000 JUEGOS EN 1",
-  categoria: "Navidad / Regalos",
-  descripcion: "¡Revive la Nostalgia! ¿Recuerdas las horas de diversión con los clásicos de la infancia? ¡Es hora de volver a vivirlas! Presentamos la Consola de Videojuegos, tu portal directo a la era dorada del gaming, todo en un dispositivo moderno y fácil de usar.",
-  precios: {
-   "1": 68.90,
-     },
-  imagen: "Img/Imagen365.png",
-  stock: 1
-},
   {
   nombre: "5385PROTECTORES DE ANTEBRAZO",
   categoria: "Higiene / Cuidado Personal",
@@ -2639,7 +2629,7 @@ const productos = [
    "6": 2.55,
      },
   imagen: "Img/Imagen386.jpeg",
-  stock: 11
+  stock: 9
 },
                 {
   nombre: "5418ALMOHADA VICOELÁSTICA",
@@ -2714,6 +2704,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
