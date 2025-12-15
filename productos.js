@@ -1432,7 +1432,7 @@ const productos = [
    "6": 3.55,
  },
   imagen: "Img/Imagen244.jpg",
-  stock: 10
+  stock: 5
 },
 {
   nombre: "5213PACK PARCHES PARA EL DOLOR",
@@ -2550,7 +2550,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen378.jpeg",
-  stock: 11
+  stock: 9
 },
      {
   nombre: "5407SET DE 120 PLUMONES DUAL BRUSH",
@@ -2714,6 +2714,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
