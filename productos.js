@@ -142,16 +142,6 @@ const productos = [
   stock: 8
 },
 {
-  nombre: "4899SET DE PLUMÓN DOBLE TRAZO",
-  categoria: "Escolar / Papelería",
-  descripcion: "¡Doble creatividad! Plumones con punta doble para trazos finos y gruesos. Colores intensos y duraderos.",
-  precios: {
-    "1": 9.90,
-  },
-  imagen: "Img/Imagen37.jpg",
-  stock: 1
-},
-{
   nombre: "4884TAPETE CAPYBARA",
   categoria: "Hogar / Cocina",
   descripcion: "Dale estilo a tu entrada con este adorable tapete de capibara. Suave, resistente y antideslizante.",
@@ -1034,7 +1024,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 4
+  stock: 1
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -2606,7 +2596,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 22
+  stock: 21
 },
                 {
   nombre: "5416SET AROMÁTICO DECORATIVO EN CAJA",
@@ -2704,6 +2694,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
