@@ -2532,16 +2532,6 @@ const productos = [
   imagen: "Img/Imagen378.jpeg",
   stock: 9
 },
-     {
-  nombre: "5407SET DE 120 PLUMONES DUAL BRUSH",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
-  precios: {
-   "1": 38.90,
-     },
-  imagen: "Img/Imagen379.jpeg",
-  stock: 1
-},
        {
   nombre: "5408CINTA DOBLE CONTACTO",
   categoria: "Hogar / Cocina",
@@ -2694,6 +2684,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
