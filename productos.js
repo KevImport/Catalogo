@@ -2639,7 +2639,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen390.jpeg",
-  stock: 11
+  stock: 5
 },
       {
   nombre: "5422MINI CAJA REGISTRADORA DE JUGUETE",
@@ -2754,6 +2754,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
