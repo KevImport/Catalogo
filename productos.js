@@ -1899,10 +1899,10 @@ const productos = [
   descripcion: "Alimentado por una batería recargable. (Incluye cable USB). No crea una llama, es operado eléctricamente y respetuoso con el medio ambiente. Apto para cocina casera, barbacoa al aire libre, Etc.",
   precios: {
    "1": 8.95,
-   "2": 7.95,
+   "3": 7.95,
   },
   imagen: "Img/Imagen307.png",
-  stock: 2
+  stock: 6
 },
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
@@ -2683,6 +2683,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
