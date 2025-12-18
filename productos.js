@@ -2669,7 +2669,78 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen393.jpeg",
-  stock: 14
+  stock: 9
+},
+           {
+  nombre: "5426ORGANIZADOR DE ROPA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu ropa interior, medias y accesorios siempre ordenados. Diseño tierno, material de malla transpirable y resistente. Ahorra espacio y cuelga fácilmente en tu clóset o ropero.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen394.jpeg",
+  stock: 10
+},
+             {
+  nombre: "5427FIGURAS K-POP DEMON HUNTERS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Muñecas coleccionables de 10 x 5 cm con diseños súper llamativos. Inspiradas en estilo K-pop. Perfectas para jugar, coleccionar o decorar tu espacio.",
+  precios: {
+   "1": 44.85,
+     },
+  imagen: "Img/Imagen395.jpeg",
+  stock: 3
+},
+  {
+  nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
+  precios: {
+   "1": 20.95,
+     },
+  imagen: "Img/Imagen396.jpeg",
+  stock: 5
+},
+    {
+  nombre: "5429LIBRO DE ESTUDIO INTERACTIVO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
+  precios: {
+   "1": 17.95,
+     },
+  imagen: "Img/Imagen397.png",
+  stock: 7
+},
+      {
+  nombre: "5430JUEGO DE ENGRANAJES DIDÁCTICO - 165 PIEZAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Divertido set de engranajes para armar y girar. Estimula la creatividad, lógica y motricidad. Piezas resistentes y fáciles de encajar. Ideal para niños y niñas desde 3 años.",
+  precios: {
+   "1": 18.95,
+     },
+  imagen: "Img/Imagen398.png",
+  stock: 7
+},
+   {
+  nombre: "5434SET DE 168 PLUMONES DUAL BRUSH",
+  categoria: "Navidad / Regalos",
+  descripcion: "¡Potencia tu creatividad con este set profesional de 168 marcadores de doble punta, que incluye un práctico estuche organizador portátil! Ideales para dibujo y caligrafía, ofrecen una punta pincel flexible para trazos artísticos y una punta fina para detalles precisos en cada proyecto.",
+  precios: {
+   "1": 54.90,
+     },
+  imagen: "Img/Imagen399.png",
+  stock: 10
+},
+        {
+  nombre: "5435BASTA ELECTRONICO",
+  categoria: "Navidad / Regalos",
+  descripcion: "¡Pon a prueba tu agilidad mental con ¡Basta!, el emocionante juego donde debes pensar rápido y contestar antes que los demás! Esta versión electrónica incluye luces y un mazo de cartas para garantizar horas de diversión competitiva y risas con toda la familia.",
+  precios: {
+   "1": 14.90,
+     },
+  imagen: "Img/Imagen400.jpeg",
+  stock: 15
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2683,6 +2754,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
