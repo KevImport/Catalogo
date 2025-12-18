@@ -2636,20 +2636,9 @@ const productos = [
   descripcion: "Desliza, presiona y sigue el ritmo en este juego súper divertido. Ideal para mejorar coordinación y pasar horas de entretenimiento. Modelo al azar.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "Img/Imagen390.jpeg",
-  stock: 5
-},
-      {
-  nombre: "5422MINI CAJA REGISTRADORA DE JUGUETE",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ideal para juegos de tiendita, aprendiendo a cobrar y contar. Incluye accesorios para una experiencia más divertida y real. Perfecta para estimular imaginación y juego creativo. Medida: 18.5 x 12 x 9.5 cm. Color al azar.",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "Img/Imagen391.jpg",
-  stock: 1
+  stock: 2
 },
        {
   nombre: "5423PERRITO INTERACTIVO",
@@ -2754,6 +2743,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
