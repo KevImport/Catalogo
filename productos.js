@@ -1635,7 +1635,7 @@ const productos = [
    "1": 6.95,
  },
   imagen: "Img/Imagen272.png",
-  stock: 8
+  stock: 7
 },
   {
   nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
@@ -2586,7 +2586,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 21
+  stock: 20
 },
                 {
   nombre: "5416SET AROMÁTICO DECORATIVO EN CAJA",
@@ -2684,6 +2684,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
