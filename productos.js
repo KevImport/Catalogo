@@ -1645,7 +1645,7 @@ const productos = [
    "1": 14.95,
  },
   imagen: "Img/Imagen273.jpeg",
-  stock: 11
+  stock: 9
 },
    {
   nombre: "5267MOUSE & RAT",
@@ -2520,7 +2520,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen377.jpeg",
-  stock: 20
+  stock: 17
 },
    {
   nombre: "5406CARTERA MODERNO – LUXE",
@@ -2605,11 +2605,10 @@ const productos = [
   descripcion: "Práctico, estable y perfecto para ver videos o videollamadas. Ligero y fácil de llevar a cualquier lugar. Compatible con la mayoría de smartphones. Color al azar.",
   precios: {
    "1": 3.95,
-   "3": 2.85,
-   "6": 2.55,
+   "2": 2.95,
      },
   imagen: "Img/Imagen386.jpeg",
-  stock: 9
+  stock: 2
 },
                 {
   nombre: "5418ALMOHADA VICOELÁSTICA",
@@ -2684,6 +2683,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
