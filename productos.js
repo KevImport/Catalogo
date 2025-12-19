@@ -76,7 +76,7 @@ const productos = [
     "12": 1.95,
   },
   imagen: "Img/Imagen19.jpg",
-  stock: 17
+  stock: 16
 },
 {
   nombre: "4986MOLDE DE SILICONA",
@@ -206,16 +206,6 @@ const productos = [
   imagen: "Img/Imagen46.jpg",
   stock: 10
 },
-{
-  nombre: "4843COLLAR EQUIPO",
-  categoria: "Accesorios",
-  descripcion: "Muestra tu pasión por tu equipo. Collar con dije deportivo, ideal como regalo o uso diario.",
-  precios: {
-    "1": 7.95,
-  },
-  imagen: "Img/Imagen47.jpg",
-  stock: 1
- },
 {
   nombre: "4832KIT DE MANICURE",
   categoria: "Higiene / Cuidado Personal",
@@ -439,7 +429,7 @@ const productos = [
     "12": 2.90,
   },
   imagen: "Img/Imagen94.jpg",
-  stock: 21
+  stock: 20
 },
 {
   nombre: "3054AVE DE EQUILIBRIO",
@@ -1500,7 +1490,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen258.jpg",
-  stock: 19
+  stock: 18
 },
  {
   nombre: "5243PACK DE 10 MASCARILLAS BIOAQUA",
@@ -2286,16 +2276,6 @@ const productos = [
   imagen: "Img/Imagen353.jpeg",
   stock: 5
 },
-            {
-  nombre: "5373PERFUME ARABE PARA HOMBRE - DUPE LATAFFA ASAD",
-  categoria: "Perfumeria",
-  descripcion: "Dupe: Lattafa Asad. Estilo árabe, aroma intenso y masculino. Ideal para quienes marcan presencia. ¡Duradero, envolvente y con actitud! Capacidad: 100 ML",
-  precios: {
-   "1": 14.90,
-  },
-  imagen: "Img/Imagen354.jpeg",
-  stock: 1
-},
               {
   nombre: "5374ESMALTE DE UÑAS",
   categoria: "Belleza / Cosmética",
@@ -2490,7 +2470,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen376.jpeg",
-  stock: 5
+  stock: 4
 },
       {
   nombre: "5397SHAMPOO DE ROMERO",
@@ -2510,7 +2490,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen378.jpeg",
-  stock: 9
+  stock: 8
 },
        {
   nombre: "5408CINTA DOBLE CONTACTO",
@@ -2578,19 +2558,7 @@ const productos = [
   imagen: "Img/Imagen385.jpeg",
   stock: 4
 },
-  
-                {
-  nombre: "5417SOPORTE DE CELULAR",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Práctico, estable y perfecto para ver videos o videollamadas. Ligero y fácil de llevar a cualquier lugar. Compatible con la mayoría de smartphones. Color al azar.",
-  precios: {
-   "1": 3.95,
-   "2": 2.95,
-     },
-  imagen: "Img/Imagen386.jpeg",
-  stock: 2
-},
-                {
+  {
   nombre: "5418ALMOHADA VICOELÁSTICA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Anti Ácaros - Anti Moho - Anti Sudor - Anti Bacterianas. Ayuda a regular la temperatura. Descanso sin interrupciones.",
@@ -2713,6 +2681,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
