@@ -2242,7 +2242,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen344.jpeg",
-  stock: 4
+  stock: 1
 },
         {
   nombre: "5363CINTA LED DE 3 METROS",
@@ -2699,7 +2699,7 @@ const productos = [
    "1": 17.95,
      },
   imagen: "Img/Imagen397.png",
-  stock: 7
+  stock: 6
 },
       {
   nombre: "5430JUEGO DE ENGRANAJES DIDÁCTICO - 165 PIEZAS",
@@ -2743,6 +2743,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
