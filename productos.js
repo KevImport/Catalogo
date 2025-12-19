@@ -472,16 +472,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "3025MUÑECOS EN ACCIÓN",
-  categoria: "Navidad / Regalos",
-  descripcion: "Figuras articuladas llenas de aventura. Ideales para juegos creativos y coleccionistas.",
-  precios: {
-    "1": 10.90,
-  },
-  imagen: "Img/Imagen98.jpg",
-  stock: 1
-},
-{
   nombre: "2968CAJA NAVIDEÑA",
   categoria: "Navidad / Regalos",
   descripcion: "Caja con temática navideña perfecta para regalos, detalles o decoración. Ideal para sorprender en estas fiestas.",
@@ -2014,7 +2004,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen320.png",
-  stock: 28
+  stock: 24
 },
   {
   nombre: "5326FIGURA LED NAVIDEÑA - 1 PIEZA",
@@ -2284,7 +2274,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen351.jpeg",
-  stock: 10
+  stock: 7
 },
            {
   nombre: "5372GORRO DISEÑO MILITAR",
@@ -2628,7 +2618,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen389.jpeg",
-  stock: 9
+  stock: 7
 },
     {
   nombre: "5421JUEGO RÍTMICO",
@@ -2743,6 +2733,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
