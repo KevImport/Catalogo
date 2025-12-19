@@ -1831,16 +1831,6 @@ const productos = [
   imagen: "Img/Imagen301.jpeg",
   stock: 4
 },
-   {
-  nombre: "PERFUME PARA MUJER CLHG165 - DUPE CAROLINA HERRERA GOOD GIRL",
-  categoria: "Perfumeria",
-  descripcion: "Dupe de Carolina Herrera Good Girl, elegante y seductor. Fragancia dulce y sofisticada que resalta tu feminidad. Ideal para ocasiones especiales y dejar huella donde vayas.",
-  precios: {
-   "1": 9.95,
-  },
-  imagen: "Img/Imagen302.jpeg",
-  stock: 1
-},
 {
   nombre: "5301PERFUME DE MUJER PHG168 - DUPE DE PARIS HILTON",
   categoria: "Perfumeria",
@@ -2099,7 +2089,7 @@ const productos = [
    "6": 3.95,
   },
   imagen: "Img/Imagen330.jpeg",
-  stock: 12
+  stock: 8
 },
       {
   nombre: "5338PROTECTOR DE TALÓN",
@@ -2351,7 +2341,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen364.jpeg",
-  stock: 8
+  stock: 5
 },
   {
   nombre: "5385PROTECTORES DE ANTEBRAZO",
@@ -2670,6 +2660,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
