@@ -2427,17 +2427,7 @@ const productos = [
   imagen: "Img/Imagen369.jpeg",
   stock: 15
 },
-          {
-  nombre: "5389MINI TALADRO MONTESSORI",
-  categoria: "Navidad / Regalos",
-  descripcion: "Estimula la creatividad y la motricidad con este divertido set tipo Montessori ideal para los más pequeños. Incluye múltiples piezas para construir figuras y desarrollar habilidades mientras juegan. Viene en una práctica maletita para llevar y guardar todo fácilmente.",
-  precios: {
-   "1": 34.90,
-   },
-  imagen: "Img/Imagen370.png",
-  stock: 1
-},
-          {
+   {
   nombre: "5390SMARTWATCH D20 MACARON",
   categoria: "Electrónica / Gadgets",
   descripcion: "Con este moderno reloj inteligente podrás llevar tus actividades diarias con estilo. Incluye funciones deportivas, monitorización básica y pantalla táctil para mayor comodidad. Disponible en diseños juveniles y brillantes, ideal para regalar o usar a diario.",
@@ -2630,17 +2620,7 @@ const productos = [
   imagen: "Img/Imagen390.jpeg",
   stock: 2
 },
-       {
-  nombre: "5423PERRITO INTERACTIVO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Camina, graba voz, es musical y responde a estímulos. Viene en presentación de caja, ideal para regalo. Modelo al azar.",
-  precios: {
-   "1": 40.90,
-     },
-  imagen: "Img/Imagen392.jpeg",
-  stock: 1
-},
-         {
+           {
   nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
   categoria: "Electrónica / Gadgets",
   descripcion: "Sonido potente para disfrutar tu música al máximo. Conexión inalámbrica compatible con celulares y más dispositivos. Compactos, ligeros y perfectos para llevar a todas partes.",
@@ -2733,6 +2713,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
