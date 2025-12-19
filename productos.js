@@ -2445,7 +2445,7 @@ const productos = [
    "1": 34.90,
    },
   imagen: "Img/Imagen370.png",
-  stock: 2
+  stock: 1
 },
           {
   nombre: "5390SMARTWATCH D20 MACARON",
@@ -2743,6 +2743,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
