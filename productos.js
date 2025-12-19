@@ -44,17 +44,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "5015LIMPIADOR MULTIUSOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Poder de limpieza en tus manos. Este limpiador multiusos elimina grasa, suciedad y deja todo reluciente. ¡Imprescindible!",
-  precios: {
-    "1": 4.95,
-    "2": 3.95,
-  },
-  imagen: "Img/Imagen13.jpg",
-  stock: 2
-},
-{
   nombre: "5013ESCURRIDOR DE ACERO",
   categoria: "Hogar / Cocina",
   descripcion: "Escurre tus platos con elegancia. Fabricado en acero resistente, combina funcionalidad y diseño moderno para tu cocina.",
@@ -740,7 +729,7 @@ const productos = [
     "12": 1.55,
   },
   imagen: "Img/Imagen127.jpg",
-  stock: 18
+  stock: 16
 },
 {
   nombre: "4992COLET BASE GRANDE",
@@ -2264,7 +2253,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen351.jpeg",
-  stock: 7
+  stock: 6
 },
            {
   nombre: "5372GORRO DISEÑO MILITAR",
@@ -2340,7 +2329,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen361.jpeg",
-  stock: 9
+  stock: 7
 },
        {
   nombre: "5383FOCO LED 30W",
@@ -2546,7 +2535,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 20
+  stock: 18
 },
                 {
   nombre: "5416SET AROMÁTICO DECORATIVO EN CAJA",
@@ -2667,7 +2656,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen400.jpeg",
-  stock: 15
+  stock: 14
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2681,6 +2670,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
