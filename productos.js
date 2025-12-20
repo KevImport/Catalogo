@@ -2602,7 +2602,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
   precios: {
-   "1": 17.95,
+   "1": 22.90,
      },
   imagen: "Img/Imagen397.png",
   stock: 6
@@ -2674,6 +2674,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
