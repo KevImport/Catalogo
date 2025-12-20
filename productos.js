@@ -2615,7 +2615,7 @@ const productos = [
    "1": 28.90,
      },
   imagen: "Img/Imagen398.png",
-  stock: 4
+  stock: 3
 },
    {
   nombre: "5434SET DE 168 PLUMONES DUAL BRUSH",
@@ -2635,7 +2635,7 @@ const productos = [
    "1": 16.90,
      },
   imagen: "Img/Imagen400.jpeg",
-  stock: 13
+  stock: 12
 },
     {
   nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
@@ -2674,6 +2674,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
