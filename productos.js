@@ -2592,10 +2592,10 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
   precios: {
-   "1": 20.95,
+   "1": 28.90,
      },
   imagen: "Img/Imagen396.jpeg",
-  stock: 5
+  stock: 4
 },
     {
   nombre: "5429LIBRO DE ESTUDIO INTERACTIVO",
@@ -2674,6 +2674,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
