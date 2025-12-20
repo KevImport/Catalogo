@@ -2169,17 +2169,6 @@ const productos = [
   imagen: "Img/Imagen338.jpeg",
   stock: 4
 },
-     {
-  nombre: "5354CREMA DE MANOS FRUTAL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Hidrata y suaviza tus manos con estas cremas inspiradas en deliciosas frutas. Envases con forma de fresa, durazno, pera y manzana, ¡súper tiernos y decorativos! Perfectas para llevar en la cartera y mantener tus manos siempre suaves.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen342.jpeg",
-  stock: 5
-},
     {
   nombre: "5356BLOQUES ARMABLES 3D - TRALALERO",
   categoria: "Navidad / Regalos",
@@ -2685,6 +2674,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
