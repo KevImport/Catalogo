@@ -2646,7 +2646,32 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen400.jpeg",
-  stock: 14
+  stock: 13
+},
+    {
+  nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protección confiable y cómoda con mascarillas desechables de 3 pliegues. Alta filtración de partículas y gotículas para mayor seguridad. Pack de 50 unidades, ideal para uso diario, laboral o profesional.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "Img/Imagen401.jpeg",
+  stock: 49
+},
+     {
+  nombre: "5437CAJA DE 10 MASCARILLAS BLANCAS KN95",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alta protección y ajuste seguro al rostro. Filtración eficiente de partículas y gotículas. Cómodas, livianas y de uso diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "Img/Imagen402.jpeg",
+  stock: 32
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2660,6 +2685,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
