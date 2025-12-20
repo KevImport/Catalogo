@@ -2612,10 +2612,10 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Divertido set de engranajes para armar y girar. Estimula la creatividad, lógica y motricidad. Piezas resistentes y fáciles de encajar. Ideal para niños y niñas desde 3 años.",
   precios: {
-   "1": 18.95,
+   "1": 28.90,
      },
   imagen: "Img/Imagen398.png",
-  stock: 7
+  stock: 4
 },
    {
   nombre: "5434SET DE 168 PLUMONES DUAL BRUSH",
@@ -2674,6 +2674,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
