@@ -2585,7 +2585,7 @@ const productos = [
    "1": 28.90,
      },
   imagen: "Img/Imagen396.jpeg",
-  stock: 4
+  stock: 3
 },
     {
   nombre: "5429LIBRO DE ESTUDIO INTERACTIVO",
@@ -2615,7 +2615,7 @@ const productos = [
    "1": 54.90,
      },
   imagen: "Img/Imagen399.png",
-  stock: 10
+  stock: 5
 },
         {
   nombre: "5435BASTA ELECTRONICO",
@@ -2664,6 +2664,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
