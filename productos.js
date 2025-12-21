@@ -2069,16 +2069,6 @@ const productos = [
   imagen: "Img/Imagen328.png",
   stock: 14
 },
-    {
-  nombre: "5335FUNDA NAVIDEÑA PARA PUERTA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Transforma tu entrada en un espacio lleno de magia. Fácil de colocar y reutilizable. Ideal para casa u oficina. Recibe a tus visitas con el mejor espíritu navideño.",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen329.png",
-  stock: 2
-},
       {
   nombre: "5337ROLLO DE ADHESIVO DE VENTANA",
   categoria: "Hogar / Cocina",
@@ -2674,6 +2664,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
