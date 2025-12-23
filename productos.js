@@ -2534,7 +2534,7 @@ const productos = [
    "1": 54.90,
      },
   imagen: "Img/Imagen399.png",
-  stock: 3
+  stock: 2
 },
         {
   nombre: "5435BASTA ELECTRONICO",
@@ -2583,6 +2583,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
