@@ -614,16 +614,6 @@ const productos = [
   stock: 28
 },
 {
-  nombre: "2441EXTRACTOR DE ABOLLADURAS",
-  categoria: "Varios",
-  descripcion: "Herramienta útil para reparar pequeñas abolladuras en vehículos de forma rápida y sin dañar la pintura.",
-  precios: {
-    "1": 7.90,
-  },
-  imagen: "Img/Imagen115.jpg",
-  stock: 2
-},
-{
   nombre: "2421PAQUETE DE BOLSAS TERMORETRACTIL",
   categoria: "Organización / Almacenamiento",
   descripcion: "Bolsas que se ajustan al contenido con calor, ideales para embalaje seguro, ordenado y profesional.",
@@ -2593,6 +2583,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
