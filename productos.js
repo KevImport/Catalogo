@@ -1,3 +1,4 @@
+
 const productos = [
 {
   nombre: "5175CONDIMENTERO GIRATORIO",
@@ -2526,16 +2527,6 @@ const productos = [
   imagen: "Img/Imagen398.png",
   stock: 3
 },
-   {
-  nombre: "5434SET DE 168 PLUMONES DUAL BRUSH",
-  categoria: "Navidad / Regalos",
-  descripcion: "¡Potencia tu creatividad con este set profesional de 168 marcadores de doble punta, que incluye un práctico estuche organizador portátil! Ideales para dibujo y caligrafía, ofrecen una punta pincel flexible para trazos artísticos y una punta fina para detalles precisos en cada proyecto.",
-  precios: {
-   "1": 54.90,
-     },
-  imagen: "Img/Imagen399.png",
-  stock: 2
-},
         {
   nombre: "5435BASTA ELECTRONICO",
   categoria: "Navidad / Regalos",
@@ -2583,6 +2574,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
