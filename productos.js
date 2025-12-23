@@ -1223,7 +1223,7 @@ const productos = [
     "3": 5.95,
  },
   imagen: "Img/Imagen216.jpeg",
-  stock: 23
+  stock: 22
 },
   {
   nombre: "5140SPRAY PARA EL DOLOR INSTANTANEO",
@@ -1354,10 +1354,9 @@ const productos = [
   descripcion: "Alfombra absorbente antideslizante. Seca rápido, protege el piso y luce increíble en tu hogar. Medida aprox.: 38 x 58 cm",
   precios: {
    "1": 5.95,
-   "3": 4.85,
  },
   imagen: "Img/Imagen236.jpeg",
-  stock: 2
+  stock: 1
 },
  {
   nombre: "5182BRAZALETE SERPENTEADO",
@@ -1561,16 +1560,6 @@ const productos = [
  },
   imagen: "Img/Imagen267.jpeg",
   stock: 3
-},
- {
-  nombre: "5253MINI SELLADOR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mini sellador de bolsas recargable. Mantén tus alimentos frescos por más tiempo. Práctico, portátil y fácil de usar en segundos.",
-  precios: {
-   "1": 6.95,
- },
-  imagen: "Img/Imagen268.png",
-  stock: 1
 },
  {
   nombre: "5254CARRITOS HW",
@@ -2121,10 +2110,10 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.95,
-   "6": 3.65,
+   "5": 3.65,
   },
   imagen: "Img/Imagen334.jpeg",
-  stock: 6
+  stock: 5
 },
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
@@ -2277,7 +2266,7 @@ const productos = [
    "6": 3.65,
   },
   imagen: "Img/Imagen359.jpeg",
-  stock: 21
+  stock: 20
 },
     {
   nombre: "5379JABONERA CON CAJÓN",
@@ -2640,7 +2629,7 @@ const productos = [
    "6": 3.65,
      },
   imagen: "Img/Imagen402.jpeg",
-  stock: 32
+  stock: 31
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2654,6 +2643,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
