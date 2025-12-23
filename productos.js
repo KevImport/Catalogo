@@ -203,7 +203,7 @@ const productos = [
     "1": 5.95,
   },
   imagen: "Img/Imagen49.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "4831GUANTES TOUCH",
@@ -520,7 +520,7 @@ const productos = [
     "1": 17.90,
   },
   imagen: "Img/Imagen105.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "2794MASCARA HALOWEEN",
@@ -717,7 +717,7 @@ const productos = [
     "6": 2.95,
   },
   imagen: "Img/Imagen126.jpg",
-  stock: 11
+  stock: 5
 },
 {
   nombre: "5016COLET ESPIRAL CORAZÓN",
@@ -764,16 +764,6 @@ const productos = [
   },
   imagen: "Img/Imagen136.jpg",
   stock: 9
-},
-{
-  nombre: "4890MASAJEADOR CORPORAL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Masajeador manual para relajar músculos y mejorar la circulación. Ideal para aliviar el estrés diario.",
-  precios: {
-    "1": 26.90,
-  },
-  imagen: "Img/Imagen137.jpg",
-  stock: 1
 },
 {
   nombre: "4885DELINEADOR 2 EN 1",
@@ -1041,16 +1031,6 @@ const productos = [
   stock: 1
 },
 {
-  nombre: "5071CREMA FACIAL ANTIARRUGAS CON VITAMINA C",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Hidrata y mejora la elasticidad de la piel. Ayuda a reducir líneas de expresión. Ilumina y unifica el tono del rostro. Ideal para uso diario y todo tipo de piel.",
-  precios: {
-    "1": 9.95
- },
-  imagen: "Img/Imagen182.jpeg",
-  stock: 1
-},
-{
   nombre: "5077LUZ PARA ESCALERA",
   categoria: "Hogar / Cocina",
   descripcion: "Luz solar LED para escalones, caminos y escaleras. Se carga con el sol. Resistente al agua y fácil de instalar. ¡Ilumina y decora con estilo y seguridad!.",
@@ -1234,7 +1214,7 @@ const productos = [
     "3": 3.95,
  },
   imagen: "Img/Imagen217.jpeg",
-  stock: 34
+  stock: 31
 },
    {
   nombre: "5142PACK ASEO DENTAL",
@@ -1402,7 +1382,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen246.jpg",
-  stock: 10
+  stock: 4
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -1820,16 +1800,6 @@ const productos = [
   imagen: "Img/Imagen301.jpeg",
   stock: 4
 },
-{
-  nombre: "5301PERFUME DE MUJER PHG168 - DUPE DE PARIS HILTON",
-  categoria: "Perfumeria",
-  descripcion: "Dupe de Paris Hilton. Un perfume elegante inspirado en Paris Hilton, con notas dulces y frutales. Ideal para mujeres modernas, radiantes y seguras de sí mismas.",
-  precios: {
-   "1": 13.95,
-  },
-  imagen: "Img/Imagen304.jpeg",
-  stock: 1
-},
     {
   nombre: "5305QUITA OXIDO",
   categoria: "Hogar / Cocina",
@@ -1996,7 +1966,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen323.jpeg",
-  stock: 5
+  stock: 2
 },
       {
   nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
@@ -2409,17 +2379,7 @@ const productos = [
   imagen: "Img/Imagen375.png",
   stock: 18
 },
-    {
-  nombre: "5396CARGADOR DE 75W + CABLE TIPO C",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Carga súper rápida para celulares, tablets y laptops compatibles. Incluye cable Tipo C resistente y de alto rendimiento. Ideal para uso diario, viajes y carga eficiente sin esperar horas.",
-  precios: {
-   "1": 12.95,
-     },
-  imagen: "Img/Imagen376.jpeg",
-  stock: 4
-},
-      {
+  {
   nombre: "5397SHAMPOO DE ROMERO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1000ML",
@@ -2427,7 +2387,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen377.jpeg",
-  stock: 8
+  stock: 5
 },
    {
   nombre: "5406CARTERA MODERNO – LUXE",
@@ -2533,7 +2493,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen393.jpeg",
-  stock: 9
+  stock: 4
 },
            {
   nombre: "5426ORGANIZADOR DE ROPA",
@@ -2633,6 +2593,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
