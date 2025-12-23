@@ -2567,16 +2567,6 @@ const productos = [
   imagen: "Img/Imagen394.jpeg",
   stock: 10
 },
-             {
-  nombre: "5427FIGURAS K-POP DEMON HUNTERS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Muñecas coleccionables de 10 x 5 cm con diseños súper llamativos. Inspiradas en estilo K-pop. Perfectas para jugar, coleccionar o decorar tu espacio.",
-  precios: {
-   "1": 44.85,
-     },
-  imagen: "Img/Imagen395.jpeg",
-  stock: 3
-},
   {
   nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
   categoria: "Navidad / Regalos",
@@ -2664,6 +2654,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
