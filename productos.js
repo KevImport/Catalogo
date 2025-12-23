@@ -65,7 +65,7 @@ const productos = [
     "12": 1.95,
   },
   imagen: "Img/Imagen19.jpg",
-  stock: 16
+  stock: 15
 },
 {
   nombre: "4986MOLDE DE SILICONA",
@@ -2019,7 +2019,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen325.jpeg",
-  stock: 23
+  stock: 19
 },
   {
   nombre: "5331DOMINÓ CLÁSICO",
@@ -2068,7 +2068,7 @@ const productos = [
    "6": 3.95,
   },
   imagen: "Img/Imagen330.jpeg",
-  stock: 8
+  stock: 7
 },
       {
   nombre: "5338PROTECTOR DE TALÓN",
@@ -2211,7 +2211,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen351.jpeg",
-  stock: 6
+  stock: 4
 },
            {
   nombre: "5372GORRO DISEÑO MILITAR",
@@ -2452,16 +2452,6 @@ const productos = [
   imagen: "Img/Imagen380.jpeg",
   stock: 13
 },
-         {
-  nombre: "5409STICKER IMANTADO NAVIDEÑO PARA REFRIGERADORA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Decora tu refri con tiernos imanes navideños, súper fáciles de colocar y quitar. Añaden color, alegría y espíritu festivo a tu cocina en segundos. Perfectos para el hogar, oficina o para regalar esta temporada. Diseño al azar",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "Img/Imagen381.jpeg",
-  stock: 1
-},
            {
   nombre: "5410CORTADOR DE PAPEL PORTÁTIL",
   categoria: "Escolar / Papelería",
@@ -2594,7 +2584,7 @@ const productos = [
    "1": 54.90,
      },
   imagen: "Img/Imagen399.png",
-  stock: 5
+  stock: 4
 },
         {
   nombre: "5435BASTA ELECTRONICO",
@@ -2643,6 +2633,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
