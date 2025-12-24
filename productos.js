@@ -439,7 +439,7 @@ const productos = [
     "1": 10.90,
   },
   imagen: "Img/Imagen96.jpg",
-  stock: 5
+  stock: 3
 },
 {
   nombre: "3038SHORT LEVANTA POMPIS",
@@ -552,16 +552,6 @@ const productos = [
   },
   imagen: "Img/Imagen108.jpg",
   stock: 36
-},
-{
-  nombre: "2708EQUIPO DE PROTECCIÓN",
-  categoria: "Navidad / Regalos",
-  descripcion: "Kit básico de protección para tareas que requieren seguridad personal. Incluye elementos esenciales para cuidar tu bienestar.",
-  precios: {
-    "1": 6.90,
-  },
-  imagen: "Img/Imagen109.jpg",
-  stock: 3
 },
 {
   nombre: "2689SET DE 10 FOIL + TAPER",
@@ -1564,7 +1554,7 @@ const productos = [
    "1": 6.95,
  },
   imagen: "Img/Imagen272.png",
-  stock: 7
+  stock: 4
 },
   {
   nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
@@ -2151,7 +2141,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen347.jpg",
-  stock: 4
+  stock: 3
 },
       {
   nombre: "5369TAZA DE CERAMICA NAVIDEÑA 20onzas",
@@ -2172,7 +2162,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen351.jpeg",
-  stock: 4
+  stock: 3
 },
            {
   nombre: "5372GORRO DISEÑO MILITAR",
@@ -2412,7 +2402,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen382.png",
-  stock: 14
+  stock: 6
 },
             {
   nombre: "5411PRINCESA MUSICAL GIRATORIA",
@@ -2466,17 +2456,7 @@ const productos = [
   imagen: "Img/Imagen389.jpeg",
   stock: 7
 },
-    {
-  nombre: "5421JUEGO RÍTMICO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Desliza, presiona y sigue el ritmo en este juego súper divertido. Ideal para mejorar coordinación y pasar horas de entretenimiento. Modelo al azar.",
-  precios: {
-   "1": 4.95,
-     },
-  imagen: "Img/Imagen390.jpeg",
-  stock: 2
-},
-           {
+  {
   nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
   categoria: "Electrónica / Gadgets",
   descripcion: "Sonido potente para disfrutar tu música al máximo. Conexión inalámbrica compatible con celulares y más dispositivos. Compactos, ligeros y perfectos para llevar a todas partes.",
@@ -2535,7 +2515,7 @@ const productos = [
    "1": 16.90,
      },
   imagen: "Img/Imagen400.jpeg",
-  stock: 12
+  stock: 8
 },
     {
   nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
@@ -2574,6 +2554,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
