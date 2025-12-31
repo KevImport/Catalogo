@@ -2482,20 +2482,20 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
   precios: {
-   "1": 28.90,
+   "1": 20.95,
      },
   imagen: "Img/Imagen396.jpeg",
-  stock: 3
+  stock: 5
 },
     {
   nombre: "5429LIBRO DE ESTUDIO INTERACTIVO",
   categoria: "Navidad / Regalos",
   descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
   precios: {
-   "1": 22.90,
+   "1": 17.95,
      },
   imagen: "Img/Imagen397.png",
-  stock: 6
+  stock: 7
 },
       {
   nombre: "5430JUEGO DE ENGRANAJES DIDÁCTICO - 165 PIEZAS",
@@ -2554,6 +2554,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
