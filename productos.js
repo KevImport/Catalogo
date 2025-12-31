@@ -2495,17 +2495,17 @@ const productos = [
    "1": 17.95,
      },
   imagen: "Img/Imagen397.png",
-  stock: 6
+  stock: 4
 },
       {
   nombre: "5430JUEGO DE ENGRANAJES DIDÁCTICO - 165 PIEZAS",
   categoria: "Navidad / Regalos",
   descripcion: "Divertido set de engranajes para armar y girar. Estimula la creatividad, lógica y motricidad. Piezas resistentes y fáciles de encajar. Ideal para niños y niñas desde 3 años.",
   precios: {
-   "1": 28.90,
+   "1": 18.95,
      },
   imagen: "Img/Imagen398.png",
-  stock: 3
+  stock: 1
 },
         {
   nombre: "5435BASTA ELECTRONICO",
@@ -2554,6 +2554,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
