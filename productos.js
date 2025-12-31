@@ -911,17 +911,6 @@ const productos = [
   stock: 15
 },
 {
-  nombre: "4566LÁPIZ PORTA MINA SANRIO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Lápiz porta mina con diseño adorable de Sanrio. Ideal para estudiantes que disfrutan de lo tierno y funcional.",
-  precios: {
-    "1": 2.95,
-    "2": 1.95,
-  },
-  imagen: "Img/Imagen162.jpg",
-  stock: 2
-},
-{
   nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
   categoria: "Escolar / Papelería",
   descripcion: "Conjunto de lapiceros con tinta de colores vibrantes tipo arco iris. Perfectos para escribir o decorar con estilo.",
@@ -2554,6 +2543,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
