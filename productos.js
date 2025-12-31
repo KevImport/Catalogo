@@ -2313,7 +2313,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen371.jpeg",
-  stock: 6
+  stock: 5
 },
             {
   nombre: "5391CAMPANAS DE VIENTO MÍSTICOS Y ENERGÉTICOS",
@@ -2464,7 +2464,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen393.jpeg",
-  stock: 4
+  stock: 2
 },
            {
   nombre: "5426ORGANIZADOR DE ROPA",
@@ -2554,6 +2554,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
