@@ -2495,7 +2495,7 @@ const productos = [
    "1": 17.95,
      },
   imagen: "Img/Imagen397.png",
-  stock: 7
+  stock: 6
 },
       {
   nombre: "5430JUEGO DE ENGRANAJES DIDÁCTICO - 165 PIEZAS",
@@ -2554,6 +2554,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
