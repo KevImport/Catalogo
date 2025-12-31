@@ -2501,7 +2501,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "¡Pon a prueba tu agilidad mental con ¡Basta!, el emocionante juego donde debes pensar rápido y contestar antes que los demás! Esta versión electrónica incluye luces y un mazo de cartas para garantizar horas de diversión competitiva y risas con toda la familia.",
   precios: {
-   "1": 14.95,
+   "1": 16.95,
      },
   imagen: "Img/Imagen400.jpeg",
   stock: 2
@@ -2543,6 +2543,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
