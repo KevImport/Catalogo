@@ -2333,7 +2333,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen377.jpeg",
-  stock: 5
+  stock: 2
 },
    {
   nombre: "5406CARTERA MODERNO – LUXE",
@@ -2519,6 +2519,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
