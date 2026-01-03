@@ -110,17 +110,6 @@ const productos = [
   stock: 4
 },
 {
-  nombre: "4903CÁPSULAS x100 - BIOTINA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Fortalece tu cabello, piel y uñas. Suplemento de biotina en cápsulas, con 100 unidades por frasco.",
-  precios: {
-    "1": 9.90,
-    "3": 8.90,
-  },
-  imagen: "Img/Imagen32.jpg",
-  stock: 12
-},
-{
   nombre: "4930MANZANA ACRÍLICA SIN LETRAS",
   categoria: "Decoración / Fiesta",
   descripcion: "Una pieza decorativa elegante. Esta manzana acrílica es ideal para regalos, escritorios o espacios creativos.",
@@ -686,19 +675,7 @@ const productos = [
     "1": 10.50,
   },
   imagen: "Img/Imagen125.jpg",
-  stock: 18
-},
-{
-  nombre: "5008JABÓN DE ARROZ",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Jabón con extracto de arroz que limpia profundamente y ayuda a iluminar la piel. Ideal para el uso diario.",
-  precios: {
-    "1": 4.95,
-    "3": 3.25,
-    "6": 2.95,
-  },
-  imagen: "Img/Imagen126.jpg",
-  stock: 5
+  stock: 15
 },
 {
   nombre: "5016COLET ESPIRAL CORAZÓN",
@@ -1184,7 +1161,7 @@ const productos = [
     "3": 3.95,
  },
   imagen: "Img/Imagen217.jpeg",
-  stock: 31
+  stock: 20
 },
    {
   nombre: "5142PACK ASEO DENTAL",
@@ -1352,7 +1329,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen246.jpg",
-  stock: 4
+  stock: 12
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -1787,10 +1764,9 @@ const productos = [
   descripcion: "Alimentado por una batería recargable. (Incluye cable USB). No crea una llama, es operado eléctricamente y respetuoso con el medio ambiente. Apto para cocina casera, barbacoa al aire libre, Etc.",
   precios: {
    "1": 8.95,
-   "3": 7.95,
   },
   imagen: "Img/Imagen307.png",
-  stock: 6
+  stock: 2
 },
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
@@ -2484,7 +2460,7 @@ const productos = [
    "1": 17.95,
      },
   imagen: "Img/Imagen397.png",
-  stock: 4
+  stock: 2
 },
       {
   nombre: "5430JUEGO DE ENGRANAJES DIDÁCTICO - 165 PIEZAS",
@@ -2504,7 +2480,7 @@ const productos = [
    "1": 16.95,
      },
   imagen: "Img/Imagen400.jpeg",
-  stock: 2
+  stock: 1
 },
     {
   nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
@@ -2543,6 +2519,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
