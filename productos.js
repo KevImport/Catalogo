@@ -214,7 +214,7 @@ const productos = [
     "1": 8.90,
   },
   imagen: "Img/Imagen53.jpg",
-  stock: 3
+  stock: 1
 },
 {
   nombre: "4704MINI TELESCOPIO",
@@ -1383,7 +1383,7 @@ const productos = [
    "3": 5.95,
  },
   imagen: "Img/Imagen256.jpeg",
-  stock: 7
+  stock: 6
 },
   {
   nombre: "5236ORGANIZADOR DE ALIMENTOS",
@@ -2509,6 +2509,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
