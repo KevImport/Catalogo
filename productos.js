@@ -1778,7 +1778,7 @@ const productos = [
    "6": 1.65,
   },
   imagen: "Img/Imagen309.jpg",
-  stock: 14
+  stock: 7
 },
      {
   nombre: "5311ORGANIZADOR DE HUEVOS",
@@ -1923,7 +1923,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen324.jpeg",
-  stock: 27
+  stock: 15
 },
         {
   nombre: "5330ROMPECABEZAS DE MADERA DIDÁCTICO",
@@ -2137,7 +2137,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen353.jpeg",
-  stock: 5
+  stock: 4
 },
               {
   nombre: "5374ESMALTE DE UÑAS",
@@ -2447,7 +2447,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
   precios: {
-   "1": 20.95,
+   "1": 25.95,
      },
   imagen: "Img/Imagen396.jpeg",
   stock: 5
@@ -2509,6 +2509,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
