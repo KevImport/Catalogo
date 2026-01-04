@@ -2457,7 +2457,7 @@ const productos = [
   categoria: "Navidad / Regalos",
   descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
   precios: {
-   "1": 17.95,
+   "1": 22.95,
      },
   imagen: "Img/Imagen397.png",
   stock: 2
@@ -2470,16 +2470,6 @@ const productos = [
    "1": 18.95,
      },
   imagen: "Img/Imagen398.png",
-  stock: 1
-},
-        {
-  nombre: "5435BASTA ELECTRONICO",
-  categoria: "Navidad / Regalos",
-  descripcion: "¡Pon a prueba tu agilidad mental con ¡Basta!, el emocionante juego donde debes pensar rápido y contestar antes que los demás! Esta versión electrónica incluye luces y un mazo de cartas para garantizar horas de diversión competitiva y risas con toda la familia.",
-  precios: {
-   "1": 16.95,
-     },
-  imagen: "Img/Imagen400.jpeg",
   stock: 1
 },
     {
@@ -2519,6 +2509,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
