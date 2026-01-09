@@ -1661,17 +1661,6 @@ const productos = [
   stock: 79
 },
   {
-  nombre: "5288PAVITO REAL – FUEGOS ARTIFICIALES",
-  categoria: "Pirotecnicos",
-  descripcion: "Disfruta del increíble efecto colorido en forma de pavo real que ilumina la noche. Ideal para celebraciones y momentos especiales.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-  },
-  imagen: "Img/Imagen293.jpeg",
-  stock: 22
-},
-  {
   nombre: "5292MOLDE PARA HIELO FACIAL",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Se usa para darle firmeza al rostro. Desinflama ojeras. Puedes utilizarlo en cualquier zona del cuerpo. Incluso para golpes, ya que ayuda a desinflamar. Ayuda a prevenir las arrugas. Puede usarse para bajar la temperatura de la fiebre.",
@@ -2466,6 +2455,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
