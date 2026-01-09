@@ -1716,16 +1716,6 @@ const productos = [
   stock: 8
 },
   {
-  nombre: "5299PACK DE 10 IMPERDIBLES DE PANTALÓN CON PERLAS",
-  categoria: "Accesorios",
-  descripcion: "Accesorio elegante para ajustar la cintura de tus jeans sin necesidad de coser.  Decorado con perlas y detalles dorados que añaden un toque chic. Práctico, reutilizable y perfecto para realzar tu estilo diario. Medida aprox.: 7 cm",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen299.png",
-  stock: 1
-},
-  {
   nombre: "5300JABONERA PORTATIL",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Ligera y fácil de transportar, ideal para llevar tu jabón a cualquier lugar. Su tapa unida la hace más resistente y evita derrames. Perfecta para casa, viajes, camping o actividades al aire libre.",
@@ -2509,6 +2499,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
