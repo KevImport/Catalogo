@@ -778,17 +778,6 @@ const productos = [
   stock: 4
 },
 {
-  nombre: "4757SET DE 5 PARCHES ADELGAZANTES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Parches reductores para zonas específicas del cuerpo. Apóyate en tu rutina fitness con este práctico complemento.",
-  precios: {
-    "1": 3.95,
-    "2": 2.95,
-  },
-  imagen: "Img/Imagen145.jpg",
-  stock: 2
-},
-{
   nombre: "4670MÁSCARA DE PESTAÑAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Realza tus pestañas al máximo con esta máscara de larga duración. Volumen, definición y resistencia al agua en un solo producto.",
@@ -2499,6 +2488,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
