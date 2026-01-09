@@ -1244,17 +1244,6 @@ const productos = [
   stock: 8
 },
  {
-  nombre: "5171JABON CON FRAGANCIA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Sensación de pureza. Cuidado para piel mixta. Fórmula suave con colonia.",
-  precios: {
-    "1": 3.95,
-    "2": 2.25,
- },
-  imagen: "Img/Imagen231.jpeg",
-  stock: 2
-},
- {
   nombre: "5174LUCES ESPACIAL",
   categoria: "Hogar / Cocina",
   descripcion: "Lámpara Proyector Estrellado. Proyección giratoria de luna y estrellas. Recargable por USB. Ideal para decoración y noches relajantes. Perfecta para dormitorio, sala o regalo especial.",
@@ -1284,17 +1273,6 @@ const productos = [
  },
   imagen: "Img/Imagen239.jpeg",
   stock: 4
-},
-{
-  nombre: "5189ESPALDAR LUMBAR",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Alivia el estrés en la espalda y mejora tu postura. Ideal para coche y oficina, con correa elástica resistente. Ajustable y mantiene la curvatura natural de tu espalda. Soporte lumbar que reduce molestias en espalda y cuello. Material: Malla + alambre de acero.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
- },
-  imagen: "Img/Imagen240.jpeg",
-  stock: 5
 },
  {
   nombre: "5204NACIMIENTO LED",
@@ -2488,6 +2466,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
