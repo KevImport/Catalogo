@@ -701,17 +701,6 @@ const productos = [
   stock: 5
 },
 {
-  nombre: "4920SET DE UÑAS POSTIZAS - MODELO #2",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Set de uñas postizas con diseño moderno. Fáciles de colocar, resistentes y perfectas para cualquier ocasión.",
-  precios: {
-    "1": 3.90,
-    "6": 2.95,
-  },
-  imagen: "Img/Imagen135.jpg",
-  stock: 3
-},
-{
   nombre: "4895SET DE 3 PERFILADORES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Pack de 3 perfiladores para cejas y vello facial. Precisión y suavidad para un acabado profesional.",
@@ -1181,10 +1170,9 @@ const productos = [
   precios: {
     "1": 2.95,
     "3": 1.85,
-    "6": 1.55,
  },
   imagen: "Img/Imagen220.png",
-  stock: 12
+  stock: 4
 },
   {
   nombre: "5141GANCHO GIRATORIO FULL SPACE",
@@ -1361,27 +1349,6 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen257.jpeg",
-  stock: 6
-},
-  {
-  nombre: "5238GEL DE ALOE VERA ROSA HIDRATANTE BIOAQUA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "¡Descubre el secreto de una piel radiante y fresca! Enriquecido con aloe vera, brinda hidratación profunda. Ideal para todo tipo de piel, incluso la más sensible.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
- },
-  imagen: "Img/Imagen258.jpg",
-  stock: 18
-},
- {
-  nombre: "5243PACK DE 10 MASCARILLAS BIOAQUA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Pack de 10 mascarillas BIOAQUA. ¡Cuidado facial al siguiente nivel con Bioaqua! Perfectas para cada tipo de piel. Hidrata, revitaliza y luce un rostro radiante todos los días. ¡Elige tu favorita y conciéntete hoy mismo!",
-  precios: {
-   "1": 9.95,
- },
-  imagen: "Img/Imagen260.jpeg",
   stock: 6
 },
   {
@@ -2259,19 +2226,6 @@ const productos = [
   stock: 5
 },
   {
-  nombre: "5395BURLETE",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Dile adiós a las corrientes de aire, al ruido molesto y al polvo! Burlete de Puerta de Alto Rendimiento es la solución definitiva para transformar su hogar en un espacio confortable, tranquilo y eficiente.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-   "12": 2.35,
-     },
-  imagen: "Img/Imagen375.png",
-  stock: 18
-},
-  {
   nombre: "5397SHAMPOO DE ROMERO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1000ML",
@@ -2289,7 +2243,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen378.jpeg",
-  stock: 7
+  stock: 6
 },
        {
   nombre: "5408CINTA DOBLE CONTACTO",
@@ -2408,16 +2362,6 @@ const productos = [
   imagen: "Img/Imagen397.png",
   stock: 2
 },
-      {
-  nombre: "5430JUEGO DE ENGRANAJES DIDÁCTICO - 165 PIEZAS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Divertido set de engranajes para armar y girar. Estimula la creatividad, lógica y motricidad. Piezas resistentes y fáciles de encajar. Ideal para niños y niñas desde 3 años.",
-  precios: {
-   "1": 18.95,
-     },
-  imagen: "Img/Imagen398.png",
-  stock: 1
-},
     {
   nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
   categoria: "Higiene / Cuidado Personal",
@@ -2443,6 +2387,129 @@ const productos = [
   imagen: "Img/Imagen402.jpeg",
   stock: 31
 },
+     {
+  nombre: "5439TOALLA DE ENFRIAMIENTO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Refresca al instante al mojarla y escurrirla. Ideal para deporte, gimnasio o días de calor. Ligera, reutilizable y fácil de llevar.",
+  precios: {
+   "1": 3.55,
+   "3": 2.15,
+   "6": 1.85,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen403.jpg",
+  stock: 19
+},
+      {
+  nombre: "5440AUDÍFONO M10",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Para tu música y llamadas. Cómodo diseño ergonómico para uso diario sin molestias. Conexión rápida, disfruta tu día.",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "Img/Imagen404.png",
+  stock: 12
+},
+        {
+  nombre: "5441CORTINA IMANTADA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fácil instalación, se abre y cierra sola con imanes. Medida 2 m x 1 m, ideal para puertas. Color al azar, mantiene fuera insectos y deja pasar el aire.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen405.png",
+  stock: 27
+},
+          {
+  nombre: "111 PALIBOMBITAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfectos para fiestas de verano, reuniones familiares, o simplemente para disfrutar de un día caluroso, estos globos de agua son ideales para cualquier evento al aire libre. Cada paquete tiene 3 ramilletes (total 111 globos). Incluye adaptador.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen406.png",
+  stock: 32
+},
+          {
+  nombre: "5446SET SORBETES REUTILIZABLES + CEPILLO DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Set contiene: 1 Sorbete Curvo + 1 Sorbete Recto + 1 Cepillo Limpiador de Metal. Práctico y muy útil juego de 2 cañitas. una con punta diagonal para mayor comodidad y otra cañita recta para cuando la prefiera. Y para su limpieza se incluye el limpiador de Sorbetes. Sorbete de acero Inoxidable, ideal para batidos, jugos, te de burbujas, también recomendado para uso de adultos mayores, etc.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+     },
+  imagen: "Img/Imagen407.png",
+  stock: 13
+},
+  {
+  nombre: "5448VISERA DE DAMA COLOR ENTERO",
+  categoria: "Accesorios",
+  descripcion: "Ideal para protegerte del sol con estilo y comodidad. Diseño moderno y ligero, perfecto para salidas y paseos. Aporta un toque elegante a tus outfits veraniegos. Color al azar",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+     },
+  imagen: "Img/Imagen408.jpeg",
+  stock: 22
+},
+    {
+  nombre: "5449VENTILADOR LED MOVIBLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diámetro 20 cm, ilumina y ventila al mismo tiempo. Cambio de 3 colores, incluye control remoto y es movible. Ideal para tu hogar. Incluye aromatizador.",
+  precios: {
+   "1": 16.95,
+     },
+  imagen: "Img/Imagen409.png",
+  stock: 9
+},
+      {
+  nombre: "5451CARPETA PARA ARCHIVOS CON ASA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Carpeta de archivo portátil: también es buena para músicos, músicos, estudiantes, profesores, trabajadores de oficina, empresarios, etc. Diseño al azar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.25,
+   "6": 5.95,
+     },
+  imagen: "Img/Imagen410.jpeg",
+  stock: 17
+},
+    {
+  nombre: "5434SET DE 168 PLUMONES DUAL BRUSH",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Potencia tu creatividad con este set profesional de 168 marcadores de doble punta, que incluye un practico estuche organizador portátil! Ideales para dibujo y caligrafía, ofrecen una punta pincel flexible para trazos artísticos y una punta fina para detalles precisos en cada proyecto.",
+  precios: {
+   "1": 54.90,
+     },
+  imagen: "Img/Imagen399.png",
+  stock: 10
+}, 
+    {
+  nombre: "5452CARGADOR REDD DE 75W + CABLE TIPO C",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Carga súper rápida para celulares, tablets y laptops compatibles. Incluye cable Tipo C resistente y de alto rendimiento. Ideal para uso diario, viajes y carga eficiente sin esperar horas.",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen376.jpeg",
+  stock: 14
+},
+      {
+  nombre: "5453DEPILADORA DE CEJA RECARGABLE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Discreto y portátil del tamaño de un delineador. Depila al instante, sin dolor ni quemaduras o irritación. Suficientemente suave como para utilizarlo todos los días. Rápido y preciso para una depilación perfecta. Punta fina para que tengas una ceja perfecta. Color al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen376.jpeg",
+  stock: 25
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2455,6 +2522,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
