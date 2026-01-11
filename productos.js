@@ -237,7 +237,7 @@ const productos = [
     "12": 1.65,
   },
   imagen: "Img/Imagen56.jpg",
-  stock: 15
+  stock: 12
 },
 {
   nombre: "4629LAPICERO DOBLE PUNTA",
@@ -819,7 +819,7 @@ const productos = [
     "3": 2.95,
   },
   imagen: "Img/Imagen155.jpg",
-  stock: 9
+  stock: 3
 },
 {
   nombre: "5031SET DE 7 TEMPERAS + PALETA Y PINCEL",
@@ -908,7 +908,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 1
+  stock: 5
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -1194,10 +1194,9 @@ const productos = [
   precios: {
     "1": 4.95,
     "3": 3.85,
-    "6": 3.55,
  },
   imagen: "Img/Imagen224.png",
-  stock: 12
+  stock: 5
 },
   {
   nombre: "5150COLLAR DE PRINCESAS",
@@ -1384,7 +1383,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen263.jpg",
-  stock: 16
+  stock: 13
 },
   {
   nombre: "5249BIOBELL PLACENTA CAPILAR",
@@ -1545,7 +1544,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen283.jpeg",
-  stock: 26
+  stock: 11
 },
   {
   nombre: "5276CORTADOR ONDAS DE PAPAS Y VERDURAS",
@@ -1701,7 +1700,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen310.jpeg",
-  stock: 5
+  stock: 3
 },
        {
   nombre: "5312MANGO UNIVERSAL PARA TAPAS",
@@ -1872,7 +1871,7 @@ const productos = [
    "6": 1.65,
   },
   imagen: "Img/Imagen327.jpeg",
-  stock: 35
+  stock: 19
 },
    {
   nombre: "5334PACK DE 10 BOLSAS PARA HIELO",
@@ -1930,7 +1929,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen333.png",
-  stock: 38
+  stock: 32
 },
             {
   nombre: "5341PERCHERO DE PUERTA",
@@ -1953,7 +1952,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen335.jpeg",
-  stock: 15
+  stock: 6
 },
 {
   nombre: "5343RIÑONERA CON DETALLES TORNASOLADOS",
@@ -2083,7 +2082,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen358.jpeg",
-  stock: 23
+  stock: 19
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -2178,10 +2177,10 @@ const productos = [
   descripcion: "Atrae buena vibra. Favorece la llegada del dinero. Protege de la envidia. Ideal como amuleto diario.",
   precios: {
    "1": 2.95,
-   "1": 1.95,
+   "3": 1.95,
      },
   imagen: "Img/Imagen369.jpeg",
-  stock: 15
+  stock: 12
 },
    {
   nombre: "5390SMARTWATCH D20 MACARON",
@@ -2522,6 +2521,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
