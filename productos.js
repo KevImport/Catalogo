@@ -1117,7 +1117,7 @@ const productos = [
     "1": 8.95,
  },
   imagen: "Img/Imagen214.jpeg",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "5139RESTAURADOR DE PARTES NEGRAS",
@@ -1348,7 +1348,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen257.jpeg",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "5244INDIVIDUALES REDONDOS ROJOS",
@@ -2521,6 +2521,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
