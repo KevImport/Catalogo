@@ -1422,18 +1422,6 @@ const productos = [
   stock: 3
 },
  {
-  nombre: "5254CARRITOS HW",
-  categoria: "Navidad / Regalos",
-  descripcion: "De imitación, presentación: Blíster, para tus sorpresas, día del novio, graduado, cumpleaños, etc.",
-  precios: {
-   "1": 5.95,
-   "3": 4.85,
-   "6": 4.55,
- },
-  imagen: "Img/Imagen269.jpeg",
-  stock: 16
-},
- {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
   categoria: "Decoración / Fiesta",
   descripcion: "Dale un toque mágico y personalizado a tus celebraciones. Perfectas para pasteles, cupcakes o postres festivos. Un detalle que ilumina momentos inolvidables.",
@@ -2521,6 +2509,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
