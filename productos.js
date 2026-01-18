@@ -78,16 +78,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4964SET DE 3 ORGANIZADORES",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Organiza todo con estilo. Este set de 3 organizadores es ideal para ropa interior, cosméticos o accesorios.",
-  precios: {
-    "1": 8.95,
-  },
-  imagen: "Img/Imagen28.jpg",
-  stock: 1
-},
-{
   nombre: "4955CHUPA PANZA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "¡Reduce medidas al instante! Este gel reafirmante ayuda a tonificar la zona abdominal y estilizar tu figura.",
@@ -896,7 +886,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -2681,6 +2671,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
