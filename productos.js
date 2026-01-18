@@ -2465,6 +2465,223 @@ const productos = [
   imagen: "Img/Imagen411.png",
   stock: 25
 },
+        {
+  nombre: "5450FLUORESCENTE PORTÁTIL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ilumina cualquier espacio de forma práctica y versátil, ideal para el hogar, auto o emergencias. Medida: 52 cm. Diferentes tipos de luz para cada necesidad. Presentación en caja. Sistema imantado para fácil colocación. Botón de encendido y cambio de luz. Incluye cable USB",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen412.png",
+  stock: 18
+},
+          {
+  nombre: "5457PORTA LAPICERO ANIMADO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Medida 15 × 10 × 5.5 cm. Material tipo madera, resistente y duradero. Ideal para escritorio o estudio. Modelos variados.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen413.jpeg",
+  stock: 30
+},
+            {
+  nombre: "5459LONCHERA TÉRMICA COLOR ENTERO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Material: tela Oxford. Interior de aluminio de aislamiento térmico grueso puede mantenerse caliente, frío, fresco, impermeable y fácil de limpiar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "Img/Imagen414.jpeg",
+  stock: 43
+},
+  {
+  nombre: "5460TUBO DE 12 LÁPICES LICENCIADO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Contiene 12 lápices grafito. Incluye tajador en la tapa. Producto licenciado (diseños originales). Ideal para colegio, regalos, etc. Diseño al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen415.jpeg",
+  stock: 3
+},
+    {
+  nombre: "5462SET DE 120 PLUMONES DUAL BRUSH + ESTUCHE",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
+  precios: {
+   "1": 36.90,
+     },
+  imagen: "Img/Imagen416.jpeg",
+  stock: 2
+},
+      {
+  nombre: "5464RESALTADOR ESCARCHADO BESKO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Set de 8 unidades. Colores pastel con brillo. Ideal para apuntes y decoración.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen417.png",
+  stock: 5
+},
+      {
+  nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Estas notas son ideales para hacer anotaciones en libros de texto, ya que puedes ver a través de ellas para resaltar o llamar a un contenido específico. Utilízalas en manualidades para calcar imágenes o patrones de otros artículos. Cada paquete tiene 50 hojitas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.05,
+   "6": 1.85,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen418.png",
+  stock: 41
+},
+  {
+  nombre: "5466PROTECTOR ANTISALPICADURA PARA LAVADERO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Evita que el agua salpique al lavar. Ideal para lavaderos y fregaderos. Mantiene el área limpia y seca.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+     },
+  imagen: "Img/Imagen419.jpeg",
+  stock: 17
+},
+  {
+  nombre: "5467PACK 10 FORRO FÁCIL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Práctica y fácil para forrar cuadernos escolares. Pack de 10 unidades. No requiere cinta adhesiva. Medida aprox.: 29 × 46 cm",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen420.jpeg",
+  stock: 40
+},
+    {
+  nombre: "5468SET DE 12 COLORES PASTEL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Set de 12 colores. Colores con tonos suaves, más fáciles de colorear y mezclar. Son perfectos para dibujar, colorear, bocetos, álbumes de recortes, manualidades, garabatos, rellenar libros para colorear para adultos o cualquier otra cosa.",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "Img/Imagen421.jpeg",
+  stock: 3
+},
+     {
+  nombre: "5469SET DE 12 COLORES DUAL JUMBO",
+  categoria: "Escolar / Papelería",
+  descripcion: "24 tonos en total (doble punta). Tamaño jumbo, fácil agarre. Ideal para el cole y manualidades.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen422.png",
+  stock: 6
+},
+  {
+  nombre: "5470TAJADOR CON BORRADOR",
+  categoria: "Escolar / Papelería",
+  descripcion: "Tajador práctico con tapa para evitar desorden. Cuenta con 2 agujeros: tamaño normal y jumbo. Incluye borrador integrado, ideal para la escuela. Diseño funcional y compacto, perfecto para el día a día.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen423.jpeg",
+  stock: 42
+},
+   {
+  nombre: "5471SET DE 12 LÁPICES TÉCNICO 2B",
+  categoria: "Escolar / Papelería",
+  descripcion: "Trazo suave y uniforme. Ideales para dibujo y escritura. Perfectos para colegio u oficina.",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+   "6": 4.25,
+     },
+  imagen: "Img/Imagen424.jpeg",
+  stock: 16
+},
+   {
+  nombre: "5472SET DE 12 LÁPICES CHEQUEO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye borrador integrado para correcciones rápidas. Ideales para chequeo, marcado y uso escolar. Perfectos para colegio, academia u oficina.",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+   "6": 4.25,
+     },
+  imagen: "Img/Imagen425.jpeg",
+  stock: 13
+},
+  {
+  nombre: "5473SET DE 12 LÁPICES BICOLOR AZUL + ROJO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Lápices bicolor con punta azul y roja, ideales para el colegio y la oficina. Contiene 12 unidades en forma triangular para mejor agarre. Escritura suave, clara y precisa en ambos colores.",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+     },
+  imagen: "Img/Imagen426.jpeg",
+  stock: 6
+},
+    {
+  nombre: "5474SET DE 8 LÁPICES METÁLICOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Lápices con acabado metálico, modernos y llamativos. Contiene 8 unidades ideales para uso escolar u oficina. Escritura suave y cómoda para el día a día. Prácticos, resistentes y de excelente presentación.",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+   "12": 4.25,
+     },
+  imagen: "Img/Imagen427.jpeg",
+  stock: 19
+},
+   {
+  nombre: "5475GOMA EN BARRA - 40 GRAMOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Pega en forma rápida, limpia y sencilla; papel, fotos, cartón, cartulina, tela, etc. Tapa hermética que garantiza un pegamento fresco. Ideal para el colegio, hogar y oficina.",
+  precios: {
+   "1": 3.55,
+   "3": 2.25,
+   "6": 1.95,
+     },
+  imagen: "Img/Imagen428.jpeg",
+  stock: 54
+},
+     {
+  nombre: "5476JUEGO DE MESA TETRIS 3D",
+  categoria: "Navidad / Regalos",
+  descripcion: "Juego competitivo para 2 jugadores, con timbre incluido. Bloques de madera de colores + tarjetas de desafío. Ideal desde los 3 años, desarrolla lógica y coordinación. Diversión educativa que reta la mente y la velocidad.",
+  precios: {
+   "1": 16.95,
+     },
+  imagen: "Img/Imagen429.jpeg",
+  stock: 2
+},
+       {
+  nombre: "5461FLOTADOR DE 60 CM",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ideal para la piscina o la playa, súper colorido y divertido. Diseños infantiles llamativos que encantan a los más pequeños. Perfecto para el verano, fácil de inflar y llevar a todos lados.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Img/Imagen430.jpeg",
+  stock: 2
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2477,6 +2694,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
