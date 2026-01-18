@@ -841,7 +841,7 @@ const productos = [
     "12": 1.65,
   },
   imagen: "Img/Imagen161.jpg",
-  stock: 15
+  stock: 29
 },
 {
   nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
@@ -1792,7 +1792,7 @@ const productos = [
    "6": 2.65,
   },
   imagen: "Img/Imagen326.jpeg",
-  stock: 23
+  stock: 14
 },
   {
   nombre: "5332GANCHO CLIP FLOWER",
@@ -1840,7 +1840,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen331.png",
-  stock: 35
+  stock: 17
 },
         {
   nombre: "5339SET DE CUBRE PEZONES",
@@ -2634,12 +2634,13 @@ const productos = [
   descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
   precios: {
     "1": 4.90,
-    "3": 2.60,
+    "2": 3.95,
   },
   imagen: "Img/Imagen170.jpg",
-  stock: 3
+  stock: 2
 }
 ];
+
 
 
 
