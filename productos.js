@@ -815,12 +815,11 @@ const productos = [
   categoria: "Escolar / Papelería",
   descripcion: "Kit de pintura ideal para pequeños artistas. Incluye 7 témperas, paleta y pincel para crear sin límites.",
   precios: {
-    "1": 6.95,
-    "3": 5.65,
-    "6": 5.35,
+    "1": 5.95,
+    "3": 4.95,
   },
   imagen: "Img/Imagen156.jpg",
-  stock: 8
+  stock: 5
 },
 {
   nombre: "4674SET x 10 CUTTER GARRITA",
@@ -2694,6 +2693,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
