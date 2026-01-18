@@ -886,7 +886,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -1249,7 +1249,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen246.jpg",
-  stock: 12
+  stock: 9
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -2366,7 +2366,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen408.jpeg",
-  stock: 10
+  stock: 7
 },
       {
   nombre: "5451CARPETA PARA ARCHIVOS CON ASA",
@@ -2568,7 +2568,7 @@ const productos = [
    "6": 4.25,
      },
   imagen: "Img/Imagen425.jpeg",
-  stock: 13
+  stock: 12
 },
   {
   nombre: "5473SET DE 12 LÁPICES BICOLOR AZUL + ROJO",
@@ -2640,6 +2640,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
