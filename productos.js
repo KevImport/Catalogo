@@ -1010,18 +1010,6 @@ const productos = [
   stock: 4
 },
 {
-  nombre: "5108CEPILLO DE BAMBU",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ecológico, biodegradable y libre de plásticos. Cuida tu sonrisa y también el planeta.",
-  precios: {
-    "1": 3.95,
-    "3": 2.25,
-    "6": 1.95,
- },
-  imagen: "Img/Imagen200.jpeg",
-  stock: 11
-},
-{
   nombre: "5110BOLSA DE 25 GANCHOS PERNO",
   categoria: "Hogar / Cocina",
   descripcion: "Fáciles de colocar, sin taladros ni daños en la pared. Ideales para colgar cuadros, marcos o decoraciones. Adhesión fuerte y reutilizables.",
@@ -2693,6 +2681,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
