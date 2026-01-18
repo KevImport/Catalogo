@@ -1303,7 +1303,7 @@ const productos = [
    "3": 5.95,
  },
   imagen: "Img/Imagen256.jpeg",
-  stock: 6
+  stock: 4
 },
   {
   nombre: "5236ORGANIZADOR DE ALIMENTOS",
@@ -1592,17 +1592,6 @@ const productos = [
   stock: 8
 },
   {
-  nombre: "5300JABONERA PORTATIL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ligera y fácil de transportar, ideal para llevar tu jabón a cualquier lugar. Su tapa unida la hace más resistente y evita derrames. Perfecta para casa, viajes, camping o actividades al aire libre.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-  },
-  imagen: "Img/Imagen300.jpg",
-  stock: 4
-},
-  {
   nombre: "5303SET DE 2 SUJETADORES IMANTADOS DE CORTINA",
   categoria: "Hogar / Cocina",
   descripcion: "Diseño magnético, fácil de usar.",
@@ -1623,16 +1612,6 @@ const productos = [
   },
   imagen: "Img/Imagen305.jpeg",
   stock: 7
-},
-  {
-  nombre: "5307ENCENDEDOR RECARGABLE DE COCINA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Alimentado por una batería recargable. (Incluye cable USB). No crea una llama, es operado eléctricamente y respetuoso con el medio ambiente. Apto para cocina casera, barbacoa al aire libre, Etc.",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen307.png",
-  stock: 2
 },
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
@@ -2671,6 +2650,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
