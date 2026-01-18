@@ -34,17 +34,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5027CURITAS X 100",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "¡Siempre prevenido! Pack económico de 100 curitas adhesivas para cortes y raspones. Indispensables en casa, oficina o viajes.",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
-  },
-  imagen: "Img/Imagen11.jpg",
-  stock: 3
-},
-{
   nombre: "5013ESCURRIDOR DE ACERO",
   categoria: "Hogar / Cocina",
   descripcion: "Escurre tus platos con elegancia. Fabricado en acero resistente, combina funcionalidad y diseño moderno para tu cocina.",
@@ -1532,7 +1521,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen283.jpeg",
-  stock: 11
+  stock: 7
 },
   {
   nombre: "5276CORTADOR ONDAS DE PAPAS Y VERDURAS",
@@ -2116,17 +2105,6 @@ const productos = [
   imagen: "Img/Imagen363.jpeg",
   stock: 11
 },
-         {
-  nombre: "5184PULSERA DISEÑO BODHI",
-  categoria: "Accesorios",
-  descripcion: "Pulsera artesanal con cuentas Bodhi, símbolo de calma, espiritualidad y protección. Ajustable y cómoda. Estilo bohemio/zen. Ideal para meditación o uso diario.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen364.jpeg",
-  stock: 5
-},
   {
   nombre: "5385PROTECTORES DE ANTEBRAZO",
   categoria: "Higiene / Cuidado Personal",
@@ -2276,7 +2254,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 18
+  stock: 17
 },
                 {
   nombre: "5416SET AROMÁTICO DECORATIVO EN CAJA",
@@ -2406,7 +2384,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen405.png",
-  stock: 27
+  stock: 16
 },
           {
   nombre: "111 PALIBOMBITAS",
@@ -2442,17 +2420,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen408.jpeg",
-  stock: 22
-},
-    {
-  nombre: "5449VENTILADOR LED MOVIBLE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Diámetro 20 cm, ilumina y ventila al mismo tiempo. Cambio de 3 colores, incluye control remoto y es movible. Ideal para tu hogar. Incluye aromatizador.",
-  precios: {
-   "1": 16.95,
-     },
-  imagen: "Img/Imagen409.png",
-  stock: 9
+  stock: 10
 },
       {
   nombre: "5451CARPETA PARA ARCHIVOS CON ASA",
@@ -2464,7 +2432,7 @@ const productos = [
    "6": 5.95,
      },
   imagen: "Img/Imagen410.jpeg",
-  stock: 17
+  stock: 21
 },
     {
   nombre: "5434SET DE 168 PLUMONES DUAL BRUSH",
@@ -2509,6 +2477,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
