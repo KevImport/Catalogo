@@ -2464,7 +2464,7 @@ const productos = [
    "1": 36.90,
      },
   imagen: "Img/Imagen416.jpeg",
-  stock: 2
+  stock: 1
 },
       {
   nombre: "5464RESALTADOR ESCARCHADO BESKO",
@@ -2640,6 +2640,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
