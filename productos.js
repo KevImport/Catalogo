@@ -2146,16 +2146,6 @@ const productos = [
   imagen: "Img/Imagen374.jpeg",
   stock: 5
 },
-  {
-  nombre: "5397SHAMPOO DE ROMERO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1000ML",
-  precios: {
-   "1": 9.90,
-     },
-  imagen: "Img/Imagen377.jpeg",
-  stock: 2
-},
    {
   nombre: "5406CARTERA MODERNO – LUXE",
   categoria: "Accesorios",
@@ -2441,7 +2431,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen413.jpeg",
-  stock: 30
+  stock: 18
 },
             {
   nombre: "5459LONCHERA TÉRMICA COLOR ENTERO",
@@ -2603,7 +2593,7 @@ const productos = [
    "12": 4.25,
      },
   imagen: "Img/Imagen427.jpeg",
-  stock: 19
+  stock: 18
 },
    {
   nombre: "5475GOMA EN BARRA - 40 GRAMOS",
@@ -2650,6 +2640,7 @@ const productos = [
   stock: 3
 }
 ];
+
 
 
 
