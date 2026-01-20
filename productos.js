@@ -2564,11 +2564,9 @@ const productos = [
   descripcion: "Lápices bicolor con punta azul y roja, ideales para el colegio y la oficina. Contiene 12 unidades en forma triangular para mejor agarre. Escritura suave, clara y precisa en ambos colores.",
   precios: {
    "1": 5.95,
-   "3": 4.85,
-   "6": 4.55,
      },
   imagen: "Img/Imagen426.jpeg",
-  stock: 6
+  stock: 1
 },
     {
   nombre: "5474SET DE 8 LÁPICES METÁLICOS",
@@ -2628,6 +2626,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
