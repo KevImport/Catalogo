@@ -2532,7 +2532,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen423.jpeg",
-  stock: 42
+  stock: 39
 },
    {
   nombre: "5471SET DE 12 LÁPICES TÉCNICO 2B",
@@ -2542,10 +2542,9 @@ const productos = [
    "1": 5.95,
    "3": 4.85,
    "6": 4.55,
-   "6": 4.25,
      },
   imagen: "Img/Imagen424.jpeg",
-  stock: 16
+  stock: 10
 },
    {
   nombre: "5472SET DE 12 LÁPICES CHEQUEO",
@@ -2555,10 +2554,9 @@ const productos = [
    "1": 5.95,
    "3": 4.85,
    "6": 4.55,
-   "6": 4.25,
      },
   imagen: "Img/Imagen425.jpeg",
-  stock: 12
+  stock: 6
 },
   {
   nombre: "5473SET DE 12 LÁPICES BICOLOR AZUL + ROJO",
@@ -2583,7 +2581,7 @@ const productos = [
    "12": 4.25,
      },
   imagen: "Img/Imagen427.jpeg",
-  stock: 18
+  stock: 15
 },
    {
   nombre: "5475GOMA EN BARRA - 40 GRAMOS",
@@ -2595,7 +2593,7 @@ const productos = [
    "6": 1.95,
      },
   imagen: "Img/Imagen428.jpeg",
-  stock: 54
+  stock: 42
 },
      {
   nombre: "5476JUEGO DE MESA TETRIS 3D",
@@ -2630,6 +2628,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
