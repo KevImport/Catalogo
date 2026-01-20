@@ -2467,16 +2467,6 @@ const productos = [
   stock: 1
 },
       {
-  nombre: "5464RESALTADOR ESCARCHADO BESKO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Set de 8 unidades. Colores pastel con brillo. Ideal para apuntes y decoración.",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "Img/Imagen417.png",
-  stock: 5
-},
-      {
   nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
   categoria: "Escolar / Papelería",
   descripcion: "Estas notas son ideales para hacer anotaciones en libros de texto, ya que puedes ver a través de ellas para resaltar o llamar a un contenido específico. Utilízalas en manualidades para calcar imágenes o patrones de otros artículos. Cada paquete tiene 50 hojitas.",
@@ -2640,6 +2630,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
