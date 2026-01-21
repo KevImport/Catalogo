@@ -2448,7 +2448,7 @@ const productos = [
   categoria: "Escolar / Papelería",
   descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
   precios: {
-   "1": 36.90,
+   "1": 38.90,
      },
   imagen: "Img/Imagen416.jpeg",
   stock: 1
@@ -2613,6 +2613,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
