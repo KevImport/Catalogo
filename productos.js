@@ -1420,19 +1420,6 @@ const productos = [
   stock: 9
 },
    {
-  nombre: "5267MOUSE & RAT",
-  categoria: "Hogar / Cocina",
-  descripcion: "¿Cansado de las ratas y pericotes? Aquí llegó a la solución en el nuevo PEGA RATA ,su fácil y simple manejo te brinda excelentes resultados, dile adiós a los roedores.",
-  precios: {
-   "1": 3.95,
-   "3": 2.15,
-   "6": 1.85,
-   "12": 1.55,
- },
-  imagen: "Img/Imagen275.jpeg",
-  stock: 16
-},
-   {
   nombre: "5269MINI CEPILLO CON ESPEJO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Puedes llevarlo a todos lados para verte perfecta y linda siempre. Peine retráctil e incluye espejo.",
@@ -1702,7 +1689,7 @@ const productos = [
    "12": 0.95,
   },
   imagen: "Img/Imagen318.jpeg",
-  stock: 27
+  stock: 12
 },
       {
   nombre: "5324ARBOL DE 60CM CON ACCESORIOS",
@@ -2626,6 +2613,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
