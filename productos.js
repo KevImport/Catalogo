@@ -2534,16 +2534,6 @@ const productos = [
   imagen: "Img/Imagen425.jpeg",
   stock: 3
 },
-  {
-  nombre: "5473SET DE 12 LÁPICES BICOLOR AZUL + ROJO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Lápices bicolor con punta azul y roja, ideales para el colegio y la oficina. Contiene 12 unidades en forma triangular para mejor agarre. Escritura suave, clara y precisa en ambos colores.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen426.jpeg",
-  stock: 1
-},
     {
   nombre: "5474SET DE 8 LÁPICES METÁLICOS",
   categoria: "Escolar / Papelería",
@@ -2873,6 +2863,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
