@@ -2722,17 +2722,6 @@ const productos = [
   imagen: "Img/Imagen443.jpeg",
   stock: 19
 },
-    {
-  nombre: "5496TOMATODO KPOP",
-  categoria: "Escolar / Papelería",
-  descripcion: "Capacidad de 700 ml, ideal para mantenerte hidratado todo el día con estilo. Perfecto para el colegio, gimnasio o uso diario, práctico y con diseño moderno.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen443.jpeg",
-  stock: 19
-},
       {
   nombre: "5497CINTA MASKING TAPE DE 1\"",
   categoria: "Escolar / Papelería",
@@ -2862,6 +2851,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
