@@ -2006,7 +2006,7 @@ const productos = [
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
-  categoria: "Navidad / Regalos",
+  categoria: "Escolar / Papelería",
   descripcion: "Texturas suaves y elásticas perfectas para moldear, aplastar y crear. Incluye 24 unidades en colores variados para horas de diversión. Ideal para niños, manualidades, regalos y actividades sensoriales.",
   precios: {
    "1": 4.95,
@@ -2179,7 +2179,7 @@ const productos = [
 },
               {
   nombre: "5415SET x 12 PLUMONES MÁGICOS - CAMBIAN DE COLOR",
-  categoria: "Navidad / Regalos",
+  categoria: "Escolar / Papelería",
   descripcion: "Contiene 12 plumones. ¿Ya conocías los PLUMONES MÁGICOS? Sí, estos plumones te van a sorprender ya que cambian de color. Ponte muy creativo e imagina todo lo que podrás hacer con ellos decorar, pintar, letras, títulos, manualidades y mucho más.",
   precios: {
    "1": 3.95,
@@ -2711,6 +2711,166 @@ const productos = [
   imagen: "Img/Imagen440.jpeg",
   stock: 8
 },
+   {
+  nombre: "5494TOMATODO LICENCIA 860 ML",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideal para el colegio, paseos o deportes. Diseños divertidos y coloridos que encantan a los peques. Resistente, práctico y fácil de llevar todos los días. Capacidad: 860 ml. Modelo: al azar.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen441.jpeg",
+  stock: 10
+},
+   {
+  nombre: "5495SET DE 10 PLUMONES INDELEBLES DELGADO - DOBLE PUNTA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Plumones de doble punta fina, ideales para escribir, marcar y detallar con precisión. Perfectos para el colegio, oficina o manualidades creativas.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen442.jpeg",
+  stock: 5
+},
+  {
+  nombre: "5496TOMATODO KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Capacidad de 700 ml, ideal para mantenerte hidratado todo el día con estilo. Perfecto para el colegio, gimnasio o uso diario, práctico y con diseño moderno.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen443.jpeg",
+  stock: 19
+},
+    {
+  nombre: "5496TOMATODO KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Capacidad de 700 ml, ideal para mantenerte hidratado todo el día con estilo. Perfecto para el colegio, gimnasio o uso diario, práctico y con diseño moderno.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen443.jpeg",
+  stock: 19
+},
+      {
+  nombre: "5497CINTA MASKING TAPE DE 1 in",
+  categoria: "Escolar / Papelería",
+  descripcion: "Excelente para el taller, oficina y hogar. Fácil de cortar. Dura como ninguno",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+     },
+  imagen: "Img/Imagen444.jpeg",
+  stock: 39
+},
+  {
+  nombre: "5498CINTA MASKING TAPE DE 2 in",
+  categoria: "Escolar / Papelería",
+  descripcion: "Excelente para el taller, oficina y hogar. Buena adhesión en diferentes superficies. Medida: 2in x 18 yardas",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen445.jpeg",
+  stock: 33
+},
+  {
+  nombre: "5499CINTA DE EMBALAJE DE 60 YARDAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Es la solución ideal para sellado seguro de cajas, paquetes y envíos. Perfecta para uso industrial, comercial o doméstico.",
+  precios: {
+   "1": 2.95,
+   "6": 1.85,
+     },
+  imagen: "Img/Imagen446.jpeg",
+  stock: 8
+},
+    {
+  nombre: "5500CINTA DE EMBALAJE 200 YARDAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Alta resistencia y excelente adherencia para sellado seguro de cajas y paquetes. Ideal para uso escolar, oficina o negocio, práctica y funcional para el día a día.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+   "12": 3.35,
+     },
+  imagen: "Img/Imagen447.jpeg",
+  stock: 18
+},
+      {
+  nombre: "5501JUEGO DE ESCUADRAS - 5 PCS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye regla, transportador, escuadras y plantilla circular. Colores llamativos y material resistente. Ideal para escuela, dibujo técnico y uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+     },
+  imagen: "Img/Imagen448.jpeg",
+  stock: 8
+},
+       {
+  nombre: "5502PAQUETE DE 10 MICAS A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Protege tus documentos del polvo, humedad y dobleces, manteniéndolos siempre como nuevos. Ideal para oficina, colegio o presentaciones, práctica y lista para usar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+     },
+  imagen: "Img/Imagen449.jpeg",
+  stock: 6
+},
+         {
+  nombre: "5503MOCHILA K-POP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Amplio espacio para cuadernos y útiles. Ideal para el cole, paseos o uso diario.",
+  precios: {
+   "1": 38.90,
+     },
+  imagen: "Img/Imagen450.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5504JUEGO DE LABERINTO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Medida aprox.: 11 × 9 × 9 cm. Desafía la lógica y la coordinación. Ideal para niños y entretenimiento educativo.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+     },
+  imagen: "Img/Imagen451.png",
+  stock: 28
+},
+             {
+  nombre: "5505GEL DE ÁRNICA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Dolor rodilla, codos, espalda, cuello y cintura. Antiflamatorio. Artritis. Golpes y quemaduras. Picaduras. Dolor de huesos. Dolor ciatica-lumbago. Modo de uso: 2 a 3 veces al día con un masaje a la zona afectada.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen452.jpeg",
+  stock: 33
+},
+ {
+  nombre: "5506BOTIQUÍN VIAJERO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Compacto y práctico, ideal para viajes, auto u hogar (24 × 20 × 9.5 cm). Espacio suficiente para medicamentos y artículos de primeros auxilios. Color al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen453.png",
+  stock: 15
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2723,6 +2883,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
