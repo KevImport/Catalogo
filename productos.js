@@ -2734,7 +2734,7 @@ const productos = [
   stock: 19
 },
       {
-  nombre: "5497CINTA MASKING TAPE DE 1 in",
+  nombre: "5497CINTA MASKING TAPE DE 1\"",
   categoria: "Escolar / Papelería",
   descripcion: "Excelente para el taller, oficina y hogar. Fácil de cortar. Dura como ninguno",
   precios: {
@@ -2745,9 +2745,9 @@ const productos = [
   stock: 39
 },
   {
-  nombre: "5498CINTA MASKING TAPE DE 2 in",
+  nombre: "5498CINTA MASKING TAPE DE 2\"",
   categoria: "Escolar / Papelería",
-  descripcion: "Excelente para el taller, oficina y hogar. Buena adhesión en diferentes superficies. Medida: 2 in x 18 yardas",
+  descripcion: "Excelente para el taller, oficina y hogar. Buena adhesión en diferentes superficies. Medida: 2\" x 18 yardas",
   precios: {
    "1": 3.95,
    "3": 2.95,
@@ -2862,6 +2862,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
