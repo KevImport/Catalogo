@@ -2476,7 +2476,7 @@ const productos = [
    "6": 2.95,
      },
   imagen: "Img/Imagen419.jpeg",
-  stock: 17
+  stock: 13
 },
   {
   nombre: "5467PACK 10 FORRO FÁCIL",
@@ -2487,7 +2487,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen420.jpeg",
-  stock: 40
+  stock: 25
 },
     {
   nombre: "5468SET DE 12 COLORES PASTEL",
@@ -2613,6 +2613,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
