@@ -25,7 +25,7 @@ const productos = [
 },
 {
   nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
   precios: {
     "1": 6.95,
@@ -69,7 +69,7 @@ const productos = [
 },
 {
   nombre: "4966TAZA GAMER",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
   precios: {
     "1": 10.90,
@@ -197,7 +197,7 @@ const productos = [
 },
 {
   nombre: "4704MINI TELESCOPIO",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Explora el mundo desde cerca. Mini telescopio compacto y portátil, ideal para niños curiosos o actividades al aire libre.",
   precios: {
     "1": 24.90,
@@ -391,7 +391,7 @@ const productos = [
 },
 {
   nombre: "3054AVE DE EQUILIBRIO",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Curiosa figura de ave que se equilibra mágicamente en una superficie. Sorprende a grandes y chicos.",
   precios: {
     "1": 1.00,
@@ -401,7 +401,7 @@ const productos = [
 },
 {
   nombre: "3053JUGUETE BALANCE",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Divertido juguete educativo que ayuda a desarrollar la coordinación y el equilibrio en los más pequeños.",
   precios: {
     "1": 10.90,
@@ -483,7 +483,7 @@ const productos = [
 },
 {
   nombre: "2795EXCAVADORA A CONTROL REMOTO",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Excavadora realista con control remoto. Diversión garantizada para los fanáticos de la construcción.",
   precios: {
     "1": 17.90,
@@ -1401,7 +1401,7 @@ const productos = [
 },
  {
   nombre: "5257JUEGO DE EQUILIBRIO FROG BALANCE",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Desafía tu destreza colocando ranitas sin que caigan. Un juego dinámico y educativo para todas las edades. Ideal para compartir momentos de diversión en familia.",
   precios: {
    "1": 6.95,
@@ -1703,7 +1703,7 @@ const productos = [
 },
         {
   nombre: "5325HADA VOLADORA",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Gira, vuela y brilla con magia. Fácil de usar, solo enciéndela y déjala volar. Diversión mágica para niñas y niños.",
   precios: {
    "1": 6.95,
@@ -1726,7 +1726,7 @@ const productos = [
 },
     {
   nombre: "5327ARMABLE DIDÁCTICO ITALIAN BRAINROT",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Divertidos sets para armar con entre 56 y 73 piezas, según el modelo. Estimula la creatividad, la concentración y la coordinación. Ideal para niños desde 6 años.",
   precios: {
    "1": 5.95,
@@ -1771,7 +1771,7 @@ const productos = [
 },
   {
   nombre: "5331DOMINÓ CLÁSICO",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Fichas negras con puntos blancos, presentadas en caja resistente y elegante. Mide 14.7 × 5 × 3 cm — ¡perfecto para jugar en casa o llevar a cualquier lugar!",
   precios: {
    "1": 3.95,
@@ -1887,7 +1887,7 @@ const productos = [
 },
     {
   nombre: "5348PELUCHE TRALALERO MUSICAL",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Con luz y musical. Tamaño entre 25 y 30 cm.",
   precios: {
    "1": 8.95,
@@ -1898,7 +1898,7 @@ const productos = [
 },
     {
   nombre: "5356BLOQUES ARMABLES 3D - TRALALERO",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Set de bloques 3D para armar divertidas figuras de animales y personajes. Piezas multicolores que estimulan la creatividad y la concentración. Son 12 modelos coleccionables, incluye instrucciones para el armado.",
   precios: {
    "1": 3.95,
@@ -1932,7 +1932,7 @@ const productos = [
 },
   {
   nombre: "5366PIANITO MUSICAL",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Diseño colorido y divertido.  Medida: 22 x 10 cm. Ideal para los peques que aman la música y Disney.",
   precios: {
    "1": 8.95,
@@ -1953,7 +1953,7 @@ const productos = [
 },
         {
   nombre: "5370GUITARRITA MUSICAL",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Divertida guitarra con personajes Disney y sonidos encantadores. Ideal para estimular la creatividad musical de los más pequeños. Perfecta para regalo, ligera y fácil de usar.",
   precios: {
    "1": 9.95,
@@ -2029,7 +2029,7 @@ const productos = [
 },
    {
   nombre: "5381CELULAR EDUCATIVO",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Incluye sonidos, música y actividades para aprender jugando. Estimula la memoria, colores, números y palabras. Recargable. Color al azar.",
   precios: {
    "1": 8.95,
@@ -2125,7 +2125,7 @@ const productos = [
 },
     {
   nombre: "5394STAR BELLY LAVABLE DE FELPA",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Suave y adorable peluche con luz proyectora, hecho de felpa súper cómoda. Es lavable, ideal para mantenerlo siempre limpio y listo para acompañar a los peques. Perfecto para dormir con tranquilidad y llenar la habitación de magia.",
   precios: {
    "1": 14.90,
@@ -2169,7 +2169,7 @@ const productos = [
 },
             {
   nombre: "5411PRINCESA MUSICAL GIRATORIA",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Encantadora muñeca sirena que baila, gira y brilla con luces de colores. Incluye música divertida y movimientos que capturan la atención de los peques. Ideal para niñas desde 3 años y perfecto como regalo mágico.",
   precios: {
    "1": 12.95,
@@ -2211,7 +2211,7 @@ const productos = [
 },
     {
   nombre: "5420ORUGUITA DE PELUCHE",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Suave, colorida y perfecta para abrazar, ideal para niños y bebés. Diseño tierno con múltiples colores que encantan a primera vista. Medida: 39 x 12.5 x 10 cm",
   precios: {
    "1": 8.95,
@@ -2242,23 +2242,13 @@ const productos = [
 },
   {
   nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
   precios: {
    "1": 25.95,
      },
   imagen: "Img/Imagen396.jpeg",
   stock: 5
-},
-    {
-  nombre: "5429LIBRO DE ESTUDIO INTERACTIVO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
-  precios: {
-   "1": 22.95,
-     },
-  imagen: "Img/Imagen397.png",
-  stock: 2
 },
     {
   nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
@@ -2581,7 +2571,7 @@ const productos = [
 },
      {
   nombre: "5476JUEGO DE MESA TETRIS 3D",
-  categoria: "Navidad / Regalos",
+  categoria: "Juguetes",
   descripcion: "Juego competitivo para 2 jugadores, con timbre incluido. Bloques de madera de colores + tarjetas de desafío. Ideal desde los 3 años, desarrolla lógica y coordinación. Diversión educativa que reta la mente y la velocidad.",
   precios: {
    "1": 16.95,
@@ -2755,7 +2745,7 @@ const productos = [
   stock: 19
 },
       {
-  nombre: "5497CINTA MASKING TAPE DE 1 in",
+  nombre: "5497CINTA MASKING TAPE DE 1\"",
   categoria: "Escolar / Papelería",
   descripcion: "Excelente para el taller, oficina y hogar. Fácil de cortar. Dura como ninguno",
   precios: {
@@ -2766,9 +2756,9 @@ const productos = [
   stock: 39
 },
   {
-  nombre: "5498CINTA MASKING TAPE DE 2 in",
+  nombre: "5498CINTA MASKING TAPE DE 2\"",
   categoria: "Escolar / Papelería",
-  descripcion: "Excelente para el taller, oficina y hogar. Buena adhesión en diferentes superficies. Medida: 2in x 18 yardas",
+  descripcion: "Excelente para el taller, oficina y hogar. Buena adhesión en diferentes superficies. Medida: 2\" x 18 yardas",
   precios: {
    "1": 3.95,
    "3": 2.95,
