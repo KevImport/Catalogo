@@ -1,4 +1,4 @@
-
+P
 const productos = [
 {
   nombre: "5175CONDIMENTERO GIRATORIO",
@@ -2319,7 +2319,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen406.png",
-  stock: 32
+  stock: 26
 },
           {
   nombre: "5446SET SORBETES REUTILIZABLES + CEPILLO DE LIMPIEZA",
@@ -2863,6 +2863,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
