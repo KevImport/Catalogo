@@ -1,4 +1,3 @@
-P
 const productos = [
 {
   nombre: "5175CONDIMENTERO GIRATORIO",
@@ -2863,6 +2862,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
