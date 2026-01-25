@@ -2531,7 +2531,7 @@ const productos = [
    "6": 4.55,
      },
   imagen: "Img/Imagen424.jpeg",
-  stock: 10
+  stock: 7
 },
    {
   nombre: "5472SET DE 12 LÁPICES CHEQUEO",
@@ -2540,10 +2540,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.85,
-   "6": 4.55,
      },
   imagen: "Img/Imagen425.jpeg",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "5473SET DE 12 LÁPICES BICOLOR AZUL + ROJO",
@@ -2601,6 +2600,117 @@ const productos = [
   imagen: "Img/Imagen430.jpeg",
   stock: 2
 },
+         {
+  nombre: "5479SET DE 10 CUBIERTAS DE ALUMINIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 10 piezas. Resistentes y reutilizables. Ideales para conservar y proteger alimentos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+     },
+  imagen: "Img/Imagen431.jpeg",
+  stock: 17
+},
+           {
+  nombre: "5480PAQUETE DE 3000 SERVILLETAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida aprox.: 17.5 x 12 cm - 100% pulpa de madera. Puedes usarlo como: Pañuelo facial, papel de cocina, servilleta, papel de tocador, etc.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen432.jpeg",
+  stock: 4
+},
+             {
+  nombre: "5482SET DE 15 PINCELES ARTÍSTICOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye 15 pinceles de distintos tamaños y formas. Ideal para acrílico, acuarela, óleo y manualidades. Cerdas resistentes y mangos cómodos de madera. Perfecto para estudiantes, artistas y principiantes.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "Img/Imagen433.jpeg",
+  stock: 14
+},
+               {
+  nombre: "5484MINI BILLETERA CON POMPÓN",
+  categoria: "Accesorios",
+  descripcion: "Diseño adorable diseño orejitas, compacta y súper elegante. Incluye pompón suave que le da un toque único y moderno. Espacios para billetes, tarjetas y monedas, todo bien organizado. Ideal para regalo, práctica para llevar en cualquier bolso.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "Img/Imagen434.jpeg",
+  stock: 23
+},
+  {
+  nombre: "5485ABACO VERTICAL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Compresión del sistema numérico decimal. Favorece el aprendizaje en las operaciones aritméticas básicas. Incentiva el cálculo mental. Material: madera",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen435.jpeg",
+  stock: 6
+},
+    {
+  nombre: "5487ACUARELA DE 12 COLORES + PINCEL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye 12 colores vibrantes y pincel. Medida aprox.: 20 x 8.5 cm. Ideal para escolares, estudiantes y artistas Compacta y fácil de transportar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen436.jpeg",
+  stock: 8
+},
+      {
+  nombre: "5488SET DE 20 PAPELES FOTOGRÁFICOS A4 SIN ADHESIVO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Tamaño A4 ideal para imprimir fotos, trabajos y recuerdos especiales. Acabado de alta calidad para colores vivos y detalles nítidos. Pack de 20 hojas, perfecto para casa, estudio y oficina.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen437.jpeg",
+  stock: 3
+},
+        {
+  nombre: "5490BLOCK PAPEL LUSTRE A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores vivos y brillantes. Tamaño A4 ideal para trabajos escolares. Incluye 14 hojas surtidas. Perfecto para manualidades y decoración.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "Img/Imagen438.jpeg",
+  stock: 10
+},
+          {
+  nombre: "5492DIDÁCTICO DE MADERA GEOMÉTRICO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Juego educativo para aprender formas, colores y números. Ideal para estimulación temprana y aprendizaje divertido. Elaborado en madera resistente y duradera. Incluye múltiples piezas para armar y encajar. Medida: 18 x 18 cm, modelo al azar.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen439.jpeg",
+  stock: 8
+},
+ {
+  nombre: "5493SHAMPOO DE SÁBILA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Estimula el CRECIMIENTO del cabello. Aporta BRILLO y SUAVIDAD. Reduce la caída. Fortalece la raíz. Hidrata y nutre el cuero cabelludo.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen440.jpeg",
+  stock: 8
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2613,6 +2723,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
