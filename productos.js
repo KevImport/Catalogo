@@ -1902,10 +1902,10 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
+   "5": 2.65,
   },
   imagen: "Img/Imagen343.jpg",
-  stock: 11
+  stock: 5
 },
       {
   nombre: "5360ESTUCHE DE 20 COLET KAWAII",
@@ -2851,6 +2851,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
