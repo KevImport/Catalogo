@@ -917,10 +917,9 @@ const productos = [
   precios: {
     "1": 3.95,
     "3": 2.95,
-    "6": 2.65,
   },
   imagen: "Img/Imagen178.jpeg",
-  stock: 9
+  stock: 3
 },
  {
   nombre: "5069ESTUCHE DE SOMBRAS PARA OJOS",
@@ -1396,7 +1395,7 @@ const productos = [
    "6": 3.55,
  },
   imagen: "Img/Imagen271.png",
-  stock: 11
+  stock: 7
 },
  {
   nombre: "5257JUEGO DE EQUILIBRIO FROG BALANCE",
@@ -1470,10 +1469,10 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.25,
-   "6": 2.95,
+   "5": 2.95,
   },
   imagen: "Img/Imagen281.png",
-  stock: 8
+  stock: 5
 },
  {
   nombre: "5275ORGANIZADOR COLGANTE",
@@ -1583,10 +1582,9 @@ const productos = [
   descripcion: "Diseño magnético, fácil de usar.",
   precios: {
    "1": 4.95,
-   "3": 3.85,
   },
   imagen: "Img/Imagen301.jpeg",
-  stock: 4
+  stock: 1
 },
     {
   nombre: "5305QUITA OXIDO",
@@ -1766,7 +1764,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen325.jpeg",
-  stock: 19
+  stock: 13
 },
   {
   nombre: "5331DOMINÓ CLÁSICO",
@@ -1848,7 +1846,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen333.png",
-  stock: 32
+  stock: 28
 },
             {
   nombre: "5341PERCHERO DE PUERTA",
@@ -1927,7 +1925,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen345.png",
-  stock: 7
+  stock: 4
 },
   {
   nombre: "5366PIANITO MUSICAL",
@@ -2066,7 +2064,7 @@ const productos = [
    "1": 13.95,
      },
   imagen: "Img/Imagen367.jpg",
-  stock: 4
+  stock: 3
 },
       {
   nombre: "5387SET DE MINI DRAGONES",
@@ -2161,10 +2159,9 @@ const productos = [
   descripcion: "Medida: 33.5 x 6.5 cm. Material: Plástico. Ideal para manualidades, scrapbooking y trabajos escolares, con medida precisa y deslizador suave para cortes limpios.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen382.png",
-  stock: 6
+  stock: 2
 },
             {
   nombre: "5411PRINCESA MUSICAL GIRATORIA",
@@ -2432,16 +2429,6 @@ const productos = [
   imagen: "Img/Imagen415.jpeg",
   stock: 3
 },
-    {
-  nombre: "5462SET DE 120 PLUMONES DUAL BRUSH + ESTUCHE",
-  categoria: "Escolar / Papelería",
-  descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
-  precios: {
-   "1": 38.90,
-     },
-  imagen: "Img/Imagen416.jpeg",
-  stock: 1
-},
       {
   nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
   categoria: "Escolar / Papelería",
@@ -2556,7 +2543,7 @@ const productos = [
    "6": 1.95,
      },
   imagen: "Img/Imagen428.jpeg",
-  stock: 42
+  stock: 39
 },
      {
   nombre: "5476JUEGO DE MESA TETRIS 3D",
@@ -2851,6 +2838,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
