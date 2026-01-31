@@ -1029,16 +1029,6 @@ const productos = [
   imagen: "Img/Imagen205.jpeg",
   stock: 11
 },
-  {
-  nombre: "5119LONCHERA TERMICA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantiene tus comidas frescas y a la temperatura ideal por más tiempo. Compacta, ligera y fácil de llevar al trabajo, colegio o picnic. Interior aislante y cremallera segura para conservar mejor tus alimentos.",
-  precios: {
-    "1": 5.95,
- },
-  imagen: "Img/Imagen206.jpeg",
-  stock: 1
-},
  {
   nombre: "5120LLAVERO LÁSER MULTIFUNCIONAL",
   categoria: "Electrónica / Gadgets",
@@ -2354,14 +2344,14 @@ const productos = [
   stock: 21
 },
     {
-  nombre: "5434SET DE 168 PLUMONES DUAL BRUSH",
+  nombre: "5510SET DE 168 PLUMONES DUAL BRUSH",
   categoria: "Escolar / Papelería",
-  descripcion: "¡Potencia tu creatividad con este set profesional de 168 marcadores de doble punta, que incluye un practico estuche organizador portátil! Ideales para dibujo y caligrafía, ofrecen una punta pincel flexible para trazos artísticos y una punta fina para detalles precisos en cada proyecto.",
+  descripcion: "SET DE ROTULADORES DOBLE PUNTA – 168 COLORES - ¡Potencia tu creatividad con este set profesional de 168 marcadores de doble punta, que incluye un practico estuche organizador portátil! Ideales para dibujo y caligrafía, ofrecen una punta pincel flexible para trazos artísticos y una punta fina para detalles precisos en cada proyecto.",
   precios: {
    "1": 54.90,
      },
   imagen: "Img/Imagen399.png",
-  stock: 10
+  stock: 9
 }, 
     {
   nombre: "5452CARGADOR REDD DE 75W + CABLE TIPO C",
@@ -2405,18 +2395,6 @@ const productos = [
      },
   imagen: "Img/Imagen413.jpeg",
   stock: 18
-},
-            {
-  nombre: "5459LONCHERA TÉRMICA COLOR ENTERO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Material: tela Oxford. Interior de aluminio de aislamiento térmico grueso puede mantenerse caliente, frío, fresco, impermeable y fácil de limpiar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
-     },
-  imagen: "Img/Imagen414.jpeg",
-  stock: 43
 },
   {
   nombre: "5460TUBO DE 12 LÁPICES LICENCIADO",
@@ -2586,7 +2564,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen432.jpeg",
-  stock: 4
+  stock: 2
 },
              {
   nombre: "5482SET DE 15 PINCELES ARTÍSTICOS",
@@ -2718,7 +2696,7 @@ const productos = [
    "3": 1.55,
      },
   imagen: "Img/Imagen444.jpeg",
-  stock: 39
+  stock: 37
 },
   {
   nombre: "5498CINTA MASKING TAPE DE 2\"",
@@ -2788,7 +2766,7 @@ const productos = [
    "1": 38.90,
      },
   imagen: "Img/Imagen450.jpeg",
-  stock: 4
+  stock: 2
 },
   {
   nombre: "5504JUEGO DE LABERINTO",
@@ -2800,7 +2778,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen451.png",
-  stock: 28
+  stock: 25
 },
              {
   nombre: "5505GEL DE ÁRNICA",
@@ -2813,7 +2791,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen452.jpeg",
-  stock: 33
+  stock: 30
 },
  {
   nombre: "5506BOTIQUÍN VIAJERO",
@@ -2824,7 +2802,64 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen453.png",
-  stock: 15
+  stock: 11
+},
+ {
+  nombre: "5508GEL LIMPIADOR DE INODORO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sello de gel de larga duración, mantiene el inodoro limpio y perfumado en cada descarga. Incluye dispensador + gel, limpieza. desodorizante práctico y sin contacto.",
+  precios: {
+   "1": 9.95,
+   "3": 8.95,
+     },
+  imagen: "Img/Imagen454.jpeg",
+  stock: 3
+},
+   {
+  nombre: "5511SET DE 24 PLUMONES PUNTA FINA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores surtidos de alta intensidad. Ideales para colorear, escribir y detallar. Apto para uso escolar y artístico.",
+  precios: {
+   "1": 6.95,
+   "3": 5.65,
+     },
+  imagen: "Img/Imagen455.jpeg",
+  stock: 4
+},
+     {
+  nombre: "5512PAPEL TISSUE 1200 HOJAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Papel Tissue para pared. Gracias a su excelente capacidad de absorción, resistencia al rasgado y suavidad, el papel tissue se utiliza como pañuelo facial, papel de cocina, servilletas, pañuelos y papel higiénico.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.65,
+     },
+  imagen: "Img/Imagen456.jpeg",
+  stock: 9
+},
+       {
+  nombre: "5513ROMPECABEZAS DIDÁCTICO CUERPO HUMANO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Aprende las partes del cuerpo en español e inglés de forma divertida. Ideal para niños, desarrolla memoria, lógica y coordinación.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+     },
+  imagen: "Img/Imagen457.jpeg",
+  stock: 11
+},
+         {
+  nombre: "5515MINI DISPENSADOR DE PERFUME",
+  categoria: "Hogar / Cocina",
+  descripcion: "¿Alguna vez quisiste llevar tu perfume favorito en la maleta de viaje,  trabajo o a estudiar? Mini atomizador en spray te ayudará a recargar con tu perfume favorito y llevarlo a donde quieras.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "Img/Imagen458.png",
+  stock: 8
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2838,6 +2873,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
