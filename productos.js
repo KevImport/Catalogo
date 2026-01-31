@@ -1838,18 +1838,6 @@ const productos = [
   imagen: "Img/Imagen333.png",
   stock: 28
 },
-            {
-  nombre: "5341PERCHERO DE PUERTA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctico y resistente para colgar ropa, toallas o accesorios. Fácil de instalar, sin necesidad de taladrar. Ideal para mantener espacios ordenados y funcionales.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "5": 3.65,
-  },
-  imagen: "Img/Imagen334.jpeg",
-  stock: 5
-},
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
   categoria: "Hogar / Cocina",
@@ -2873,6 +2861,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
