@@ -239,7 +239,7 @@ const productos = [
     "6": 2.55,
   },
   imagen: "Img/Imagen62.jpg",
-  stock: 22
+  stock: 19
 },
 {
   nombre: "4445JABONERA DE LUJO",
@@ -1195,16 +1195,6 @@ const productos = [
   stock: 6
 },
  {
-  nombre: "5179ALFOMBRA ABSORBENTE",
-  categoriya: "Hogar / Cocina",
-  descripcion: "Alfombra absorbente antideslizante. Seca rápido, protege el piso y luce increíble en tu hogar. Medida aprox.: 38 x 58 cm",
-  precios: {
-   "1": 5.95,
- },
-  imagen: "Img/Imagen236.jpeg",
-  stock: 1
-},
- {
   nombre: "5182BRAZALETE SERPENTEADO",
   categoria: "Accesorios",
   descripcion: "Pulsera estilo serpiente. Elegante, moderna y perfecta para realzar tu look. Ideal para cualquier ocasión especial.",
@@ -1836,7 +1826,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen333.png",
-  stock: 28
+  stock: 25
 },
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
@@ -2129,7 +2119,7 @@ const productos = [
    "12": 3.05,
      },
   imagen: "Img/Imagen380.jpeg",
-  stock: 13
+  stock: 10
 },
            {
   nombre: "5410CORTADOR DE PAPEL PORTÁTIL",
@@ -2544,16 +2534,6 @@ const productos = [
   imagen: "Img/Imagen431.jpeg",
   stock: 17
 },
-           {
-  nombre: "5480PAQUETE DE 3000 SERVILLETAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Medida aprox.: 17.5 x 12 cm - 100% pulpa de madera. Puedes usarlo como: Pañuelo facial, papel de cocina, servilleta, papel de tocador, etc.",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "Img/Imagen432.jpeg",
-  stock: 2
-},
              {
   nombre: "5482SET DE 15 PINCELES ARTÍSTICOS",
   categoria: "Escolar / Papelería",
@@ -2861,6 +2841,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
