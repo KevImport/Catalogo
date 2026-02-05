@@ -1732,7 +1732,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen325.jpeg",
-  stock: 13
+  stock: 7
 },
   {
   nombre: "5331DOMINÓ CLÁSICO",
@@ -2767,11 +2767,9 @@ const productos = [
   descripcion: "Papel Tissue para pared. Gracias a su excelente capacidad de absorción, resistencia al rasgado y suavidad, el papel tissue se utiliza como pañuelo facial, papel de cocina, servilletas, pañuelos y papel higiénico.",
   precios: {
    "1": 6.95,
-   "3": 5.95,
-   "6": 5.65,
      },
   imagen: "Img/Imagen456.jpeg",
-  stock: 9
+  stock: 2
 },
        {
   nombre: "5513ROMPECABEZAS DIDÁCTICO CUERPO HUMANO",
@@ -2808,6 +2806,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
