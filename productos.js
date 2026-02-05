@@ -709,7 +709,7 @@ const productos = [
     "3": 7.95,
   },
   imagen: "Img/Imagen139.jpg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "4760SUERO DE PESTAÑAS",
@@ -2818,6 +2818,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
