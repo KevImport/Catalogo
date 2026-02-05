@@ -1354,18 +1354,6 @@ const productos = [
   stock: 3
 },
  {
-  nombre: "5252ROLLO DE STICKERS PARA CONDIMENTOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Transforma tu cocina, despensa u oficina con estas prácticas y elegantes. Ideales para organizar frascos de especias, contenedores de alimentos, cajas de almacenamiento y más. Incluye plumón blanco, contiene 120 stickers aproximadamente.",
-  precios: {
-   "1": 4.95,
-   "3": 3.65,
-   "3": 3.35,
- },
-  imagen: "Img/Imagen267.jpeg",
-  stock: 3
-},
- {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
   categoria: "Decoración / Fiesta",
   descripcion: "Dale un toque mágico y personalizado a tus celebraciones. Perfectas para pasteles, cupcakes o postres festivos. Un detalle que ilumina momentos inolvidables.",
@@ -1497,7 +1485,7 @@ const productos = [
    "1": 9.90,
   },
   imagen: "Img/Imagen286.jpeg",
-  stock: 2
+  stock: 1
 },
    {
   nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
@@ -1826,7 +1814,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen333.png",
-  stock: 25
+  stock: 15
 },
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
@@ -2374,17 +2362,6 @@ const productos = [
   imagen: "Img/Imagen413.jpeg",
   stock: 18
 },
-  {
-  nombre: "5460TUBO DE 12 LÁPICES LICENCIADO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Contiene 12 lápices grafito. Incluye tajador en la tapa. Producto licenciado (diseños originales). Ideal para colegio, regalos, etc. Diseño al azar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen415.jpeg",
-  stock: 3
-},
       {
   nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
   categoria: "Escolar / Papelería",
@@ -2841,6 +2818,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
