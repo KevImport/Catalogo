@@ -2398,16 +2398,6 @@ const productos = [
   imagen: "Img/Imagen420.jpeg",
   stock: 25
 },
-    {
-  nombre: "5468SET DE 12 COLORES PASTEL",
-  categoria: "Escolar / Papelería",
-  descripcion: "Set de 12 colores. Colores con tonos suaves, más fáciles de colorear y mezclar. Son perfectos para dibujar, colorear, bocetos, álbumes de recortes, manualidades, garabatos, rellenar libros para colorear para adultos o cualquier otra cosa.",
-  precios: {
-   "1": 4.95,
-     },
-  imagen: "Img/Imagen421.jpeg",
-  stock: 3
-},
      {
   nombre: "5469SET DE 12 COLORES DUAL JUMBO",
   categoria: "Escolar / Papelería",
@@ -2818,6 +2808,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
