@@ -2838,6 +2838,100 @@ const productos = [
   imagen: "Img/Imagen464.jpeg",
   stock: 3
 },
+   {
+  nombre: "5532JABON LIQUIDO ANTIBACTERIAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Elimina bacterias y gérmenes, limpieza profunda y efectiva. Suave con la piel, ideal para manos y cuerpo. Perfecto para uso diario de toda la familia.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Img/Imagen465.jpeg",
+  stock: 3
+},
+   {
+  nombre: "5533PERCHERO DECORATIVO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza tus llaves con estilo y mantén todo en orden. Ideal para entrada, sala u oficina, fácil de colgar. Medida: 30 x 11 cm",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+     },
+  imagen: "Img/Imagen466.jpeg",
+  stock: 11
+},
+     {
+  nombre: "5535ORGANIZADOR CON CAJONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Guarda cosméticos, joyas y accesorios pequeños sin polvo ni desorden. Diseño con cajones + compartimento superior de gran capacidad.",
+  precios: {
+   "1": 10.95,
+     },
+  imagen: "Img/Imagen467.jpeg",
+  stock: 1
+},
+       {
+  nombre: "5538LAPICERO MULTITINTAS GUERRERAS KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Varios colores de tintas en un solo lapicero. Diseño divertido y llamativo. Ideal para el cole o la cartuchera.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+   "12": 1.75,
+   "24": 1.55,
+     },
+  imagen: "Img/Imagen468.png",
+  stock: 33
+},
+   {
+  nombre: "5539LONCHERA KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Diseño moderno inspirado en el estilo K-Pop. Ideal para llevar snacks, lonche o almuerzo. Liviana, práctica y fácil de transportar. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+     },
+  imagen: "Img/Imagen469.jpeg",
+  stock: 15
+},
+     {
+  nombre: "5541BOLSAS REUTILIZABLES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Resistentes y ecológicas para uso diario. Medida: 32 x 27 x 12 cm. Ideales para supermercado, mercado y tiendas. Color al azar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen470.jpeg",
+  stock: 13
+},
+     {
+  nombre: "5542SET DE 12 LAPICES GUERRERAS KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Inspirados en el mundo KPOP, súper modernos. Escritura suave y resistente. Perfectos para cole, eventos y souvenirs.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "Img/Imagen471.jpeg",
+  stock: 11
+},
+       {
+  nombre: "5542SET DE 12 LAPICES GUERRERAS KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye regla + moldes para dibujar figuras fácilmente. Ideal para tareas, dibujo y creatividad.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen472.jpeg",
+  stock: 5
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2850,6 +2944,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
