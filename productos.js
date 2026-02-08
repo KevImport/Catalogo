@@ -2789,10 +2789,9 @@ const productos = [
   descripcion: "¿Alguna vez quisiste llevar tu perfume favorito en la maleta de viaje,  trabajo o a estudiar? Mini atomizador en spray te ayudará a recargar con tu perfume favorito y llevarlo a donde quieras.",
   precios: {
    "1": 2.95,
-   "3": 1.95,
      },
   imagen: "Img/Imagen458.png",
-  stock: 8
+  stock: 2
 },
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
@@ -2806,6 +2805,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
