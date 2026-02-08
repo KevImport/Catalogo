@@ -2761,28 +2761,6 @@ const productos = [
   imagen: "Img/Imagen455.jpeg",
   stock: 4
 },
-     {
-  nombre: "5512PAPEL TISSUE 1200 HOJAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Papel Tissue para pared. Gracias a su excelente capacidad de absorción, resistencia al rasgado y suavidad, el papel tissue se utiliza como pañuelo facial, papel de cocina, servilletas, pañuelos y papel higiénico.",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen456.jpeg",
-  stock: 2
-},
-       {
-  nombre: "5513ROMPECABEZAS DIDÁCTICO CUERPO HUMANO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Aprende las partes del cuerpo en español e inglés de forma divertida. Ideal para niños, desarrolla memoria, lógica y coordinación.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-   "6": 4.65,
-     },
-  imagen: "Img/Imagen457.jpeg",
-  stock: 11
-},
          {
   nombre: "5515MINI DISPENSADOR DE PERFUME",
   categoria: "Hogar / Cocina",
@@ -2805,6 +2783,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
