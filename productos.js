@@ -2771,6 +2771,73 @@ const productos = [
   imagen: "Img/Imagen458.png",
   stock: 2
 },
+          {
+  nombre: "5516SET DE 12 COLORES LARGOS + TAJADOR ALPHA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores intensos y duraderos para un pintado uniforme. Incluye tajador para mayor practicidad. Ideal para colegio, tareas y trabajos creativos.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.35,
+     },
+  imagen: "Img/Imagen459.jpeg",
+  stock: 8
+},
+            {
+  nombre: "5518ACEITE DE ARGÁN",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Aceite de Argán y Keratina Esencial Hidratante, para nutrir el cuero cabelludo y reparar eficazmente las puntas y cabellos quebradizos. Agrega Brillo al Cabello, apto para todo tipo de Cabello y mejora el cabello graso y seco, ideal para fomentar un cabello saludable y más manejable. Para Uso Personal y Profesional, como Salones de Belleza y Spa.Contenido: 125 ML",
+  precios: {
+   "1": 10.90,
+     },
+  imagen: "Img/Imagen460.jpeg",
+  stock: 5
+},
+      {
+  nombre: "5520CARTUCHERA 3D",
+  categoria: "Escolar / Papelería",
+  descripcion: "Diseño en relieve súper llamativo ideal para el cole. Amplio espacio para lápices, colores y accesorios. Modelos y colores surtidos, al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen461.jpeg",
+  stock: 4
+},
+       {
+  nombre: "5525CREMA DE EXFOLIANTE DE CAFÉ 300ML",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Crema exfoliante de café 300 ml. Elimina células muertas, suaviza tu piel y activa la circulación. ¡Piel radiante al instante!",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen462.jpeg",
+  stock: 2
+},
+   {
+  nombre: "5527SOPORTE DE CELULAR GIRATORIO",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Ideal para ver pelis, videollamadas o grabar contenido. Estable, práctico y súper cómodo. ¡Llévalo a donde quieras!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+     },
+  imagen: "Img/Imagen463.jpeg",
+  stock: 24
+},
+   {
+  nombre: "5528PAÑITOS HUMEDOS DOY PACK",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpieza profunda y delicada 0% alcohol con extractos de manzanilla para proteger la piel. Gran formato de 184 unidades en empaque resellable para máxima frescura y ahorro total.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "Img/Imagen464.jpeg",
+  stock: 3
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2783,6 +2850,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
