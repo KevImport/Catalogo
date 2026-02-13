@@ -2825,7 +2825,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen463.jpeg",
-  stock: 24
+  stock: 15
 },
    {
   nombre: "5528PAÑITOS HUMEDOS DOY PACK",
@@ -2892,10 +2892,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.65,
      },
   imagen: "Img/Imagen469.jpeg",
-  stock: 15
+  stock: 3
 },
      {
   nombre: "5541BOLSAS REUTILIZABLES",
@@ -2944,6 +2943,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
