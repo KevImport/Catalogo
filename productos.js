@@ -2159,7 +2159,7 @@ const productos = [
    "1": 15.95,
      },
   imagen: "Img/Imagen387.jpeg",
-  stock: 2
+  stock: 1
 },
     {
   nombre: "5420ORUGUITA DE PELUCHE",
@@ -2783,6 +2783,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
