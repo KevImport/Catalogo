@@ -2240,39 +2240,6 @@ const productos = [
   imagen: "Img/Imagen403.jpg",
   stock: 19
 },
-      {
-  nombre: "5440AUDÍFONO M10",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Para tu música y llamadas. Cómodo diseño ergonómico para uso diario sin molestias. Conexión rápida, disfruta tu día.",
-  precios: {
-   "1": 11.95,
-     },
-  imagen: "Img/Imagen404.png",
-  stock: 12
-},
-        {
-  nombre: "5441CORTINA IMANTADA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Fácil instalación, se abre y cierra sola con imanes. Medida 2 m x 1 m, ideal para puertas. Color al azar, mantiene fuera insectos y deja pasar el aire.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-     },
-  imagen: "Img/Imagen405.png",
-  stock: 16
-},
-          {
-  nombre: "111 PALIBOMBITAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Perfectos para fiestas de verano, reuniones familiares, o simplemente para disfrutar de un día caluroso, estos globos de agua son ideales para cualquier evento al aire libre. Cada paquete tiene 3 ramilletes (total 111 globos). Incluye adaptador.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-     },
-  imagen: "Img/Imagen406.png",
-  stock: 26
-},
           {
   nombre: "5446SET SORBETES REUTILIZABLES + CEPILLO DE LIMPIEZA",
   categoria: "Hogar / Cocina",
@@ -2291,23 +2258,10 @@ const productos = [
   descripcion: "Ideal para protegerte del sol con estilo y comodidad. Diseño moderno y ligero, perfecto para salidas y paseos. Aporta un toque elegante a tus outfits veraniegos. Color al azar",
   precios: {
    "1": 5.95,
-   "3": 4.25,
-   "6": 3.95,
-     },
+   "2": 4.25,
+        },
   imagen: "Img/Imagen408.jpeg",
-  stock: 7
-},
-      {
-  nombre: "5451CARPETA PARA ARCHIVOS CON ASA",
-  categoria: "Escolar / Papelería",
-  descripcion: "Carpeta de archivo portátil: también es buena para músicos, músicos, estudiantes, profesores, trabajadores de oficina, empresarios, etc. Diseño al azar.",
-  precios: {
-   "1": 7.95,
-   "3": 6.25,
-   "6": 5.95,
-     },
-  imagen: "Img/Imagen410.jpeg",
-  stock: 21
+  stock: 2
 },
     {
   nombre: "5510SET DE 168 PLUMONES DUAL BRUSH",
@@ -2340,16 +2294,6 @@ const productos = [
   imagen: "Img/Imagen411.png",
   stock: 25
 },
-        {
-  nombre: "5450FLUORESCENTE PORTÁTIL",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ilumina cualquier espacio de forma práctica y versátil, ideal para el hogar, auto o emergencias. Medida: 52 cm. Diferentes tipos de luz para cada necesidad. Presentación en caja. Sistema imantado para fácil colocación. Botón de encendido y cambio de luz. Incluye cable USB",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "Img/Imagen412.png",
-  stock: 18
-},
           {
   nombre: "5457PORTA LAPICERO ANIMADO",
   categoria: "Escolar / Papelería",
@@ -2375,29 +2319,6 @@ const productos = [
   imagen: "Img/Imagen418.png",
   stock: 41
 },
-  {
-  nombre: "5466PROTECTOR ANTISALPICADURA PARA LAVADERO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Evita que el agua salpique al lavar. Ideal para lavaderos y fregaderos. Mantiene el área limpia y seca.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "6": 2.95,
-     },
-  imagen: "Img/Imagen419.jpeg",
-  stock: 13
-},
-  {
-  nombre: "5467PACK 10 FORRO FÁCIL",
-  categoria: "Escolar / Papelería",
-  descripcion: "Práctica y fácil para forrar cuadernos escolares. Pack de 10 unidades. No requiere cinta adhesiva. Medida aprox.: 29 × 46 cm",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-     },
-  imagen: "Img/Imagen420.jpeg",
-  stock: 25
-},
      {
   nombre: "5469SET DE 12 COLORES DUAL JUMBO",
   categoria: "Escolar / Papelería",
@@ -2418,7 +2339,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen423.jpeg",
-  stock: 39
+  stock: 15
 },
    {
   nombre: "5471SET DE 12 LÁPICES TÉCNICO 2B",
@@ -2442,19 +2363,6 @@ const productos = [
      },
   imagen: "Img/Imagen425.jpeg",
   stock: 3
-},
-    {
-  nombre: "5474SET DE 8 LÁPICES METÁLICOS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Lápices con acabado metálico, modernos y llamativos. Contiene 8 unidades ideales para uso escolar u oficina. Escritura suave y cómoda para el día a día. Prácticos, resistentes y de excelente presentación.",
-  precios: {
-   "1": 5.95,
-   "3": 4.85,
-   "6": 4.55,
-   "12": 4.25,
-     },
-  imagen: "Img/Imagen427.jpeg",
-  stock: 15
 },
    {
   nombre: "5475GOMA EN BARRA - 40 GRAMOS",
@@ -2501,31 +2409,7 @@ const productos = [
   imagen: "Img/Imagen431.jpeg",
   stock: 17
 },
-             {
-  nombre: "5482SET DE 15 PINCELES ARTÍSTICOS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Incluye 15 pinceles de distintos tamaños y formas. Ideal para acrílico, acuarela, óleo y manualidades. Cerdas resistentes y mangos cómodos de madera. Perfecto para estudiantes, artistas y principiantes.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
-     },
-  imagen: "Img/Imagen433.jpeg",
-  stock: 14
-},
-               {
-  nombre: "5484MINI BILLETERA CON POMPÓN",
-  categoria: "Accesorios",
-  descripcion: "Diseño adorable diseño orejitas, compacta y súper elegante. Incluye pompón suave que le da un toque único y moderno. Espacios para billetes, tarjetas y monedas, todo bien organizado. Ideal para regalo, práctica para llevar en cualquier bolso.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
-     },
-  imagen: "Img/Imagen434.jpeg",
-  stock: 23
-},
-  {
+        {
   nombre: "5485ABACO VERTICAL",
   categoria: "Escolar / Papelería",
   descripcion: "Compresión del sistema numérico decimal. Favorece el aprendizaje en las operaciones aritméticas básicas. Incentiva el cálculo mental. Material: madera",
@@ -2590,17 +2474,7 @@ const productos = [
   imagen: "Img/Imagen440.jpeg",
   stock: 8
 },
-   {
-  nombre: "5494TOMATODO LICENCIA 860 ML",
-  categoria: "Escolar / Papelería",
-  descripcion: "Ideal para el colegio, paseos o deportes. Diseños divertidos y coloridos que encantan a los peques. Resistente, práctico y fácil de llevar todos los días. Capacidad: 860 ml. Modelo: al azar.",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "Img/Imagen441.jpeg",
-  stock: 10
-},
-   {
+  {
   nombre: "5495SET DE 10 PLUMONES INDELEBLES DELGADO - DOBLE PUNTA",
   categoria: "Escolar / Papelería",
   descripcion: "Plumones de doble punta fina, ideales para escribir, marcar y detallar con precisión. Perfectos para el colegio, oficina o manualidades creativas.",
@@ -2610,17 +2484,6 @@ const productos = [
      },
   imagen: "Img/Imagen442.jpeg",
   stock: 5
-},
-  {
-  nombre: "5496TOMATODO KPOP",
-  categoria: "Escolar / Papelería",
-  descripcion: "Capacidad de 700 ml, ideal para mantenerte hidratado todo el día con estilo. Perfecto para el colegio, gimnasio o uso diario, práctico y con diseño moderno.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen443.jpeg",
-  stock: 19
 },
       {
   nombre: "5497CINTA MASKING TAPE DE 1\"",
@@ -2693,16 +2556,6 @@ const productos = [
   imagen: "Img/Imagen449.jpeg",
   stock: 6
 },
-         {
-  nombre: "5503MOCHILA K-POP",
-  categoria: "Escolar / Papelería",
-  descripcion: "Amplio espacio para cuadernos y útiles. Ideal para el cole, paseos o uso diario.",
-  precios: {
-   "1": 38.90,
-     },
-  imagen: "Img/Imagen450.jpeg",
-  stock: 2
-},
   {
   nombre: "5504JUEGO DE LABERINTO",
   categoria: "Escolar / Papelería",
@@ -2710,10 +2563,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.25,
-   "6": 3.95,
      },
   imagen: "Img/Imagen451.png",
-  stock: 25
+  stock: 4
 },
              {
   nombre: "5505GEL DE ÁRNICA",
@@ -2825,7 +2677,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen463.jpeg",
-  stock: 15
+  stock: 14
 },
    {
   nombre: "5528PAÑITOS HUMEDOS DOY PACK",
@@ -2833,10 +2685,9 @@ const productos = [
   descripcion: "Limpieza profunda y delicada 0% alcohol con extractos de manzanilla para proteger la piel. Gran formato de 184 unidades en empaque resellable para máxima frescura y ahorro total.",
   precios: {
    "1": 7.95,
-   "3": 6.95,
      },
   imagen: "Img/Imagen464.jpeg",
-  stock: 3
+  stock: 1
 },
    {
   nombre: "5532JABON LIQUIDO ANTIBACTERIAL",
@@ -2922,7 +2773,7 @@ const productos = [
   stock: 11
 },
        {
-  nombre: "5542SET DE 12 LAPICES GUERRERAS KPOP",
+  nombre: "5543SET DE 10 REGLAS KPOP",
   categoria: "Escolar / Papelería",
   descripcion: "Incluye regla + moldes para dibujar figuras fácilmente. Ideal para tareas, dibujo y creatividad.",
   precios: {
@@ -2943,6 +2794,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
