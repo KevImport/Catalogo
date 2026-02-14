@@ -2292,7 +2292,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen411.png",
-  stock: 25
+  stock: 12
 },
           {
   nombre: "5457PORTA LAPICERO ANIMADO",
@@ -2384,17 +2384,6 @@ const productos = [
    "1": 16.95,
      },
   imagen: "Img/Imagen429.jpeg",
-  stock: 2
-},
-       {
-  nombre: "5461FLOTADOR DE 60 CM",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ideal para la piscina o la playa, súper colorido y divertido. Diseños infantiles llamativos que encantan a los más pequeños. Perfecto para el verano, fácil de inflar y llevar a todos lados.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "Img/Imagen430.jpeg",
   stock: 2
 },
          {
@@ -2794,6 +2783,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
