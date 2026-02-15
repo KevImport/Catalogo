@@ -2771,6 +2771,155 @@ const productos = [
   imagen: "Img/Imagen472.jpeg",
   stock: 5
 },
+         {
+  nombre: "5546LIMPIADOR DE HORNILLAS MR. WHITE 450ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina grasa difícil y suciedad incrustada al instante. Poderosa espuma activa con agradable aroma a limón. Ideal para cocinas, parrillas, planchas y superficies de acero inoxidable.",
+  precios: {
+   "1": 7.95,
+   "3": 6.85,
+     },
+  imagen: "Img/Imagen473.png",
+  stock: 5
+},
+          {
+  nombre: "5547SET DE 10 PAQUETES DE HISOPOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Son excelentes para quitar maquillaje, pasatiempos, pintura, pegamentos o lo que sea. ¡No se rompen como los de plástico, son duraderos y tienen una bonita cabeza de algodón que no se deshace. Material: algodón + mango de madera. Cantidad por paquete: 80 hisopos. Set: 800 hisopos.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen474.jpeg",
+  stock: 7
+},
+            {
+  nombre: "5551GORRA SPORT CLÁSICA",
+  categoria: "Accesorios",
+  descripcion: "Diseño moderno y deportivo, ideal para uso diario o actividades al aire libre. Material ligero y cómodo, brinda ajuste perfecto y gran durabilidad. Colores surtidos, combina fácilmente con cualquier outfit.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+     },
+  imagen: "Img/Imagen475.jpeg",
+  stock: 6
+},
+     {
+  nombre: "5552ROMPE CHORRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "La piedra puede absorber impurezas y purificar la calidad del agua. El diseño telescópico y giratorio de 360 grados hace que el grifo sea más útil y flexible. Fácil instalación y se adapta cualquier caño.",
+  precios: {
+   "1": 3.95,
+   "3": 2.15,
+   "6": 1.85,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen476.png",
+  stock: 20
+},
+     {
+  nombre: "5553PEGATINA DE PARED - BLANCO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Pegatinas de pared 3D, el producto viene con adhesivo. Lavable: Si es impermeable. Pegar: Retire el papel de la cubierta trasera y péguelo. Tamaño: 70cm x 77cm. Material: Polipropileno y Espuma PE.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Img/Imagen477.png",
+  stock: 18
+},
+       {
+  nombre: "5554PAÑITOS HÚMEDOS PAYASITO x100",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ideales para bebés, manos y rostro. Con aloe vera y sin alcohol. ¡Frescos, prácticos y siempre a la mano!",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+     },
+  imagen: "Img/Imagen478.jpeg",
+  stock: 23
+},
+         {
+  nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
+  categoria: "Accesorios",
+  descripcion: "Diseño delicado y femenino, ideales para cualquier ocasión. Livianos, cómodos y con acabado elegante. Colores vibrantes que realzan tu look al instante.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen479.jpeg",
+  stock: 4
+},
+           {
+  nombre: "5557BOLSA DE LAVANDERÍA 30 × 40 CM",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege prendas delicadas durante el lavado. Malla resistente con cierre seguro. Ideal para ropa interior, medias y prendas pequeñas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen480.jpeg",
+  stock: 8
+},
+             {
+  nombre: "5558IMPERMEABLE REUTILIZABLE PARA ADULTOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Material grueso y resistente para mayor durabilidad. Con capucha y manga larga para una mejor protección. Ideal para lluvia, viajes y uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen481.jpeg",
+  stock: 30
+},
+               {
+  nombre: "5559SET DE 6 RESALTADORES BORRABLES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Rotulador resaltador fluorescente borrable. Doble cabeza, con uno marcas y con la otra punta borras.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+     },
+  imagen: "Img/Imagen482.jpeg",
+  stock: 5
+},
+                 {
+  nombre: "5560JABONERA ZAPATO ELEGANTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño decorativo en forma de tacón, ideal para baño o cocina. Drenaje integrado que mantiene el jabón seco y limpio. Funcional y decorativa, da un toque chic a cualquier espacio.",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.55,
+     },
+  imagen: "Img/Imagen483.png",
+  stock: 34
+},
+                   {
+  nombre: "5561SET DE 10 MANITOS SUJETADORAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Instalación sin perforar: retira el protector y pega en superficies lisas. Diseño en forma de pulgar, práctico y decorativo para el hogar. Material: plástico resistente, no daña las paredes",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+     },
+  imagen: "Img/Imagen484.png",
+  stock: 16
+},
+                     {
+  nombre: "5564ORGANIZADOR CON ESPEJO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para maquillaje, perfumes y accesorios. Diseño compacto y decorativo para tocador o escritorio. Medidas prácticas, mantiene todo ordenado y a la vista.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "Img/Imagen485.jpeg",
+  stock: 12
+},
 {
   nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
   categoria: "Escolar / Papelería",
@@ -2783,6 +2932,7 @@ const productos = [
   stock: 2
 }
 ];
+
 
 
 
