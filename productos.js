@@ -789,26 +789,14 @@ const productos = [
   stock: 6
 },
 {
-  nombre: "5040SET PLASTILINA + MOLDES",
-  categoria: "Escolar / Papelería",
-  descripcion: "Set creativo con plastilina de colores y moldes incluidos. Perfecto para que los niños desarrollen su imaginación.",
-  precios: {
-    "1": 3.95,
-    "3": 2.95,
-  },
-  imagen: "Img/Imagen155.jpg",
-  stock: 3
-},
-{
   nombre: "5031SET DE 7 TEMPERAS + PALETA Y PINCEL",
   categoria: "Escolar / Papelería",
   descripcion: "Kit de pintura ideal para pequeños artistas. Incluye 7 témperas, paleta y pincel para crear sin límites.",
   precios: {
     "1": 5.95,
-    "3": 4.95,
   },
   imagen: "Img/Imagen156.jpg",
-  stock: 5
+  stock: 2
 },
 {
   nombre: "4674SET x 10 CUTTER GARRITA",
@@ -2426,10 +2414,9 @@ const productos = [
   descripcion: "Tamaño A4 ideal para imprimir fotos, trabajos y recuerdos especiales. Acabado de alta calidad para colores vivos y detalles nítidos. Pack de 20 hojas, perfecto para casa, estudio y oficina.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen437.jpeg",
-  stock: 3
+  stock: 2
 },
         {
   nombre: "5490BLOCK PAPEL LUSTRE A4",
@@ -2920,18 +2907,8 @@ const productos = [
   imagen: "Img/Imagen485.jpeg",
   stock: 12
 },
-{
-  nombre: "4292TUBO DE 12 CINTAS ESCOLAR 12 mm x 14 yardas",
-  categoria: "Escolar / Papelería",
-  descripcion: "Set de 12 cintas escolares de colores. Medida perfecta para decorar, forrar cuadernos o manualidades.",
-  precios: {
-    "1": 4.90,
-    "2": 3.95,
-  },
-  imagen: "Img/Imagen170.jpg",
-  stock: 2
-}
 ];
+
 
 
 
