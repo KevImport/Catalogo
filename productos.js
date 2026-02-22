@@ -1463,7 +1463,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen285.png",
-  stock: 12
+  stock: 6
 },
   {
   nombre: "5278PIJAMA DE DOS PIEZAS",
@@ -2854,10 +2854,9 @@ const productos = [
   descripcion: "Rotulador resaltador fluorescente borrable. Doble cabeza, con uno marcas y con la otra punta borras.",
   precios: {
    "1": 5.95,
-   "3": 4.25,
      },
   imagen: "Img/Imagen482.jpeg",
-  stock: 4
+  stock: 1
 },
                  {
   nombre: "5560JABONERA ZAPATO ELEGANTE",
@@ -2996,6 +2995,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
