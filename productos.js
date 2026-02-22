@@ -2650,10 +2650,10 @@ const productos = [
    "1": 4.95,
    "3": 3.55,
    "6": 3.25,
-   "12": 2.95,
+   "11": 2.95,
      },
   imagen: "Img/Imagen463.jpeg",
-  stock: 14
+  stock: 11
 },
    {
   nombre: "5528PAÑITOS HUMEDOS DOY PACK",
@@ -2756,7 +2756,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen472.jpeg",
-  stock: 5
+  stock: 4
 },
          {
   nombre: "5546LIMPIADOR DE HORNILLAS MR. WHITE 450ML",
@@ -2777,7 +2777,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen474.jpeg",
-  stock: 7
+  stock: 5
 },
             {
   nombre: "5551GORRA SPORT CLÁSICA",
@@ -2786,10 +2786,10 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.65,
+   "5": 4.65,
      },
   imagen: "Img/Imagen475.jpeg",
-  stock: 6
+  stock: 5
 },
      {
   nombre: "5552ROMPE CHORRO",
@@ -2813,7 +2813,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen477.png",
-  stock: 18
+  stock: 15
 },
        {
   nombre: "5554PAÑITOS HÚMEDOS PAYASITO x100",
@@ -2825,7 +2825,7 @@ const productos = [
    "6": 2.95,
      },
   imagen: "Img/Imagen478.jpeg",
-  stock: 23
+  stock: 17
 },
          {
   nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
@@ -2838,29 +2838,16 @@ const productos = [
   imagen: "Img/Imagen479.jpeg",
   stock: 4
 },
-           {
-  nombre: "5557BOLSA DE LAVANDERÍA 30 × 40 CM",
-  categoria: "Hogar / Cocina",
-  descripcion: "Protege prendas delicadas durante el lavado. Malla resistente con cierre seguro. Ideal para ropa interior, medias y prendas pequeñas.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-     },
-  imagen: "Img/Imagen480.jpeg",
-  stock: 8
-},
+       
              {
   nombre: "5558IMPERMEABLE REUTILIZABLE PARA ADULTOS",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Material grueso y resistente para mayor durabilidad. Con capucha y manga larga para una mejor protección. Ideal para lluvia, viajes y uso diario.",
   precios: {
    "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
      },
   imagen: "Img/Imagen481.jpeg",
-  stock: 30
+  stock: 2
 },
                {
   nombre: "5559SET DE 6 RESALTADORES BORRABLES",
@@ -2871,7 +2858,7 @@ const productos = [
    "3": 4.25,
      },
   imagen: "Img/Imagen482.jpeg",
-  stock: 5
+  stock: 4
 },
                  {
   nombre: "5560JABONERA ZAPATO ELEGANTE",
@@ -2883,7 +2870,7 @@ const productos = [
    "6": 2.55,
      },
   imagen: "Img/Imagen483.png",
-  stock: 34
+  stock: 28
 },
                    {
   nombre: "5561SET DE 10 MANITOS SUJETADORAS",
@@ -2895,19 +2882,122 @@ const productos = [
    "6": 2.25,
      },
   imagen: "Img/Imagen484.png",
+  stock: 9
+},
+  {
+  nombre: "5565SHAMPOO DE ROMERO 1100ML",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1100ML",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "Img/Imagen486.jpeg",
+  stock: 9
+},
+    {
+  nombre: "5569SET GUACHA Y RODILLO DE JADE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a relajar el rostro, mejorar la circulación y reducir la hinchazón. Ideal para tu rutina de cuidado facial, efecto refrescante natural. Color al azar",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "Img/Imagen487.jpeg",
+  stock: 1
+},
+    {
+  nombre: "5571TAJADOR CUTE",
+  categoria: "Escolar / Papelería",
+  descripcion: "Diseño adorable con bolitas de colores, ideal para niños y amantes del estilo kawaii. Afila de forma rápida y limpia, incluye depósito para residuos. Perfecto para el cole, escritorio o como regalo cute.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen488.jpeg",
   stock: 16
 },
-                     {
-  nombre: "5564ORGANIZADOR CON ESPEJO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para maquillaje, perfumes y accesorios. Diseño compacto y decorativo para tocador o escritorio. Medidas prácticas, mantiene todo ordenado y a la vista.",
+      {
+  nombre: "5572ORGANIZADOR DE ESCRITORIO MULTINIVEL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideal para plumones, lapiceros, resaltadores y accesorios. Diseño inclinado y compartimentos visibles para fácil acceso. Mantén tu escritorio ordenado, moderno y práctico.",
   precios: {
    "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
      },
-  imagen: "Img/Imagen485.jpeg",
-  stock: 12
+  imagen: "Img/Imagen489.jpeg",
+  stock: 20
+},
+        {
+  nombre: "5573CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Shampoo cubre canas para todo tipo de cabellos. ️La mejor solución a esas canitas. ️El uso es sencillo y no se necesita decolorar ni pasar por ningún tratamiento previo al uso.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen490.jpeg",
+  stock: 4
+},
+          {
+  nombre: "5574MASAJEADOR MARIPOSA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Recargable. Trae su cable USB. Distintos Cambios para masaje. Silicón que se adhiere a la piel. Super efectivo. Relaja los músculos. Reduce dolor. Mejora la circulación.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen491.png",
+  stock: 6
+},
+          {
+  nombre: "5575GOTAS DE TERBINAFINA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Tratamiento antifúngico eficaz contra hongos en uñas y piel. Presentación en gotas de fácil aplicación. Ideal para infecciones como pie de atleta y hongos en uñas.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen492.jpeg",
+  stock: 28
+},
+          {
+  nombre: "5576NECESER WASHBAG",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ideal para viajes, maquillaje o artículos de higiene. Material resistente, con ventana translúcida y asa práctica. Color al azar, moderno y compacto para llevar a todos lados.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "Img/Imagen493.jpeg",
+  stock: 20
+},
+          {
+  nombre: "5577CINTA DOBLE FAZ PARA ROPA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Fija la ropa al cuerpo de forma segura y discreta todo el día. Ideal para escotes, vestidos y blusas, no daña la tela.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen494.jpeg",
+  stock: 36
+},
+          {
+  nombre: "5578ORGANIZADOR CON ASA",
+  categoria: "Accesorios",
+  descripcion: "Ideal para guardar maquillaje, esmaltes y accesorios. Práctico, resistente y fácil de transportar. Medida: 22 × 17 × 13 cm | Color al azar",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "Img/Imagen495.jpeg",
+  stock: 23
 },
 ];
+
 
 
 
