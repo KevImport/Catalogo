@@ -806,7 +806,7 @@ const productos = [
     "1": 8.95,
   },
   imagen: "Img/Imagen159.jpg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "4650GUILLOTINA SANRIO / CAPIBARA",
@@ -2292,7 +2292,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen413.jpeg",
-  stock: 18
+  stock: 12
 },
       {
   nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
@@ -2514,11 +2514,10 @@ const productos = [
   descripcion: "Incluye regla, transportador, escuadras y plantilla circular. Colores llamativos y material resistente. Ideal para escuela, dibujo técnico y uso diario.",
   precios: {
    "1": 3.95,
-   "3": 2.55,
-   "6": 2.25,
+   "2": 2.55,
      },
   imagen: "Img/Imagen448.jpeg",
-  stock: 8
+  stock: 2
 },
        {
   nombre: "5502PAQUETE DE 10 MICAS A4",
@@ -2576,17 +2575,6 @@ const productos = [
      },
   imagen: "Img/Imagen454.jpeg",
   stock: 3
-},
-   {
-  nombre: "5511SET DE 24 PLUMONES PUNTA FINA",
-  categoria: "Escolar / Papelería",
-  descripcion: "Colores surtidos de alta intensidad. Ideales para colorear, escribir y detallar. Apto para uso escolar y artístico.",
-  precios: {
-   "1": 6.95,
-   "3": 5.65,
-     },
-  imagen: "Img/Imagen455.jpeg",
-  stock: 4
 },
          {
   nombre: "5515MINI DISPENSADOR DE PERFUME",
@@ -2745,7 +2733,7 @@ const productos = [
    "6": 3.65,
      },
   imagen: "Img/Imagen471.jpeg",
-  stock: 11
+  stock: 8
 },
        {
   nombre: "5543SET DE 10 REGLAS KPOP",
@@ -2847,16 +2835,6 @@ const productos = [
      },
   imagen: "Img/Imagen481.jpeg",
   stock: 2
-},
-               {
-  nombre: "5559SET DE 6 RESALTADORES BORRABLES",
-  categoria: "Escolar / Papelería",
-  descripcion: "Rotulador resaltador fluorescente borrable. Doble cabeza, con uno marcas y con la otra punta borras.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen482.jpeg",
-  stock: 1
 },
                  {
   nombre: "5560JABONERA ZAPATO ELEGANTE",
@@ -2995,6 +2973,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
