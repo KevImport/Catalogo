@@ -2551,10 +2551,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
      },
   imagen: "Img/Imagen452.jpeg",
-  stock: 30
+  stock: 6
 },
  {
   nombre: "5506BOTIQUÍN VIAJERO",
@@ -2997,6 +2996,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
