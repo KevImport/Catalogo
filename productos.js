@@ -54,7 +54,7 @@ const productos = [
     "12": 1.95,
   },
   imagen: "Img/Imagen19.jpg",
-  stock: 15
+  stock: 14
 },
 {
   nombre: "4986MOLDE DE SILICONA",
@@ -1149,7 +1149,7 @@ const productos = [
     "3": 4.95,
  },
   imagen: "Img/Imagen226.png",
-  stock: 12
+  stock: 6
 },
  {
   nombre: "5152CERA EN BARRA",
@@ -1315,7 +1315,7 @@ const productos = [
    "3": 4.95,
  },
   imagen: "Img/Imagen263.jpg",
-  stock: 13
+  stock: 7
 },
   {
   nombre: "5249BIOBELL PLACENTA CAPILAR",
@@ -1744,7 +1744,7 @@ const productos = [
    "6": 1.65,
   },
   imagen: "Img/Imagen327.jpeg",
-  stock: 19
+  stock: 13
 },
    {
   nombre: "5334PACK DE 10 BOLSAS PARA HIELO",
@@ -1791,7 +1791,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen332.jpeg",
-  stock: 13
+  stock: 7
 },
           {
   nombre: "5340PORTA TOALLITAS HÚMEDAS",
@@ -2062,7 +2062,7 @@ const productos = [
    "6": 1.55,
      },
   imagen: "Img/Imagen373.jpeg",
-  stock: 7
+  stock: 6
 },
     {
   nombre: "5394STAR BELLY LAVABLE DE FELPA",
@@ -2083,19 +2083,6 @@ const productos = [
      },
   imagen: "Img/Imagen378.jpeg",
   stock: 6
-},
-       {
-  nombre: "5408CINTA DOBLE CONTACTO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Medida aprox.: 5 metros. Ideal para fijar objetos de forma rápida y segura sin necesidad de clavos. Adhiere en superficies lisas como paredes, vidrio, metal y plástico. Perfecta para manualidades, decoración y uso doméstico.",
-  precios: {
-   "1": 4.95,
-   "3": 3.65,
-   "6": 3.35,
-   "12": 3.05,
-     },
-  imagen: "Img/Imagen380.jpeg",
-  stock: 10
 },
            {
   nombre: "5410CORTADOR DE PAPEL PORTÁTIL",
@@ -2269,7 +2256,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen376.jpeg",
-  stock: 14
+  stock: 8
 },
       {
   nombre: "5453DEPILADORA DE CEJA RECARGABLE",
@@ -2292,7 +2279,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen413.jpeg",
-  stock: 12
+  stock: 6
 },
       {
   nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
@@ -2973,6 +2960,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
