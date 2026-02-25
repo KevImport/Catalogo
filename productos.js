@@ -1734,19 +1734,7 @@ const productos = [
   imagen: "Img/Imagen326.jpeg",
   stock: 14
 },
-  {
-  nombre: "5332GANCHO CLIP FLOWER",
-  categoria: "Accesorios",
-  descripcion: "Diseño de flores brillantes que aportan un toque fresco y veraniego. Ideal para uso diario, ocasiones especiales o looks creativos — ¡práctica y hermosa!",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-   "6": 1.65,
-  },
-  imagen: "Img/Imagen327.jpeg",
-  stock: 13
-},
-   {
+     {
   nombre: "5334PACK DE 10 BOLSAS PARA HIELO",
   categoria: "Hogar / Cocina",
   descripcion: "Hecho de 100% esteres de BPA y ftalato. Autosellado, no se necesita máquina de sellado. Se puede utilizar para hacer diferentes sabores de cubitos de hielo según su gusto. Puedes añadir varias frutas, verduras, dulces, etc.",
@@ -2922,7 +2910,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 28
+  stock: 25
 },
           {
   nombre: "5576NECESER WASHBAG",
@@ -2960,6 +2948,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
