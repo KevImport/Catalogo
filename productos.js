@@ -2868,7 +2868,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen489.jpeg",
-  stock: 20
+  stock: 17
 },
         {
   nombre: "5573CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
@@ -2889,7 +2889,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen491.png",
-  stock: 6
+  stock: 5
 },
           {
   nombre: "5575GOTAS DE TERBINAFINA",
@@ -2900,7 +2900,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 25
+  stock: 18
 },
           {
   nombre: "5576NECESER WASHBAG",
@@ -2925,7 +2925,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen494.jpeg",
-  stock: 36
+  stock: 15
 },
           {
   nombre: "5578ORGANIZADOR CON ASA",
@@ -2935,9 +2935,10 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 23
+  stock: 17
 },
 ];
+
 
 
 
