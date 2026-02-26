@@ -1790,7 +1790,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen333.png",
-  stock: 15
+  stock: 4
 },
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
@@ -2391,7 +2391,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen437.jpeg",
-  stock: 2
+  stock: 1
 },
         {
   nombre: "5490BLOCK PAPEL LUSTRE A4",
@@ -2948,6 +2948,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
