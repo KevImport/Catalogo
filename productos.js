@@ -2383,16 +2383,6 @@ const productos = [
   imagen: "Img/Imagen436.jpeg",
   stock: 8
 },
-      {
-  nombre: "5488SET DE 20 PAPELES FOTOGRÁFICOS A4 SIN ADHESIVO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Tamaño A4 ideal para imprimir fotos, trabajos y recuerdos especiales. Acabado de alta calidad para colores vivos y detalles nítidos. Pack de 20 hojas, perfecto para casa, estudio y oficina.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen437.jpeg",
-  stock: 1
-},
         {
   nombre: "5490BLOCK PAPEL LUSTRE A4",
   categoria: "Escolar / Papelería",
@@ -2948,6 +2938,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
