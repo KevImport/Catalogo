@@ -2937,7 +2937,152 @@ const productos = [
   imagen: "Img/Imagen495.jpeg",
   stock: 17
 },
+            {
+  nombre: "5580SET DE 24 LÁPICES DE COLORES PASTEL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Tonos suaves y delicados ideales para dibujos, lettering y colorear. Mina suave, colores intensos y fáciles de difuminar. Perfectos para niños, estudiantes y amantes del arte creativo.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen496.jpeg",
+  stock: 2
+},
+            {
+  nombre: "5582PAÑITOS CON LICENCIA – 25 UNIDADES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Suaves y delicados para la piel. Ideales para uso diario en casa o salidas. Diseños con personajes licenciados.",
+  precios: {
+   "1": 2.55,
+   "6": 1.55,
+   "12": 1.25,
+     },
+  imagen: "Img/Imagen497.jpeg",
+  stock: 34
+},
+   {
+  nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protección para toda la familia con DEET 7.5%. Con aloe vera, no graso y de larga duración.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen498.jpeg",
+  stock: 8
+},
+     {
+  nombre: "5584JABÓN DE CÚRCUMA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a limpiar profundamente la piel y unificar el tono. Ideal para manchas, acné y piel grasa, uso diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+     },
+  imagen: "Img/Imagen499.jpeg",
+  stock: 12
+},
+       {
+  nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideales para decorar tortas, galletas y fondant. Colores vivos, seguros y fáciles de usar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "Img/Imagen500.png",
+  stock: 4
+},
+         {
+  nombre: "5586JUEGO DE 10 GANCHOS CLIP",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sujeción firme, no maltrata la tela. Ajustables y resistentes. Ideales para jeans, faldas y shorts.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen501.jpeg",
+  stock: 3
+},
+         {
+  nombre: "5587TAPETE ABSORBENTE PARA PLATOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantiene tu cocina seca y ordenada. Súper absorbente. Medida: 40 x 30 cm. Modelos variados",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen502.jpeg",
+  stock: 8
+},
+           {
+  nombre: "5588MINI TRITURADOR PROCESADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Trituradora eléctrica con botón superior para un uso fácil y rápido. Hoja de acero inoxidable resistente y duradera. Vaso de plástico apto para alimentos, libre de BPA y seguro. Pica de manera rápida ajo, nueces, especias, verduras, carne y más.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "Img/Imagen503.png",
+  stock: 4
+},
+             {
+  nombre: "5589SÁBANAS NANCY 2 plz",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 4 piezas: sábana para colchón, sobre sábana y dos fundas de almohada. DISEÑO REFERENCIAL",
+  precios: {
+   "1": 24.90,
+       },
+  imagen: "Img/Imagen504.png",
+  stock: 1
+},
+               {
+  nombre: "5593ESPONJA QUITA MUGRE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "La esponja suave de alta densidad espesa, delicada y antideslizante, no solo puede eliminar la suciedad de todo el cuerpo, sino también limpiar eficazmente la piel.",
+  precios: {
+   "1": 2.95,
+   "3": 1.65,
+   "6": 1.35,
+   "12": 1.05,
+       },
+  imagen: "Img/Imagen505.png",
+  stock: 29
+},
+               {
+  nombre: "5594ESCOBILLA CON DISPENSADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Cepillo lavaplatos con dispensador de jabón integrado. Presiona y libera el detergente mientras limpias fácilmente. Color al azar, práctico y cómodo para tu cocina.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "Img/Imagen506.jpg",
+  stock: 9
+},
+               {
+  nombre: "5595FORRO PARA COLCHÓN 2 PLAZAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tu colchón de polvo, manchas y derrames. Cómodo, resistente y fácil de lavar. Modelo según disponibilidad.",
+  precios: {
+   "1": 16.90,
+       },
+  imagen: "Img/Imagen507.png",
+  stock: 7
+},
+               {
+  nombre: "5596SOQUETE CON ENCHUFE E INTERRUPTOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para focos, práctico y fácil de usar en cualquier espacio. Cable flexible con botón ON/OFF para mayor comodidad.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+       },
+  imagen: "Img/Imagen508.jpeg",
+  stock: 16
+},
 ];
+
 
 
 
