@@ -2072,16 +2072,6 @@ const productos = [
   imagen: "Img/Imagen378.jpeg",
   stock: 6
 },
-           {
-  nombre: "5410CORTADOR DE PAPEL PORTÁTIL",
-  categoria: "Escolar / Papelería",
-  descripcion: "Medida: 33.5 x 6.5 cm. Material: Plástico. Ideal para manualidades, scrapbooking y trabajos escolares, con medida precisa y deslizador suave para cortes limpios.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen382.png",
-  stock: 2
-},
             {
   nombre: "5411PRINCESA MUSICAL GIRATORIA",
   categoria: "Juguetes",
@@ -3081,6 +3071,7 @@ const productos = [
   stock: 16
 },
 ];
+
 
 
 
