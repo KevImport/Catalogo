@@ -1307,17 +1307,6 @@ const productos = [
   stock: 6
 },
   {
-  nombre: "5248LLAVERO CEREZA",
-  categoria: "Accesorios",
-  descripcion: "Diseño tierno y moderno para darle estilo a tus llaves o bolso. Perfecto como regalo o para lucir un accesorio único y divertido.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
- },
-  imagen: "Img/Imagen263.jpg",
-  stock: 7
-},
-  {
   nombre: "5249BIOBELL PLACENTA CAPILAR",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Revitalizante con Panthenol, para evitar la caída del cabello. Te deja el cabello sumamente suave y brilloso. Revitaliza el cabello, combate la caspa, grasa , seborrea y ayuda a frenar la caída. Capacidad: 15ML",
@@ -3059,6 +3048,7 @@ const productos = [
   stock: 14
 },
 ];
+
 
 
 
