@@ -1931,7 +1931,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen358.jpeg",
-  stock: 19
+  stock: 16
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -3071,6 +3071,7 @@ const productos = [
   stock: 16
 },
 ];
+
 
 
 
