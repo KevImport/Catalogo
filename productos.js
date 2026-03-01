@@ -3036,19 +3036,7 @@ const productos = [
   imagen: "Img/Imagen505.png",
   stock: 29
 },
-               {
-  nombre: "5594ESCOBILLA CON DISPENSADOR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Cepillo lavaplatos con dispensador de jabón integrado. Presiona y libera el detergente mientras limpias fácilmente. Color al azar, práctico y cómodo para tu cocina.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-       },
-  imagen: "Img/Imagen506.jpg",
-  stock: 9
-},
-               {
+                 {
   nombre: "5595FORRO PARA COLCHÓN 2 PLAZAS",
   categoria: "Hogar / Cocina",
   descripcion: "Protege tu colchón de polvo, manchas y derrames. Cómodo, resistente y fácil de lavar. Modelo según disponibilidad.",
@@ -3068,9 +3056,10 @@ const productos = [
    "6": 2.95,
        },
   imagen: "Img/Imagen508.jpeg",
-  stock: 16
+  stock: 14
 },
 ];
+
 
 
 
