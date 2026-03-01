@@ -2738,10 +2738,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "5": 4.65,
      },
   imagen: "Img/Imagen475.jpeg",
-  stock: 5
+  stock: 3
 },
      {
   nombre: "5552ROMPE CHORRO",
@@ -3082,6 +3081,7 @@ const productos = [
   stock: 16
 },
 ];
+
 
 
 
