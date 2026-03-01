@@ -3047,7 +3047,20 @@ const productos = [
   imagen: "Img/Imagen508.jpeg",
   stock: 14
 },
+  {
+  nombre: "5594ESCOBILLA CON DISPENSADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Cepillo lavaplatos con dispensador de jabón integrado. Presiona y libera el detergente mientras limpias fácilmente. Color al azar, práctico y cómodo para tu cocina.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "Img/Imagen506.jpg",
+  stock: 9
+},
 ];
+
 
 
 
