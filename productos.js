@@ -2520,16 +2520,6 @@ const productos = [
   imagen: "Img/Imagen454.jpeg",
   stock: 3
 },
-         {
-  nombre: "5515MINI DISPENSADOR DE PERFUME",
-  categoria: "Hogar / Cocina",
-  descripcion: "¿Alguna vez quisiste llevar tu perfume favorito en la maleta de viaje,  trabajo o a estudiar? Mini atomizador en spray te ayudará a recargar con tu perfume favorito y llevarlo a donde quieras.",
-  precios: {
-   "1": 2.95,
-     },
-  imagen: "Img/Imagen458.png",
-  stock: 2
-},
           {
   nombre: "5516SET DE 12 COLORES LARGOS + TAJADOR ALPHA",
   categoria: "Escolar / Papelería",
@@ -2618,16 +2608,6 @@ const productos = [
      },
   imagen: "Img/Imagen466.jpeg",
   stock: 11
-},
-     {
-  nombre: "5535ORGANIZADOR CON CAJONES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Guarda cosméticos, joyas y accesorios pequeños sin polvo ni desorden. Diseño con cajones + compartimento superior de gran capacidad.",
-  precios: {
-   "1": 10.95,
-     },
-  imagen: "Img/Imagen467.jpeg",
-  stock: 1
 },
        {
   nombre: "5538LAPICERO MULTITINTAS GUERRERAS KPOP",
@@ -3060,6 +3040,7 @@ const productos = [
   stock: 9
 },
 ];
+
 
 
 
