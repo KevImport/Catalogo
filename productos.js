@@ -2781,7 +2781,7 @@ const productos = [
    "6": 2.25,
      },
   imagen: "Img/Imagen484.png",
-  stock: 9
+  stock: 6
 },
   {
   nombre: "5565SHAMPOO DE ROMERO 1100ML",
@@ -3040,6 +3040,7 @@ const productos = [
   stock: 9
 },
 ];
+
 
 
 
