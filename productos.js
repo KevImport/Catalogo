@@ -2192,7 +2192,7 @@ const productos = [
    "6": 1.95,
      },
   imagen: "Img/Imagen407.png",
-  stock: 13
+  stock: 10
 },
   {
   nombre: "5448VISERA DE DAMA COLOR ENTERO",
@@ -2470,10 +2470,10 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.25,
-   "6": 3.95,
+   "5": 3.95,
      },
   imagen: "Img/Imagen449.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "5504JUEGO DE LABERINTO",
@@ -3040,6 +3040,7 @@ const productos = [
   stock: 9
 },
 ];
+
 
 
 
