@@ -164,16 +164,6 @@ const productos = [
   stock: 10
 },
 {
-  nombre: "4832KIT DE MANICURE",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Uñas siempre perfectas. Kit completo con herramientas esenciales para tu cuidado personal en casa o de viaje.",
-  precios: {
-    "1": 5.95,
-  },
-  imagen: "Img/Imagen49.jpg",
-  stock: 1
-},
-{
   nombre: "4831GUANTES TOUCH",
   categoria: "Accesorios",
   descripcion: "¡Tecnología al alcance de tus dedos! Guantes cálidos compatibles con pantallas táctiles. Ideal para invierno.",
@@ -688,7 +678,7 @@ const productos = [
     "6": 1.85,
   },
   imagen: "Img/Imagen136.jpg",
-  stock: 9
+  stock: 8
 },
 {
   nombre: "4885DELINEADOR 2 EN 1",
@@ -1540,7 +1530,7 @@ const productos = [
    "6": 1.65,
   },
   imagen: "Img/Imagen309.jpg",
-  stock: 7
+  stock: 6
 },
      {
   nombre: "5311ORGANIZADOR DE HUEVOS",
@@ -1920,7 +1910,7 @@ const productos = [
    "6": 3.65,
   },
   imagen: "Img/Imagen359.jpeg",
-  stock: 20
+  stock: 19
 },
     {
   nombre: "5379JABONERA CON CAJÓN",
@@ -2549,7 +2539,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen462.jpeg",
-  stock: 2
+  stock: 1
 },
    {
   nombre: "5527SOPORTE DE CELULAR GIRATORIO",
@@ -2815,18 +2805,7 @@ const productos = [
   imagen: "Img/Imagen490.jpeg",
   stock: 4
 },
-          {
-  nombre: "5574MASAJEADOR MARIPOSA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Recargable. Trae su cable USB. Distintos Cambios para masaje. Silicón que se adhiere a la piel. Super efectivo. Relaja los músculos. Reduce dolor. Mejora la circulación.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-     },
-  imagen: "Img/Imagen491.png",
-  stock: 5
-},
-          {
+            {
   nombre: "5575GOTAS DE TERBINAFINA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Tratamiento antifúngico eficaz contra hongos en uñas y piel. Presentación en gotas de fácil aplicación. Ideal para infecciones como pie de atleta y hongos en uñas.",
@@ -2835,7 +2814,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 18
+  stock: 15
 },
           {
   nombre: "5576NECESER WASHBAG",
@@ -2872,17 +2851,7 @@ const productos = [
   imagen: "Img/Imagen495.jpeg",
   stock: 17
 },
-            {
-  nombre: "5580SET DE 24 LÁPICES DE COLORES PASTEL",
-  categoria: "Escolar / Papelería",
-  descripcion: "Tonos suaves y delicados ideales para dibujos, lettering y colorear. Mina suave, colores intensos y fáciles de difuminar. Perfectos para niños, estudiantes y amantes del arte creativo.",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen496.jpeg",
-  stock: 2
-},
-            {
+                  {
   nombre: "5582PAÑITOS CON LICENCIA – 25 UNIDADES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Suaves y delicados para la piel. Ideales para uso diario en casa o salidas. Diseños con personajes licenciados.",
@@ -3007,6 +2976,7 @@ const productos = [
   stock: 9
 },
 ];
+
 
 
 
