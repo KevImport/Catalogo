@@ -853,18 +853,6 @@ const productos = [
   imagen: "Img/Imagen169.jpg",
   stock: 12
 },
- {
-  nombre: "5055PEINETA LAZO",
-  categoria: "Accesorios",
-  descripcion: "Dale un toque tierno y elegante a tu look. Ideal para peinados coquetos y llenos de estilo.",
-  precios: {
-    "1": 2.95,
-    "3": 1.85,
-    "6": 1.55,
-  },
-  imagen: "Img/Imagen171.jpeg",
-  stock: 6
-},
 {
   nombre: "5058SET DE 8 PLUMONES OUTLINE",
   categoria: "Escolar / Papelería",
@@ -1215,7 +1203,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen246.jpg",
-  stock: 9
+  stock: 6
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -2748,17 +2736,6 @@ const productos = [
   imagen: "Img/Imagen479.jpeg",
   stock: 4
 },
-       
-             {
-  nombre: "5558IMPERMEABLE REUTILIZABLE PARA ADULTOS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Material grueso y resistente para mayor durabilidad. Con capucha y manga larga para una mejor protección. Ideal para lluvia, viajes y uso diario.",
-  precios: {
-   "1": 3.95,
-     },
-  imagen: "Img/Imagen481.jpeg",
-  stock: 2
-},
                  {
   nombre: "5560JABONERA ZAPATO ELEGANTE",
   categoria: "Hogar / Cocina",
@@ -2982,16 +2959,6 @@ const productos = [
   imagen: "Img/Imagen503.png",
   stock: 4
 },
-             {
-  nombre: "5589SÁBANAS NANCY 2 plz",
-  categoria: "Hogar / Cocina",
-  descripcion: "Incluye 4 piezas: sábana para colchón, sobre sábana y dos fundas de almohada. DISEÑO REFERENCIAL",
-  precios: {
-   "1": 24.90,
-       },
-  imagen: "Img/Imagen504.png",
-  stock: 1
-},
                {
   nombre: "5593ESPONJA QUITA MUGRE",
   categoria: "Higiene / Cuidado Personal",
@@ -3040,6 +3007,7 @@ const productos = [
   stock: 9
 },
 ];
+
 
 
 
