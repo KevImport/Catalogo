@@ -1303,10 +1303,9 @@ const productos = [
   descripcion: "Incluye una amplia variedad de tonos vibrantes y elegantes para cada ocasión. Ideal para looks diarios o maquillajes más atrevidos y coloridos. Compacta y práctica, perfecta para llevar a todos lados.",
   precios: {
    "1": 10.95,
-   "3": 9.95,
  },
   imagen: "Img/Imagen266.jpeg",
-  stock: 3
+  stock: 1
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -1898,7 +1897,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen358.jpeg",
-  stock: 16
+  stock: 14
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -2778,10 +2777,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
      },
   imagen: "Img/Imagen488.jpeg",
-  stock: 16
+  stock: 9
 },
       {
   nombre: "5572ORGANIZADOR DE ESCRITORIO MULTINIVEL",
@@ -2926,7 +2924,7 @@ const productos = [
    "1": 7.95,
        },
   imagen: "Img/Imagen503.png",
-  stock: 4
+  stock: 1
 },
                {
   nombre: "5593ESPONJA QUITA MUGRE",
@@ -2976,6 +2974,7 @@ const productos = [
   stock: 9
 },
 ];
+
 
 
 
