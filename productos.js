@@ -2757,7 +2757,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen486.jpeg",
-  stock: 9
+  stock: 7
 },
     {
   nombre: "5569SET GUACHA Y RODILLO DE JADE",
@@ -2847,7 +2847,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 17
+  stock: 16
 },
                   {
   nombre: "5582PAÑITOS CON LICENCIA – 25 UNIDADES",
@@ -2859,7 +2859,7 @@ const productos = [
    "12": 1.25,
      },
   imagen: "Img/Imagen497.jpeg",
-  stock: 34
+  stock: 22
 },
    {
   nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
@@ -2881,7 +2881,7 @@ const productos = [
    "6": 2.95,
      },
   imagen: "Img/Imagen499.jpeg",
-  stock: 12
+  stock: 6
 },
        {
   nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
@@ -2937,7 +2937,7 @@ const productos = [
    "12": 1.05,
        },
   imagen: "Img/Imagen505.png",
-  stock: 29
+  stock: 11
 },
                  {
   nombre: "5595FORRO PARA COLCHÓN 2 PLAZAS",
@@ -2974,6 +2974,7 @@ const productos = [
   stock: 9
 },
 ];
+
 
 
 
