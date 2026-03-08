@@ -2973,7 +2973,112 @@ const productos = [
   imagen: "Img/Imagen506.jpg",
   stock: 9
 },
+  {
+  nombre: "5601SET TECLADO Y MOUSE RECARGABLE",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Olvídate de las pilas con este combo inalámbrico de alta autonomía y diseño ergonómico. Disponible en colores según stock para darle un toque moderno a tu espacio de trabajo.",
+  precios: {
+   "1": 17.95,
+       },
+  imagen: "Img/Imagen509.jpeg",
+  stock: 2
+},
+    {
+  nombre: "5607PROTECTOR EN ROLLO PARA CAJONES Y REPISAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 45 x 150 cm, fácil de cortar y adaptar. Protege contra polvo, humedad y rayones.",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55
+       },
+  imagen: "Img/Imagen510.png",
+  stock: 10
+},
+   {
+  nombre: "5608MONEDERO PARA DAMA",
+  categoria: "Accesorios",
+  descripcion: "Elegante y práctico. Medida: 14.5 x 8 x 5 cm, compacto y fácil de llevar. Ideal para monedas, llaves y pequeños accesorios. COLOR AL AZAR",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+       },
+  imagen: "Img/Imagen511.jpeg",
+  stock: 5
+},
+     {
+  nombre: "5614ORGANIZADOR DE BOLSAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Guarda y dispensa tus bolsas de plástico para darles un segundo uso. Mantén tu cocina ordenada con este práctico dispensador, funcional y elegante.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+       },
+  imagen: "Img/Imagen512.png",
+  stock: 5
+},
+       {
+  nombre: "5616SET DE 5 TAPERS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prácticos, resistentes y perfectos para guardar tus alimentos. Incluye 5 tamaños con tapa hermética ¡Ideales para el cole, la oficina o la casa!",
+  precios: {
+   "1": 10.90,
+       },
+  imagen: "Img/Imagen513.jpeg",
+  stock: 3
+},
+         {
+  nombre: "5618BANDEJA DE HIELO CON TAPA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctica y resistente. Evita derrames y malos olores en el congelador. Ideal para hacer cubos de hielo de forma higiénica. COLOR AL AZAR",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.45,
+       },
+  imagen: "Img/Imagen514.jpeg",
+  stock: 15
+},
+         {
+  nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Barra de agarre con ventosas para mayor estabilidad y seguridad. Instalación rápida sin herramientas en superficies lisas como vidrio o cerámica. Ideal para adultos mayores, niños y mujeres embarazadas.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+       },
+  imagen: "Img/Imagen515.png",
+  stock: 4
+},
+           {
+  nombre: "5620PASTILLERO FLOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño floral compacto, práctico y fácil de llevar a cualquier lugar. Con varios compartimentos para organizar pastillas, vitaminas o suplementos. También sirve para guardar joyas u objetos pequeños. Color al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+       },
+  imagen: "Img/Imagen516.jpeg",
+  stock: 12
+},
+     {
+  nombre: "5622SET DE 12 COLORES LICENCIA DISNEY",
+  categoria: "Escolar / Papelería",
+  descripcion: "Set de 12 colores ideales para dibujar y colorear. Perfectos para la escuela, tareas o actividades creativas. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+   "12": 4.45,
+       },
+  imagen: "Img/Imagen517.jpeg",
+  stock: 12
+},
 ];
+
 
 
 
