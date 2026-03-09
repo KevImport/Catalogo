@@ -2939,6 +2939,16 @@ const productos = [
   stock: 5
 },
      {
+  nombre: "5612SET DE 12 ESTUCHES PARA CEPILLOS DE DIENTES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ideales para viajes, colegio o uso diario. Colores surtidos, prácticos e higiénicos.",
+  precios: {
+   "1": 9.95,
+       },
+  imagen: "Img/Imagen518.jpeg",
+  stock: 1
+},
+     {
   nombre: "5614ORGANIZADOR DE BOLSAS",
   categoria: "Hogar / Cocina",
   descripcion: "Guarda y dispensa tus bolsas de plástico para darles un segundo uso. Mantén tu cocina ordenada con este práctico dispensador, funcional y elegante.",
@@ -2947,7 +2957,7 @@ const productos = [
    "3": 1.95,
        },
   imagen: "Img/Imagen512.png",
-  stock: 5
+  stock: 8
 },
        {
   nombre: "5616SET DE 5 TAPERS",
@@ -2957,7 +2967,7 @@ const productos = [
    "1": 10.90,
        },
   imagen: "Img/Imagen513.jpeg",
-  stock: 3
+  stock: 4
 },
          {
   nombre: "5618BANDEJA DE HIELO CON TAPA",
@@ -2994,7 +3004,7 @@ const productos = [
    "12": 2.95,
        },
   imagen: "Img/Imagen516.jpeg",
-  stock: 12
+  stock: 15
 },
      {
   nombre: "5622SET DE 12 COLORES LICENCIA DISNEY",
@@ -3010,6 +3020,7 @@ const productos = [
   stock: 12
 },
 ];
+
 
 
 
