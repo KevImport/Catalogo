@@ -44,19 +44,6 @@ const productos = [
   stock: 5
 },
 {
-  nombre: "4999SET DE 100 GUANTES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Protege tus manos en todo momento. Pack de 100 guantes desechables ideales para limpieza, cocina o cuidado personal.",
-  precios: {
-    "1": 3.95,
-    "3": 2.55,
-    "6": 2.25,
-    "12": 1.95,
-  },
-  imagen: "Img/Imagen19.jpg",
-  stock: 14
-},
-{
   nombre: "4986MOLDE DE SILICONA",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para repostería creativa. Molde de silicona antiadherente para hacer figuras dulces con estilo.",
@@ -789,16 +776,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4674SET x 10 CUTTER GARRITA",
-  categoria: "Escolar / Papelería",
-  descripcion: "Set de 10 prácticos cutter en forma de garrita. Ideal para uso escolar o manualidades en casa.",
-  precios: {
-    "1": 8.95,
-  },
-  imagen: "Img/Imagen159.jpg",
-  stock: 4
-},
-{
   nombre: "4650GUILLOTINA SANRIO / CAPIBARA",
   categoria: "Escolar / Papelería",
   descripcion: "Guillotina temática para papel con diseño divertido de Sanrio o Capibara. Ideal para proyectos escolares o de oficina.",
@@ -1148,7 +1125,7 @@ const productos = [
     "1": 8.95,
  },
   imagen: "Img/Imagen230.jpeg",
-  stock: 8
+  stock: 4
 },
  {
   nombre: "5174LUCES ESPACIAL",
@@ -1576,17 +1553,6 @@ const productos = [
   imagen: "Img/Imagen314.jpeg",
   stock: 7
 },
-   {
-  nombre: "5319PAÑITOS HÚMEDOS EN LATA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Suaves, sin alcohol y con Aloe Vera para cuidar y refrescar tu piel al instante. Llévalas en tu cartera, auto u oficina — ¡siempre listas para acompañarte!",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen316.png",
-  stock: 9
-},
   {
   nombre: "5321SPLASH PARA EL CABELLO",
   categoria: "Higiene / Cuidado Personal",
@@ -1909,7 +1875,7 @@ const productos = [
    "6": 3.65,
   },
   imagen: "Img/Imagen359.jpeg",
-  stock: 19
+  stock: 18
 },
     {
   nombre: "5379JABONERA CON CAJÓN",
@@ -1954,17 +1920,7 @@ const productos = [
   imagen: "Img/Imagen366.jpeg",
   stock: 32
 },
-    {
-  nombre: "5386PACK DE 10 LUCES HADA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Perfecto para tus decoraciones, envases, detalles, globos, regalos y mucho más. Medida aprox.: 3m. Funciona con pilas.",
-  precios: {
-   "1": 13.95,
-     },
-  imagen: "Img/Imagen367.jpg",
-  stock: 3
-},
-      {
+       {
   nombre: "5387SET DE MINI DRAGONES",
   categoria: "Hogar / Cocina",
   descripcion: "Incluye 6 mini dragones con detalles increíbles y llenos de carácter. Fabricados en resina, resistentes y perfectos para coleccionar o decorar. Ideales para escritorios, repisas o como regalo para amantes de la fantasía.",
@@ -2202,17 +2158,6 @@ const productos = [
   imagen: "Img/Imagen376.jpeg",
   stock: 8
 },
-      {
-  nombre: "5453DEPILADORA DE CEJA RECARGABLE",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Discreto y portátil del tamaño de un delineador. Depila al instante, sin dolor ni quemaduras o irritación. Suficientemente suave como para utilizarlo todos los días. Rápido y preciso para una depilación perfecta. Punta fina para que tengas una ceja perfecta. Color al azar.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-     },
-  imagen: "Img/Imagen411.png",
-  stock: 12
-},
           {
   nombre: "5457PORTA LAPICERO ANIMADO",
   categoria: "Escolar / Papelería",
@@ -2403,7 +2348,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen445.jpeg",
-  stock: 33
+  stock: 6
 },
   {
   nombre: "5499CINTA DE EMBALAJE DE 60 YARDAS",
@@ -2611,20 +2556,7 @@ const productos = [
   imagen: "Img/Imagen469.jpeg",
   stock: 3
 },
-     {
-  nombre: "5541BOLSAS REUTILIZABLES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Resistentes y ecológicas para uso diario. Medida: 32 x 27 x 12 cm. Ideales para supermercado, mercado y tiendas. Color al azar.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-   "6": 1.75,
-   "12": 1.55,
-     },
-  imagen: "Img/Imagen470.jpeg",
-  stock: 13
-},
-     {
+        {
   nombre: "5542SET DE 12 LAPICES GUERRERAS KPOP",
   categoria: "Escolar / Papelería",
   descripcion: "Inspirados en el mundo KPOP, súper modernos. Escritura suave y resistente. Perfectos para cole, eventos y souvenirs.",
@@ -2655,7 +2587,7 @@ const productos = [
    "3": 6.85,
      },
   imagen: "Img/Imagen473.png",
-  stock: 5
+  stock: 3
 },
           {
   nombre: "5547SET DE 10 PAQUETES DE HISOPOS",
@@ -3078,6 +3010,7 @@ const productos = [
   stock: 12
 },
 ];
+
 
 
 
