@@ -2903,7 +2903,7 @@ const productos = [
    "1": 17.95,
        },
   imagen: "Img/Imagen509.jpeg",
-  stock: 2
+  stock: 1
 },
     {
   nombre: "5607PROTECTOR EN ROLLO PARA CAJONES Y REPISAS",
@@ -3010,6 +3010,7 @@ const productos = [
   stock: 12
 },
 ];
+
 
 
 
