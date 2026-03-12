@@ -44,16 +44,6 @@ const productos = [
   stock: 5
 },
 {
-  nombre: "4986MOLDE DE SILICONA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para repostería creativa. Molde de silicona antiadherente para hacer figuras dulces con estilo.",
-  precios: {
-    "1": 3.95,
-  },
-  imagen: "Img/Imagen23.jpg",
-  stock: 1
-},
-{
   nombre: "4966TAZA GAMER",
   categoria: "Juguetes",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
@@ -1115,7 +1105,7 @@ const productos = [
     "3": 7.90,
  },
   imagen: "Img/Imagen227.png",
-  stock: 4
+  stock: 1
 },
  {
   nombre: "5169PACK DE 10 BOLSITAS DULCERAS",
@@ -1875,7 +1865,7 @@ const productos = [
    "6": 3.65,
   },
   imagen: "Img/Imagen359.jpeg",
-  stock: 18
+  stock: 8
 },
     {
   nombre: "5379JABONERA CON CAJÓN",
@@ -1896,7 +1886,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen361.jpeg",
-  stock: 7
+  stock: 5
 },
        {
   nombre: "5383FOCO LED 30W",
@@ -2824,7 +2814,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen500.png",
-  stock: 4
+  stock: 3
 },
          {
   nombre: "5586JUEGO DE 10 GANCHOS CLIP",
@@ -2925,7 +2915,7 @@ const productos = [
    "6": 3.55
        },
   imagen: "Img/Imagen510.png",
-  stock: 10
+  stock: 6
 },
    {
   nombre: "5608MONEDERO PARA DAMA",
@@ -2957,7 +2947,7 @@ const productos = [
    "3": 1.95,
        },
   imagen: "Img/Imagen512.png",
-  stock: 8
+  stock: 5
 },
        {
   nombre: "5616SET DE 5 TAPERS",
@@ -3020,6 +3010,7 @@ const productos = [
   stock: 12
 },
 ];
+
 
 
 
