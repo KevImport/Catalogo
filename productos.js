@@ -2981,7 +2981,7 @@ const productos = [
    "3": 5.95,
        },
   imagen: "Img/Imagen515.png",
-  stock: 4
+  stock: 3
 },
            {
   nombre: "5620PASTILLERO FLOR",
@@ -3010,6 +3010,7 @@ const productos = [
   stock: 12
 },
 ];
+
 
 
 
