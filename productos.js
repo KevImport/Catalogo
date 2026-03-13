@@ -1017,17 +1017,6 @@ const productos = [
   imagen: "Img/Imagen216.jpeg",
   stock: 22
 },
-  {
-  nombre: "5140SPRAY PARA EL DOLOR INSTANTANEO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Para deportistas, artritis, dolores musculares y nervio ciática.",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
- },
-  imagen: "Img/Imagen217.jpeg",
-  stock: 20
-},
    {
   nombre: "5142PACK ASEO DENTAL",
   categoria: "Higiene / Cuidado Personal",
@@ -1193,17 +1182,6 @@ const productos = [
  },
   imagen: "Img/Imagen250.png",
   stock: 2
-},
-{
-  nombre: "5234MEDIAS DE COMPRESIÓN",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Mejoran la circulación y oxigenación de pies y piernas. Ideales para running, ciclismo, fútbol, básquet y más. Resistencia, comodidad y durabilidad en cada uso.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
- },
-  imagen: "Img/Imagen255.jpeg",
-  stock: 4
 },
  {
   nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
@@ -1853,7 +1831,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen358.jpeg",
-  stock: 14
+  stock: 2
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -1861,11 +1839,10 @@ const productos = [
   descripcion: "Texturas suaves y elásticas perfectas para moldear, aplastar y crear. Incluye 24 unidades en colores variados para horas de diversión. Ideal para niños, manualidades, regalos y actividades sensoriales.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
+   "3": 3.95
   },
   imagen: "Img/Imagen359.jpeg",
-  stock: 8
+  stock: 4
 },
     {
   nombre: "5379JABONERA CON CAJÓN",
@@ -2970,7 +2947,7 @@ const productos = [
    "12": 2.45,
        },
   imagen: "Img/Imagen514.jpeg",
-  stock: 15
+  stock: 12
 },
          {
   nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
@@ -3010,6 +2987,7 @@ const productos = [
   stock: 12
 },
 ];
+
 
 
 
