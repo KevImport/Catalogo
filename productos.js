@@ -2588,7 +2588,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen476.png",
-  stock: 20
+  stock: 14
 },
      {
   nombre: "5553PEGATINA DE PARED - BLANCO",
