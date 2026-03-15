@@ -2113,7 +2113,7 @@ const productos = [
    "1": 54.90,
      },
   imagen: "Img/Imagen399.png",
-  stock: 9
+  stock: 1
 }, 
     {
   nombre: "5452CARGADOR REDD DE 75W + CABLE TIPO C",
@@ -2846,7 +2846,7 @@ const productos = [
    "1": 16.90,
        },
   imagen: "Img/Imagen507.png",
-  stock: 7
+  stock: 5
 },
                {
   nombre: "5596SOQUETE CON ENCHUFE E INTERRUPTOR",
@@ -2986,7 +2986,107 @@ const productos = [
   imagen: "Img/Imagen517.jpeg",
   stock: 12
 },
+     {
+  nombre: "5627REMOVEDOR DE ADHESIVO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Removedor de adhesivo es la solución versátil para eliminar adhesivos difíciles y residuos pegajosos, su diseño fácil de usar hace que sea muy fácil de usar, rocía y limpia. Capacidad: 100ml",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+       },
+  imagen: "Img/Imagen519.png",
+  stock: 3
+},
+     {
+  nombre: "5628CEPILLO DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Cepillo para detalles difíciles. Ideal para tapas, termos, botellas y rincones pequeños.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+       },
+  imagen: "Img/Imagen520.jpeg",
+  stock: 27
+},
+    {
+  nombre: "5629GANCHO CLIP BANANA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus snacks y alimentos frescos sellando bolsas fácilmente. Diseño en forma de plátano que también funciona como imán para el refrigerador. Ideal para organizar bolsas en la despensa.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+       },
+  imagen: "Img/Imagen521.jpeg",
+  stock: 10
+},
+    {
+  nombre: "5630PACK DE 6 MANIJAS ADHESIVAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prácticas manijas autoadhesivas para puertas, cajones o ventanas. Fácil instalación sin perforar ni usar herramientas. Ideales para mejorar el agarre y la comodidad en el hogar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "Img/Imagen522.jpeg",
+  stock: 10
+},
+    {
+  nombre: "5631COFRE CORAZÓN",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 5.5 x 3.5 cm, pequeño y encantador. Ideal para guardar anillos, aretes u objetos pequeños. Color al azar, perfecto para regalar o decorar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+       },
+  imagen: "Img/Imagen523.jpeg",
+  stock: 34
+},
+   {
+  nombre: "5632MOLDE PARA MINI GOMITAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para preparar gomitas, chocolates o gelatinas caseras. Material flexible y fácil de desmoldar. Perfecto para hacer dulces creativos en casa.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+       },
+  imagen: "Img/Imagen524.jpeg",
+  stock: 21
+},
+       {
+  nombre: "5635SOPORTE ADHESIVO PARA LENTES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico organizador de pared con diseño de conejito. Instalación fácil con adhesivo, sin perforar la pared. Ideal para guardar lentes, gafas o pequeños accesorios.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+       },
+  imagen: "Img/Imagen525.jpeg",
+  stock: 14
+},
+         {
+  nombre: "5637ESTUCHE ORGANIZADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Estuche de gran capacidad ideal para guardar lápices, plumones y útiles. Diseño transparente que permite ver el contenido fácilmente. Apilable, resistente y con cierre seguro para mantener todo organizado.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.45,
+       },
+  imagen: "Img/Imagen526.jpeg",
+  stock: 23
+},
 ];
+
 
 
 
