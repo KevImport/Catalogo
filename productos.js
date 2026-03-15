@@ -1195,17 +1195,6 @@ const productos = [
   stock: 4
 },
   {
-  nombre: "5236ORGANIZADOR DE ALIMENTOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ahorra espacio en tu nevera sin volcarse. Con asas prácticas para fácil transporte. Hecha de PP duradero y ecológico, ideal para hogar, trabajo o picnic.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
- },
-  imagen: "Img/Imagen257.jpeg",
-  stock: 3
-},
-  {
   nombre: "5244INDIVIDUALES REDONDOS ROJOS",
   categoria: "Navidad / Regalos",
   descripcion: "Hechos de polipropileno tejido, resistentes y duraderos. Color rojo elegante que protege y decora tu mesa con estilo. Ideales para uso diario o para lucir en ocasiones especiales.",
