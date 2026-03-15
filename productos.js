@@ -2460,10 +2460,10 @@ const productos = [
    "1": 4.95,
    "3": 3.55,
    "6": 3.25,
-   "11": 2.95,
+   "10": 2.95,
      },
   imagen: "Img/Imagen463.jpeg",
-  stock: 11
+  stock: 10
 },
    {
   nombre: "5528PAÑITOS HUMEDOS DOY PACK",
@@ -2690,7 +2690,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen489.jpeg",
-  stock: 17
+  stock: 16
 },
         {
   nombre: "5573CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
@@ -3086,6 +3086,7 @@ const productos = [
   stock: 23
 },
 ];
+
 
 
 
