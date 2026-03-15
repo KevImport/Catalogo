@@ -526,7 +526,7 @@ const productos = [
     "2": 3.90,
   },
   imagen: "Img/Imagen113.jpg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "2481TACHO KAWAII",
@@ -2227,7 +2227,7 @@ const productos = [
    "6": 1.95,
      },
   imagen: "Img/Imagen431.jpeg",
-  stock: 17
+  stock: 13
 },
         {
   nombre: "5485ABACO VERTICAL",
