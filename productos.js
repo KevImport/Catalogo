@@ -1842,7 +1842,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen360.png",
-  stock: 9
+  stock: 6
 },
    {
   nombre: "5381CELULAR EDUCATIVO",
@@ -2383,10 +2383,9 @@ const productos = [
   descripcion: "Sello de gel de larga duración, mantiene el inodoro limpio y perfumado en cada descarga. Incluye dispensador + gel, limpieza. desodorizante práctico y sin contacto.",
   precios: {
    "1": 9.95,
-   "3": 8.95,
      },
   imagen: "Img/Imagen454.jpeg",
-  stock: 3
+  stock: 2
 },
           {
   nombre: "5516SET DE 12 COLORES LARGOS + TAJADOR ALPHA",
