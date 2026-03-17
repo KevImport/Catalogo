@@ -2095,16 +2095,6 @@ const productos = [
   stock: 2
 },
     {
-  nombre: "5510SET DE 168 PLUMONES DUAL BRUSH",
-  categoria: "Escolar / Papelería",
-  descripcion: "SET DE ROTULADORES DOBLE PUNTA – 168 COLORES - ¡Potencia tu creatividad con este set profesional de 168 marcadores de doble punta, que incluye un practico estuche organizador portátil! Ideales para dibujo y caligrafía, ofrecen una punta pincel flexible para trazos artísticos y una punta fina para detalles precisos en cada proyecto.",
-  precios: {
-   "1": 54.90,
-     },
-  imagen: "Img/Imagen399.png",
-  stock: 1
-}, 
-    {
   nombre: "5452CARGADOR REDD DE 75W + CABLE TIPO C",
   categoria: "Electrónica / Gadgets",
   descripcion: "Carga súper rápida para celulares, tablets y laptops compatibles. Incluye cable Tipo C resistente y de alto rendimiento. Ideal para uso diario, viajes y carga eficiente sin esperar horas.",
@@ -2404,11 +2394,9 @@ const productos = [
   descripcion: "Colores intensos y duraderos para un pintado uniforme. Incluye tajador para mayor practicidad. Ideal para colegio, tareas y trabajos creativos.",
   precios: {
    "1": 5.95,
-   "3": 4.55,
-   "6": 4.35,
      },
   imagen: "Img/Imagen459.jpeg",
-  stock: 8
+  stock: 2
 },
             {
   nombre: "5518ACEITE DE ARGÁN",
@@ -2534,17 +2522,6 @@ const productos = [
   imagen: "Img/Imagen472.jpeg",
   stock: 4
 },
-         {
-  nombre: "5546LIMPIADOR DE HORNILLAS MR. WHITE 450ML",
-  categoria: "Hogar / Cocina",
-  descripcion: "Elimina grasa difícil y suciedad incrustada al instante. Poderosa espuma activa con agradable aroma a limón. Ideal para cocinas, parrillas, planchas y superficies de acero inoxidable.",
-  precios: {
-   "1": 7.95,
-   "3": 6.85,
-     },
-  imagen: "Img/Imagen473.png",
-  stock: 3
-},
           {
   nombre: "5547SET DE 10 PAQUETES DE HISOPOS",
   categoria: "Higiene / Cuidado Personal",
@@ -2657,19 +2634,7 @@ const productos = [
   imagen: "Img/Imagen487.jpeg",
   stock: 1
 },
-    {
-  nombre: "5571TAJADOR CUTE",
-  categoria: "Escolar / Papelería",
-  descripcion: "Diseño adorable con bolitas de colores, ideal para niños y amantes del estilo kawaii. Afila de forma rápida y limpia, incluye depósito para residuos. Perfecto para el cole, escritorio o como regalo cute.",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-   "6": 2.25,
-     },
-  imagen: "Img/Imagen488.jpeg",
-  stock: 9
-},
-      {
+       {
   nombre: "5572ORGANIZADOR DE ESCRITORIO MULTINIVEL",
   categoria: "Escolar / Papelería",
   descripcion: "Ideal para plumones, lapiceros, resaltadores y accesorios. Diseño inclinado y compartimentos visibles para fácil acceso. Mantén tu escritorio ordenado, moderno y práctico.",
