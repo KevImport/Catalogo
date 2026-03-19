@@ -2664,7 +2664,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 15
+  stock: 3
 },
           {
   nombre: "5576NECESER WASHBAG",
@@ -3010,7 +3010,7 @@ const productos = [
    "12": 1.95,
        },
   imagen: "Img/Imagen524.jpeg",
-  stock: 21
+  stock: 9
 },
        {
   nombre: "5635SOPORTE ADHESIVO PARA LENTES",
@@ -3020,10 +3020,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
        },
   imagen: "Img/Imagen525.jpeg",
-  stock: 14
+  stock: 8
 },
          {
   nombre: "5637ESTUCHE ORGANIZADOR",
