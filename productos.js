@@ -2758,16 +2758,6 @@ const productos = [
   imagen: "Img/Imagen505.png",
   stock: 11
 },
-                 {
-  nombre: "5595FORRO PARA COLCHÓN 2 PLAZAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Protege tu colchón de polvo, manchas y derrames. Cómodo, resistente y fácil de lavar. Modelo según disponibilidad.",
-  precios: {
-   "1": 16.90,
-       },
-  imagen: "Img/Imagen507.png",
-  stock: 5
-},
                {
   nombre: "5596SOQUETE CON ENCHUFE E INTERRUPTOR",
   categoria: "Hogar / Cocina",
