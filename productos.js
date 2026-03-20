@@ -2019,7 +2019,7 @@ const productos = [
    "1": 20.90,
      },
   imagen: "Img/Imagen396.jpeg",
-  stock: 5
+  stock: 3
 },
     {
   nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
@@ -2248,7 +2248,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen440.jpeg",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "5495SET DE 10 PLUMONES INDELEBLES DELGADO - DOBLE PUNTA",
