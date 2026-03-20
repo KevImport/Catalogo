@@ -313,10 +313,9 @@ const productos = [
   precios: {
     "1": 3.90,
     "3": 2.60,
-    "6": 2.30,
   },
   imagen: "Img/Imagen87.jpg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "3613CAJA DE JOYERÍA",
@@ -1061,7 +1060,7 @@ const productos = [
     "12": 1.25,
  },
   imagen: "Img/Imagen221.jpeg",
-  stock: 40
+  stock: 19
 },
   {
   nombre: "5148SET DE 10 PROTECTORES DE HORNILLAS",
@@ -1084,17 +1083,6 @@ const productos = [
  },
   imagen: "Img/Imagen226.png",
   stock: 6
-},
- {
-  nombre: "5152CERA EN BARRA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Para los peinados por de vuelta al cole. Facilita el peinado, Evita el frizz, Nutre tu cabello. Tamaño ideal para llevar en tu bolso a todas partes. Controla baby Hair (cabellitos pequeños). Fácil y rápido de aplicar",
-  precios: {
-    "1": 8.90,
-    "3": 7.90,
- },
-  imagen: "Img/Imagen227.png",
-  stock: 1
 },
  {
   nombre: "5169PACK DE 10 BOLSITAS DULCERAS",
@@ -2260,7 +2248,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen440.jpeg",
-  stock: 8
+  stock: 4
 },
   {
   nombre: "5495SET DE 10 PLUMONES INDELEBLES DELGADO - DOBLE PUNTA",
@@ -2418,16 +2406,6 @@ const productos = [
   imagen: "Img/Imagen461.jpeg",
   stock: 4
 },
-       {
-  nombre: "5525CREMA DE EXFOLIANTE DE CAFÉ 300ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Crema exfoliante de café 300 ml. Elimina células muertas, suaviza tu piel y activa la circulación. ¡Piel radiante al instante!",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen462.jpeg",
-  stock: 1
-},
    {
   nombre: "5527SOPORTE DE CELULAR GIRATORIO",
   categoria: "Electrónica / Gadgets",
@@ -2450,17 +2428,6 @@ const productos = [
      },
   imagen: "Img/Imagen464.jpeg",
   stock: 1
-},
-   {
-  nombre: "5532JABON LIQUIDO ANTIBACTERIAL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Elimina bacterias y gérmenes, limpieza profunda y efectiva. Suave con la piel, ideal para manos y cuerpo. Perfecto para uso diario de toda la familia.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "Img/Imagen465.jpeg",
-  stock: 3
 },
    {
   nombre: "5533PERCHERO DECORATIVO",
