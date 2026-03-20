@@ -2028,7 +2028,7 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
   precios: {
-   "1": 25.95,
+   "1": 20.90,
      },
   imagen: "Img/Imagen396.jpeg",
   stock: 5
@@ -2405,7 +2405,7 @@ const productos = [
    "1": 10.90,
      },
   imagen: "Img/Imagen460.jpeg",
-  stock: 5
+  stock: 4
 },
       {
   nombre: "5520CARTUCHERA 3D",
