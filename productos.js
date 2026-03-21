@@ -875,16 +875,6 @@ const productos = [
   stock: 9
 },
 {
-  nombre: "5078PERFUME DE MUJER JPS23 - DUPE SCANDAL",
-  categoria: "Perfumeria",
-  descripcion: "DUPE: Scandal Aroma seductor y femenino con un toque atrevido. Diseño único con piernas en tacones ¡pura actitud!. Ideal para destacar donde vayas. Contenido: 250ml.",
-  precios: {
-    "1": 13.95
- },
-  imagen: "Img/Imagen186.jpeg",
-  stock: 3
-},
-{
   nombre: "5079BANDEJA ARAÑA",
   categoria: "Decoración / Fiesta",
   descripcion: "¡Decoración terrorífica y divertida!. Canastitas con diseño de telaraña. Perfectas para dulces, snacks o decorar en Halloween.",
@@ -2588,7 +2578,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen486.jpeg",
-  stock: 7
+  stock: 1
 },
     {
   nombre: "5569SET GUACHA Y RODILLO DE JADE",
