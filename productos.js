@@ -2983,6 +2983,84 @@ const productos = [
   imagen: "Img/Imagen526.jpeg",
   stock: 23
 },
+         {
+  nombre: "5640SET DE 3 SECADORES SANRIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Paños de microfibra, super suaves. Medida: 30 x 30 cm, ideales para secar manos o superficies. Le dan un toque tierno a tu cocina o baño.",
+  precios: {
+   "1": 4.95,
+       },
+  imagen: "Img/Imagen527.jpg",
+  stock: 2
+},
+         {
+  nombre: "5641TAPER DE DOS DIVISIONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico contenedor con divisiones para guardar condimentos o snacks. Medida: 10 x 18 x 6 cm, ideal para cocina o lonchera. Tapa segura que mantiene los alimentos frescos y ordenados.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.45, 
+       },
+  imagen: "Img/Imagen528.jpeg",
+  stock: 24
+},
+         {
+  nombre: "5642JUEGOS DE 3 CEPILLOS Y 2 ESPÁTULAS DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Potencia tu limpieza con este Set Pro de 5 Piezas! Incluye 3 cepillos de alambre y 2 raspadores para eliminar grasa quemada y óxido en segundos. Ideal para dejar tu cocina, parrilla y juntas impecables sin esfuerzo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "Img/Imagen529.jpeg",
+  stock: 11
+},
+         {
+  nombre: "5643PACK DE ALMOHADILLAS DE FIELTRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protegen muebles, puertas y pisos de rayones y golpes. Reducen el ruido al mover sillas o cerrar gabinetes. Fáciles de colocar, adhesivas y duraderas para el hogar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+       },
+  imagen: "Img/Imagen530.jpeg",
+  stock: 9
+},
+         {
+  nombre: "5646CONTENEDOR PARA CEREALES Y FIDEOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para almacenar cereales, fideos y alimentos secos. Medida: 8 x 28 cm, práctico y ahorra espacio. Mantiene la frescura y organiza tu cocina fácilmente.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+       },
+  imagen: "Img/Imagen531.jpeg",
+  stock: 15
+},
+           {
+  nombre: "5648QUITAPELUSA PINGÜINO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+       },
+  imagen: "Img/Imagen532.png",
+  stock: 3
+},
+           {
+  nombre: "5650SET DE BROCHAS DE MAQUILLAJE",
+  categoria: "Belleza / Cosmética",
+  descripcion: "El juego incluye brocha de base, brocha de maquillaje, brocha de sombra, brocha de colorete, brocha de sombra de ojos, brocha de labios, etc. Las fibras artificiales suaves y finas reducen el daño a la piel. Color al azar.",
+  precios: {
+   "1": 5.95,
+       },
+  imagen: "Img/Imagen533.jpeg",
+  stock: 1
+},
 ];
 
 
