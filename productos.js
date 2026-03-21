@@ -1820,7 +1820,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen360.png",
-  stock: 6
+  stock: 3
 },
    {
   nombre: "5381CELULAR EDUCATIVO",
@@ -2363,7 +2363,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen454.jpeg",
-  stock: 2
+  stock: 1
 },
           {
   nombre: "5516SET DE 12 COLORES LARGOS + TAJADOR ALPHA",
