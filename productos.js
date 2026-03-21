@@ -1627,17 +1627,6 @@ const productos = [
   imagen: "Img/Imagen332.jpeg",
   stock: 7
 },
-          {
-  nombre: "5340PORTA TOALLITAS HÚMEDAS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Cierre Hermético. Fácil de Usar. ️Bolsa dispensadora. Delgado para llevarlo en el bolso, pañalera, etc.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen333.png",
-  stock: 4
-},
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
   categoria: "Hogar / Cocina",
@@ -1777,7 +1766,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen358.jpeg",
-  stock: 2
+  stock: 1
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -2972,19 +2961,7 @@ const productos = [
   imagen: "Img/Imagen528.jpeg",
   stock: 24
 },
-         {
-  nombre: "5642JUEGOS DE 3 CEPILLOS Y 2 ESPÁTULAS DE LIMPIEZA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Potencia tu limpieza con este Set Pro de 5 Piezas! Incluye 3 cepillos de alambre y 2 raspadores para eliminar grasa quemada y óxido en segundos. Ideal para dejar tu cocina, parrilla y juntas impecables sin esfuerzo.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-       },
-  imagen: "Img/Imagen529.jpeg",
-  stock: 11
-},
-         {
+                  {
   nombre: "5643PACK DE ALMOHADILLAS DE FIELTRO",
   categoria: "Hogar / Cocina",
   descripcion: "Protegen muebles, puertas y pisos de rayones y golpes. Reducen el ruido al mover sillas o cerrar gabinetes. Fáciles de colocar, adhesivas y duraderas para el hogar.",
