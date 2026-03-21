@@ -900,16 +900,6 @@ const productos = [
   stock: 28
 },
 {
-  nombre: "5095AGENDA A5",
-  categoria: "Escolar / Papelería",
-  descripcion: "Agenda anillada A5 con diseños surtidos y 50 hojas. Ideal para notas, apuntes o planificar tu día con estilo. Perfecta para llevar en tu bolso o mochila y tener tus ideas siempre a mano.",
-  precios: {
-    "1": 4.95,
- },
-  imagen: "Img/Imagen195.jpeg",
-  stock: 1
-},
-{
   nombre: "5104FLORERO CON FLORES ARTIFICIALES",
   categoria: "Hogar / Cocina",
   descripcion: "Arreglo floral colorido y elegante, ideal para decorar tu hogar u oficina. Sin mantenimiento y siempre hermoso.",
@@ -1027,17 +1017,6 @@ const productos = [
  },
   imagen: "Img/Imagen219.jpeg",
   stock: 29
-},
- {
-  nombre: "5144CREMA DE MANOS DE ARROZ BIOAQUA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Hidratación profunda y duradera. Suaviza y nutre la piel. Práctica para llevar a todas partes.",
-  precios: {
-    "1": 2.95,
-    "3": 1.85,
- },
-  imagen: "Img/Imagen220.png",
-  stock: 4
 },
   {
   nombre: "5141GANCHO GIRATORIO FULL SPACE",
@@ -1239,7 +1218,7 @@ const productos = [
    "1": 6.95,
  },
   imagen: "Img/Imagen272.png",
-  stock: 4
+  stock: 1
 },
   {
   nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
@@ -2215,10 +2194,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.95,
-   "6": 3.65,
      },
   imagen: "Img/Imagen438.jpeg",
-  stock: 10
+  stock: 4
 },
           {
   nombre: "5492DIDÁCTICO DE MADERA GEOMÉTRICO",
@@ -2309,19 +2287,7 @@ const productos = [
   imagen: "Img/Imagen448.jpeg",
   stock: 2
 },
-       {
-  nombre: "5502PAQUETE DE 10 MICAS A4",
-  categoria: "Escolar / Papelería",
-  descripcion: "Protege tus documentos del polvo, humedad y dobleces, manteniéndolos siempre como nuevos. Ideal para oficina, colegio o presentaciones, práctica y lista para usar.",
-  precios: {
-   "1": 5.95,
-   "3": 4.25,
-   "5": 3.95,
-     },
-  imagen: "Img/Imagen449.jpeg",
-  stock: 5
-},
-  {
+    {
   nombre: "5504JUEGO DE LABERINTO",
   categoria: "Escolar / Papelería",
   descripcion: "Medida aprox.: 11 × 9 × 9 cm. Desafía la lógica y la coordinación. Ideal para niños y entretenimiento educativo.",
