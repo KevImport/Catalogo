@@ -2965,11 +2965,10 @@ const productos = [
   descripcion: "Práctico organizador de pared con diseño de conejito. Instalación fácil con adhesivo, sin perforar la pared. Ideal para guardar lentes, gafas o pequeños accesorios.",
   precios: {
    "1": 3.95,
-   "3": 2.55,
-   "6": 2.25,
+   "2": 2.55,
        },
   imagen: "Img/Imagen525.jpeg",
-  stock: 8
+  stock: 2
 },
          {
   nombre: "5637ESTUCHE ORGANIZADOR",
