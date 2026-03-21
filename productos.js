@@ -3061,6 +3061,19 @@ const productos = [
   imagen: "Img/Imagen533.jpeg",
   stock: 1
 },
+           {
+  nombre: "5651DISPENSADOR DE CINTA DE EMBALAJE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fácil de usar, rápido para cortar. Material: plástico",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+   "12": 2.65,
+       },
+  imagen: "Img/Imagen534.jpeg",
+  stock: 21
+},
 ];
 
 
