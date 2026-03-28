@@ -2938,7 +2938,7 @@ const productos = [
    "12": 2.45, 
        },
   imagen: "Img/Imagen528.jpeg",
-  stock: 24
+  stock: 18
 },
                   {
   nombre: "5643PACK DE ALMOHADILLAS DE FIELTRO",
@@ -2962,18 +2962,7 @@ const productos = [
   imagen: "Img/Imagen531.jpeg",
   stock: 15
 },
-           {
-  nombre: "5648QUITAPELUSA PINGÜINO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Di adiós a las molestas pelusas, motas y pelitos de ropa en segundos. Su diseño en forma de pingüino lo hace práctico y divertido a la vez. Ideal para abrigos, suéteres, pantalones y más. Portátil y fácil de llevar en la cartera o mochila.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-       },
-  imagen: "Img/Imagen532.png",
-  stock: 3
-},
-           {
+              {
   nombre: "5650SET DE BROCHAS DE MAQUILLAJE",
   categoria: "Belleza / Cosmética",
   descripcion: "El juego incluye brocha de base, brocha de maquillaje, brocha de sombra, brocha de colorete, brocha de sombra de ojos, brocha de labios, etc. Las fibras artificiales suaves y finas reducen el daño a la piel. Color al azar.",
@@ -2991,10 +2980,9 @@ const productos = [
    "1": 4.95,
    "3": 3.25,
    "6": 2.95,
-   "12": 2.65,
        },
   imagen: "Img/Imagen534.jpeg",
-  stock: 21
+  stock: 9
 },
 ];
 
