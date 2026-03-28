@@ -2110,17 +2110,6 @@ const productos = [
   stock: 7
 },
    {
-  nombre: "5472SET DE 12 LÁPICES CHEQUEO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Incluye borrador integrado para correcciones rápidas. Ideales para chequeo, marcado y uso escolar. Perfectos para colegio, academia u oficina.",
-  precios: {
-   "1": 5.95,
-   "3": 4.85,
-     },
-  imagen: "Img/Imagen425.jpeg",
-  stock: 3
-},
-   {
   nombre: "5475GOMA EN BARRA - 40 GRAMOS",
   categoria: "Escolar / Papelería",
   descripcion: "Pega en forma rápida, limpia y sencilla; papel, fotos, cartón, cartulina, tela, etc. Tapa hermética que garantiza un pegamento fresco. Ideal para el colegio, hogar y oficina.",
@@ -2196,16 +2185,6 @@ const productos = [
      },
   imagen: "Img/Imagen439.jpeg",
   stock: 8
-},
- {
-  nombre: "5493SHAMPOO DE SÁBILA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Estimula el CRECIMIENTO del cabello. Aporta BRILLO y SUAVIDAD. Reduce la caída. Fortalece la raíz. Hidrata y nutre el cuero cabelludo.",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "Img/Imagen440.jpeg",
-  stock: 3
 },
   {
   nombre: "5495SET DE 10 PLUMONES INDELEBLES DELGADO - DOBLE PUNTA",
