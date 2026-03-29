@@ -2984,6 +2984,125 @@ const productos = [
   imagen: "Img/Imagen534.jpeg",
   stock: 9
 },
+             {
+  nombre: "5652BÁLSAMO LABIAL HIDRATANTE DE 5ML",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Hidrata y protege los labios del resecamiento. Ideal para llevar a todos lados y uso diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "5": 3.25,
+       },
+  imagen: "Img/Imagen535.jpeg",
+  stock: 5
+},
+               {
+  nombre: "5655LABIAL TINTA DISEÑO CANDADO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Labial tinta con original diseño en forma de candado. Color intenso y duradero para resaltar tus labios. Compacto y elegante, ideal para llevar en tu cartera. Color al azar",
+  precios: {
+   "1": 4.95,
+       },
+  imagen: "Img/Imagen536.jpeg",
+  stock: 2
+},
+               {
+  nombre: "5657REPISA HUMANOIDE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Multiusos para el hogar. Organiza tu cocina, lavandería, librería y baño con este estante. Listo para armar y pegar donde usted desee.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+       },
+  imagen: "Img/Imagen537.jpeg",
+  stock: 17
+},
+               {
+  nombre: "5663SET DE MINI TENEDORES MINNIE",
+  categoria: "Escolar / Papelería",
+  descripcion: "Mini tenedores con diseño adorable de Minnie, perfectos para loncheras y snacks. Ideales para frutas, postres, gelatina y bocaditos. Reutilizables, prácticos y fáciles de lavar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+       },
+  imagen: "Img/Imagen538.jpeg",
+  stock: 9
+},
+               {
+  nombre: "5664SET DE MINI TENEDORES ANIMALITOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Mini tenedores con divertidos diseños de animalitos. Ideales para frutas, snacks y loncheras. Prácticos, reutilizables y perfectos para niños.",
+  precios: {
+   "1": 2.95,
+       },
+  imagen: "Img/Imagen539.jpeg",
+  stock: 2
+},
+       {
+  nombre: "5665PACK DE 3 GORRAS PARA DUCHA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protegen tu cabello del agua y la humedad. Material impermeable, cómodo y reutilizable. Incluye 3 unidades, ideal para uso diario o familiar.",
+  precios: {
+   "1": 3.95,
+       },
+  imagen: "Img/Imagen540.jpeg",
+  stock: 2
+},
+       {
+  nombre: "5666PINZA TRENZADA PARA CABELLO",
+  categoria: "Accesorios",
+  descripcion: "Diseño tipo trenza que brinda un look elegante al instante. Tamaño aproximado: 12.5 cm. Color al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.65,
+       },
+  imagen: "Img/Imagen541.jpeg",
+  stock: 3
+},
+       {
+  nombre: "5668UNGÜENTO DE CANNABIS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alivio natural para dolores y molestias. Ideal para masajes, relaja y desinflama.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+       },
+  imagen: "Img/Imagen542.jpeg",
+  stock: 6
+},
+         {
+  nombre: "5669BOLSO EXPANDIBLE",
+  categoria: "Accesorios",
+  descripcion: "Novedoso Bolso plegable, ideal para maternidad, viajar, para ir al gym, a la playa o para ir de paseo y necesitas llevar varias cosas. Material: Oxford impermeable. Adaptable a maleta de viaje. Color al azar.",
+  precios: {
+   "1": 10.95,
+       },
+  imagen: "Img/Imagen543.jpeg",
+  stock: 4
+},
+           {
+  nombre: "5670SET DE 12 BOLSAS DISEÑO FÚTBOL",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Diseños deportivos ideales para fanáticos del fútbol. Material resistente con asas cómodas para transportar, medida: 22 x 23 x 11 cm. Perfecta para cumpleaños, sorpresas y ocasiones especiales.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "Img/Imagen544.jpeg",
+  stock: 3
+},
+           {
+  nombre: "5671SET DE 3 BOWLS CON TAPA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diámetros de 12, 14 y 16 cm, perfectos para guardar o servir alimentos. Prácticos, apilables y con tapas — ¡mantén todo fresco y ordenado!.",
+  precios: {
+   "1": 8.95,
+       },
+  imagen: "Img/Imagen545.jpeg",
+  stock: 2
+},
+];
 ];
 
 
