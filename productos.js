@@ -2635,7 +2635,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen500.png",
-  stock: 3
+  stock: 6
 },
          {
   nombre: "5586JUEGO DE 10 GANCHOS CLIP",
@@ -3217,6 +3217,16 @@ const productos = [
        },
   imagen: "Img/Imagen554.jpeg",
   stock: 16
+},
+    {
+  nombre: "5598OXÍMETRO DE PULSO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Mide oxígeno en sangre y pulso en segundos. Pantalla digital clara y fácil de usar.",
+  precios: {
+   "1": 17.95,
+       },
+  imagen: "Img/Imagen556.png",
+  stock: 3
 },
 ];
 ];
