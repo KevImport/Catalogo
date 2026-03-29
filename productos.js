@@ -3142,7 +3142,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen549.jpeg",
-  stock: 15
+  stock: 14
 },
                    {
   nombre: "5679CINTA IMPERMEABLE ANTIMOHO",
@@ -3165,7 +3165,7 @@ const productos = [
    "1": 3.95,
        },
   imagen: "Img/Imagen551.png",
-  stock: 2
+  stock: 1
 },
             {
   nombre: "5682MALLA PROTECTORA DE PLANCHADO",
@@ -3187,10 +3187,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.25,
-   "6": 1.95,
        },
   imagen: "Img/Imagen552.jpeg",
-  stock: 6
+  stock: 3
 },
     {
   nombre: "5685SET DE 3 CORRECTORES DE ESCRITURA",
@@ -3216,7 +3215,7 @@ const productos = [
    "12": 2.95,
        },
   imagen: "Img/Imagen554.jpeg",
-  stock: 16
+  stock: 13
 },
     {
   nombre: "5598OXÍMETRO DE PULSO",
