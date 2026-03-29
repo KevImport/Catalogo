@@ -3102,6 +3102,122 @@ const productos = [
   imagen: "Img/Imagen545.jpeg",
   stock: 2
 },
+             {
+  nombre: "5672PERFUME INDIAN COLLECTION BB274",
+  categoria: "Perfumeria",
+  descripcion: "Fragancia masculina inspirada en Bad Boy de Carolina Herrera, con aroma intenso y seductor. Capacidad: 100ML",
+  precios: {
+   "1": 13.95,
+       },
+  imagen: "Img/Imagen546.jpeg",
+  stock: 2
+},
+             {
+  nombre: "5673PERFUME DE MUJER PRF186",
+  categoria: "Perfumeria",
+  descripcion: "Dupe Fame Blooming Pink Paco Rabanne. Ideal para uso diario o para destacar en ocasiones especiales. Capacidad: 100ML",
+  precios: {
+   "1": 13.95,
+       },
+  imagen: "Img/Imagen547.jpeg",
+  stock: 3
+},
+               {
+  nombre: "5675SET DE 5 BOLSAS AL VACÍO + SUCCIONADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ahorra espacio y mantén tu ropa protegida. Ideal para viajes y organización del hogar. Incluye succionador manual, fácil y práctico de usar.",
+  precios: {
+   "1": 13.95,
+       },
+  imagen: "Img/Imagen548.jpeg",
+  stock: 2
+},
+                 {
+  nombre: "5677SET DE 2 FUNDAS PARA LIMPIEZA DE PISOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Material de microfibra súper absorbente que atrapa polvo y suciedad. Ideal para limpiar mientras caminas, práctica y divertida. Reutilizable, lavable y perfecta para el hogar. Medida: 17 x 15 cm, color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "Img/Imagen549.jpeg",
+  stock: 15
+},
+                   {
+  nombre: "5679CINTA IMPERMEABLE ANTIMOHO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sella y protege superficies contra la humedad y filtraciones. Evita la formación de moho en baños, cocinas y lavaderos. Fácil de instalar. Resistente para una protección duradera. Color al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+       },
+  imagen: "Img/Imagen550.jpeg",
+  stock: 12
+},
+            {
+  nombre: "5681MOLDE DE PALETAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Refrescantes y divertidos! Prepara deliciosas paletas caseras de fruta o yogurt de forma fácil y rápida.",
+  precios: {
+   "1": 3.95,
+       },
+  imagen: "Img/Imagen551.png",
+  stock: 2
+},
+            {
+  nombre: "5682MALLA PROTECTORA DE PLANCHADO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 40 x 60 cm, ideal para todo tipo de prendas. Protege la ropa del calor directo y evita quemaduras. Permite el paso del vapor para un planchado seguro y eficiente.",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+   "6": 1.25,
+   "12": 0.95,
+       },
+  imagen: "Img/Imagen555.jpeg",
+  stock: 20
+},
+    {
+  nombre: "5683MOLDE PARA DONAS DE SILICONA 29 x 20 CM",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prepara deliciosas donas caseras de forma fácil y rápida. Material de silicona flexible, antiadherente y resistente al calor. Fácil de desmoldar y limpiar, ideal para horno o repostería en casa.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+       },
+  imagen: "Img/Imagen552.jpeg",
+  stock: 6
+},
+    {
+  nombre: "5685SET DE 3 CORRECTORES DE ESCRITURA",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Perfecciona tu caligrafía con estos correctores ergonómicos! Su diseño de silicona ultra suave corrige la postura al escribir, reduciendo el cansancio y brindando máximo confort.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+       },
+  imagen: "Img/Imagen553.png",
+  stock: 19
+},
+    {
+  nombre: "5686TABLERO DE PLANIFICACIÓN",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para organizar tareas diarias y fomentar hábitos en los más pequeños. Sistema visual con checks para marcar actividades completadas. Práctico, reutilizable y perfecto para casa, estudio o rutina diaria.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+       },
+  imagen: "Img/Imagen554.jpeg",
+  stock: 16
+},
 ];
 ];
 
