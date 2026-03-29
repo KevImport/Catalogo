@@ -3227,6 +3227,26 @@ const productos = [
   imagen: "Img/Imagen556.png",
   stock: 3
 },
+     {
+  nombre: "5687SET DE 168 PLUMONES DUAL BRUSH",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Organiza tu creatividad con este increíble set de 168 plumones Dual Brush, presentados en un práctico y elegante estuche negro! Con su doble punta (pincel y fina), tendrás el control total para crear lettering perfecto y colorear con un degradado impecable.",
+  precios: {
+   "1": 49.90,
+       },
+  imagen: "Img/Imagen557.png",
+  stock: 7
+},
+     {
+  nombre: "5688RECIPIENTE PARA SNACKS DISEÑO CALABAZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico recipiente ideal para frutas, dulces o frutos secos. Diseño con tapa que mantiene los snacks protegidos y organizados.",
+  precios: {
+   "1": 4.95,
+       },
+  imagen: "Img/Imagen558.jpeg",
+  stock: 7
+},
 ];
 ];
 
