@@ -3122,16 +3122,6 @@ const productos = [
   imagen: "Img/Imagen547.jpeg",
   stock: 3
 },
-               {
-  nombre: "5675SET DE 5 BOLSAS AL VACÍO + SUCCIONADOR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ahorra espacio y mantén tu ropa protegida. Ideal para viajes y organización del hogar. Incluye succionador manual, fácil y práctico de usar.",
-  precios: {
-   "1": 13.95,
-       },
-  imagen: "Img/Imagen548.jpeg",
-  stock: 2
-},
                  {
   nombre: "5677SET DE 2 FUNDAS PARA LIMPIEZA DE PISOS",
   categoria: "Hogar / Cocina",
@@ -3144,20 +3134,7 @@ const productos = [
   imagen: "Img/Imagen549.jpeg",
   stock: 14
 },
-                   {
-  nombre: "5679CINTA IMPERMEABLE ANTIMOHO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Sella y protege superficies contra la humedad y filtraciones. Evita la formación de moho en baños, cocinas y lavaderos. Fácil de instalar. Resistente para una protección duradera. Color al azar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-   "6": 3.25,
-   "12": 2.95,
-       },
-  imagen: "Img/Imagen550.jpeg",
-  stock: 12
-},
-            {
+                  {
   nombre: "5682MALLA PROTECTORA DE PLANCHADO",
   categoria: "Hogar / Cocina",
   descripcion: "Medida: 40 x 60 cm, ideal para todo tipo de prendas. Protege la ropa del calor directo y evita quemaduras. Permite el paso del vapor para un planchado seguro y eficiente.",
@@ -3192,7 +3169,7 @@ const productos = [
    "12": 2.95,
        },
   imagen: "Img/Imagen553.png",
-  stock: 16
+  stock: 13
 },
     {
   nombre: "5686TABLERO DE PLANIFICACIÓN",
