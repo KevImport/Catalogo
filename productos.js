@@ -3158,16 +3158,6 @@ const productos = [
   stock: 12
 },
             {
-  nombre: "5681MOLDE DE PALETAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Refrescantes y divertidos! Prepara deliciosas paletas caseras de fruta o yogurt de forma fácil y rápida.",
-  precios: {
-   "1": 3.95,
-       },
-  imagen: "Img/Imagen551.png",
-  stock: 1
-},
-            {
   nombre: "5682MALLA PROTECTORA DE PLANCHADO",
   categoria: "Hogar / Cocina",
   descripcion: "Medida: 40 x 60 cm, ideal para todo tipo de prendas. Protege la ropa del calor directo y evita quemaduras. Permite el paso del vapor para un planchado seguro y eficiente.",
@@ -3240,12 +3230,12 @@ const productos = [
      {
   nombre: "5688RECIPIENTE PARA SNACKS DISEÑO CALABAZA",
   categoria: "Hogar / Cocina",
-  descripcion: "Práctico recipiente ideal para frutas, dulces o frutos secos. Diseño con tapa que mantiene los snacks protegidos y organizados.",
+  descripcion: "Práctico recipiente ideal para frutas, dulces o frutos secos. Diseño con tapa que mantiene los snacks protegidos y organizados. COLOR AL AZAR",
   precios: {
    "1": 4.95,
        },
   imagen: "Img/Imagen558.jpeg",
-  stock: 7
+  stock: 8
 },
 ];
 ];
