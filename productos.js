@@ -2982,7 +2982,7 @@ const productos = [
    "6": 2.95,
        },
   imagen: "Img/Imagen534.jpeg",
-  stock: 9
+  stock: 8
 },
              {
   nombre: "5652BÁLSAMO LABIAL HIDRATANTE DE 5ML",
@@ -3203,7 +3203,7 @@ const productos = [
    "12": 2.95,
        },
   imagen: "Img/Imagen553.png",
-  stock: 19
+  stock: 16
 },
     {
   nombre: "5686TABLERO DE PLANIFICACIÓN",
