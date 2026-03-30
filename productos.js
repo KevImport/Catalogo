@@ -1116,7 +1116,7 @@ const productos = [
    "3": 2.95,
  },
   imagen: "Img/Imagen249.png",
-  stock: 10
+  stock: 6
 },
 {
   nombre: "5220JOYERO VIAJERO",
@@ -1613,7 +1613,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen332.jpeg",
-  stock: 7
+  stock: 6
 },
              {
   nombre: "5342LINTERNA DE LARGO ALCANCE",
@@ -1659,17 +1659,6 @@ const productos = [
   },
   imagen: "Img/Imagen343.jpg",
   stock: 5
-},
-      {
-  nombre: "5360ESTUCHE DE 20 COLET KAWAII",
-  categoria: "Accesorios",
-  descripcion: "El paquete más tierno y colorido de ligas para el cabello: ¡20 gomas elásticas con diseños de frutas, flores y/o animales! Son suaves y seguras (no dañan el cabello), perfectas para peinados diarios que encantarán a tus niñas.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen344.jpeg",
-  stock: 1
 },
         {
   nombre: "5363CINTA LED DE 3 METROS",
@@ -2183,7 +2172,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen442.jpeg",
-  stock: 5
+  stock: 4
 },
       {
   nombre: "5497CINTA MASKING TAPE DE 1\"",
@@ -2203,10 +2192,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
      },
   imagen: "Img/Imagen445.jpeg",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "5499CINTA DE EMBALAJE DE 60 YARDAS",
@@ -2230,7 +2218,7 @@ const productos = [
    "12": 3.35,
      },
   imagen: "Img/Imagen447.jpeg",
-  stock: 18
+  stock: 17
 },
       {
   nombre: "5501JUEGO DE ESCUADRAS - 5 PCS",
@@ -2351,7 +2339,7 @@ const productos = [
    "6": 4.65,
      },
   imagen: "Img/Imagen466.jpeg",
-  stock: 11
+  stock: 8
 },
        {
   nombre: "5538LAPICERO MULTITINTAS GUERRERAS KPOP",
@@ -2616,16 +2604,6 @@ const productos = [
   stock: 6
 },
          {
-  nombre: "5586JUEGO DE 10 GANCHOS CLIP",
-  categoria: "Hogar / Cocina",
-  descripcion: "Sujeción firme, no maltrata la tela. Ajustables y resistentes. Ideales para jeans, faldas y shorts.",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "Img/Imagen501.jpeg",
-  stock: 3
-},
-         {
   nombre: "5587TAPETE ABSORBENTE PARA PLATOS",
   categoria: "Hogar / Cocina",
   descripcion: "Mantiene tu cocina seca y ordenada. Súper absorbente. Medida: 40 x 30 cm. Modelos variados",
@@ -2682,7 +2660,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen506.jpg",
-  stock: 9
+  stock: 6
 },
   {
   nombre: "5601SET TECLADO Y MOUSE RECARGABLE",
