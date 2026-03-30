@@ -1084,18 +1084,6 @@ const productos = [
   imagen: "Img/Imagen239.jpeg",
   stock: 4
 },
- {
-  nombre: "5204NACIMIENTO LED",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para decorar tu hogar con un toque elegante y festivo. Perfecto como centro de mesa, altar o detalle especial en Navidad. Medida aprox.: 12 cm",
-  precios: {
-   "1": 4.95,
-   "3": 3.85,
-   "6": 3.55,
- },
-  imagen: "Img/Imagen244.jpg",
-  stock: 5
-},
 {
   nombre: "5213PACK PARCHES PARA EL DOLOR",
   categoria: "Higiene / Cuidado Personal",
@@ -2512,16 +2500,6 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen486.jpeg",
-  stock: 1
-},
-    {
-  nombre: "5569SET GUACHA Y RODILLO DE JADE",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ayuda a relajar el rostro, mejorar la circulación y reducir la hinchazón. Ideal para tu rutina de cuidado facial, efecto refrescante natural. Color al azar",
-  precios: {
-   "1": 4.95,
-     },
-  imagen: "Img/Imagen487.jpeg",
   stock: 1
 },
        {
