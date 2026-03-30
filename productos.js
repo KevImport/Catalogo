@@ -1177,16 +1177,6 @@ const productos = [
   stock: 23
 },
  {
-  nombre: "5251PALETA DE MAQUILLAJE MARIPOSA",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Incluye una amplia variedad de tonos vibrantes y elegantes para cada ocasión. Ideal para looks diarios o maquillajes más atrevidos y coloridos. Compacta y práctica, perfecta para llevar a todos lados.",
-  precios: {
-   "1": 10.95,
- },
-  imagen: "Img/Imagen266.jpeg",
-  stock: 1
-},
- {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
   categoria: "Decoración / Fiesta",
   descripcion: "Dale un toque mágico y personalizado a tus celebraciones. Perfectas para pasteles, cupcakes o postres festivos. Un detalle que ilumina momentos inolvidables.",
