@@ -1430,8 +1430,8 @@ const productos = [
    "6": 1.25,
    "12": 0.95,
   },
-  imagen: "Img/Imagen310.jpeg",
-  stock: 18
+  imagen: "Img/Imagen559.jpeg",
+  stock: 15
 },
   {
   nombre: "5315TOALLITAS HIGIÉNICAS DE NOCHE",
@@ -3169,5 +3169,16 @@ const productos = [
        },
   imagen: "Img/Imagen558.jpeg",
   stock: 8
+},
+     {
+  nombre: "5621PULSERA DISEÑO BODHI",
+  categoria: "Accesorios",
+  descripcion: "Pulsera artesanal con cuentas Bodhi, símbolo de calma, espiritualidad y protección. Ajustable y cómoda. Estilo bohemio/zen. Ideal para meditación o uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+       },
+  imagen: "Img/Imagen560.jpeg",
+  stock: 11
 },
 ];
