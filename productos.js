@@ -3118,19 +3118,6 @@ const productos = [
   stock: 13
 },
     {
-  nombre: "5686TABLERO DE PLANIFICACIÓN",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para organizar tareas diarias y fomentar hábitos en los más pequeños. Sistema visual con checks para marcar actividades completadas. Práctico, reutilizable y perfecto para casa, estudio o rutina diaria.",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-   "6": 3.25,
-   "12": 2.95,
-       },
-  imagen: "Img/Imagen554.jpeg",
-  stock: 13
-},
-    {
   nombre: "5598OXÍMETRO DE PULSO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Mide oxígeno en sangre y pulso en segundos. Pantalla digital clara y fácil de usar.",
