@@ -3012,7 +3012,7 @@ const productos = [
    "1": 13.95,
        },
   imagen: "Img/Imagen547.jpeg",
-  stock: 3
+  stock: 2
 },
                  {
   nombre: "5677SET DE 2 FUNDAS PARA LIMPIEZA DE PISOS",
