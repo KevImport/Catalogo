@@ -1765,7 +1765,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen361.jpeg",
-  stock: 5
+  stock: 2
 },
        {
   nombre: "5383FOCO LED 30W",
@@ -1871,7 +1871,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen383.jpeg",
-  stock: 3
+  stock: 2
 },
               {
   nombre: "5415SET x 12 PLUMONES MÁGICOS - CAMBIAN DE COLOR",
@@ -1923,7 +1923,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen393.jpeg",
-  stock: 2
+  stock: 1
 },
            {
   nombre: "5426ORGANIZADOR DE ROPA",
@@ -2239,10 +2239,10 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "6": 2.25,
+   "5": 2.25,
      },
   imagen: "Img/Imagen452.jpeg",
-  stock: 6
+  stock: 5
 },
  {
   nombre: "5506BOTIQUÍN VIAJERO",
@@ -2263,7 +2263,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen454.jpeg",
-  stock: 1
+  stock: 2
 },
           {
   nombre: "5516SET DE 12 COLORES LARGOS + TAJADOR ALPHA",
@@ -2470,28 +2470,6 @@ const productos = [
   imagen: "Img/Imagen484.png",
   stock: 6
 },
-  {
-  nombre: "5565SHAMPOO DE ROMERO 1100ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1100ML",
-  precios: {
-   "1": 9.90,
-     },
-  imagen: "Img/Imagen486.jpeg",
-  stock: 1
-},
-       {
-  nombre: "5572ORGANIZADOR DE ESCRITORIO MULTINIVEL",
-  categoria: "Escolar / Papelería",
-  descripcion: "Ideal para plumones, lapiceros, resaltadores y accesorios. Diseño inclinado y compartimentos visibles para fácil acceso. Mantén tu escritorio ordenado, moderno y práctico.",
-  precios: {
-   "1": 5.95,
-   "3": 4.25,
-   "6": 3.95,
-     },
-  imagen: "Img/Imagen489.jpeg",
-  stock: 16
-},
         {
   nombre: "5573CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
   categoria: "Higiene / Cuidado Personal",
@@ -2511,7 +2489,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 3
+  stock: 19
 },
           {
   nombre: "5576NECESER WASHBAG",
@@ -2943,16 +2921,6 @@ const productos = [
   stock: 5
 },
                {
-  nombre: "5655LABIAL TINTA DISEÑO CANDADO",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Labial tinta con original diseño en forma de candado. Color intenso y duradero para resaltar tus labios. Compacto y elegante, ideal para llevar en tu cartera. Color al azar",
-  precios: {
-   "1": 4.95,
-       },
-  imagen: "Img/Imagen536.jpeg",
-  stock: 2
-},
-               {
   nombre: "5657REPISA HUMANOIDE",
   categoria: "Hogar / Cocina",
   descripcion: "Multiusos para el hogar. Organiza tu cocina, lavandería, librería y baño con este estante. Listo para armar y pegar donde usted desee.",
@@ -2961,7 +2929,7 @@ const productos = [
    "3": 2.95,
        },
   imagen: "Img/Imagen537.jpeg",
-  stock: 17
+  stock: 16
 },
                {
   nombre: "5663SET DE MINI TENEDORES MINNIE",
@@ -3006,18 +2974,6 @@ const productos = [
   imagen: "Img/Imagen541.jpeg",
   stock: 3
 },
-       {
-  nombre: "5668UNGÜENTO DE CANNABIS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Alivio natural para dolores y molestias. Ideal para masajes, relaja y desinflama.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "6": 2.95,
-       },
-  imagen: "Img/Imagen542.jpeg",
-  stock: 6
-},
          {
   nombre: "5669BOLSO EXPANDIBLE",
   categoria: "Accesorios",
@@ -3026,7 +2982,7 @@ const productos = [
    "1": 10.95,
        },
   imagen: "Img/Imagen543.jpeg",
-  stock: 4
+  stock: 3
 },
            {
   nombre: "5670SET DE 12 BOLSAS DISEÑO FÚTBOL",
@@ -3036,16 +2992,6 @@ const productos = [
    "1": 7.95,
        },
   imagen: "Img/Imagen544.jpeg",
-  stock: 3
-},
-           {
-  nombre: "5671SET DE 3 BOWLS CON TAPA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Diámetros de 12, 14 y 16 cm, perfectos para guardar o servir alimentos. Prácticos, apilables y con tapas — ¡mantén todo fresco y ordenado!.",
-  precios: {
-   "1": 8.95,
-       },
-  imagen: "Img/Imagen545.jpeg",
   stock: 2
 },
              {
@@ -3135,7 +3081,7 @@ const productos = [
    "1": 49.90,
        },
   imagen: "Img/Imagen557.png",
-  stock: 7
+  stock: 5
 },
      {
   nombre: "5688RECIPIENTE PARA SNACKS DISEÑO CALABAZA",
