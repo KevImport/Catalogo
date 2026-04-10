@@ -1424,7 +1424,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen314.jpeg",
-  stock: 7
+  stock: 5
 },
   {
   nombre: "5321SPLASH PARA EL CABELLO",
@@ -1444,10 +1444,9 @@ const productos = [
    "1": 2.95,
    "3": 1.55,
    "6": 1.25,
-   "12": 0.95,
   },
   imagen: "Img/Imagen318.jpeg",
-  stock: 12
+  stock: 10
 },
       {
   nombre: "5324ARBOL DE 60CM CON ACCESORIOS",
@@ -1940,7 +1939,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen403.jpg",
-  stock: 19
+  stock: 16
 },
           {
   nombre: "5446SET SORBETES REUTILIZABLES + CEPILLO DE LIMPIEZA",
@@ -2195,10 +2194,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "5": 2.25,
      },
   imagen: "Img/Imagen452.jpeg",
-  stock: 5
+  stock: 4
 },
  {
   nombre: "5506BOTIQUÍN VIAJERO",
@@ -2445,7 +2443,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 19
+  stock: 16
 },
           {
   nombre: "5576NECESER WASHBAG",
@@ -2555,12 +2553,9 @@ const productos = [
   descripcion: "La esponja suave de alta densidad espesa, delicada y antideslizante, no solo puede eliminar la suciedad de todo el cuerpo, sino también limpiar eficazmente la piel.",
   precios: {
    "1": 2.95,
-   "3": 1.65,
-   "6": 1.35,
-   "12": 1.05,
        },
   imagen: "Img/Imagen505.png",
-  stock: 8
+  stock: 2
 },
                {
   nombre: "5596SOQUETE CON ENCHUFE E INTERRUPTOR",
@@ -3046,7 +3041,7 @@ const productos = [
    "1": 4.95,
        },
   imagen: "Img/Imagen558.jpeg",
-  stock: 8
+  stock: 7
 },
      {
   nombre: "5621PULSERA DISEÑO BODHI",
