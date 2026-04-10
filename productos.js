@@ -966,16 +966,6 @@ const productos = [
   stock: 5
 },
   {
-  nombre: "5135ORGANIZADOR ELEGANTE",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Para brochas de maquillaje con diseño moderno. Incluye compartimentos amplios para mantener todo en orden. Su tapa transparente protege del polvo y la humedad. Ideal para dar un toque sofisticado a tu tocador. Medida aprox.: 23 x 11 cm",
-  precios: {
-    "1": 8.95,
- },
-  imagen: "Img/Imagen214.jpeg",
-  stock: 3
-},
-  {
   nombre: "5139RESTAURADOR DE PARTES NEGRAS",
   categoria: "Hogar / Cocina",
   descripcion: "Restaura partes negras, devuelve el color, brillo y protección a plásticos, molduras y defensas. ¡Fácil de aplicar!",
@@ -1596,17 +1586,6 @@ const productos = [
   imagen: "Img/Imagen332.jpeg",
   stock: 6
 },
-             {
-  nombre: "5342LINTERNA DE LARGO ALCANCE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Iluminación potente con varios modos de luz. Diseño compacto, resistente y fácil de llevar. Incluye cable USB para carga rápida y práctica.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-  },
-  imagen: "Img/Imagen335.jpeg",
-  stock: 6
-},
 {
   nombre: "5343RIÑONERA CON DETALLES TORNASOLADOS",
   categoria: "Accesorios",
@@ -1822,18 +1801,6 @@ const productos = [
   imagen: "Img/Imagen372.jpeg",
   stock: 4
 },
-  {
-  nombre: "5393COLET ELEGANTE",
-  categoria: "Accesorios",
-  descripcion: "Hermoso diseño sofisticado que realza cualquier peinado. Suave, resistente y perfecto para lucir un estilo chic en cualquier ocasión. Ideal para uso diario o eventos especiales.",
-  precios: {
-   "1": 2.95,
-   "3": 1.85,
-   "6": 1.55,
-     },
-  imagen: "Img/Imagen373.jpeg",
-  stock: 6
-},
     {
   nombre: "5394STAR BELLY LAVABLE DE FELPA",
   categoria: "Juguetes",
@@ -1904,7 +1871,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen389.jpeg",
-  stock: 7
+  stock: 4
 },
   {
   nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
@@ -1982,10 +1949,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.25,
-   "6": 1.95,
      },
   imagen: "Img/Imagen407.png",
-  stock: 10
+  stock: 4
 },
   {
   nombre: "5448VISERA DE DAMA COLOR ENTERO",
@@ -2077,7 +2043,7 @@ const productos = [
    "6": 1.95,
      },
   imagen: "Img/Imagen428.jpeg",
-  stock: 39
+  stock: 30
 },
      {
   nombre: "5476JUEGO DE MESA TETRIS 3D",
@@ -2118,10 +2084,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
      },
   imagen: "Img/Imagen436.jpeg",
-  stock: 8
+  stock: 3
 },
         {
   nombre: "5490BLOCK PAPEL LUSTRE A4",
@@ -2424,7 +2389,7 @@ const productos = [
    "6": 2.95,
      },
   imagen: "Img/Imagen478.jpeg",
-  stock: 17
+  stock: 14
 },
          {
   nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
@@ -2595,7 +2560,7 @@ const productos = [
    "12": 1.05,
        },
   imagen: "Img/Imagen505.png",
-  stock: 11
+  stock: 8
 },
                {
   nombre: "5596SOQUETE CON ENCHUFE E INTERRUPTOR",
