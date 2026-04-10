@@ -3069,7 +3069,7 @@ const productos = [
    "3": 5.25,
    "6": 4.95,
        },
-  imagen: "Img/Imagen560.jpeg",
+  imagen: "Img/Imagen561.png",
   stock: 6
 },
 ];
