@@ -2977,10 +2977,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
        },
   imagen: "Img/Imagen549.jpeg",
-  stock: 7
+  stock: 4
 },
                   {
   nombre: "5682MALLA PROTECTORA DE PLANCHADO",
