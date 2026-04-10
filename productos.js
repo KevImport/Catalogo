@@ -239,7 +239,7 @@ const productos = [
     "3": 5.00,
   },
   imagen: "Img/Imagen67.jpg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "4183LENTES DE SOL 2025",
@@ -404,16 +404,6 @@ const productos = [
   },
   imagen: "Img/Imagen100.jpg",
   stock: 6
-},
-{
-  nombre: "2910SET DE 10 ACCESORIOS PARA EL CABELLO",
-  categoria: "Accesorios",
-  descripcion: "Completo set de accesorios para peinar y decorar tu cabello. Práctico, variado y con mucho estilo.",
-  precios: {
-    "2": 4.50,
-  },
-  imagen: "Img/Imagen101.jpg",
-  stock: 2
 },
 {
   nombre: "2819SET DE 6 VASOS NAVIDEÑOS",
@@ -907,7 +897,7 @@ const productos = [
     "1": 6.95,
  },
   imagen: "Img/Imagen198.jpeg",
-  stock: 4
+  stock: 2
 },
 {
   nombre: "5110BOLSA DE 25 GANCHOS PERNO",
@@ -1124,9 +1114,10 @@ const productos = [
   descripcion: "Mantén tus anillos, aretes y otras joyas organizadas. Medida aprox.: 10 x 10 cm y 5 cm de alto. Resistente y duradero: la base está bien estructurada. Diseño práctico y de gran capacidad.",
   precios: {
    "1": 5.95,
+   "3": 4.95,
  },
   imagen: "Img/Imagen250.png",
-  stock: 2
+  stock: 8
 },
  {
   nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
@@ -1934,7 +1925,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen394.jpeg",
-  stock: 10
+  stock: 11
 },
   {
   nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
@@ -1957,7 +1948,7 @@ const productos = [
    "12": 3.95,
      },
   imagen: "Img/Imagen401.jpeg",
-  stock: 49
+  stock: 47
 },
      {
   nombre: "5437CAJA DE 10 MASCARILLAS BLANCAS KN95",
@@ -2929,7 +2920,7 @@ const productos = [
    "3": 2.95,
        },
   imagen: "Img/Imagen537.jpeg",
-  stock: 16
+  stock: 13
 },
                {
   nombre: "5663SET DE MINI TENEDORES MINNIE",
@@ -3024,7 +3015,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen549.jpeg",
-  stock: 14
+  stock: 7
 },
                   {
   nombre: "5682MALLA PROTECTORA DE PLANCHADO",
