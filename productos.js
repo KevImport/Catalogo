@@ -3060,4 +3060,16 @@ const productos = [
   imagen: "Img/Imagen560.jpeg",
   stock: 11
 },
+       {
+  nombre: "5667SOLUBRIL",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Descubre Solubril Limpieza Efectiva! El limpiador de pisos ultra potente que elimina hasta la suciedad más difícil. Su fórmula avanzada no solo limpia, sino que también desinfecta y protege sin dañar las superficies. Funciona en una gran variedad de pisos, paredes, baños, griferías dejando un acabado impecable, fresco y brillante.",
+  precios: {
+   "1": 6.95,
+   "3": 5.25,
+   "6": 4.95,
+       },
+  imagen: "Img/Imagen560.jpeg",
+  stock: 6
+},
 ];
