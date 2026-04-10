@@ -2992,7 +2992,7 @@ const productos = [
    "12": 0.95,
        },
   imagen: "Img/Imagen555.jpeg",
-  stock: 20
+  stock: 13
 },
     {
   nombre: "5683MOLDE PARA DONAS DE SILICONA 29 x 20 CM",
