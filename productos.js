@@ -1726,16 +1726,6 @@ const productos = [
   imagen: "Img/Imagen360.png",
   stock: 3
 },
-   {
-  nombre: "5381CELULAR EDUCATIVO",
-  categoria: "Juguetes",
-  descripcion: "Incluye sonidos, música y actividades para aprender jugando. Estimula la memoria, colores, números y palabras. Recargable. Color al azar.",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen361.jpeg",
-  stock: 2
-},
        {
   nombre: "5383FOCO LED 30W",
   categoria: "Hogar / Cocina",
