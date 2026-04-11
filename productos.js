@@ -3185,4 +3185,70 @@ const productos = [
   imagen: "Img/Imagen571.jpeg",
   stock: 14
 },
+             {
+  nombre: "5705DESINFECTANTE DE MANOS EN SPRAY",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Elimina bacterias al instante sin necesidad de agua. Secado rápido, práctico para llevar a todos lados.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+       },
+  imagen: "Img/Imagen572.png",
+  stock: 3
+},
+               {
+  nombre: "5707ESTUCHE DE 24 PLUMONES ACRÍLICOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores vibrantes y de alta cobertura para todo tipo de superficies. Ideales para manualidades, lettering, madera, vidrio y más.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "Img/Imagen573.jpeg",
+  stock: 12
+},
+                 {
+  nombre: "5708DELINEADOR BLANCO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Delineador de ojos de textura suave que aporta un color intenso a tu mirada. Gracias a su textura es accesible para difuminar y dejar un terminado radiante en tus ojos. Da un acabado perfecto a tu makeup de ojos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+       },
+  imagen: "Img/Imagen574.jpeg",
+  stock: 6
+},
+        {
+  nombre: "5709GATITO DE LA FORTUNA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Atrae buena suerte, prosperidad y energía positiva. Ideal como decoración o regalo especial lleno de significado. Modelo y color al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+       },
+  imagen: "Img/Imagen575.jpeg",
+  stock: 7
+},
+        {
+  nombre: "5710BANDEJA CONSERVADORA CON TAPA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus alimentos frescos y protegidos por más tiempo. Ideal para refrigerar y organizar con medida aprox. 30 x 24.5 cm",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+       },
+  imagen: "Img/Imagen576.jpeg",
+  stock: 12
+},
+        {
+  nombre: "5711ORGANIZADOR DE GORRAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Permite organizar varias gorras en poco espacio. Ideal para colgar detrás de la puerta o en la pared. Mantiene tus gorras ordenadas, visibles y sin deformarse. Color al azar.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "Img/Imagen577.jpeg",
+  stock: 12
+},
 ];
