@@ -3124,7 +3124,7 @@ const productos = [
    "12": 3.35,
        },
   imagen: "Img/Imagen567.jpg",
-  stock: 75
+  stock: 12
 },
            {
   nombre: "5698MANIQUÍ MANO CORTA DAMA",
