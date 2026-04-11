@@ -3089,16 +3089,6 @@ const productos = [
   stock: 2
 },
            {
-  nombre: "5693GUIRNALDA DE LUCES LED 5M",
-  categoria: "Hogar / Cocina",
-  descripcion: "Iluminación cálida ideal para decorar interiores y exteriores. Perfecta para fiestas, terrazas, jardines o eventos especiales. Fácil de instalar, resistente y con diseño moderno que transforma cualquier espacio.",
-  precios: {
-   "1": 22.90,
-       },
-  imagen: "Img/Imagen564.jpeg",
-  stock: 2
-},
-           {
   nombre: "5694BOLSA DE 50 GLOBOS N°9",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para decorar cumpleaños, eventos y celebraciones especiales. Un color por bolsa (al azar), llenarán de alegría cualquier ambiente. Fácil de inflar y perfecto para todo tipo de decoraciones.",
@@ -3249,6 +3239,6 @@ const productos = [
    "1": 7.95,
        },
   imagen: "Img/Imagen577.jpeg",
-  stock: 12
+  stock: 2
 },
 ];
