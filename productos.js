@@ -3056,4 +3056,133 @@ const productos = [
   imagen: "Img/Imagen561.png",
   stock: 6
 },
+       {
+  nombre: "5689CONTENEDOR PORTÁTIL PARA HUEVOS (2 COMPARTIMENTOS)",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tus huevos al transportarlos sin que se rompan. Diseño compacto con asa, ideal para viajes, camping o lonchera. Material resistente y fácil de limpiar, práctico para uso diario.",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+   "6": 1.25,
+       },
+  imagen: "Img/Imagen562.jpeg",
+  stock: 6
+},
+       {
+  nombre: "5692SET DE 120 PLUMONES DUAL BRUSH + ESTUCHE",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
+  precios: {
+   "1": 36.90,
+       },
+  imagen: "Img/Imagen563.jpeg",
+  stock: 7
+},
+         {
+  nombre: "5693GUIRNALDA DE LUCES LED 5M",
+  categoria: "Hogar / Cocina",
+  descripcion: "Iluminación cálida ideal para decorar interiores y exteriores. Perfecta para fiestas, terrazas, jardines o eventos especiales. Fácil de instalar, resistente y con diseño moderno que transforma cualquier espacio.",
+  precios: {
+   "1": 22.90,
+       },
+  imagen: "Img/Imagen563.jpeg",
+  stock: 2
+},
+           {
+  nombre: "5693GUIRNALDA DE LUCES LED 5M",
+  categoria: "Hogar / Cocina",
+  descripcion: "Iluminación cálida ideal para decorar interiores y exteriores. Perfecta para fiestas, terrazas, jardines o eventos especiales. Fácil de instalar, resistente y con diseño moderno que transforma cualquier espacio.",
+  precios: {
+   "1": 22.90,
+       },
+  imagen: "Img/Imagen564.jpeg",
+  stock: 2
+},
+           {
+  nombre: "5694BOLSA DE 50 GLOBOS N°9",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para decorar cumpleaños, eventos y celebraciones especiales. Un color por bolsa (al azar), llenarán de alegría cualquier ambiente. Fácil de inflar y perfecto para todo tipo de decoraciones.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+       },
+  imagen: "Img/Imagen565.jpeg",
+  stock: 17
+},
+           {
+  nombre: "5696MORRALITO POP IT",
+  categoria: "Accesorios",
+  descripcion: "Divertidos bolsitos con efecto pop it que ayudan a relajarse mientras juegan. Diseños coloridos y adorables, ideales para niños y niñas. (Modelo al azar). Livianos, prácticos y perfectos para llevar pequeños objetos a cualquier lugar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+       },
+  imagen: "Img/Imagen566.jpeg",
+  stock: 75
+},
+           {
+  nombre: "5697SET DE TENEDORES DECORATIVOS + BASE UNICORNIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño adorable que decora y divierte en la mesa. Incluye tenedor ideal para frutas, snacks y postres. Material resistente y fácil de limpiar, perfecto para niños y hogar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+   "12": 3.35,
+       },
+  imagen: "Img/Imagen567.jpg",
+  stock: 75
+},
+           {
+  nombre: "5698MANIQUÍ MANO CORTA DAMA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para exhibir guantes, mitones, pulseras, relojes y anillos. Fabricado en plástico resistente tipo basa, perfecto para vitrinas y negocios. Color al azar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.85,
+   "5": 6.55,
+       },
+  imagen: "Img/Imagen568.jpeg",
+  stock: 5
+},
+             {
+  nombre: "5700TERMÓMETRO DIGITAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ideal para mediciones rápidas y precisas en casa. Incluye pantalla LCD de fácil lectura, alarma de fiebre.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+       },
+  imagen: "Img/Imagen569.jpeg",
+  stock: 11
+},
+             {
+  nombre: "5702TOALLITAS HÚMEDAS LIMPIA ZAPATOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpian de forma rápida y práctica todo tipo de calzado. Eliminan suciedad, polvo y manchas al instante. Formato portátil, ideal para llevar a cualquier lugar. Contiene 15 unidades listas para usar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+       },
+  imagen: "Img/Imagen570.png",
+  stock: 6
+},
+             {
+  nombre: "5704TRITURADOR DE AJOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Material de acero inoxidable + plástico reforzado. Triturador manual. Medidas: 10.5 x 7 x 5 cm. Práctico de utilizar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+       },
+  imagen: "Img/Imagen571.jpeg",
+  stock: 14
+},
 ];
