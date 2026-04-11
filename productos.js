@@ -2974,7 +2974,7 @@ const productos = [
    "3": 2.95,
        },
   imagen: "Img/Imagen549.jpeg",
-  stock: 4
+  stock: 3
 },
                   {
   nombre: "5682MALLA PROTECTORA DE PLANCHADO",
@@ -2987,7 +2987,7 @@ const productos = [
    "12": 0.95,
        },
   imagen: "Img/Imagen555.jpeg",
-  stock: 13
+  stock: 12
 },
     {
   nombre: "5683MOLDE PARA DONAS DE SILICONA 29 x 20 CM",
