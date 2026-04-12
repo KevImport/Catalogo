@@ -3202,10 +3202,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.75,
        },
   imagen: "Img/Imagen574.jpeg",
-  stock: 6
+  stock: 3
 },
         {
   nombre: "5709GATITO DE LA FORTUNA",
