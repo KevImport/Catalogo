@@ -2422,7 +2422,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen490.jpeg",
-  stock: 4
+  stock: 3
 },
             {
   nombre: "5575GOTAS DE TERBINAFINA",
@@ -3051,10 +3051,9 @@ const productos = [
   precios: {
    "1": 6.95,
    "3": 5.25,
-   "6": 4.95,
        },
   imagen: "Img/Imagen561.png",
-  stock: 6
+  stock: 3
 },
        {
   nombre: "5689CONTENEDOR PORTÁTIL PARA HUEVOS (2 COMPARTIMENTOS)",
