@@ -1012,17 +1012,6 @@ const productos = [
   stock: 19
 },
   {
-  nombre: "5148SET DE 10 PROTECTORES DE HORNILLAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "El set contiene 10 protectores. Protege tu cocina de salpicaduras y derrames. Material: aluminio",
-  precios: {
-    "1": 4.95,
-    "3": 3.85,
- },
-  imagen: "Img/Imagen224.png",
-  stock: 5
-},
-  {
   nombre: "5150COLLAR DE PRINCESAS",
   categoria: "Accesorios",
   descripcion: "Material: Acero. Presentación en blíster individual. ¡Un detalle encantador para las reinas de la casa!",
@@ -3075,7 +3064,7 @@ const productos = [
    "1": 36.90,
        },
   imagen: "Img/Imagen563.jpeg",
-  stock: 7
+  stock: 6
 },
          {
   nombre: "5693GUIRNALDA DE LUCES LED 5M",
