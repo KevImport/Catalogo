@@ -271,7 +271,7 @@ const productos = [
     "3": 2.30,
   },
   imagen: "Img/Imagen78.jpg",
-  stock: 10
+  stock: 7
 },
 {
   nombre: "3778CORTADOR DE VIDRIO Y CERÁMICA",
@@ -1562,17 +1562,6 @@ const productos = [
   },
   imagen: "Img/Imagen331.png",
   stock: 17
-},
-        {
-  nombre: "5339SET DE CUBRE PEZONES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Contiene 5 pares. ¡Discreción y seguridad en cada look! Se adhieren fácilmente. Perfectos para ropa sin tirantes o escotes profundos. ¡Luce libre y sin preocupaciones!",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen332.jpeg",
-  stock: 6
 },
 {
   nombre: "5343RIÑONERA CON DETALLES TORNASOLADOS",
