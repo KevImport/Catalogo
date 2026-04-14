@@ -1410,10 +1410,9 @@ const productos = [
   descripcion: "Práctico y portátil, ideal para autos, bicicletas, pelotas y más. Fácil de usar, con gran potencia y diseño compacto para llevar a cualquier lugar.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
   },
   imagen: "Img/Imagen314.jpeg",
-  stock: 5
+  stock: 2
 },
   {
   nombre: "5321SPLASH PARA EL CABELLO",
@@ -2343,7 +2342,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen477.png",
-  stock: 15
+  stock: 12
 },
        {
   nombre: "5554PAÑITOS HÚMEDOS PAYASITO x100",
@@ -2355,7 +2354,7 @@ const productos = [
    "6": 2.95,
      },
   imagen: "Img/Imagen478.jpeg",
-  stock: 14
+  stock: 8
 },
          {
   nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
@@ -2505,16 +2504,6 @@ const productos = [
   imagen: "Img/Imagen502.jpeg",
   stock: 8
 },
-           {
-  nombre: "5588MINI TRITURADOR PROCESADOR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Trituradora eléctrica con botón superior para un uso fácil y rápido. Hoja de acero inoxidable resistente y duradera. Vaso de plástico apto para alimentos, libre de BPA y seguro. Pica de manera rápida ajo, nueces, especias, verduras, carne y más.",
-  precios: {
-   "1": 7.95,
-       },
-  imagen: "Img/Imagen503.png",
-  stock: 1
-},
                {
   nombre: "5593ESPONJA QUITA MUGRE",
   categoria: "Higiene / Cuidado Personal",
@@ -2621,10 +2610,9 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.65,
-   "12": 2.45,
        },
   imagen: "Img/Imagen514.jpeg",
-  stock: 12
+  stock: 7
 },
          {
   nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
