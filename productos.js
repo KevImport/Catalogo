@@ -1703,17 +1703,6 @@ const productos = [
   imagen: "Img/Imagen360.png",
   stock: 3
 },
-       {
-  nombre: "5383FOCO LED 30W",
-  categoria: "Hogar / Cocina",
-  descripcion: "Iluminación potente y de bajo consumo energético. Ideal para interiores o exteriores, brinda luz clara y uniforme. Ahorra energía y disfruta de mayor durabilidad.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-  },
-  imagen: "Img/Imagen363.jpeg",
-  stock: 11
-},
   {
   nombre: "5385PROTECTORES DE ANTEBRAZO",
   categoria: "Higiene / Cuidado Personal",
@@ -1785,7 +1774,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen378.jpeg",
-  stock: 6
+  stock: 3
 },
             {
   nombre: "5411PRINCESA MUSICAL GIRATORIA",
@@ -2342,7 +2331,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen477.png",
-  stock: 12
+  stock: 5
 },
        {
   nombre: "5554PAÑITOS HÚMEDOS PAYASITO x100",
@@ -2418,11 +2407,9 @@ const productos = [
   descripcion: "Ideal para viajes, maquillaje o artículos de higiene. Material resistente, con ventana translúcida y asa práctica. Color al azar, moderno y compacto para llevar a todos lados.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
      },
   imagen: "Img/Imagen493.jpeg",
-  stock: 20
+  stock: 2
 },
           {
   nombre: "5577CINTA DOBLE FAZ PARA ROPA",
@@ -3139,17 +3126,6 @@ const productos = [
        },
   imagen: "Img/Imagen571.jpeg",
   stock: 14
-},
-             {
-  nombre: "5705DESINFECTANTE DE MANOS EN SPRAY",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Elimina bacterias al instante sin necesidad de agua. Secado rápido, práctico para llevar a todos lados.",
-  precios: {
-   "1": 8.95,
-   "3": 7.95,
-       },
-  imagen: "Img/Imagen572.png",
-  stock: 3
 },
                {
   nombre: "5707ESTUCHE DE 24 PLUMONES ACRÍLICOS",
