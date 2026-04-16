@@ -3171,14 +3171,4 @@ const productos = [
   imagen: "Img/Imagen576.jpeg",
   stock: 12
 },
-        {
-  nombre: "5711ORGANIZADOR DE GORRAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Permite organizar varias gorras en poco espacio. Ideal para colgar detrás de la puerta o en la pared. Mantiene tus gorras ordenadas, visibles y sin deformarse. Color al azar.",
-  precios: {
-   "1": 7.95,
-       },
-  imagen: "Img/Imagen577.jpeg",
-  stock: 1
-},
 ];
