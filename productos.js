@@ -3171,4 +3171,24 @@ const productos = [
   imagen: "Img/Imagen576.jpeg",
   stock: 12
 },
+          {
+  nombre: "POTE DE 130 GOMITAS - CÚRCUMA",
+  categoria: "Gomitas",
+  descripcion: "Gomitas de Cúrcuma Sottcor: potente antiinflamatorio y antioxidante natural que alivia dolores articulares y mejora la digestión. Su fórmula con pimienta negra asegura máxima absorción para proteger tu salud hepática y cardiovascular con un gran sabor.",
+  precios: {
+   "1": 23.90,
+       },
+  imagen: "Img/Imagen578.jpeg",
+  stock: 1
+},
+          {
+  nombre: "POTE DE 150 GOMITAS - MULTIVITAMINAS",
+  categoria: "Gomitas",
+  descripcion: "Gomitas multivitaminas Sottcor para adultos, diseñado para cubrir requerimientos nutricionales diarios, fortalecer el sistema inmunológico y mejorar los niveles de energía. Su fórmula incluye una mezcla de vitaminas del complejo B (B1, B2, B6, B9, B12) y vitaminas A, D, C y E.",
+  precios: {
+   "1": 24.90,
+       },
+  imagen: "Img/Imagen579.jpeg",
+  stock: 1
+},
 ];
