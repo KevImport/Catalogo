@@ -7,7 +7,7 @@ const productos = [
     "1": 31.50,
  },
   imagen: "Img/Imagen233.png",
-  stock: 3
+  stock: 2
 },
  {
   nombre: "4669LABIAL EN BARRA EFECTO MATE",
@@ -506,16 +506,6 @@ const productos = [
   },
   imagen: "Img/Imagen112.jpg",
   stock: 6
-},
-{
-  nombre: "2590MOLEDOR DE ESPECIAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Muele tus especias favoritas al instante. Ideal para realzar el sabor de tus comidas con ingredientes recién triturados.",
-  precios: {
-    "2": 3.90,
-  },
-  imagen: "Img/Imagen113.jpg",
-  stock: 4
 },
 {
   nombre: "2481TACHO KAWAII",
@@ -2155,17 +2145,6 @@ const productos = [
   stock: 4
 },
  {
-  nombre: "5506BOTIQUÍN VIAJERO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Compacto y práctico, ideal para viajes, auto u hogar (24 × 20 × 9.5 cm). Espacio suficiente para medicamentos y artículos de primeros auxilios. Color al azar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen453.png",
-  stock: 11
-},
- {
   nombre: "5508GEL LIMPIADOR DE INODORO",
   categoria: "Hogar / Cocina",
   descripcion: "Sello de gel de larga duración, mantiene el inodoro limpio y perfumado en cada descarga. Incluye dispensador + gel, limpieza. desodorizante práctico y sin contacto.",
@@ -3051,19 +3030,6 @@ const productos = [
        },
   imagen: "Img/Imagen565.jpeg",
   stock: 17
-},
-           {
-  nombre: "5696MORRALITO POP IT",
-  categoria: "Accesorios",
-  descripcion: "Divertidos bolsitos con efecto pop it que ayudan a relajarse mientras juegan. Diseños coloridos y adorables, ideales para niños y niñas. (Modelo al azar). Livianos, prácticos y perfectos para llevar pequeños objetos a cualquier lugar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-   "6": 2.25,
-   "12": 1.95,
-       },
-  imagen: "Img/Imagen566.jpeg",
-  stock: 75
 },
            {
   nombre: "5697SET DE TENEDORES DECORATIVOS + BASE UNICORNIO",
