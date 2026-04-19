@@ -3157,4 +3157,98 @@ const productos = [
   imagen: "Img/Imagen363.jpeg",
   stock: 3
 },
+    {
+  nombre: "5715PACK DE 4 BOLSAS ORGANIZADORAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege y organiza tu ropa, accesorios o documentos fácilmente. Diseño lindo y práctico, ideal para viajes o uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+       },
+  imagen: "Img/Imagen580.jpeg",
+  stock: 13
+},
+    {
+  nombre: "5716RODILLO QUITAPELUSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina pelusa, polvo y pelos de mascotas fácilmente. Ideal para ropa, muebles y mantener todo impecable. Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+       },
+  imagen: "Img/Imagen581.jpeg",
+  stock: 7
+},
+    {
+  nombre: "5717RIÑONERA DAMA",
+  categoria: "Accesorios",
+  descripcion: "Práctica y cómoda, con varios compartimentos para organizar tus esenciales. Cierres seguros y correa ajustable para llevarla con estilo a donde. Color al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+       },
+  imagen: "Img/Imagen582.jpeg",
+  stock: 9
+},
+      {
+  nombre: "5718ORGANIZADOR ARTÍSTICO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza brochas o lápices con un diseño moderno tipo rostro. Funciona también como jarrón decorativo, resistente y ligero. Material: PP, medida: 9 x 16 cm",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+       },
+  imagen: "Img/Imagen583.jpeg",
+  stock: 6
+},
+      {
+  nombre: "5719SET DE 12 MARIPOSAS DECORATIVAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfectas para decorar paredes, habitaciones o eventos con un toque delicado. Fáciles de colocar y reutilizables para cualquier ocasión especial. Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+       },
+  imagen: "Img/Imagen584.jpeg",
+  stock: 27
+},
+        {
+  nombre: "5721PAQUETE DE 3000 SERVILLETAS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Medida aprox.: 17.5 x 12 cm. 100% pulpa de madera. Puedes usarlo como: Pañuelo facial, papel de cocina, servilleta y papel de tocador.",
+  precios: {
+   "1": 9.95,
+       },
+  imagen: "Img/Imagen432.jpeg",
+  stock: 7
+},
+          {
+  nombre: "5722ROLLO DE ETIQUETAS ADHESIVAS PARA CONDIMENTOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza frascos, envases y espacios con estilo. Incluye marcador para escribir y borrar fácilmente cuantas veces quieras. Incluye plumón blanco.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+       },
+  imagen: "Img/Imagen585.jpeg",
+  stock: 13
+},
+          {
+  nombre: "5714SÁBANAS NANCY 2 plz",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 4 piezas: sábana para colchón, sobre sábana y dos fundas de almohada. DISEÑO AL AZAR",
+  precios: {
+   "1": 24.90,
+       },
+  imagen: "Img/Imagen586.png",
+  stock: 3
+},
 ];
