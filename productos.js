@@ -3029,7 +3029,7 @@ const productos = [
    "6": 3.75,
        },
   imagen: "Img/Imagen565.jpeg",
-  stock: 17
+  stock: 11
 },
            {
   nombre: "5697SET DE TENEDORES DECORATIVOS + BASE UNICORNIO",
@@ -3101,7 +3101,7 @@ const productos = [
    "1": 7.95,
        },
   imagen: "Img/Imagen573.jpeg",
-  stock: 12
+  stock: 9
 },
                  {
   nombre: "5708DELINEADOR BLANCO",
@@ -3126,27 +3126,6 @@ const productos = [
   imagen: "Img/Imagen575.jpeg",
   stock: 7
 },
-        {
-  nombre: "5710BANDEJA CONSERVADORA CON TAPA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus alimentos frescos y protegidos por más tiempo. Ideal para refrigerar y organizar con medida aprox. 30 x 24.5 cm",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-       },
-  imagen: "Img/Imagen576.jpeg",
-  stock: 12
-},
-          {
-  nombre: "POTE DE 130 GOMITAS - CÚRCUMA",
-  categoria: "Gomitas",
-  descripcion: "Gomitas de Cúrcuma Sottcor: potente antiinflamatorio y antioxidante natural que alivia dolores articulares y mejora la digestión. Su fórmula con pimienta negra asegura máxima absorción para proteger tu salud hepática y cardiovascular con un gran sabor.",
-  precios: {
-   "1": 23.90,
-       },
-  imagen: "Img/Imagen578.jpeg",
-  stock: 1
-},
           {
   nombre: "POTE DE 150 GOMITAS - MULTIVITAMINAS",
   categoria: "Gomitas",
@@ -3156,5 +3135,26 @@ const productos = [
        },
   imagen: "Img/Imagen579.jpeg",
   stock: 1
+},
+  {
+  nombre: "5711ORGANIZADOR DE GORRAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Permite organizar varias gorras en poco espacio. Ideal para colgar detrás de la puerta o en la pared. Color al azar. Mantiene tus gorras ordenadas, visibles y sin deformarse.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "Img/Imagen577.jpeg",
+  stock: 1
+},
+    {
+  nombre: "5383FOCO  LED 30W",
+  categoria: "Hogar / Cocina",
+  descripcion: "Iluminación potente y de bajo consumo energético. Ideal para interiores o exteriores, brinda luz clara y uniforme. Ahorra energía y disfruta de mayor durabilidad.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+       },
+  imagen: "Img/Imagen363.jpeg",
+  stock: 3
 },
 ];
