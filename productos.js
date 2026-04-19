@@ -1597,16 +1597,6 @@ const productos = [
   imagen: "Img/Imagen345.png",
   stock: 4
 },
-  {
-  nombre: "5366PIANITO MUSICAL",
-  categoria: "Juguetes",
-  descripcion: "Diseño colorido y divertido.  Medida: 22 x 10 cm. Ideal para los peques que aman la música y Disney.",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen347.jpg",
-  stock: 3
-},
       {
   nombre: "5369TAZA DE CERAMICA NAVIDEÑA 20onzas",
   categoria: "Navidad / Regalos",
@@ -1636,7 +1626,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen353.jpeg",
-  stock: 4
+  stock: 3
 },
               {
   nombre: "5374ESMALTE DE UÑAS",
@@ -1897,17 +1887,6 @@ const productos = [
      },
   imagen: "Img/Imagen407.png",
   stock: 4
-},
-  {
-  nombre: "5448VISERA DE DAMA COLOR ENTERO",
-  categoria: "Accesorios",
-  descripcion: "Ideal para protegerte del sol con estilo y comodidad. Diseño moderno y ligero, perfecto para salidas y paseos. Aporta un toque elegante a tus outfits veraniegos. Color al azar",
-  precios: {
-   "1": 5.95,
-   "2": 4.25,
-        },
-  imagen: "Img/Imagen408.jpeg",
-  stock: 2
 },
     {
   nombre: "5452CARGADOR REDD DE 75W + CABLE TIPO C",
@@ -2215,10 +2194,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.65,
      },
   imagen: "Img/Imagen466.jpeg",
-  stock: 8
+  stock: 5
 },
        {
   nombre: "5538LAPICERO MULTITINTAS GUERRERAS KPOP",
@@ -2779,7 +2757,7 @@ const productos = [
    "6": 2.95,
        },
   imagen: "Img/Imagen534.jpeg",
-  stock: 8
+  stock: 7
 },
              {
   nombre: "5652BÁLSAMO LABIAL HIDRATANTE DE 5ML",
@@ -2855,7 +2833,7 @@ const productos = [
    "1": 10.95,
        },
   imagen: "Img/Imagen543.jpeg",
-  stock: 3
+  stock: 2
 },
            {
   nombre: "5670SET DE 12 BOLSAS DISEÑO FÚTBOL",
@@ -2974,7 +2952,7 @@ const productos = [
    "3": 2.55,
        },
   imagen: "Img/Imagen560.jpeg",
-  stock: 11
+  stock: 8
 },
        {
   nombre: "5667SOLUBRIL",
@@ -3191,7 +3169,7 @@ const productos = [
    "3": 7.95,
        },
   imagen: "Img/Imagen582.jpeg",
-  stock: 9
+  stock: 8
 },
       {
   nombre: "5718ORGANIZADOR ARTÍSTICO",
@@ -3226,7 +3204,7 @@ const productos = [
    "1": 9.95,
        },
   imagen: "Img/Imagen432.jpeg",
-  stock: 7
+  stock: 6
 },
           {
   nombre: "5722ROLLO DE ETIQUETAS ADHESIVAS PARA CONDIMENTOS",
@@ -3239,16 +3217,6 @@ const productos = [
    "12": 2.35,
        },
   imagen: "Img/Imagen585.jpeg",
-  stock: 13
-},
-          {
-  nombre: "5714SÁBANAS NANCY 2 plz",
-  categoria: "Hogar / Cocina",
-  descripcion: "Incluye 4 piezas: sábana para colchón, sobre sábana y dos fundas de almohada. DISEÑO AL AZAR",
-  precios: {
-   "1": 24.90,
-       },
-  imagen: "Img/Imagen586.png",
-  stock: 3
+  stock: 10
 },
 ];
