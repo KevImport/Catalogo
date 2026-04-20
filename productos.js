@@ -41,7 +41,7 @@ const productos = [
     "3": 5.95,
   },
   imagen: "Img/Imagen14.jpg",
-  stock: 5
+  stock: 4
 },
 {
   nombre: "4966TAZA GAMER",
@@ -1692,7 +1692,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen366.jpeg",
-  stock: 32
+  stock: 29
 },
        {
   nombre: "5387SET DE MINI DRAGONES",
@@ -2253,7 +2253,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen474.jpeg",
-  stock: 5
+  stock: 3
 },
             {
   nombre: "5551GORRA SPORT CLÁSICA",
@@ -2345,7 +2345,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen490.jpeg",
-  stock: 3
+  stock: 2
 },
             {
   nombre: "5575GOTAS DE TERBINAFINA",
@@ -2356,7 +2356,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 16
+  stock: 13
 },
           {
   nombre: "5576NECESER WASHBAG",
@@ -2735,7 +2735,7 @@ const productos = [
    "3": 3.95,
        },
   imagen: "Img/Imagen531.jpeg",
-  stock: 15
+  stock: 13
 },
               {
   nombre: "5650SET DE BROCHAS DE MAQUILLAJE",
@@ -3053,10 +3053,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.25,
-   "6": 1.95,
        },
   imagen: "Img/Imagen570.png",
-  stock: 6
+  stock: 3
 },
              {
   nombre: "5704TRITURADOR DE AJOS",
