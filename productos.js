@@ -2492,18 +2492,6 @@ const productos = [
   imagen: "Img/Imagen509.jpeg",
   stock: 1
 },
-    {
-  nombre: "5607PROTECTOR EN ROLLO PARA CAJONES Y REPISAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Medida: 45 x 150 cm, fácil de cortar y adaptar. Protege contra polvo, humedad y rayones.",
-  precios: {
-   "1": 4.95,
-   "3": 3.85,
-   "6": 3.55
-       },
-  imagen: "Img/Imagen510.png",
-  stock: 6
-},
    {
   nombre: "5608MONEDERO PARA DAMA",
   categoria: "Accesorios",
@@ -3090,18 +3078,6 @@ const productos = [
        },
   imagen: "Img/Imagen574.jpeg",
   stock: 3
-},
-        {
-  nombre: "5709GATITO DE LA FORTUNA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Atrae buena suerte, prosperidad y energía positiva. Ideal como decoración o regalo especial lleno de significado. Modelo y color al azar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
-       },
-  imagen: "Img/Imagen575.jpeg",
-  stock: 7
 },
           {
   nombre: "POTE DE 150 GOMITAS - MULTIVITAMINAS",
