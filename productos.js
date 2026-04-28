@@ -3097,7 +3097,7 @@ const productos = [
    "1": 7.95,
        },
   imagen: "Img/Imagen577.jpeg",
-  stock: 1
+  stock: 21
 },
     {
   nombre: "5383FOCO  LED 30W",
@@ -3144,7 +3144,7 @@ const productos = [
    "3": 7.95,
        },
   imagen: "Img/Imagen582.jpeg",
-  stock: 8
+  stock: 7
 },
       {
   nombre: "5718ORGANIZADOR ARTÍSTICO",
@@ -3193,5 +3193,35 @@ const productos = [
        },
   imagen: "Img/Imagen585.jpeg",
   stock: 10
+},
+            {
+  nombre: "POTE DE 130 GOMITAS - CHANCA PIEDRA",
+  categoria: "Gomitas",
+  descripcion: "Potencia tu bienestar renal y digestivo con Gomitas Chanca Piedra: la solución natural y deliciosa para desintoxicar tu organismo y eliminar cálculos.",
+  precios: {
+   "1": 25.90,
+       },
+  imagen: "Img/Imagen587.jpeg",
+  stock: 1
+},
+              {
+  nombre: "POTE DE 130 GOMITAS - CÚRCUMA",
+  categoria: "Gomitas",
+  descripcion: "Mejora tu salud articular y digestiva con el poder de nuestras gomitas de Cúrcuma: la forma más práctica y deliciosa de combatir la inflamación diariamente.",
+  precios: {
+   "1": 24.90,
+       },
+  imagen: "Img/Imagen588.jpeg",
+  stock: 1
+},
+              {
+  nombre: "POTE DE 130 GOMITAS - DHA",
+  categoria: "Gomitas",
+  descripcion: "Fortalece tu agilidad mental y apoya un desarrollo saludable con nuestras Gomitas de DHA, Ácido Fólico y Vitaminas: el impulso esencial para tu cerebro y sistema nervioso.",
+  precios: {
+   "1": 24.90,
+       },
+  imagen: "Img/Imagen589.jpeg",
+  stock: 1
 },
 ];
