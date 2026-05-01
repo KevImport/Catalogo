@@ -3007,7 +3007,7 @@ const productos = [
   categoria: "Gomitas",
   descripcion: "Gomitas multivitaminas Sottcor para adultos, diseñado para cubrir requerimientos nutricionales diarios, fortalecer el sistema inmunológico y mejorar los niveles de energía. Su fórmula incluye una mezcla de vitaminas del complejo B (B1, B2, B6, B9, B12) y vitaminas A, D, C y E.",
   precios: {
-   "1": 24.90,
+   "1": 25.90,
        },
   imagen: "Img/Imagen579.jpeg",
   stock: 1
@@ -3068,7 +3068,7 @@ const productos = [
    "3": 7.95,
        },
   imagen: "Img/Imagen582.jpeg",
-  stock: 5
+  stock: 7
 },
       {
   nombre: "5718ORGANIZADOR ARTÍSTICO",
@@ -3149,5 +3149,51 @@ const productos = [
        },
   imagen: "Img/Imagen590.jpeg",
   stock: 32
+},
+                {
+  nombre: "5728ORGANIZADOR DE INFUSIONES 6 DIVISIONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus tés e infusiones ordenados y siempre a la mano con sus 6 compartimentos. Ideal para cocina u oficina, práctico, elegante y ahorra espacio.",
+  precios: {
+   "1": 16.90,
+       },
+  imagen: "Img/Imagen591.jpeg",
+  stock: 2
+},
+                {
+  nombre: "5734SET DE PARCHES DESINTOXICANTES PARA PIES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Contiene 5 pares. Limpia y activa tu cuerpo, con estos parches para pies desintoxicantes. Mejoran el sueño y reduce la fatiga. Resultados visibles en tan solo 5 noches. Fácil de usar los colocas en las noches y retiras por la mañana ó después de 8hras.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "Img/Imagen592.jpeg",
+  stock: 26
+},
+      {
+  nombre: "5736QUITAPELUSA PANDITA 2 EN 1",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina pelusa, polvo y pelos fácilmente en ropa y muebles. Diseño compacto y práctico, ideal para usar en casa o llevar contigo.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+       },
+  imagen: "Img/Imagen593.jpg",
+  stock: 15
+},
+        {
+  nombre: "5738PAQUETE DE BOLSAS CUBRE PLATOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "El paquete contiene aprox. 100 bolsas. No tóxico, insípido, ecológico y seguro, por lo que se puede utilizar con seguridad para cubrir alimentos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "Img/Imagen594.jpeg",
+  stock: 16
 },
 ];
