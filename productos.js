@@ -1064,17 +1064,6 @@ const productos = [
   imagen: "Img/Imagen249.png",
   stock: 6
 },
-{
-  nombre: "5220JOYERO VIAJERO",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Mantén tus anillos, aretes y otras joyas organizadas. Medida aprox.: 10 x 10 cm y 5 cm de alto. Resistente y duradero: la base está bien estructurada. Diseño práctico y de gran capacidad.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
- },
-  imagen: "Img/Imagen250.png",
-  stock: 8
-},
  {
   nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
   categoria: "Hogar / Cocina",
@@ -1134,17 +1123,7 @@ const productos = [
   imagen: "Img/Imagen271.png",
   stock: 7
 },
- {
-  nombre: "5257JUEGO DE EQUILIBRIO FROG BALANCE",
-  categoria: "Juguetes",
-  descripcion: "Desafía tu destreza colocando ranitas sin que caigan. Un juego dinámico y educativo para todas las edades. Ideal para compartir momentos de diversión en familia.",
-  precios: {
-   "1": 6.95,
- },
-  imagen: "Img/Imagen272.png",
-  stock: 1
-},
-  {
+   {
   nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
   categoria: "Navidad / Regalos",
   descripcion: "Figuras de arbolitos con diseños navideños (Santa, reno, muñeco de nieve y más). Luces cálidas que crean un ambiente mágico y festivo. Ideal para decorar ventanas, salas o tu arbolito. Dale un brillo especial a tu Navidad. Medida: 3m x 1.5m",
@@ -1398,7 +1377,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen317.jpg",
-  stock: 2
+  stock: 1
 },
     {
   nombre: "5322PACK DE 10 VELAS MÁGICAS REENCENDIBLES",
@@ -1764,16 +1743,6 @@ const productos = [
   imagen: "Img/Imagen384.jpeg",
   stock: 17
 },
-                {
-  nombre: "5416SET AROMÁTICO DECORATIVO EN CAJA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Hermoso set ideal para decorar, aromatizar y crear un ambiente relajante en tu hogar. Incluye velas, portavelas de vidrio y adornos decorativos, todo presentado en una elegante cajita. Color al azar",
-  precios: {
-   "1": 7.90,
-     },
-  imagen: "Img/Imagen385.jpeg",
-  stock: 4
-},
   {
   nombre: "5418ALMOHADA VICOELÁSTICA",
   categoria: "Higiene / Cuidado Personal",
@@ -1954,16 +1923,6 @@ const productos = [
      },
   imagen: "Img/Imagen428.jpeg",
   stock: 30
-},
-     {
-  nombre: "5476JUEGO DE MESA TETRIS 3D",
-  categoria: "Juguetes",
-  descripcion: "Juego competitivo para 2 jugadores, con timbre incluido. Bloques de madera de colores + tarjetas de desafío. Ideal desde los 3 años, desarrolla lógica y coordinación. Diversión educativa que reta la mente y la velocidad.",
-  precios: {
-   "1": 16.95,
-     },
-  imagen: "Img/Imagen429.jpeg",
-  stock: 2
 },
          {
   nombre: "5479SET DE 10 CUBIERTAS DE ALUMINIO",
