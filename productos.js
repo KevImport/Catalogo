@@ -3054,14 +3054,15 @@ const productos = [
   stock: 1
 },
   {
-  nombre: "5711ORGANIZADOR DE GORRAS",
+  nombre: "5737ORGANIZADOR DE GORRAS",
   categoria: "Hogar / Cocina",
   descripcion: "Permite organizar varias gorras en poco espacio. Ideal para colgar detrás de la puerta o en la pared. Color al azar. Mantiene tus gorras ordenadas, visibles y sin deformarse.",
   precios: {
    "1": 7.95,
+   "3": 6.95,
        },
   imagen: "Img/Imagen577.jpeg",
-  stock: 21
+  stock: 14
 },
     {
   nombre: "5383FOCO  LED 30W",
@@ -3108,7 +3109,7 @@ const productos = [
    "3": 7.95,
        },
   imagen: "Img/Imagen582.jpeg",
-  stock: 7
+  stock: 5
 },
       {
   nombre: "5718ORGANIZADOR ARTÍSTICO",
@@ -3143,7 +3144,7 @@ const productos = [
    "1": 9.95,
        },
   imagen: "Img/Imagen432.jpeg",
-  stock: 6
+  stock: 5
 },
           {
   nombre: "5722ROLLO DE ETIQUETAS ADHESIVAS PARA CONDIMENTOS",
@@ -3153,7 +3154,6 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.65,
-   "12": 2.35,
        },
   imagen: "Img/Imagen585.jpeg",
   stock: 10
