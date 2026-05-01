@@ -1062,7 +1062,7 @@ const productos = [
    "3": 2.95,
  },
   imagen: "Img/Imagen249.png",
-  stock: 6
+  stock: 3
 },
  {
   nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
@@ -1143,7 +1143,7 @@ const productos = [
    "6": 2.65,
  },
   imagen: "Img/Imagen277.png",
-  stock: 18
+  stock: 12
 },
   {
   nombre: "5270PLANCHA DE LIGUITAS PARA EL CABELLO",
@@ -1223,7 +1223,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen285.png",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "5278PIJAMA DE DOS PIEZAS",
@@ -1934,7 +1934,7 @@ const productos = [
    "6": 1.95,
      },
   imagen: "Img/Imagen431.jpeg",
-  stock: 13
+  stock: 7
 },
         {
   nombre: "5485ABACO VERTICAL",
@@ -2353,7 +2353,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen498.jpeg",
-  stock: 8
+  stock: 7
 },
        {
   nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
@@ -2643,7 +2643,7 @@ const productos = [
    "3": 3.95,
        },
   imagen: "Img/Imagen531.jpeg",
-  stock: 13
+  stock: 9
 },
               {
   nombre: "5650SET DE BROCHAS DE MAQUILLAJE",
