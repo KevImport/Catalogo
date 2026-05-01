@@ -1851,7 +1851,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen376.jpeg",
-  stock: 8
+  stock: 6
 },
           {
   nombre: "5457PORTA LAPICERO ANIMADO",
@@ -2116,11 +2116,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.55,
-   "6": 3.25,
-   "10": 2.95,
      },
   imagen: "Img/Imagen463.jpeg",
-  stock: 10
+  stock: 3
 },
    {
   nombre: "5528PAÑITOS HUMEDOS DOY PACK",
@@ -2218,11 +2216,10 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.15,
-   "6": 1.85,
-   "11": 1.55,
+   "5": 1.85,
      },
   imagen: "Img/Imagen476.png",
-  stock: 11
+  stock: 5
 },
      {
   nombre: "5553PEGATINA DE PARED - BLANCO",
