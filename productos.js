@@ -59,10 +59,10 @@ const productos = [
   descripcion: "¡Reduce medidas al instante! Este gel reafirmante ayuda a tonificar la zona abdominal y estilizar tu figura.",
   precios: {
     "1": 9.90,
-    "3": 8.90,
+    "2": 8.90,
   },
   imagen: "Img/Imagen31.jpg",
-  stock: 4
+  stock: 2
 },
 {
   nombre: "4930MANZANA ACRÍLICA SIN LETRAS",
