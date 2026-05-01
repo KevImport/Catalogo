@@ -625,18 +625,6 @@ const productos = [
   stock: 5
 },
 {
-  nombre: "4895SET DE 3 PERFILADORES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Pack de 3 perfiladores para cejas y vello facial. Precisión y suavidad para un acabado profesional.",
-  precios: {
-    "1": 3.90,
-    "3": 2.15,
-    "6": 1.85,
-  },
-  imagen: "Img/Imagen136.jpg",
-  stock: 8
-},
-{
   nombre: "4885DELINEADOR 2 EN 1",
   categoria: "Belleza / Cosmética",
   descripcion: "Delineador doble función con punta precisa y otro extremo para difuminar. Perfecto para crear looks intensos y definidos.",
@@ -663,10 +651,9 @@ const productos = [
   descripcion: "Suero nutritivo que fortalece y estimula el crecimiento de tus pestañas, dándoles volumen y longitud natural.",
   precios: {
     "1": 6.95,
-    "3": 5.95,
   },
   imagen: "Img/Imagen140.jpg",
-  stock: 4
+  stock: 1
 },
 {
   nombre: "4812ALMOHADILLAS DE DESCANSO",
@@ -1131,10 +1118,9 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.65,
-   "11": 2.35,
  },
   imagen: "Img/Imagen265.jpg",
-  stock: 11
+  stock: 9
 },
  {
   nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
@@ -2274,10 +2260,10 @@ const productos = [
    "1": 3.95,
    "3": 2.15,
    "6": 1.85,
-   "12": 1.55,
+   "11": 1.55,
      },
   imagen: "Img/Imagen476.png",
-  stock: 14
+  stock: 11
 },
      {
   nombre: "5553PEGATINA DE PARED - BLANCO",
@@ -2413,18 +2399,6 @@ const productos = [
   imagen: "Img/Imagen498.jpeg",
   stock: 8
 },
-     {
-  nombre: "5584JABÓN DE CÚRCUMA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ayuda a limpiar profundamente la piel y unificar el tono. Ideal para manchas, acné y piel grasa, uso diario.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "6": 2.95,
-     },
-  imagen: "Img/Imagen499.jpeg",
-  stock: 6
-},
        {
   nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
   categoria: "Escolar / Papelería",
@@ -2502,16 +2476,6 @@ const productos = [
        },
   imagen: "Img/Imagen511.jpeg",
   stock: 5
-},
-     {
-  nombre: "5612SET DE 12 ESTUCHES PARA CEPILLOS DE DIENTES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ideales para viajes, colegio o uso diario. Colores surtidos, prácticos e higiénicos.",
-  precios: {
-   "1": 9.95,
-       },
-  imagen: "Img/Imagen518.jpeg",
-  stock: 1
 },
      {
   nombre: "5614ORGANIZADOR DE BOLSAS",
@@ -3194,17 +3158,7 @@ const productos = [
   imagen: "Img/Imagen585.jpeg",
   stock: 10
 },
-            {
-  nombre: "POTE DE 130 GOMITAS - CHANCA PIEDRA",
-  categoria: "Gomitas",
-  descripcion: "Potencia tu bienestar renal y digestivo con Gomitas Chanca Piedra: la solución natural y deliciosa para desintoxicar tu organismo y eliminar cálculos.",
-  precios: {
-   "1": 25.90,
-       },
-  imagen: "Img/Imagen587.jpeg",
-  stock: 1
-},
-              {
+        {
   nombre: "POTE DE 130 GOMITAS - CÚRCUMA",
   categoria: "Gomitas",
   descripcion: "Mejora tu salud articular y digestiva con el poder de nuestras gomitas de Cúrcuma: la forma más práctica y deliciosa de combatir la inflamación diariamente.",
