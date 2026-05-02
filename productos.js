@@ -2215,11 +2215,9 @@ const productos = [
   descripcion: "La piedra puede absorber impurezas y purificar la calidad del agua. El diseño telescópico y giratorio de 360 grados hace que el grifo sea más útil y flexible. Fácil instalación y se adapta cualquier caño.",
   precios: {
    "1": 3.95,
-   "3": 2.15,
-   "5": 1.85,
      },
   imagen: "Img/Imagen476.png",
-  stock: 5
+  stock: 2
 },
      {
   nombre: "5553PEGATINA DE PARED - BLANCO",
