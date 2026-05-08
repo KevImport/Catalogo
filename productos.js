@@ -2976,16 +2976,6 @@ const productos = [
   imagen: "Img/Imagen571.jpeg",
   stock: 14
 },
-               {
-  nombre: "5707ESTUCHE DE 24 PLUMONES ACRÍLICOS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Colores vibrantes y de alta cobertura para todo tipo de superficies. Ideales para manualidades, lettering, madera, vidrio y más.",
-  precios: {
-   "1": 7.95,
-       },
-  imagen: "Img/Imagen573.jpeg",
-  stock: 9
-},
                  {
   nombre: "5708DELINEADOR BLANCO",
   categoria: "Belleza / Cosmética",
@@ -3130,19 +3120,6 @@ const productos = [
        },
   imagen: "Img/Imagen589.jpeg",
   stock: 1
-},
-                {
-  nombre: "5723TAPA PROTECTORA PARA ALIMENTOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantiene tus comidas frescas y protegidas de insectos o suciedad. Apta para microondas, práctica y fácil de usar en el día a día.",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-   "6": 3.25,
-   "12": 2.95,
-       },
-  imagen: "Img/Imagen590.jpeg",
-  stock: 32
 },
                 {
   nombre: "5728ORGANIZADOR DE INFUSIONES 6 DIVISIONES",
