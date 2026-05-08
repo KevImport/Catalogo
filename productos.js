@@ -3016,7 +3016,7 @@ const productos = [
    "3": 6.95,
        },
   imagen: "Img/Imagen577.jpeg",
-  stock: 14
+  stock: 9
 },
     {
   nombre: "5383FOCO  LED 30W",
@@ -3072,10 +3072,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.95,
-   "6": 3.75,
        },
   imagen: "Img/Imagen583.jpeg",
-  stock: 6
+  stock: 5
 },
       {
   nombre: "5719SET DE 12 MARIPOSAS DECORATIVAS",
