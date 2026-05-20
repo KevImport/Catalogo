@@ -2953,17 +2953,6 @@ const productos = [
   stock: 11
 },
              {
-  nombre: "5702TOALLITAS HÚMEDAS LIMPIA ZAPATOS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Limpian de forma rápida y práctica todo tipo de calzado. Eliminan suciedad, polvo y manchas al instante. Formato portátil, ideal para llevar a cualquier lugar. Contiene 15 unidades listas para usar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.25,
-       },
-  imagen: "Img/Imagen570.png",
-  stock: 3
-},
-             {
   nombre: "5704TRITURADOR DE AJOS",
   categoria: "Hogar / Cocina",
   descripcion: "Material de acero inoxidable + plástico reforzado. Triturador manual. Medidas: 10.5 x 7 x 5 cm. Práctico de utilizar.",
@@ -3165,6 +3154,50 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen594.jpeg",
-  stock: 16
+  stock: 12
+},
+          {
+  nombre: "5740CORREA PARA CABALLERO",
+  categoria: "Accesorios",
+  descripcion: "Diseño elegante y versátil, ideal para cualquier ocasión. Medida 3.5 x 115 cm, cómodo y fácil de combinar con tu outfit.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+       },
+  imagen: "Img/Imagen595.jpeg",
+  stock: 7
+},
+          {
+  nombre: "5746CONTENEDOR 250ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "Contenedor de borosilicato con tapa de bambú, resistente y elegante para conservar tus alimentos. Capacidad de 250 ml, ideal para porciones pequeñas y uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+       },
+  imagen: "Img/Imagen597.jpeg",
+  stock: 25
+},
+            {
+  nombre: "5748BOLSA TÉRMICA PARA AGUA FRÍA O CALIENTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Bolsa térmica para agua fría o caliente, ideal para aliviar dolores musculares, cólicos y tensión. Perfecta para mantener el calor en invierno o usar en frío para desinflamar.",
+  precios: {
+   "1": 5.95,
+       },
+  imagen: "Img/Imagen598.jpeg",
+  stock: 2
+},
+            {
+  nombre: "5749GEL TERAPÉUTICO DE CANNABIS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a aliviar dolores musculares y articulares de forma rápida. Efecto relajante y refrescante, ideal para uso diario y recuperación física.",
+  precios: {
+   "1": 4.95,
+       },
+  imagen: "Img/Imagen599.jpeg",
+  stock: 2
 },
 ];
