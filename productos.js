@@ -3142,7 +3142,7 @@ const productos = [
    "6": 3.65,
        },
   imagen: "Img/Imagen593.jpg",
-  stock: 15
+  stock: 12
 },
         {
   nombre: "5738PAQUETE DE BOLSAS CUBRE PLATOS",
@@ -3199,5 +3199,28 @@ const productos = [
        },
   imagen: "Img/Imagen599.jpeg",
   stock: 2
+},
+            {
+  nombre: "5754PÉTALOS DE ALGODÓN",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpieza delicada para tu piel, ideales para maquillaje y cuidado diario. Pack de 80 unidades, suaves y resistentes para una rutina perfecta.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+       },
+  imagen: "Img/Imagen601.jpeg",
+  stock: 8
+},
+            {
+  nombre: "5758LIBRO MÁGICO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Pinta solo con agua y descubre colores que aparecen como por arte de magia. Reutilizable, limpio y seguro, ideal para estimular la creatividad de los niños.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+       },
+  imagen: "Img/Imagen602.png",
+  stock: 32
 },
 ];
