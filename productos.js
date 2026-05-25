@@ -2641,7 +2641,7 @@ const productos = [
    "3": 3.95,
        },
   imagen: "Img/Imagen531.jpeg",
-  stock: 9
+  stock: 4
 },
               {
   nombre: "5650SET DE BROCHAS DE MAQUILLAJE",
