@@ -3223,4 +3223,38 @@ const productos = [
   imagen: "Img/Imagen602.png",
   stock: 32
 },
+            {
+  nombre: "5760BOLSO MORRAL",
+  categoria: "Accesorios",
+  descripcion: "Lleva todo lo esencial con estilo y comodidad gracias a su diseño práctico y moderno. Ideal para uso diario, con múltiples compartimentos y correa ajustable para mayor seguridad. Color al azar.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+       },
+  imagen: "Img/Imagen603.jpeg",
+  stock: 10
+},
+            {
+  nombre: "5761RENOVADOR DE MADERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Renueva tu mobiliario con nuestro RENOVADOR DE MADERA. ¡Dale nueva vida a tus espacios! Disfrutar de muebles como nuevos por mucho más tiempo. No dejes que el paso del tiempo afecte su belleza.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "Img/Imagen604.png",
+  stock: 5
+},
+    {
+  nombre: "5762ESPONJA MÁGICA DE MELAMINA ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina manchas y suciedad fácilmente sin dañar las superficies. Ideal para paredes, cocina, baño, zapatillas y mucho más.",
+  precios: {
+   "1": 2.95,
+   "3": 1.85,
+   "6": 1.55,
+   "12": 1.25,
+       },
+  imagen: "Img/Imagen605.png",
+  stock: 68
+},
 ];
