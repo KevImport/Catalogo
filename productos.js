@@ -2817,7 +2817,7 @@ const productos = [
    "12": 2.95,
        },
   imagen: "Img/Imagen553.png",
-  stock: 13
+  stock: 12
 },
     {
   nombre: "5598OXÍMETRO DE PULSO",
