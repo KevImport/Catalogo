@@ -3179,16 +3179,6 @@ const productos = [
   stock: 2
 },
             {
-  nombre: "5749GEL TERAPÉUTICO DE CANNABIS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ayuda a aliviar dolores musculares y articulares de forma rápida. Efecto relajante y refrescante, ideal para uso diario y recuperación física.",
-  precios: {
-   "1": 4.95,
-       },
-  imagen: "Img/Imagen599.jpeg",
-  stock: 2
-},
-            {
   nombre: "5754PÉTALOS DE ALGODÓN",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Limpieza delicada para tu piel, ideales para maquillaje y cuidado diario. Pack de 80 unidades, suaves y resistentes para una rutina perfecta.",
@@ -3254,5 +3244,87 @@ const productos = [
        },
   imagen: "Img/Imagen606.jpeg",
   stock: 2
+},
+  {
+  nombre: "5770DEPILADOR NASAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Elimina el vello nasal de forma rápida, segura y sin dolor. Diseño práctico y compacto, ideal para el cuidado personal diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+       },
+  imagen: "Img/Imagen607.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5771QUITA ESPINILLAS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a remover puntos negros y exceso de grasa de forma práctica y segura. Diseño compacto y fácil de usar, ideal para tu rutina de cuidado facial.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+       },
+  imagen: "Img/Imagen608.jpeg",
+  stock: 22
+},
+    {
+  nombre: "5773MITONES CÁLIDOS",
+  categoria: "Accesorios",
+  descripcion: "Mantén tus manos abrigadas y cómodas durante los días fríos. Suaves, elegantes y perfectos para complementar cualquier outfit de invierno. Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+       },
+  imagen: "Img/Imagen609.jpeg",
+  stock: 24
+},
+      {
+  nombre: "5774BOLSA CON ASAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 20 x 25 x 9 cm, prácticas y espaciosas. Dale un toque elegante y moderno a tus regalos, detalles y emprendimientos. Resistentes, prácticas y súper lindas para toda ocasión ",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+       },
+  imagen: "Img/Imagen610.jpeg",
+  stock: 4
+},
+        {
+  nombre: "5777KIT TERMO CON TAZAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Práctico, útil y listo para usar!  Termo de 500 ML con 3 tazas para disfrutar tus bebidas frías o calientes en el trabajo, estudio o viaje. Color al azar",
+  precios: {
+   "1": 9.90,
+       },
+  imagen: "Img/Imagen611.jpeg",
+  stock: 18
+},
+          {
+  nombre: "5778CESTA PLEGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Cesto plegable con diseño, ideal para organizar ropa o juguetes con estilo. ¡Súper práctico y ligero! Incluye asas. Medida aprox.: 34 x 44 cm, diseño al azar",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+       },
+  imagen: "Img/Imagen612.jpeg",
+  stock: 27
+},
+            {
+  nombre: "5780PARCHE LEON",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Activa el calor para aliviar molestias musculares en cuello, espalda, rodillas y más. Ideal para relajar tensiones y brindar confort en tu día a día.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+    },
+  imagen: "Img/Imagen613.jpeg",
+  stock: 24
 },
 ];
