@@ -65,17 +65,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4930MANZANA ACRÍLICA SIN LETRAS",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Una pieza decorativa elegante. Esta manzana acrílica es ideal para regalos, escritorios o espacios creativos.",
-  precios: {
-    "1": 5.95,
-    "3": 4.95,
-  },
-  imagen: "Img/Imagen34.jpg",
-  stock: 8
-},
-{
   nombre: "4884TAPETE CAPYBARA",
   categoria: "Hogar / Cocina",
   descripcion: "Dale estilo a tu entrada con este adorable tapete de capibara. Suave, resistente y antideslizante.",
@@ -117,17 +106,7 @@ const productos = [
     "3": 6.95,
   },
   imagen: "Img/Imagen44.jpg",
-  stock: 10
-},
-{
-  nombre: "4854GLOBO BOUQUET - PAPA",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Sorprende a papá con estilo. Bouquet de globos con temática especial para el Día del Padre.",
-  precios: {
-    "1": 3.55,
-  },
-  imagen: "Img/Imagen45.jpg",
-  stock: 2
+  stock: 4
 },
 {
   nombre: "4853GLOBO FELIZ DÍA PAPA",
@@ -1348,17 +1327,6 @@ const productos = [
   imagen: "Img/Imagen559.jpeg",
   stock: 15
 },
-  {
-  nombre: "5315TOALLITAS HIGIÉNICAS DE NOCHE",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Diseñadas para la noche, con alas y absorción rápida para mayor protección. Hechas de tela de algodón, suaves y cómodas con flujo moderado. Paquete de 10 unidades, 100% sin filtraciones y extra suave con tu piel.",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-  },
-  imagen: "Img/Imagen313.jpeg",
-  stock: 4
-},
  {
   nombre: "5317INFLADOR DE LLANTAS Y PELOTAS",
   categoria: "Higiene / Cuidado Personal",
@@ -1616,16 +1584,6 @@ const productos = [
   imagen: "Img/Imagen357.jpeg",
   stock: 9
 },
-{
-  nombre: "5377BASE MÓVIL",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Transporta balones, cubos de agua, macetas, etc. Material: plástico. Capacidad: 40kg",
-  precios: {
-   "1": 6.95,
-  },
-  imagen: "Img/Imagen358.jpeg",
-  stock: 1
-},
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
   categoria: "Escolar / Papelería",
@@ -1742,16 +1700,6 @@ const productos = [
      },
   imagen: "Img/Imagen384.jpeg",
   stock: 17
-},
-  {
-  nombre: "5418ALMOHADA VICOELÁSTICA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Anti Ácaros - Anti Moho - Anti Sudor - Anti Bacterianas. Ayuda a regular la temperatura. Descanso sin interrupciones.",
-  precios: {
-   "1": 15.95,
-     },
-  imagen: "Img/Imagen387.jpeg",
-  stock: 1
 },
     {
   nombre: "5420ORUGUITA DE PELUCHE",
@@ -2045,17 +1993,6 @@ const productos = [
   imagen: "Img/Imagen451.png",
   stock: 4
 },
-             {
-  nombre: "5505GEL DE ÁRNICA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Dolor rodilla, codos, espalda, cuello y cintura. Antiflamatorio. Artritis. Golpes y quemaduras. Picaduras. Dolor de huesos. Dolor ciatica-lumbago. Modo de uso: 2 a 3 veces al día con un masaje a la zona afectada.",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-     },
-  imagen: "Img/Imagen452.jpeg",
-  stock: 4
-},
  {
   nombre: "5508GEL LIMPIADOR DE INODORO",
   categoria: "Hogar / Cocina",
@@ -2108,17 +2045,7 @@ const productos = [
   imagen: "Img/Imagen463.jpeg",
   stock: 3
 },
-   {
-  nombre: "5528PAÑITOS HUMEDOS DOY PACK",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Limpieza profunda y delicada 0% alcohol con extractos de manzanilla para proteger la piel. Gran formato de 184 unidades en empaque resellable para máxima frescura y ahorro total.",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "Img/Imagen464.jpeg",
-  stock: 1
-},
-   {
+     {
   nombre: "5533PERCHERO DECORATIVO",
   categoria: "Hogar / Cocina",
   descripcion: "Organiza tus llaves con estilo y mantén todo en orden. Ideal para entrada, sala u oficina, fácil de colgar. Medida: 30 x 11 cm",
@@ -2285,16 +2212,6 @@ const productos = [
      },
   imagen: "Img/Imagen492.jpeg",
   stock: 13
-},
-          {
-  nombre: "5576NECESER WASHBAG",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ideal para viajes, maquillaje o artículos de higiene. Material resistente, con ventana translúcida y asa práctica. Color al azar, moderno y compacto para llevar a todos lados.",
-  precios: {
-   "1": 4.95,
-     },
-  imagen: "Img/Imagen493.jpeg",
-  stock: 2
 },
           {
   nombre: "5577CINTA DOBLE FAZ PARA ROPA",
@@ -2880,16 +2797,6 @@ const productos = [
        },
   imagen: "Img/Imagen563.jpeg",
   stock: 6
-},
-         {
-  nombre: "5693GUIRNALDA DE LUCES LED 5M",
-  categoria: "Hogar / Cocina",
-  descripcion: "Iluminación cálida ideal para decorar interiores y exteriores. Perfecta para fiestas, terrazas, jardines o eventos especiales. Fácil de instalar, resistente y con diseño moderno que transforma cualquier espacio.",
-  precios: {
-   "1": 22.90,
-       },
-  imagen: "Img/Imagen563.jpeg",
-  stock: 2
 },
            {
   nombre: "5694BOLSA DE 50 GLOBOS N°9",
