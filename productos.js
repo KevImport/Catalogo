@@ -3327,4 +3327,99 @@ const productos = [
   imagen: "Img/Imagen613.jpeg",
   stock: 24
 },
+              {
+  nombre: "5784SET RELOJ + PULSERA",
+  categoria: "Accesorios",
+  descripcion: "Elegante set con reloj y pulsera, perfecto para complementar cualquier estilo. Ideal para sorprender a papá con un regalo especial y lleno de detalles.",
+  precios: {
+   "1": 11.90,
+   "3": 10.90,
+    },
+  imagen: "Img/Imagen614.jpeg",
+  stock: 11
+},
+                {
+  nombre: "5786AROMATIZANTE DE AMBIENTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale a tu hogar, oficina o habitación un aroma fresco y agradable todo el día. Contiene: 25 ml | Aromas variados para perfumar y decorar tus espacios.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+    },
+  imagen: "Img/Imagen615.jpeg",
+  stock: 4
+},
+                  {
+  nombre: "5787DESTAPADOR BOTELLA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño original en forma de botella, práctico y decorativo para tu cocina, bar o negocio. Medida: 14 cm | Ideal para regalo, colección o uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+    },
+  imagen: "Img/Imagen616.jpeg",
+  stock: 36
+},
+                    {
+  nombre: "5788CABLE 3 EN 1 CARGA RÁPIDA 65W",
+  categoria: "Hogar / Cocina",
+  descripcion: "Compatible con Tipo C • V8 • iPhone • USB. Nailon reforzado resistente y diseño anti enredamiento para mayor duración. Ideal para carga rápida y uso diario.",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+   "12": 4.95,
+    },
+  imagen: "Img/Imagen617.jpeg",
+  stock: 21
+},
+                      {
+  nombre: "5789ESPUMA EXPANSIVA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Súper práctica y fácil de usar! Ideal para sellar grietas, rellenar huecos, aislar del frío, calor y ruido. Se expande al aplicar y endurece rápido. Perfecta para trabajos en casa, construcción o reparaciones de emergencia. ¡Un básico en tu caja de herramientas!",
+  precios: {
+   "1": 9.95,
+   "3": 8.85,
+   "6": 8.55,
+    },
+  imagen: "Img/Imagen618.png",
+  stock: 6
+},
+                        {
+  nombre: "5790PELUCHE PANDITA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Tierno pandita con chalina súper suave y abrazable! Ideal para sorprender con un detalle especial lleno de ternura. Color al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+    },
+  imagen: "Img/Imagen620.jpeg",
+  stock: 5
+},
+                          {
+  nombre: "5791LLAVERO MINI ÁLBUM",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lleva tus recuerdos favoritos @a todas partes con este práctico mini álbum llavero. Capacidad para 20 fotos (no incluidas), ideal para regalar o personalizar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+    },
+  imagen: "Img/Imagen619.png",
+  stock: 6
+},
+                            {
+  nombre: "5792MINI SELLADOR DE BOLSAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sella tus bolsas al instante y conserva los alimentos por más tiempo. Diseño compacto y práctico, ideal para llevar a cualquier lugar. Perfecto para snacks, frutas y todo tipo de empaques en casa.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+    },
+  imagen: "Img/Imagen621.png",
+  stock: 18
+},
 ];
