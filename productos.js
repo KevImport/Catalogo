@@ -3078,16 +3078,6 @@ const productos = [
   imagen: "Img/Imagen585.jpeg",
   stock: 10
 },
-        {
-  nombre: "POTE DE 130 GOMITAS - CÚRCUMA",
-  categoria: "Gomitas",
-  descripcion: "Mejora tu salud articular y digestiva con el poder de nuestras gomitas de Cúrcuma: la forma más práctica y deliciosa de combatir la inflamación diariamente.",
-  precios: {
-   "1": 24.90,
-       },
-  imagen: "Img/Imagen588.jpeg",
-  stock: 1
-},
               {
   nombre: "POTE DE 130 GOMITAS - DHA",
   categoria: "Gomitas",
