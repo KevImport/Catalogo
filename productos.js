@@ -1924,18 +1924,6 @@ const productos = [
   imagen: "Img/Imagen428.jpeg",
   stock: 30
 },
-         {
-  nombre: "5479SET DE 10 CUBIERTAS DE ALUMINIO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Incluye 10 piezas. Resistentes y reutilizables. Ideales para conservar y proteger alimentos.",
-  precios: {
-   "1": 3.95,
-   "3": 2.25,
-   "6": 1.95,
-     },
-  imagen: "Img/Imagen431.jpeg",
-  stock: 7
-},
         {
   nombre: "5485ABACO VERTICAL",
   categoria: "Escolar / Papelería",
@@ -3245,7 +3233,7 @@ const productos = [
   stock: 5
 },
     {
-  nombre: "5762ESPONJA MÁGICA DE MELAMINA ",
+  nombre: "5762ESPONJA MÁGICA DE MELAMINA",
   categoria: "Hogar / Cocina",
   descripcion: "Elimina manchas y suciedad fácilmente sin dañar las superficies. Ideal para paredes, cocina, baño, zapatillas y mucho más.",
   precios: {
@@ -3255,6 +3243,16 @@ const productos = [
    "12": 1.25,
        },
   imagen: "Img/Imagen605.png",
-  stock: 68
+  stock: 67
+},
+               {
+  nombre: "5765COLLAR EQUIPO",
+  categoria: "Accesorios",
+  descripcion: "¡Atención hinchas de corazón! Tenemos el collar perfecto para lucir. Ya sea que alienta a Alianza Lima o Sporting Cristal, este collar está hecho para ti. Ideal para llevar el escudo en el pecho con orgullo. ¡Hazlo parte de tu estilo diario!. Se elige: (Alianza o Cristal), color al azar.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "Img/Imagen606.jpeg",
+  stock: 2
 },
 ];
