@@ -1472,7 +1472,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen331.png",
-  stock: 17
+  stock: 14
 },
 {
   nombre: "5343RIÑONERA CON DETALLES TORNASOLADOS",
@@ -1529,26 +1529,6 @@ const productos = [
   },
   imagen: "Img/Imagen350.jpeg",
   stock: 13
-},
-        {
-  nombre: "5370GUITARRITA MUSICAL",
-  categoria: "Juguetes",
-  descripcion: "Divertida guitarra con personajes Disney y sonidos encantadores. Ideal para estimular la creatividad musical de los más pequeños. Perfecta para regalo, ligera y fácil de usar.",
-  precios: {
-   "1": 9.95,
-  },
-  imagen: "Img/Imagen351.jpeg",
-  stock: 3
-},
-           {
-  nombre: "5372GORRO DISEÑO MILITAR",
-  categoria: "Accesorios",
-  descripcion: "Gorra estilo militar. Resistente, cómoda y con actitud. Ajustable, perfecta para un look urbano, táctico o casual.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen353.jpeg",
-  stock: 3
 },
               {
   nombre: "5374ESMALTE DE UÑAS",
@@ -1636,7 +1616,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "Img/Imagen371.jpeg",
-  stock: 5
+  stock: 4
 },
             {
   nombre: "5391CAMPANAS DE VIENTO MÍSTICOS Y ENERGÉTICOS",
@@ -1698,7 +1678,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen389.jpeg",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
@@ -2251,10 +2231,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
      },
   imagen: "Img/Imagen502.jpeg",
-  stock: 8
+  stock: 5
 },
                {
   nombre: "5593ESPONJA QUITA MUGRE",
@@ -3198,7 +3177,7 @@ const productos = [
    "3": 10.90,
     },
   imagen: "Img/Imagen614.jpeg",
-  stock: 11
+  stock: 8
 },
                 {
   nombre: "5786AROMATIZANTE DE AMBIENTE",
