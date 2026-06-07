@@ -3028,7 +3028,7 @@ const productos = [
    "6": 2.75,
        },
   imagen: "Img/Imagen597.jpeg",
-  stock: 25
+  stock: 19
 },
             {
   nombre: "5748BOLSA TÉRMICA PARA AGUA FRÍA O CALIENTE",
@@ -3142,7 +3142,7 @@ const productos = [
    "12": 2.35,
        },
   imagen: "Img/Imagen609.jpeg",
-  stock: 24
+  stock: 18
 },
       {
   nombre: "5774BOLSA CON ASAS",
