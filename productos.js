@@ -3179,17 +3179,6 @@ const productos = [
   imagen: "Img/Imagen614.jpeg",
   stock: 8
 },
-                {
-  nombre: "5786AROMATIZANTE DE AMBIENTE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Dale a tu hogar, oficina o habitación un aroma fresco y agradable todo el día. Contiene: 25 ml | Aromas variados para perfumar y decorar tus espacios.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-    },
-  imagen: "Img/Imagen615.jpeg",
-  stock: 4
-},
                   {
   nombre: "5787DESTAPADOR BOTELLA",
   categoria: "Hogar / Cocina",
