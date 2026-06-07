@@ -504,7 +504,7 @@ const productos = [
     "1": 24.90,
   },
   imagen: "Img/Imagen116.jpg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "2380PORTA SANDALIAS",
@@ -623,16 +623,6 @@ const productos = [
   },
   imagen: "Img/Imagen139.jpg",
   stock: 3
-},
-{
-  nombre: "4760SUERO DE PESTAÑAS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Suero nutritivo que fortalece y estimula el crecimiento de tus pestañas, dándoles volumen y longitud natural.",
-  precios: {
-    "1": 6.95,
-  },
-  imagen: "Img/Imagen140.jpg",
-  stock: 1
 },
 {
   nombre: "4812ALMOHADILLAS DE DESCANSO",
@@ -1016,10 +1006,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "6": 2.25,
   },
   imagen: "Img/Imagen246.jpg",
-  stock: 6
+  stock: 4
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -1958,19 +1947,6 @@ const productos = [
   imagen: "Img/Imagen446.jpeg",
   stock: 8
 },
-    {
-  nombre: "5500CINTA DE EMBALAJE 200 YARDAS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Alta resistencia y excelente adherencia para sellado seguro de cajas y paquetes. Ideal para uso escolar, oficina o negocio, práctica y funcional para el día a día.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
-   "12": 3.35,
-     },
-  imagen: "Img/Imagen447.jpeg",
-  stock: 17
-},
       {
   nombre: "5501JUEGO DE ESCUADRAS - 5 PCS",
   categoria: "Escolar / Papelería",
@@ -2087,11 +2063,10 @@ const productos = [
   descripcion: "Inspirados en el mundo KPOP, súper modernos. Escritura suave y resistente. Perfectos para cole, eventos y souvenirs.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
+   "2": 3.95,
      },
   imagen: "Img/Imagen471.jpeg",
-  stock: 8
+  stock: 2
 },
        {
   nombre: "5543SET DE 10 REGLAS KPOP",
@@ -2200,7 +2175,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen490.jpeg",
-  stock: 2
+  stock: 1
 },
             {
   nombre: "5575GOTAS DE TERBINAFINA",
@@ -2345,7 +2320,7 @@ const productos = [
    "3": 1.95,
        },
   imagen: "Img/Imagen512.png",
-  stock: 5
+  stock: 4
 },
        {
   nombre: "5616SET DE 5 TAPERS",
@@ -2451,7 +2426,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen522.jpeg",
-  stock: 10
+  stock: 9
 },
     {
   nombre: "5631COFRE CORAZÓN",
@@ -2742,7 +2717,7 @@ const productos = [
    "1": 49.90,
        },
   imagen: "Img/Imagen557.png",
-  stock: 5
+  stock: 4
 },
      {
   nombre: "5688RECIPIENTE PARA SNACKS DISEÑO CALABAZA",
@@ -2796,7 +2771,7 @@ const productos = [
    "1": 36.90,
        },
   imagen: "Img/Imagen563.jpeg",
-  stock: 6
+  stock: 3
 },
            {
   nombre: "5694BOLSA DE 50 GLOBOS N°9",
@@ -2870,16 +2845,6 @@ const productos = [
        },
   imagen: "Img/Imagen574.jpeg",
   stock: 3
-},
-          {
-  nombre: "POTE DE 150 GOMITAS - MULTIVITAMINAS",
-  categoria: "Gomitas",
-  descripcion: "Gomitas multivitaminas Sottcor para adultos, diseñado para cubrir requerimientos nutricionales diarios, fortalecer el sistema inmunológico y mejorar los niveles de energía. Su fórmula incluye una mezcla de vitaminas del complejo B (B1, B2, B6, B9, B12) y vitaminas A, D, C y E.",
-  precios: {
-   "1": 25.90,
-       },
-  imagen: "Img/Imagen579.jpeg",
-  stock: 1
 },
   {
   nombre: "5737ORGANIZADOR DE GORRAS",
@@ -3027,7 +2992,7 @@ const productos = [
    "6": 3.65,
        },
   imagen: "Img/Imagen593.jpg",
-  stock: 12
+  stock: 11
 },
         {
   nombre: "5738PAQUETE DE BOLSAS CUBRE PLATOS",
@@ -3222,7 +3187,7 @@ const productos = [
    "3": 1.95,
     },
   imagen: "Img/Imagen613.jpeg",
-  stock: 24
+  stock: 14
 },
               {
   nombre: "5784SET RELOJ + PULSERA",
