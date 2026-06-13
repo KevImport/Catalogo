@@ -3168,17 +3168,6 @@ const productos = [
   imagen: "Img/Imagen613.jpeg",
   stock: 14
 },
-              {
-  nombre: "5784SET RELOJ + PULSERA",
-  categoria: "Accesorios",
-  descripcion: "Elegante set con reloj y pulsera, perfecto para complementar cualquier estilo. Ideal para sorprender a papá con un regalo especial y lleno de detalles.",
-  precios: {
-   "1": 11.90,
-   "3": 10.90,
-    },
-  imagen: "Img/Imagen614.jpeg",
-  stock: 8
-},
                   {
   nombre: "5787DESTAPADOR BOTELLA",
   categoria: "Hogar / Cocina",
