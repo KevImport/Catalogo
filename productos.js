@@ -682,12 +682,13 @@ const productos = [
 {
   nombre: "4680CACHETERO CAPIBARA PARA NIÑA",
   categoria: "Ropa interior",
-  descripcion: "Ropa interior infantil con diseño de capibara. Suave, cómoda y con estilo divertido para las más pequeñas.",
+  descripcion: "Ropa interior infantil con diseño de capibara. Suave, cómoda y con estilo divertido para las más pequeñas. TALLA 8",
   precios: {
+    "1": 4.95,
     "3": 3.95,
   },
   imagen: "Img/Imagen152.jpg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "5031SET DE 7 TEMPERAS + PALETA Y PINCEL",
