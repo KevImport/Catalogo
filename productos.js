@@ -3192,7 +3192,7 @@ const productos = [
    "12": 4.95,
     },
   imagen: "Img/Imagen617.jpeg",
-  stock: 21
+  stock: 20
 },
                       {
   nombre: "5789ESPUMA EXPANSIVA",
@@ -3300,11 +3300,27 @@ const productos = [
          {
   nombre: "5802MANZANA ACRILICA",
   categoria: "Hogar / Cocina",
-  descripcion: " ¡Manzanas acrílicas rellenables! El detalle más lindo y original para consentir a tus maestros favoritos. ¡Ponles sus dulces o chocolates preferidos, personalízalas con su nombre y sorpréndelos en su día!",
+  descripcion: "¡Manzanas acrílicas rellenables! El detalle más lindo y original para consentir a tus maestros favoritos. ¡Ponles sus dulces o chocolates preferidos, personalízalas con su nombre y sorpréndelos en su día!",
   precios: {
-   "1": 12.95,
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+   "12": 3.25,
   },
   imagen: "Img/Imagen628.jpeg",
   stock: 20
+},
+         {
+  nombre: "5804LLAVERO ESFERA PONCHO DE ENERGENCIA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Llévalo en tu mochila, cartera o llavero gracias a su práctico estuche compacto. Ideal para días lluviosos, ligero, reutilizable y siempre listo para protegerte donde vayas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+  },
+  imagen: "Img/Imagen627.jpeg",
+  stock: 18
 },
 ];
