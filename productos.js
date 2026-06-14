@@ -84,7 +84,7 @@ const productos = [
     "3": 2.95,
   },
   imagen: "Img/Imagen41.jpg",
-  stock: 9
+  stock: 8
 },
 {
   nombre: "4861PACK DE 12 VINCHAS",
@@ -1144,7 +1144,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen280.jpeg",
-  stock: 6
+  stock: 4
 },
  {
   nombre: "5273VELA FLOR MUSICAL DE CUMPLEAÑOS",
@@ -1562,7 +1562,7 @@ const productos = [
    "3": 3.95
   },
   imagen: "Img/Imagen359.jpeg",
-  stock: 4
+  stock: 3
 },
     {
   nombre: "5379JABONERA CON CAJÓN",
@@ -1699,7 +1699,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen394.jpeg",
-  stock: 11
+  stock: 10
 },
   {
   nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
@@ -1926,17 +1926,6 @@ const productos = [
      },
   imagen: "Img/Imagen446.jpeg",
   stock: 8
-},
-      {
-  nombre: "5501JUEGO DE ESCUADRAS - 5 PCS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Incluye regla, transportador, escuadras y plantilla circular. Colores llamativos y material resistente. Ideal para escuela, dibujo técnico y uso diario.",
-  precios: {
-   "1": 3.95,
-   "2": 2.55,
-     },
-  imagen: "Img/Imagen448.jpeg",
-  stock: 2
 },
     {
   nombre: "5504JUEGO DE LABERINTO",
@@ -2321,7 +2310,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen514.jpeg",
-  stock: 7
+  stock: 6
 },
          {
   nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
@@ -2927,7 +2916,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen585.jpeg",
-  stock: 10
+  stock: 9
 },
               {
   nombre: "POTE DE 130 GOMITAS - DHA",
