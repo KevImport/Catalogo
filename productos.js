@@ -3144,19 +3144,6 @@ const productos = [
   imagen: "Img/Imagen611.jpeg",
   stock: 18
 },
-          {
-  nombre: "5778CESTA PLEGABLE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Cesto plegable con diseño, ideal para organizar ropa o juguetes con estilo. ¡Súper práctico y ligero! Incluye asas. Medida aprox.: 34 x 44 cm, diseño al azar",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-   "6": 3.25,
-   "12": 2.95,
-       },
-  imagen: "Img/Imagen612.jpeg",
-  stock: 27
-},
             {
   nombre: "5780PARCHE LEON",
   categoria: "Higiene / Cuidado Personal",
