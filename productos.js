@@ -38,10 +38,9 @@ const productos = [
   descripcion: "Escurre tus platos con elegancia. Fabricado en acero resistente, combina funcionalidad y diseño moderno para tu cocina.",
   precios: {
     "1": 6.95,
-    "3": 5.95,
   },
   imagen: "Img/Imagen14.jpg",
-  stock: 4
+  stock: 1
 },
 {
   nombre: "4966TAZA GAMER",
@@ -3007,7 +3006,7 @@ const productos = [
    "6": 2.75,
        },
   imagen: "Img/Imagen597.jpeg",
-  stock: 19
+  stock: 13
 },
             {
   nombre: "5748BOLSA TÉRMICA PARA AGUA FRÍA O CALIENTE",
