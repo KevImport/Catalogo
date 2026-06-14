@@ -3241,4 +3241,70 @@ const productos = [
   imagen: "Img/Imagen621.png",
   stock: 18
 },
+     {
+  nombre: "5794PIEDRAS REFLECTORAS LUMINOSAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Absorben la luz durante el día y brillan en la oscuridad, creando un efecto decorativo encantador. Ideales para jardines, macetas, peceras y manualidades. Contenido aprox.: 80 g. Diseño al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen622.jpeg",
+  stock: 27
+},
+       {
+  nombre: "5795RALLADOR 9 EN 1",
+  categoria: "Hogar / Cocina",
+  descripcion: "Corta, ralla y rebana con éstas cuchillas para ensaladas perfectas. Sistema giratorio integrado que permite lavar y escurrir tus vegetales al instante. Diseño ergonómico con protector de manos para una cocina rápida, segura y limpia.",
+  precios: {
+   "1": 10.95,
+  },
+  imagen: "Img/Imagen623.jpeg",
+  stock: 3
+},
+         {
+  nombre: "5798JABON CURCUMA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a limpiar profundamente la piel y unificar el tono. Ideal para manchas, acné y piel grasa, uso diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+  },
+  imagen: "Img/Imagen624.jpeg",
+  stock: 15
+},
+         {
+  nombre: "5800FILTRO ATRAPA PELUSAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu ropa más limpia atrapando pelusas, cabellos y residuos durante cada lavado. Reutilizable, práctico y fácil de usar; ayuda a proteger tus prendas y mantener la lavadora en mejores condiciones.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "Img/Imagen625.jpeg",
+  stock: 14
+},
+         {
+  nombre: "5801TARJETERO PREMIUM",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tarjetero Inteligente para Hombre. Diseño elegante y compacto con protección RFID para mayor seguridad de tus tarjetas. Acceso rápido, fácil de llevar en el bolsillo e ideal para regalar en cualquier ocasión.",
+  precios: {
+   "1": 12.95,
+  },
+  imagen: "Img/Imagen626.jpeg",
+  stock: 13
+},
+         {
+  nombre: "5802MANZANA ACRILICA",
+  categoria: "Hogar / Cocina",
+  descripcion: " ¡Manzanas acrílicas rellenables! El detalle más lindo y original para consentir a tus maestros favoritos. ¡Ponles sus dulces o chocolates preferidos, personalízalas con su nombre y sorpréndelos en su día!",
+  precios: {
+   "1": 12.95,
+  },
+  imagen: "Img/Imagen628.jpeg",
+  stock: 20
+},
 ];
