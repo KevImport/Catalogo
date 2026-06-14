@@ -2286,7 +2286,7 @@ const productos = [
    "1": 10.90,
        },
   imagen: "Img/Imagen513.jpeg",
-  stock: 4
+  stock: 3
 },
          {
   nombre: "5618BANDEJA DE HIELO CON TAPA",
