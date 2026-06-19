@@ -2884,16 +2884,6 @@ const productos = [
   imagen: "Img/Imagen584.jpeg",
   stock: 27
 },
-        {
-  nombre: "5721PAQUETE DE 3000 SERVILLETAS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Medida aprox.: 17.5 x 12 cm. 100% pulpa de madera. Puedes usarlo como: Pañuelo facial, papel de cocina, servilleta y papel de tocador.",
-  precios: {
-   "1": 9.95,
-       },
-  imagen: "Img/Imagen432.jpeg",
-  stock: 5
-},
           {
   nombre: "5722ROLLO DE ETIQUETAS ADHESIVAS PARA CONDIMENTOS",
   categoria: "Hogar / Cocina",
@@ -3250,16 +3240,6 @@ const productos = [
   },
   imagen: "Img/Imagen625.jpeg",
   stock: 14
-},
-         {
-  nombre: "5801TARJETERO PREMIUM",
-  categoria: "Hogar / Cocina",
-  descripcion: "Tarjetero Inteligente para Hombre. Diseño elegante y compacto con protección RFID para mayor seguridad de tus tarjetas. Acceso rápido, fácil de llevar en el bolsillo e ideal para regalar en cualquier ocasión.",
-  precios: {
-   "1": 12.95,
-  },
-  imagen: "Img/Imagen626.jpeg",
-  stock: 13
 },
          {
   nombre: "5802MANZANA ACRILICA",
