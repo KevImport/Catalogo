@@ -3088,7 +3088,7 @@ const productos = [
    "12": 2.35,
        },
   imagen: "Img/Imagen609.jpeg",
-  stock: 18
+  stock: 15
 },
       {
   nombre: "5774BOLSA CON ASAS",
