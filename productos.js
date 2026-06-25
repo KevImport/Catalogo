@@ -2532,7 +2532,7 @@ const productos = [
    "1": 2.95,
        },
   imagen: "Img/Imagen539.jpeg",
-  stock: 2
+  stock: 1
 },
        {
   nombre: "5665PACK DE 3 GORRAS PARA DUCHA",
@@ -3192,7 +3192,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen622.jpeg",
-  stock: 27
+  stock: 22
 },
        {
   nombre: "5795RALLADOR 9 EN 1",
@@ -3412,4 +3412,15 @@ const productos = [
   imagen: "Img/Imagen641.jpeg",
   stock: 1
 },
+     {
+  nombre: "5829TOMATODO SPORT 1 LITRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para hidratarte en cualquier momento. Diseño práctico, resistente y ligero. Perfecto para gimnasio, deporte y uso diario. Color al azar.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "Img/Imagen642.jpeg",
+  stock: 6
+},
+
 ];
