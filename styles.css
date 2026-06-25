@@ -232,6 +232,12 @@ h1 {
   font-size: 14px;
 }
 
-
+.btn-agregar {
+    padding: 12px 22px;
+    font-size: 13px;
+    width: 100%;
+    border-radius: 12px;
+    cursor: pointer;
+}
 
 
