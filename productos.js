@@ -3255,4 +3255,162 @@ const productos = [
   imagen: "Img/Imagen627.jpeg",
   stock: 12
 },
+      {
+  nombre: "5805MALETIN CON LUZ LED",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Espejo con luz LED regulable para un maquillaje perfecto en cualquier momento. Portátil, recargable por USB y con compartimentos organizadores para llevar todos tus cosméticos de forma práctica y segura. Color al azar.",
+  precios: {
+   "1": 25.90,
+  },
+  imagen: "Img/Imagen629.png",
+  stock: 4
+},
+        {
+  nombre: "5805MALETIN CON LUZ LED",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Espejo con luz LED regulable para un maquillaje perfecto en cualquier momento. Portátil, recargable por USB y con compartimentos organizadores para llevar todos tus cosméticos de forma práctica y segura. Color al azar.",
+  precios: {
+   "1": 25.90,
+  },
+  imagen: "Img/Imagen629.png",
+  stock: 4
+},
+    {
+  nombre: "5815PARLANTE PELOTA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Conecta tu música y vive la pasión del fútbol con este parlante Bluetooth mundialista de sonido potente y diseño único. Ideal para reuniones, partidos y celebraciones, con conexión rápida para disfrutar tus canciones favoritas donde vayas.",
+  precios: {
+   "1": 13.90,
+  },
+  imagen: "Img/Imagen630.jpeg",
+  stock: 6
+},
+      {
+  nombre: "5817ESTUCHE ORGANIZADOR DE CABLES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para proteger y ordenar tus cables, cargadores y accesorios tecnológicos en cada viaje. ¡Su diseño compacto con correa de mano evita enredos y optimiza al máximo el espacio en tu mochila.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "Img/Imagen631.jpeg",
+  stock: 2
+},
+        {
+  nombre: "5818ORGANIZADOR DE ESPECIAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus especias ordenadas y siempre al alcance de tu mano. Diseño práctico y elegante que aporta organización y estilo a tu cocina.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "Img/Imagen632.jpeg",
+  stock: 2
+},
+        {
+  nombre: "5819TERMO DÍA DEL MAESTRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus bebidas frías o calientes por más tiempo y consulta la temperatura al instante con su pantalla LED. Un regalo práctico, elegante y perfecto para sorprender a tu maestro favorito en su día. Diseño y color al azar",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "Img/Imagen633.jpeg",
+  stock: 2
+},
+          {
+  nombre: "5820LEGO JUMBO TOY STORY 5",
+  categoria: "Juguetes",
+  descripcion: "Divertido set de bloques para armar inspirado en los personajes favoritos de Toy Story. Ideal para estimular la creatividad, imaginación y coordinación de los pequeños. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+  },
+  imagen: "Img/Imagen634.jpeg",
+  stock: 12
+},
+   {
+  nombre: "5822LIBRO DE ESTUDIO INTERACTIVO",
+  categoria: "Juguetes",
+  descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
+  precios: {
+   "1": 11.95,
+   "3": 10.95,
+  },
+  imagen: "Img/Imagen635.png",
+  stock: 5
+},
+     {
+  nombre: "5823TABLERO LED PARA MENSAJES",
+  categoria: "Juguetes",
+  descripcion: "Escribe notas, recordatorios o mensajes creativos con marcadores de colores y hazlos brillar con luz LED. Incluye plumones de colores y conexión USB, ideal para escritorio, habitación o decoración personalizada.",
+  precios: {
+   "1": 10.95,
+   "3": 9.25,
+   "6": 8.95,
+  },
+  imagen: "Img/Imagen636.jpeg",
+  stock: 13
+},
+   {
+  nombre: "5824PORTA CUBIERTOS DE MADERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus cubiertos organizados y al alcance de la mano con este práctico y elegante porta cubiertos. Medida: 22 x 32 x 4 cm, ideal para cocina, comedor o eventos especiales.",
+  precios: {
+   "1": 9.90,
+  },
+  imagen: "Img/Imagen637.jpeg",
+  stock: 16
+},
+   {
+  nombre: "5825MUÑECO PELUCHE BAILARIN",
+  categoria: "Juguetes",
+  descripcion: "¡El peluche más divertido llegó para alegrar cada momento! Baila, canta y repite todo lo que dices para horas de diversión.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "Img/Imagen638.jpeg",
+  stock: 3
+},
+   {
+  nombre: "5826PACK DE 10 BOLSAS PINKY",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Ideal para armar packs de maquillaje, skincare, regalos y detalles especiales con una presentación elegante. Hermética, resistente y reutilizable; protege del polvo, humedad y derrames. Medida: 24 x 16 cm",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "Img/Imagen639.jpeg",
+  stock: 26
+},
+   {
+  nombre: "5827PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tamaño amplio para múltiples reparaciones. Ideal para sofás, asientos, carteras y más. Resistente, elegante y fácil de aplicar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "Img/Imagen640.png",
+  stock: 17
+},
+   {
+  nombre: "5828LEGGIN SUPLEX TALLAS XL",
+  categoria: "Ropa interior",
+  descripcion: "Pretina alta, talla: XL, color: NEGRO",
+  precios: {
+   "1": 16.90,
+  },
+  imagen: "Img/Imagen641.jpeg",
+  stock: 1
+},
+   {
+  nombre: "5809LEGGIN SUPLEX TALLAS L",
+  categoria: "Ropa interior",
+  descripcion: "Pretina alta, talla: L, color: NEGRO",
+  precios: {
+   "1": 14.90,
+  },
+  imagen: "Img/Imagen641.jpeg",
+  stock: 1
+},
 ];
