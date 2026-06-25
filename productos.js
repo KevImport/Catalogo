@@ -2358,7 +2358,7 @@ const productos = [
    "3": 1.95,
        },
   imagen: "Img/Imagen521.jpeg",
-  stock: 10
+  stock: 7
 },
     {
   nombre: "5630PACK DE 6 MANIJAS ADHESIVAS",
@@ -2420,7 +2420,7 @@ const productos = [
    "12": 2.45,
        },
   imagen: "Img/Imagen526.jpeg",
-  stock: 23
+  stock: 19
 },
          {
   nombre: "5640SET DE 3 SECADORES SANRIO",
@@ -3240,7 +3240,7 @@ const productos = [
    "12": 3.25,
   },
   imagen: "Img/Imagen628.jpeg",
-  stock: 20
+  stock: 12
 },
          {
   nombre: "5804LLAVERO ESFERA PONCHO DE ENERGENCIA",
