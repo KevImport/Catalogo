@@ -3237,10 +3237,9 @@ const productos = [
    "1": 4.95,
    "3": 3.85,
    "6": 3.55,
-   "12": 3.25,
   },
   imagen: "Img/Imagen628.jpeg",
-  stock: 12
+  stock: 9
 },
          {
   nombre: "5804LLAVERO ESFERA PONCHO DE ENERGENCIA",
