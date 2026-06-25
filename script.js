@@ -89,8 +89,8 @@ function mostrarProductos(lista) {
       tablaPrecios += `<tr><td>${cantidad}+</td><td>S/ ${p.precios[cantidad].toFixed(2)}</td></tr>`;
     }
     tablaPrecios += "</table>";
-
-    let stockHTML = `<p class="stock">Stock: ${p.stock}</p>`;
+    
+    let stockHTML = <p class="stock"><strong><em>📦 STOCK DISPONIBLE: ${p.stock}</em></strong></p>;
     let inputCantidad = '';
     let botonAgregar = '';
 
