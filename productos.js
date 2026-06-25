@@ -1260,16 +1260,6 @@ const productos = [
   imagen: "Img/Imagen297.png",
   stock: 8
 },
-  {
-  nombre: "5303SET DE 2 SUJETADORES IMANTADOS DE CORTINA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Diseño magnético, fácil de usar.",
-  precios: {
-   "1": 4.95,
-  },
-  imagen: "Img/Imagen301.jpeg",
-  stock: 1
-},
     {
   nombre: "5305QUITA OXIDO",
   categoria: "Hogar / Cocina",
@@ -2131,10 +2121,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "6": 2.25,
      },
   imagen: "Img/Imagen484.png",
-  stock: 6
+  stock: 3
 },
         {
   nombre: "5573CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
@@ -2262,10 +2251,9 @@ const productos = [
   descripcion: "Elegante y práctico. Medida: 14.5 x 8 x 5 cm, compacto y fácil de llevar. Ideal para monedas, llaves y pequeños accesorios. COLOR AL AZAR",
   precios: {
    "1": 5.95,
-   "3": 4.95,
        },
   imagen: "Img/Imagen511.jpeg",
-  stock: 5
+  stock: 2
 },
      {
   nombre: "5614ORGANIZADOR DE BOLSAS",
