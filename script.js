@@ -142,18 +142,11 @@ function buscarProducto() {
 }
 
 function ordenarProductos(lista) {
-  const orden = document.getElementById("ordenSelect").value;
-
   let productosOrdenados = [...lista];
 
-  productosOrdenados.sort((a, b) => {
-    if (orden === "az") {
-      return a.nombre.localeCompare(b.nombre);
-    } else if (orden === "za") {
-      return b.nombre.localeCompare(a.nombre);
-    }
-    return 0;
-  });
+  productosOrdenados.sort((a, b) =>
+    b.nombre.localeCompare(a.nombre)
+  );
 
   return productosOrdenados;
 }
