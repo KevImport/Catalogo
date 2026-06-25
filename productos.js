@@ -3333,10 +3333,9 @@ const productos = [
   descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
   precios: {
    "1": 11.95,
-   "3": 10.95,
   },
   imagen: "Img/Imagen635.png",
-  stock: 5
+  stock: 1
 },
      {
   nombre: "5823TABLERO LED PARA MENSAJES",
