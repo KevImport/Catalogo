@@ -2510,7 +2510,7 @@ const productos = [
    "3": 2.95,
        },
   imagen: "Img/Imagen537.jpeg",
-  stock: 13
+  stock: 11
 },
                {
   nombre: "5663SET DE MINI TENEDORES MINNIE",
@@ -2764,7 +2764,7 @@ const productos = [
    "6": 4.25,
        },
   imagen: "Img/Imagen569.jpeg",
-  stock: 11
+  stock: 8
 },
              {
   nombre: "5704TRITURADOR DE AJOS",
