@@ -90,7 +90,7 @@ function mostrarProductos(lista) {
     }
     tablaPrecios += "</table>";
     
-    let stockHTML = <p class="stock"><strong><em>📦 STOCK DISPONIBLE: ${p.stock}</em></strong></p>;
+    let stockHTML = `<p class="stock"><strong><em>📦 STOCK DISPONIBLE: ${p.stock}</em></strong></p>`;
     let inputCantidad = '';
     let botonAgregar = '';
 
