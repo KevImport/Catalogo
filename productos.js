@@ -33,16 +33,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "5013ESCURRIDOR DE ACERO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Escurre tus platos con elegancia. Fabricado en acero resistente, combina funcionalidad y diseño moderno para tu cocina.",
-  precios: {
-    "1": 6.95,
-  },
-  imagen: "Img/Imagen14.jpg",
-  stock: 1
-},
-{
   nombre: "4966TAZA GAMER",
   categoria: "Juguetes",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
