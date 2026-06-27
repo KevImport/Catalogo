@@ -2245,17 +2245,6 @@ const productos = [
   imagen: "Img/Imagen511.jpeg",
   stock: 2
 },
-     {
-  nombre: "5614ORGANIZADOR DE BOLSAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Guarda y dispensa tus bolsas de plástico para darles un segundo uso. Mantén tu cocina ordenada con este práctico dispensador, funcional y elegante.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-       },
-  imagen: "Img/Imagen512.png",
-  stock: 4
-},
        {
   nombre: "5616SET DE 5 TAPERS",
   categoria: "Hogar / Cocina",
@@ -3303,18 +3292,6 @@ const productos = [
   },
   imagen: "Img/Imagen633.jpeg",
   stock: 2
-},
-          {
-  nombre: "5820LEGO JUMBO TOY STORY 5",
-  categoria: "Juguetes",
-  descripcion: "Divertido set de bloques para armar inspirado en los personajes favoritos de Toy Story. Ideal para estimular la creatividad, imaginación y coordinación de los pequeños. Diseño al azar.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-   "6": 4.75,
-  },
-  imagen: "Img/Imagen634.jpeg",
-  stock: 12
 },
    {
   nombre: "5822LIBRO DE ESTUDIO INTERACTIVO",
