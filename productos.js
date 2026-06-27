@@ -754,7 +754,7 @@ const productos = [
     "3": 2.95
   },
   imagen: "Img/Imagen175.jpeg",
-  stock: 9
+  stock: 6
 },
 {
   nombre: "4660CALZONCILLO CLÁSICO",
@@ -2422,7 +2422,7 @@ const productos = [
    "12": 2.45, 
        },
   imagen: "Img/Imagen528.jpeg",
-  stock: 18
+  stock: 12
 },
                   {
   nombre: "5643PACK DE ALMOHADILLAS DE FIELTRO",
@@ -2861,7 +2861,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen585.jpeg",
-  stock: 9
+  stock: 8
 },
               {
   nombre: "POTE DE 130 GOMITAS - DHA",
@@ -2941,7 +2941,7 @@ const productos = [
    "6": 2.75,
        },
   imagen: "Img/Imagen597.jpeg",
-  stock: 13
+  stock: 7
 },
             {
   nombre: "5748BOLSA TÉRMICA PARA AGUA FRÍA O CALIENTE",
@@ -3008,7 +3008,7 @@ const productos = [
    "12": 1.25,
        },
   imagen: "Img/Imagen605.png",
-  stock: 67
+  stock: 60
 },
                {
   nombre: "5765COLLAR EQUIPO",
@@ -3181,7 +3181,7 @@ const productos = [
    "1": 10.95,
   },
   imagen: "Img/Imagen623.jpeg",
-  stock: 3
+  stock: 2
 },
          {
   nombre: "5798JABON CURCUMA",
@@ -3281,7 +3281,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen632.jpeg",
-  stock: 2
+  stock: 1
 },
         {
   nombre: "5819TERMO DÍA DEL MAESTRO",
@@ -3387,6 +3387,27 @@ const productos = [
   },
   imagen: "Img/Imagen642.jpeg",
   stock: 6
+},
+  {
+  nombre: "5816JUEGO DE 3 BANDEJAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prácticas y resistentes, ideales para servir o decorar. Diseño natural que aporta un toque elegante a tu mesa. Perfectas para el hogar, restaurantes o reuniones especiales.",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "Img/Imagen643.jpeg",
+  stock: 1
+},
+   {
+  nombre: "5830PACK DE PAÑOS QUITAGRASA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Lleva la higiene de tu cocina al siguiente nivel y ahorra tiempo en cada limpieza! Limpieza eficiente, despídete de los trapos sucios. No irritan la piel, adecuadas para uso diario.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "Img/Imagen644.png",
+  stock: 13
 },
 
 ];
