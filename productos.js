@@ -2534,16 +2534,6 @@ const productos = [
   imagen: "Img/Imagen541.jpeg",
   stock: 3
 },
-         {
-  nombre: "5669BOLSO EXPANDIBLE",
-  categoria: "Accesorios",
-  descripcion: "Novedoso Bolso plegable, ideal para maternidad, viajar, para ir al gym, a la playa o para ir de paseo y necesitas llevar varias cosas. Material: Oxford impermeable. Adaptable a maleta de viaje. Color al azar.",
-  precios: {
-   "1": 10.95,
-       },
-  imagen: "Img/Imagen543.jpeg",
-  stock: 2
-},
            {
   nombre: "5670SET DE 12 BOLSAS DISEÑO FÚTBOL",
   categoria: "Decoración / Fiesta",
