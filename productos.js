@@ -1248,7 +1248,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen297.png",
-  stock: 8
+  stock: 7
 },
     {
   nombre: "5305QUITA OXIDO",
@@ -2630,7 +2630,7 @@ const productos = [
    "1": 49.90,
        },
   imagen: "Img/Imagen557.png",
-  stock: 4
+  stock: 1
 },
      {
   nombre: "5688RECIPIENTE PARA SNACKS DISEÑO CALABAZA",
