@@ -3335,7 +3335,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen639.jpeg",
-  stock: 26
+  stock: 25
 },
    {
   nombre: "5827PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
@@ -3346,7 +3346,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen640.png",
-  stock: 17
+  stock: 16
 },
    {
   nombre: "5828LEGGIN SUPLEX TALLAS XL",
@@ -3376,7 +3376,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen642.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "5816JUEGO DE 3 BANDEJAS",
@@ -3397,7 +3397,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen644.png",
-  stock: 13
+  stock: 11
 },
 
 ];
