@@ -3228,7 +3228,7 @@ const productos = [
   categoria: "Belleza / Cosmética",
   descripcion: "Espejo con luz LED regulable para un maquillaje perfecto en cualquier momento. Portátil, recargable por USB y con compartimentos organizadores para llevar todos tus cosméticos de forma práctica y segura. Color al azar.",
   precios: {
-   "1": 25.90,
+   "1": 27.90,
   },
   imagen: "Img/Imagen629.png",
   stock: 4
