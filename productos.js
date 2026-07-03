@@ -3358,16 +3358,6 @@ const productos = [
   imagen: "Img/Imagen642.jpeg",
   stock: 5
 },
-  {
-  nombre: "5816JUEGO DE 3 BANDEJAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Prácticas y resistentes, ideales para servir o decorar. Diseño natural que aporta un toque elegante a tu mesa. Perfectas para el hogar, restaurantes o reuniones especiales.",
-  precios: {
-   "1": 7.95,
-  },
-  imagen: "Img/Imagen643.jpeg",
-  stock: 1
-},
    {
   nombre: "5830PACK DE PAÑOS QUITAGRASA",
   categoria: "Hogar / Cocina",
