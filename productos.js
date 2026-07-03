@@ -3253,16 +3253,6 @@ const productos = [
   imagen: "Img/Imagen630.jpeg",
   stock: 6
 },
-      {
-  nombre: "5817ESTUCHE ORGANIZADOR DE CABLES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para proteger y ordenar tus cables, cargadores y accesorios tecnológicos en cada viaje. ¡Su diseño compacto con correa de mano evita enredos y optimiza al máximo el espacio en tu mochila.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen631.jpeg",
-  stock: 2
-},
         {
   nombre: "5818ORGANIZADOR DE ESPECIAS",
   categoria: "Hogar / Cocina",
