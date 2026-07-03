@@ -3273,17 +3273,7 @@ const productos = [
   imagen: "Img/Imagen632.jpeg",
   stock: 1
 },
-        {
-  nombre: "5819TERMO DÍA DEL MAESTRO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus bebidas frías o calientes por más tiempo y consulta la temperatura al instante con su pantalla LED. Un regalo práctico, elegante y perfecto para sorprender a tu maestro favorito en su día. Diseño y color al azar",
-  precios: {
-   "1": 9.95,
-  },
-  imagen: "Img/Imagen633.jpeg",
-  stock: 2
-},
-   {
+     {
   nombre: "5822LIBRO DE ESTUDIO INTERACTIVO",
   categoria: "Juguetes",
   descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
