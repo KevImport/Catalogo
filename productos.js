@@ -3399,5 +3399,65 @@ const productos = [
   imagen: "Img/Imagen644.png",
   stock: 11
 },
-
+     {
+  nombre: "5832ESTANTE FLOTANTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Transforma tus esquinas! Repisa esquinera flotante de 5 niveles en moderno diseño zig-zag. Ideal para plantas y decoración: ¡maximiza tus espacios con estilo y fácil instalación! Color al azar",
+  precios: {
+   "1": 13.95,
+  },
+  imagen: "Img/Imagen645.jpeg",
+  stock: 5
+},
+     {
+  nombre: "5833JARRA COLADORA DE ACEITE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Filtra y almacena el aceite de cocina de forma práctica, ayudando a mantenerlo limpio y listo para reutilizar. Capacidad: 1.3 L • Fabricada en acero inoxidable resistente, ideal para cualquier cocina.",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "Img/Imagen646.jpeg",
+  stock: 1
+},
+     {
+  nombre: "5834PELOTA MUNDIAL #5",
+  categoria: "Juguetes",
+  descripcion: "¡Lleva la emoción del fútbol a cada partido! Resistente, llamativa y lista para tus mejores jugadas. ¡Últimas unidades disponibles!",
+  precios: {
+   "1": 19.90,
+  },
+  imagen: "Img/Imagen647.png",
+  stock: 4
+},
+   {
+  nombre: "5835SET DE 10 PARES DE MEDIAS",
+  categoria: "Ropa interior",
+  descripcion: "Medias cómodas y adorables. Perfectas para el uso diario, combinando comodidad, estilo y mucha ternura.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "Img/Imagen648.jpeg",
+  stock: 7
+},
+   {
+  nombre: "5837EXTENSOR DE GRIFO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Gira para dirigir el agua donde la necesites, facilitando el lavado de manos, utensilios y el fregadero. Fácil de instalar, ayuda a reducir salpicaduras y mejora la comodidad en cocina o baño.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "Img/Imagen649.jpeg",
+  stock: 6
+},
+   {
+  nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Tamaño A4 ideal para imprimir fotos, stickers y proyectos creativos. Papel adhesivo, pega fácilmente en cualquier superficie. Impresión full color con alta calidad y colores vivos. Paquete de 20 hojas, perfecto para hogar, escuela y oficina.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "Img/Imagen650.jpeg",
+  stock: 5
+},
 ];
