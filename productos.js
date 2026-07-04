@@ -2804,7 +2804,7 @@ const productos = [
    "6": 2.75,
        },
   imagen: "Img/Imagen581.jpeg",
-  stock: 7
+  stock: 6
 },
     {
   nombre: "5717RIÑONERA DAMA",
@@ -2919,18 +2919,6 @@ const productos = [
    "6": 4.65,
        },
   imagen: "Img/Imagen595.jpeg",
-  stock: 7
-},
-          {
-  nombre: "5746CONTENEDOR 250ML",
-  categoria: "Hogar / Cocina",
-  descripcion: "Contenedor de borosilicato con tapa de bambú, resistente y elegante para conservar tus alimentos. Capacidad de 250 ml, ideal para porciones pequeñas y uso diario.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.75,
-       },
-  imagen: "Img/Imagen597.jpeg",
   stock: 7
 },
             {
@@ -3252,16 +3240,6 @@ const productos = [
   },
   imagen: "Img/Imagen630.jpeg",
   stock: 6
-},
-        {
-  nombre: "5818ORGANIZADOR DE ESPECIAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus especias ordenadas y siempre al alcance de tu mano. Diseño práctico y elegante que aporta organización y estilo a tu cocina.",
-  precios: {
-   "1": 6.95,
-  },
-  imagen: "Img/Imagen632.jpeg",
-  stock: 1
 },
      {
   nombre: "5822LIBRO DE ESTUDIO INTERACTIVO",
