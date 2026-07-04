@@ -3430,4 +3430,16 @@ const productos = [
   imagen: "Img/Imagen650.jpeg",
   stock: 5
 },
+     {
+  nombre: "5063TRUSA PARA NIÑAS",
+  categoria: "Ropa interior",
+  descripcion: "Calzoncito para niña, suaves, cómodos y con adorables diseños florales para el uso diario. Tallas disponibles: 3 unidades talla 4 - 6 unidades talla 12 - 2 unidades talla 14",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.55,
+  },
+  imagen: "Img/Imagen651.jpeg",
+  stock: 11
+},
 ];
