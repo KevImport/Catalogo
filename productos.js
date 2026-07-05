@@ -3187,16 +3187,6 @@ const productos = [
   imagen: "Img/Imagen629.png",
   stock: 4
 },
-        {
-  nombre: "5805MALETIN CON LUZ LED",
-  categoria: "Organización / Almacenamiento",
-  descripcion: "Espejo con luz LED regulable para un maquillaje perfecto en cualquier momento. Portátil, recargable por USB y con compartimentos organizadores para llevar todos tus cosméticos de forma práctica y segura. Color al azar.",
-  precios: {
-   "1": 25.90,
-  },
-  imagen: "Img/Imagen629.png",
-  stock: 4
-},
     {
   nombre: "5815PARLANTE PELOTA",
   categoria: "Hogar / Cocina",
