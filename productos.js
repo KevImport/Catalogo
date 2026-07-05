@@ -670,17 +670,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4680CACHETERO CAPIBARA PARA NIÑA",
-  categoria: "Ropa interior",
-  descripcion: "Ropa interior infantil con diseño de capibara. Suave, cómoda y con estilo divertido para las más pequeñas. TALLA 8",
-  precios: {
-    "1": 4.95,
-    "3": 3.95,
-  },
-  imagen: "Img/Imagen152.jpg",
-  stock: 3
-},
-{
   nombre: "5031SET DE 7 TEMPERAS + PALETA Y PINCEL",
   categoria: "Escolar / Papelería",
   descripcion: "Kit de pintura ideal para pequeños artistas. Incluye 7 témperas, paleta y pincel para crear sin límites.",
@@ -1686,7 +1675,7 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
   precios: {
-   "1": 20.90,
+   "1": 19.90,
      },
   imagen: "Img/Imagen396.jpeg",
   stock: 3
@@ -2035,7 +2024,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen474.jpeg",
-  stock: 3
+  stock: 2
 },
             {
   nombre: "5551GORRA SPORT CLÁSICA",
@@ -2057,29 +2046,6 @@ const productos = [
      },
   imagen: "Img/Imagen476.png",
   stock: 2
-},
-     {
-  nombre: "5553PEGATINA DE PARED - BLANCO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Pegatinas de pared 3D, el producto viene con adhesivo. Lavable: Si es impermeable. Pegar: Retire el papel de la cubierta trasera y péguelo. Tamaño: 70cm x 77cm. Material: Polipropileno y Espuma PE.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "Img/Imagen477.png",
-  stock: 5
-},
-       {
-  nombre: "5554PAÑITOS HÚMEDOS PAYASITO x100",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ideales para bebés, manos y rostro. Con aloe vera y sin alcohol. ¡Frescos, prácticos y siempre a la mano!",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "6": 2.95,
-     },
-  imagen: "Img/Imagen478.jpeg",
-  stock: 8
 },
          {
   nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
@@ -2851,7 +2817,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen585.jpeg",
-  stock: 8
+  stock: 6
 },
               {
   nombre: "POTE DE 130 GOMITAS - DHA",
@@ -2952,7 +2918,7 @@ const productos = [
    "3": 1.95,
        },
   imagen: "Img/Imagen602.png",
-  stock: 32
+  stock: 29
 },
             {
   nombre: "5760BOLSO MORRAL",
