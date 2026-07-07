@@ -3185,7 +3185,7 @@ const productos = [
    "1": 27.90,
   },
   imagen: "Img/Imagen629.png",
-  stock: 4
+  stock: 2
 },
     {
   nombre: "5815PARLANTE PELOTA",
