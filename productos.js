@@ -3220,16 +3220,6 @@ const productos = [
   stock: 13
 },
    {
-  nombre: "5824PORTA CUBIERTOS DE MADERA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus cubiertos organizados y al alcance de la mano con este práctico y elegante porta cubiertos. Medida: 22 x 32 x 4 cm, ideal para cocina, comedor o eventos especiales.",
-  precios: {
-   "1": 9.90,
-  },
-  imagen: "Img/Imagen637.jpeg",
-  stock: 16
-},
-   {
   nombre: "5825MUÑECO PELUCHE BAILARIN",
   categoria: "Juguetes",
   descripcion: "¡El peluche más divertido llegó para alegrar cada momento! Baila, canta y repite todo lo que dices para horas de diversión.",
