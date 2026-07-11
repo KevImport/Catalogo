@@ -3331,7 +3331,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen648.jpeg",
-  stock: 7
+  stock: 5
 },
    {
   nombre: "5837EXTENSOR DE GRIFO",
