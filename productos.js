@@ -3450,5 +3450,84 @@ const productos = [
   imagen: "Img/Imagen659.jpg",
   stock: 1
 },
+       {
+  nombre: "5856SOPORTE CON BASE PARA CELULAR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fácil de usar, fácil de instalar.Para escritorio o mesas, resistente ideal para escolares para clases, videos, selfies, chat, grabación, etc. Color: negro",
+  precios: {
+   "1": 4.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "Img/Imagen660.png",
+  stock: 10
+},
+       {
+  nombre: "5857CREMA LIMPIADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpia, protege y devuelve el brillo a zapatos, cuero, muebles y más, ¡sin complicaciones! Incluye esponja aplicadora para una limpieza rápida y práctica, ideal para el hogar y el auto.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "Img/Imagen661.jpeg",
+  stock: 26
+},
+       {
+  nombre: "5858PROTECTOR DE TECLADO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tu teclado del polvo, líquidos y el desgaste diario, manteniéndolo limpio por más tiempo. Fabricado con material flexible y delgado, se adapta perfectamente y permite escribir con total comodidad.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55
+  },
+  imagen: "Img/Imagen662.jpeg",
+  stock: 12
+},
+       {
+  nombre: "5859SET DE 4 TOPES DE PUERTA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Evita golpes, cierres bruscos y protege paredes y puertas de manera práctica y segura. Diseño antideslizante y resistente, ideal para el hogar, oficina o cualquier ambiente.Medida: 9 x 16 cm",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "Img/Imagen663.jpeg",
+  stock: 5
+},
+       {
+  nombre: "5863TRUSA CLÁSICA DAMA",
+  categoria: "Ropa interior",
+  descripcion: "Ideal para el uso diario, brindando comodidad, frescura y libertad de movimiento. Talla L: 6 unidades",
+  precios: {
+   "1": 2.95,
+   "3": 2.75,
+  },
+  imagen: "Img/Imagen664.jpeg",
+  stock: 6
+},
+       {
+  nombre: "5864MESA AUXILIAR MARIPOSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante a cualquier ambiente con esta práctica mesa auxiliar, ideal para sala, dormitorio o recibidor. Diseño moderno, fácil de armar y perfecta para colocar plantas, bebidas, libros o elementos decorativos.",
+  precios: {
+   "1": 12.95,
+  },
+  imagen: "Img/Imagen665.jpeg",
+  stock: 9
+},
+         {
+  nombre: "5865MESA AUXILIAR MARIPOSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante a cualquier ambiente con esta práctica mesa auxiliar, ideal para sala, dormitorio o recibidor. Diseño moderno, fácil de armar y perfecta para colocar plantas, bebidas, libros o elementos decorativos.",
+  precios: {
+   "1": 12.95,
+  },
+  imagen: "Img/Imagen665.jpeg",
+  stock: 12
+},
 
 ];
