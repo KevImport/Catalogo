@@ -3520,14 +3520,103 @@ const productos = [
   stock: 9
 },
          {
-  nombre: "5865MESA AUXILIAR MARIPOSA",
+  nombre: "5865JUEGO DE 3 BANDEJAS CORAZÓN",
   categoria: "Hogar / Cocina",
-  descripcion: "Dale un toque elegante a cualquier ambiente con esta práctica mesa auxiliar, ideal para sala, dormitorio o recibidor. Diseño moderno, fácil de armar y perfecta para colocar plantas, bebidas, libros o elementos decorativos.",
+  descripcion: "Elegantes y versátiles, ideales para decorar, servir aperitivos, organizar accesorios o crear hermosas presentaciones. Medidas: 28 × 29 cm | 24 × 23 cm | 18 × 19 cm.",
   precios: {
-   "1": 12.95,
+   "1": 8.95,
   },
-  imagen: "Img/Imagen665.jpeg",
+  imagen: "Img/Imagen666.jpeg",
   stock: 12
 },
-
-];
+         {
+  nombre: "5867SOPORTE PARA ESCOBAS CON GANCHO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén escobas, trapeadores y utensilios de limpieza siempre organizados y al alcance. ¡Se instala con adhesivo, sin perforar paredes! Ideal para cocina, baño, lavandería o patio. Ahorra espacio y mantén tu hogar más ordenado.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+  },
+  imagen: "Img/Imagen667.jpeg",
+  stock: 10
+},
+           {
+  nombre: "5868LLAVERO GRABADORA KWAI",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Graba tu voz y diviértete al máximo! Este minillavero retro graba mensajes y cambia tu voz con efectos súper locos y graciosos. ¡El accesorio kawaii perfecto!, cuélgalo en tu mochila o llaves. Color al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen668.jpeg",
+  stock: 11
+},
+            {
+  nombre: "5868LLAVERO GRABADORA KWAI",
+  categoria: "Accesorios",
+  descripcion: "¡Graba tu voz y diviértete al máximo! Este minillavero retro graba mensajes y cambia tu voz con efectos súper locos y graciosos. ¡El accesorio kawaii perfecto!, cuélgalo en tu mochila o llaves. Color al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen668.jpeg",
+  stock: 11
+},
+              {
+  nombre: "5869SET DE 12 PAÑOS DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡El kit infaltable para tu día a día! Set de 12 paños premium: máxima absorción, lavables y ultra resistentes. Dile adiós a los rayones en vidrios, pantallas, cocina o vehículo.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "Img/Imagen669.jpeg",
+  stock: 3
+},
+                {
+  nombre: "5870PACK DE 100 PRECINTOS DE SEGURIDAD",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideales para organizar, sujetar y asegurar cables, bolsas, herramientas y mucho más. Prácticos, resistentes y de múltiples usos. Medida: 3.8 × 200 mm | Contenido: Pack de 100 unidades.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen670.jpeg",
+  stock: 3
+},
+                  {
+  nombre: "5871SQUISHY QUESITO",
+  categoria: "Juguetes",
+  descripcion: "¡Aprieta el quesito y mira cómo sale el tierno ratoncito! Un squishy súper suave, perfecto para aliviar el estrés. Ideal para niños y adultos, excelente como regalo o para coleccionar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen671.png",
+  stock: 9
+},
+                    {
+  nombre: "5874MANTA LUMINOSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Brillan en la oscuridad. Abrígate con éstas mantas luminosas. Medida aprox.: 100cm x 150cm. Se recarga con la luz solar o artificial. Color o diseño al azar.",
+  precios: {
+   "1": 9.90,
+  },
+  imagen: "Img/Imagen672.jpeg",
+  stock: 11
+},
+                      {
+  nombre: "5875CINTA DE EMBALAJE 400 YARDAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Cinta adhesiva de alta resistencia, ideal para sellar cajas, paquetes y envíos de forma segura y duradera. Medida: 400 yardas | Perfecta para negocios, almacenes, mudanzas y uso diario.",
+  precios: {
+   "1": 7.95,
+   "3": 6.55,
+   "6": 6.25,
+   "12": 5.95,
+  },
+  imagen: "Img/Imagen673.jpeg",
+  stock: 24
+},
+  ];
