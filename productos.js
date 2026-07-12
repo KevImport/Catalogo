@@ -3379,5 +3379,30 @@ const productos = [
   imagen: "Img/Imagen653.jpeg",
   stock: 13
 },
+     {
+  nombre: "5841SET DE 16 CLIPS ORGANIZADORES DE CABLES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus cables organizados y evita enredos. Adhesivo resistente, fácil de instalar y perfecto para cargadores, USB, audífonos y más.",
+  precios: {
+   "1": 3.95,
+   "3": 2.75,
+   "6": 2.45,
+  },
+  imagen: "Img/Imagen654.jpeg",
+  stock: 14
+},
+     {
+  nombre: "5844ESTUCHE DE EXHIBICIÓN 3D",
+  categoria: "Hogar / Cocina",
+  descripcion: "Caja para exhibición de joyas y accesorios. Ideal para anillos, aretes, dijes, monedas y pequeños coleccionables. Medida: 11 × 11 cm. Diseño elegante que protege y resalta cada pieza.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "Img/Imagen655.jpeg",
+  stock: 36
+},
   
 ];
