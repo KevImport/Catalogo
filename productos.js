@@ -3313,16 +3313,6 @@ const productos = [
   imagen: "Img/Imagen646.jpeg",
   stock: 1
 },
-     {
-  nombre: "5834PELOTA MUNDIAL #5",
-  categoria: "Juguetes",
-  descripcion: "¡Lleva la emoción del fútbol a cada partido! Resistente, llamativa y lista para tus mejores jugadas. ¡Últimas unidades disponibles!",
-  precios: {
-   "1": 19.90,
-  },
-  imagen: "Img/Imagen647.png",
-  stock: 4
-},
    {
   nombre: "5835SET DE 10 PARES DE MEDIAS",
   categoria: "Ropa interior",
@@ -3366,4 +3356,28 @@ const productos = [
   imagen: "Img/Imagen651.jpeg",
   stock: 11
 },
+     {
+  nombre: "5839SET DE 20 PAPELES FOTOGRÁFICOS A4 SIN ADHESIVO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Tamaño A4 ideal para imprimir fotos, trabajos y recuerdos especiales. Acabado de alta calidad para colores vivos y detalles nítidos. Pack de 20 hojas, perfecto para casa, estudio y oficina.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+  },
+  imagen: "Img/Imagen652.jpeg",
+  stock: 8
+},
+     {
+  nombre: "5840SET DE 12 PLUMONES ACRÍLICOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores intensos y de secado rápido para todo tipo de manualidades. Ideales para pintar en madera, vidrio, piedra, cerámica, papel y más.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "Img/Imagen653.jpeg",
+  stock: 13
+},
+  
 ];
