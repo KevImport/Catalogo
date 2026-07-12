@@ -3404,5 +3404,51 @@ const productos = [
   imagen: "Img/Imagen655.jpeg",
   stock: 36
 },
-  
+   {
+  nombre: "5847BOXER HOMBRE CALVIN KLEN",
+  categoria: "Ropa interior",
+  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. Talla M: 6 unidades, Talla L: 6 unidades",
+  precios: {
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+  },
+  imagen: "Img/Imagen656.jpeg",
+  stock: 12
+},
+   {
+  nombre: "5851PULVERIZADOR MANUAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para rociar agua, productos de limpieza o cuidar tus plantas de forma práctica y uniforme. Diseño ligero, fácil de usar y perfecto para el hogar, jardín, salón de belleza o uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+  },
+  imagen: "Img/Imagen657.jpeg",
+  stock: 10
+},
+     {
+  nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Brinda mayor comodidad y soporte en cada paso, adaptándose fácilmente al tamaño de tu calzado. Ideal para uso diario, ayuda a reducir el impacto al caminar y proporciona una pisada más confortable. Medida: 30 x 8.5 cm",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+  },
+  imagen: "Img/Imagen658.jpeg",
+  stock: 10
+},
+       {
+  nombre: "5855CEPILLO PARA RIZOS DEFINIDOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Define y da forma a tus rizos fácilmente, reduciendo el frizz y resaltando su volumen natural. Ideal para todo tipo de cabello rizado u ondulado, cómodo de usar y perfecto para tu rutina diaria.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "Img/Imagen659.jpg",
+  stock: 1
+},
+
 ];
