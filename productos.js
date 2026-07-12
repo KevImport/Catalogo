@@ -3020,7 +3020,7 @@ const productos = [
    "1": 9.90,
        },
   imagen: "Img/Imagen611.jpeg",
-  stock: 18
+  stock: 16
 },
             {
   nombre: "5780PARCHE LEON",
@@ -3460,7 +3460,7 @@ const productos = [
    "6": 2.65,
   },
   imagen: "Img/Imagen660.png",
-  stock: 10
+  stock: 7
 },
        {
   nombre: "5857CREMA LIMPIADORA",
@@ -3517,7 +3517,7 @@ const productos = [
    "1": 12.95,
   },
   imagen: "Img/Imagen665.jpeg",
-  stock: 9
+  stock: 3
 },
          {
   nombre: "5865JUEGO DE 3 BANDEJAS CORAZÓN",
