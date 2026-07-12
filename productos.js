@@ -3280,7 +3280,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen642.jpeg",
-  stock: 5
+  stock: 4
 },
    {
   nombre: "5830PACK DE PAÑOS QUITAGRASA",
