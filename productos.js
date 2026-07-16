@@ -1239,17 +1239,6 @@ const productos = [
   imagen: "Img/Imagen297.png",
   stock: 7
 },
-    {
-  nombre: "5305QUITA OXIDO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Es el aliado perfecto para mantener tu ropa libre de manchas de óxido. Este quitamanchas líquido viene en una práctica botella que facilita su aplicación en las áreas afectadas.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-  },
-  imagen: "Img/Imagen305.jpeg",
-  stock: 7
-},
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
   categoria: "Higiene / Cuidado Personal",
@@ -1615,7 +1604,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen378.jpeg",
-  stock: 3
+  stock: 1
 },
             {
   nombre: "5411PRINCESA MUSICAL GIRATORIA",
@@ -2158,18 +2147,7 @@ const productos = [
   imagen: "Img/Imagen500.png",
   stock: 6
 },
-         {
-  nombre: "5587TAPETE ABSORBENTE PARA PLATOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantiene tu cocina seca y ordenada. Súper absorbente. Medida: 40 x 30 cm. Modelos variados",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "Img/Imagen502.jpeg",
-  stock: 5
-},
-               {
+            {
   nombre: "5593ESPONJA QUITA MUGRE",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "La esponja suave de alta densidad espesa, delicada y antideslizante, no solo puede eliminar la suciedad de todo el cuerpo, sino también limpiar eficazmente la piel.",
@@ -2189,7 +2167,7 @@ const productos = [
    "6": 2.95,
        },
   imagen: "Img/Imagen508.jpeg",
-  stock: 14
+  stock: 7
 },
   {
   nombre: "5601SET TECLADO Y MOUSE RECARGABLE",
@@ -2276,10 +2254,9 @@ const productos = [
   descripcion: "Removedor de adhesivo es la solución versátil para eliminar adhesivos difíciles y residuos pegajosos, su diseño fácil de usar hace que sea muy fácil de usar, rocía y limpia. Capacidad: 100ml",
   precios: {
    "1": 6.95,
-   "3": 5.95,
        },
   imagen: "Img/Imagen519.png",
-  stock: 3
+  stock: 2
 },
      {
   nombre: "5628CEPILLO DE LIMPIEZA",
@@ -2620,17 +2597,6 @@ const productos = [
   stock: 8
 },
        {
-  nombre: "5667SOLUBRIL",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Descubre Solubril Limpieza Efectiva! El limpiador de pisos ultra potente que elimina hasta la suciedad más difícil. Su fórmula avanzada no solo limpia, sino que también desinfecta y protege sin dañar las superficies. Funciona en una gran variedad de pisos, paredes, baños, griferías dejando un acabado impecable, fresco y brillante.",
-  precios: {
-   "1": 6.95,
-   "3": 5.25,
-       },
-  imagen: "Img/Imagen561.png",
-  stock: 3
-},
-       {
   nombre: "5689CONTENEDOR PORTÁTIL PARA HUEVOS (2 COMPARTIMENTOS)",
   categoria: "Hogar / Cocina",
   descripcion: "Protege tus huevos al transportarlos sin que se rompan. Diseño compacto con asa, ideal para viajes, camping o lonchera. Material resistente y fácil de limpiar, práctico para uso diario.",
@@ -2952,7 +2918,7 @@ const productos = [
    "12": 1.25,
        },
   imagen: "Img/Imagen605.png",
-  stock: 60
+  stock: 55
 },
                {
   nombre: "5765COLLAR EQUIPO",
@@ -2986,7 +2952,7 @@ const productos = [
    "12": 1.55,
        },
   imagen: "Img/Imagen608.jpeg",
-  stock: 22
+  stock: 15
 },
     {
   nombre: "5773MITONES CÁLIDOS",
@@ -3250,7 +3216,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen640.png",
-  stock: 14
+  stock: 10
 },
    {
   nombre: "5828LEGGIN SUPLEX TALLAS XL",
@@ -3291,7 +3257,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen644.png",
-  stock: 11
+  stock: 7
 },
      {
   nombre: "5832ESTANTE FLOTANTE",
@@ -3389,7 +3355,7 @@ const productos = [
    "6": 2.45,
   },
   imagen: "Img/Imagen654.jpeg",
-  stock: 14
+  stock: 11
 },
      {
   nombre: "5844ESTUCHE DE EXHIBICIÓN 3D",
@@ -3426,7 +3392,7 @@ const productos = [
    "6": 2.75,
   },
   imagen: "Img/Imagen657.jpeg",
-  stock: 10
+  stock: 9
 },
      {
   nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
@@ -3481,22 +3447,9 @@ const productos = [
    "1": 2.95,
    "3": 1.95,
    "6": 1.75,
-   "12": 1.55
   },
   imagen: "Img/Imagen662.jpeg",
-  stock: 12
-},
-       {
-  nombre: "5859SET DE 4 TOPES DE PUERTA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Evita golpes, cierres bruscos y protege paredes y puertas de manera práctica y segura. Diseño antideslizante y resistente, ideal para el hogar, oficina o cualquier ambiente.Medida: 9 x 16 cm",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-  },
-  imagen: "Img/Imagen663.jpeg",
-  stock: 5
+  stock: 3
 },
        {
   nombre: "5863TRUSA CLÁSICA DAMA",
@@ -3514,7 +3467,7 @@ const productos = [
   categoria: "Hogar / Cocina",
   descripcion: "Dale un toque elegante a cualquier ambiente con esta práctica mesa auxiliar, ideal para sala, dormitorio o recibidor. Diseño moderno, fácil de armar y perfecta para colocar plantas, bebidas, libros o elementos decorativos.",
   precios: {
-   "1": 12.95,
+   "1": 14.95,
   },
   imagen: "Img/Imagen665.jpeg",
   stock: 3
