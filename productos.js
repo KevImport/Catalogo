@@ -2099,10 +2099,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
      },
   imagen: "Img/Imagen494.jpeg",
-  stock: 15
+  stock: 10
 },
           {
   nombre: "5578ORGANIZADOR CON ASA",
@@ -2773,19 +2772,7 @@ const productos = [
   imagen: "Img/Imagen584.jpeg",
   stock: 27
 },
-          {
-  nombre: "5722ROLLO DE ETIQUETAS ADHESIVAS PARA CONDIMENTOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Organiza frascos, envases y espacios con estilo. Incluye marcador para escribir y borrar fácilmente cuantas veces quieras. Incluye plumón blanco.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-       },
-  imagen: "Img/Imagen585.jpeg",
-  stock: 6
-},
-              {
+                     {
   nombre: "POTE DE 130 GOMITAS - DHA",
   categoria: "Gomitas",
   descripcion: "Fortalece tu agilidad mental y apoya un desarrollo saludable con nuestras Gomitas de DHA, Ácido Fólico y Vitaminas: el impulso esencial para tu cerebro y sistema nervioso.",
@@ -2884,7 +2871,7 @@ const productos = [
    "3": 1.95,
        },
   imagen: "Img/Imagen602.png",
-  stock: 29
+  stock: 23
 },
             {
   nombre: "5760BOLSO MORRAL",
@@ -2905,7 +2892,7 @@ const productos = [
    "1": 7.95,
        },
   imagen: "Img/Imagen604.png",
-  stock: 5
+  stock: 3
 },
     {
   nombre: "5762ESPONJA MÁGICA DE MELAMINA",
@@ -3103,7 +3090,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen624.jpeg",
-  stock: 15
+  stock: 12
 },
          {
   nombre: "5800FILTRO ATRAPA PELUSAS",
@@ -3423,10 +3410,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 2.95,
-   "6": 2.65,
   },
   imagen: "Img/Imagen660.png",
-  stock: 7
+  stock: 4
 },
        {
   nombre: "5857CREMA LIMPIADORA",
@@ -3437,7 +3423,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen661.jpeg",
-  stock: 26
+  stock: 23
 },
        {
   nombre: "5858PROTECTOR DE TECLADO",
@@ -3547,7 +3533,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen671.png",
-  stock: 9
+  stock: 8
 },
                     {
   nombre: "5874MANTA LUMINOSA",
