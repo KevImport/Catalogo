@@ -2860,7 +2860,7 @@ const productos = [
    "6": 3.75,
        },
   imagen: "Img/Imagen601.jpeg",
-  stock: 8
+  stock: 5
 },
             {
   nombre: "5758LIBRO MÁGICO",
@@ -3203,7 +3203,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen640.png",
-  stock: 10
+  stock: 8
 },
    {
   nombre: "5828LEGGIN SUPLEX TALLAS XL",
@@ -3330,7 +3330,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen653.jpeg",
-  stock: 13
+  stock: 12
 },
      {
   nombre: "5841SET DE 16 CLIPS ORGANIZADORES DE CABLES",
