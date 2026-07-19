@@ -3438,16 +3438,6 @@ const productos = [
   stock: 3
 },
          {
-  nombre: "5865JUEGO DE 3 BANDEJAS CORAZÓN",
-  categoria: "Hogar / Cocina",
-  descripcion: "Elegantes y versátiles, ideales para decorar, servir aperitivos, organizar accesorios o crear hermosas presentaciones. Medidas: 28 × 29 cm | 24 × 23 cm | 18 × 19 cm.",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen666.jpeg",
-  stock: 12
-},
-         {
   nombre: "5867SOPORTE PARA ESCOBAS CON GANCHO",
   categoria: "Hogar / Cocina",
   descripcion: "Mantén escobas, trapeadores y utensilios de limpieza siempre organizados y al alcance. ¡Se instala con adhesivo, sin perforar paredes! Ideal para cocina, baño, lavandería o patio. Ahorra espacio y mantén tu hogar más ordenado.",
