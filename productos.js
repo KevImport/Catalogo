@@ -3119,17 +3119,7 @@ const productos = [
   imagen: "Img/Imagen630.jpeg",
   stock: 6
 },
-     {
-  nombre: "5822LIBRO DE ESTUDIO INTERACTIVO",
-  categoria: "Juguetes",
-  descripcion: "Aprende letras, números y palabras de forma divertida y práctica. Panel musical + control táctil para un aprendizaje lleno de sonido y color. Ideal para reforzar en casa y mantener a los peques motivados y felices.",
-  precios: {
-   "1": 11.95,
-  },
-  imagen: "Img/Imagen635.png",
-  stock: 1
-},
-     {
+          {
   nombre: "5823TABLERO LED PARA MENSAJES",
   categoria: "Juguetes",
   descripcion: "Escribe notas, recordatorios o mensajes creativos con marcadores de colores y hazlos brillar con luz LED. Incluye plumones de colores y conexión USB, ideal para escritorio, habitación o decoración personalizada.",
