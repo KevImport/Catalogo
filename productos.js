@@ -998,7 +998,7 @@ const productos = [
    "3": 3.95,
  },
   imagen: "Img/Imagen247.jpeg",
-  stock: 14
+  stock: 4
 },
   {
   nombre: "5219COLGADOR DE PANTALONES",
@@ -1874,17 +1874,6 @@ const productos = [
   imagen: "Img/Imagen445.jpeg",
   stock: 3
 },
-  {
-  nombre: "5499CINTA DE EMBALAJE DE 60 YARDAS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Es la solución ideal para sellado seguro de cajas, paquetes y envíos. Perfecta para uso industrial, comercial o doméstico.",
-  precios: {
-   "1": 2.95,
-   "6": 1.85,
-     },
-  imagen: "Img/Imagen446.jpeg",
-  stock: 8
-},
     {
   nombre: "5504JUEGO DE LABERINTO",
   categoria: "Escolar / Papelería",
@@ -1915,16 +1904,6 @@ const productos = [
      },
   imagen: "Img/Imagen459.jpeg",
   stock: 2
-},
-            {
-  nombre: "5518ACEITE DE ARGÁN",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Aceite de Argán y Keratina Esencial Hidratante, para nutrir el cuero cabelludo y reparar eficazmente las puntas y cabellos quebradizos. Agrega Brillo al Cabello, apto para todo tipo de Cabello y mejora el cabello graso y seco, ideal para fomentar un cabello saludable y más manejable. Para Uso Personal y Profesional, como Salones de Belleza y Spa.Contenido: 125 ML",
-  precios: {
-   "1": 10.90,
-     },
-  imagen: "Img/Imagen460.jpeg",
-  stock: 4
 },
       {
   nombre: "5520CARTUCHERA 3D",
@@ -2645,18 +2624,6 @@ const productos = [
   stock: 5
 },
              {
-  nombre: "5700TERMÓMETRO DIGITAL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ideal para mediciones rápidas y precisas en casa. Incluye pantalla LCD de fácil lectura, alarma de fiebre.",
-  precios: {
-   "1": 5.95,
-   "3": 4.55,
-   "6": 4.25,
-       },
-  imagen: "Img/Imagen569.jpeg",
-  stock: 8
-},
-             {
   nombre: "5704TRITURADOR DE AJOS",
   categoria: "Hogar / Cocina",
   descripcion: "Material de acero inoxidable + plástico reforzado. Triturador manual. Medidas: 10.5 x 7 x 5 cm. Práctico de utilizar.",
@@ -2760,16 +2727,6 @@ const productos = [
        },
   imagen: "Img/Imagen589.jpeg",
   stock: 1
-},
-                {
-  nombre: "5728ORGANIZADOR DE INFUSIONES 6 DIVISIONES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus tés e infusiones ordenados y siempre a la mano con sus 6 compartimentos. Ideal para cocina u oficina, práctico, elegante y ahorra espacio.",
-  precios: {
-   "1": 16.90,
-       },
-  imagen: "Img/Imagen591.jpeg",
-  stock: 2
 },
                 {
   nombre: "5734SET DE PARCHES DESINTOXICANTES PARA PIES",
