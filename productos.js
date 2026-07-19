@@ -3438,7 +3438,7 @@ const productos = [
    "1": 9.90,
   },
   imagen: "Img/Imagen672.jpeg",
-  stock: 9
+  stock: 8
 },
                       {
   nombre: "5875CINTA DE EMBALAJE 400 YARDAS",
@@ -3518,7 +3518,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen679.jpeg",
-  stock: 10
+  stock: 9
 },
     {
   nombre: "5884BOLSA PAVONADA",
@@ -3561,7 +3561,7 @@ const productos = [
    "1": 11.95,
   },
   imagen: "Img/Imagen683.jpeg",
-  stock: 3
+  stock: 2
 },
           {
   nombre: "5888PLATO CONCHA DE VIDRIO",
