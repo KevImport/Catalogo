@@ -1594,7 +1594,7 @@ const productos = [
    "1": 14.90,
      },
   imagen: "Img/Imagen374.jpeg",
-  stock: 5
+  stock: 4
 },
    {
   nombre: "5406CARTERA MODERNO – LUXE",
@@ -2905,7 +2905,7 @@ const productos = [
    "3": 3.95,
        },
   imagen: "Img/Imagen607.jpeg",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "5771QUITA ESPINILLAS",
