@@ -1101,7 +1101,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen278.jpeg",
-  stock: 13
+  stock: 10
 },
  {
   nombre: "5271BOLA DE NIEVE NAVIDEÑA SANTA",
@@ -1146,7 +1146,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen283.jpeg",
-  stock: 7
+  stock: 4
 },
   {
   nombre: "5276CORTADOR ONDAS DE PAPAS Y VERDURAS",
@@ -1509,7 +1509,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen357.jpeg",
-  stock: 9
+  stock: 6
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -2005,17 +2005,7 @@ const productos = [
   imagen: "Img/Imagen472.jpeg",
   stock: 4
 },
-          {
-  nombre: "5547SET DE 10 PAQUETES DE HISOPOS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Son excelentes para quitar maquillaje, pasatiempos, pintura, pegamentos o lo que sea. ¡No se rompen como los de plástico, son duraderos y tienen una bonita cabeza de algodón que no se deshace. Material: algodón + mango de madera. Cantidad por paquete: 80 hisopos. Set: 800 hisopos.",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen474.jpeg",
-  stock: 2
-},
-            {
+                     {
   nombre: "5551GORRA SPORT CLÁSICA",
   categoria: "Accesorios",
   descripcion: "Diseño moderno y deportivo, ideal para uso diario o actividades al aire libre. Material ligero y cómodo, brinda ajuste perfecto y gran durabilidad. Colores surtidos, combina fácilmente con cualquier outfit.",
@@ -2144,7 +2134,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen500.png",
-  stock: 6
+  stock: 5
 },
             {
   nombre: "5593ESPONJA QUITA MUGRE",
@@ -2291,7 +2281,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen522.jpeg",
-  stock: 9
+  stock: 6
 },
     {
   nombre: "5631COFRE CORAZÓN",
@@ -2679,17 +2669,6 @@ const productos = [
   imagen: "Img/Imagen571.jpeg",
   stock: 14
 },
-                 {
-  nombre: "5708DELINEADOR BLANCO",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Delineador de ojos de textura suave que aporta un color intenso a tu mirada. Gracias a su textura es accesible para difuminar y dejar un terminado radiante en tus ojos. Da un acabado perfecto a tu makeup de ojos.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-       },
-  imagen: "Img/Imagen574.jpeg",
-  stock: 3
-},
   {
   nombre: "5737ORGANIZADOR DE GORRAS",
   categoria: "Hogar / Cocina",
@@ -2905,7 +2884,7 @@ const productos = [
    "12": 1.25,
        },
   imagen: "Img/Imagen605.png",
-  stock: 55
+  stock: 49
 },
                {
   nombre: "5765COLLAR EQUIPO",
@@ -3010,7 +2989,7 @@ const productos = [
    "12": 4.95,
     },
   imagen: "Img/Imagen617.jpeg",
-  stock: 20
+  stock: 15
 },
                       {
   nombre: "5789ESPUMA EXPANSIVA",
@@ -3379,7 +3358,7 @@ const productos = [
    "6": 2.75,
   },
   imagen: "Img/Imagen657.jpeg",
-  stock: 9
+  stock: 7
 },
      {
   nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
