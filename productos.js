@@ -2820,16 +2820,6 @@ const productos = [
   stock: 7
 },
             {
-  nombre: "5748BOLSA TÉRMICA PARA AGUA FRÍA O CALIENTE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Bolsa térmica para agua fría o caliente, ideal para aliviar dolores musculares, cólicos y tensión. Perfecta para mantener el calor en invierno o usar en frío para desinflamar.",
-  precios: {
-   "1": 5.95,
-       },
-  imagen: "Img/Imagen598.jpeg",
-  stock: 2
-},
-            {
   nombre: "5754PÉTALOS DE ALGODÓN",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Limpieza delicada para tu piel, ideales para maquillaje y cuidado diario. Pack de 80 unidades, suaves y resistentes para una rutina perfecta.",
@@ -3501,7 +3491,7 @@ const productos = [
    "1": 9.90,
   },
   imagen: "Img/Imagen672.jpeg",
-  stock: 11
+  stock: 9
 },
                       {
   nombre: "5875CINTA DE EMBALAJE 400 YARDAS",
@@ -3537,5 +3527,124 @@ const productos = [
   },
   imagen: "Img/Imagen675.jpeg",
   stock: 9
+},
+    {
+  nombre: "5880TABLA DE PICAR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para cortar frutas, verduras, carnes y mucho más de forma práctica y cómoda. Fácil de limpiar, resistente y perfecta para el uso diario en cualquier cocina.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "Img/Imagen676.jpeg",
+  stock: 10
+},
+      {
+  nombre: "5879INDIVIDUAL DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante y ordenado a tu mesa mientras proteges la superficie de manchas y calor. Perfecto para comidas diarias, reuniones y celebraciones, combinando estilo y funcionalidad.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+  },
+  imagen: "Img/Imagen677.jpeg",
+  stock: 43
+},
+      {
+  nombre: "5881ARETES FLOR PELA",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque delicado y sofisticado a tu look con estos hermosos aretes flor perla, ideales para cualquier ocasión. Ligeros, cómodos y perfectos para regalar o complementar tus outfits con un estilo único.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "Img/Imagen678.jpeg",
+  stock: 13
+},
+        {
+  nombre: "5882BALANZA GAMERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Balanza gramera digital pesa desde 1 gramo hasta 5 kg. Tiene botón de tarar (tare) así solo pesas el contenido del recipiente. Apagado automático. Fácil de usar, guardar y transportar. Funciona con 2 pilas AA (Incluye pilas).",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen679.jpeg",
+  stock: 10
+},
+    {
+  nombre: "5884BOLSA PAVONADA",
+  categoria: "Accesorios",
+  descripcion: "¡Dale un toque elegante y delicado a cada regalo! Ideal para detalles, cosméticos, dulces y mucho más. Material resistente con acabado pavonado que luce hermoso en cualquier ocasión. ¡Haz que tu presentación enamore! Medida: 24.5 x 19.5 x 9.5 cm",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+  },
+  imagen: "Img/Imagen680.jpeg",
+  stock: 30
+},
+      {
+  nombre: "5885CONTENEDOR DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para almacenar fideos, cereales, galletas, menestras y más, manteniendo todo organizado. Práctico, elegante y perfecto para darle un toque de orden a tu cocina.",
+  precios: {
+   "1": 14.95,
+  },
+  imagen: "Img/Imagen681.jpeg",
+  stock: 1
+},
+      {
+  nombre: "5886PORTA CUBIERTOS DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus cubiertos organizados y siempre al alcance, con un diseño práctico y elegante. Ideal para la cocina, comedor o mesa, aportando orden y un toque natural a cualquier espacio.",
+  precios: {
+   "1": 10.95,
+  },
+  imagen: "Img/Imagen682.jpeg",
+  stock: 4
+},
+        {
+  nombre: "5887ALICATE MULTIFUNCIONAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Optimiza tu trabajo con la herramienta todo en uno definitiva para cortar, pelar  y crimpar cables de forma rápida! Su diseño ergonómico y antideslizante garantiza máxima precisión, fuerza y seguridad en cada proyecto eléctrico.",
+  precios: {
+   "1": 11.95,
+  },
+  imagen: "Img/Imagen683.jpeg",
+  stock: 3
+},
+          {
+  nombre: "5888PLATO CONCHA DE VIDRIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡El plato perfecto para tus piqueos, sushi, tequeños y snacks favoritos! Incluye una salsera profunda integrada para untar de forma cómoda, limpia y sin mezclas. Ensalza la presentación de tus reuniones con un toque elegante y moderno.",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "Img/Imagen684.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5889CEPILLO DESENREDANTE CON DISPENSADOR",
+  categoria: "Accesorios",
+  descripcion: "Desenreda el cabello con suavidad mientras humedece cada mechón gracias a su práctico dispensador integrado. Ideal para todo tipo de cabello.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen685.jpeg",
+  stock: 1
+},
+  {
+  nombre: "5890CEPILLO DESENREDANTE CON DISPENSADOR",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque moderno a tu estilo con estos lentes de diseño hexagonal, perfectos para complementar cualquier outfit con mucha personalidad. Color al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen686.jpeg",
+  stock: 10
 },
   ];
