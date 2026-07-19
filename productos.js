@@ -3449,18 +3449,7 @@ const productos = [
   imagen: "Img/Imagen667.jpeg",
   stock: 10
 },
-           {
-  nombre: "5868LLAVERO GRABADORA KWAI",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Graba tu voz y diviértete al máximo! Este minillavero retro graba mensajes y cambia tu voz con efectos súper locos y graciosos. ¡El accesorio kawaii perfecto!, cuélgalo en tu mochila o llaves. Color al azar",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-  },
-  imagen: "Img/Imagen668.jpeg",
-  stock: 11
-},
-            {
+               {
   nombre: "5868LLAVERO GRABADORA KWAI",
   categoria: "Accesorios",
   descripcion: "¡Graba tu voz y diviértete al máximo! Este minillavero retro graba mensajes y cambia tu voz con efectos súper locos y graciosos. ¡El accesorio kawaii perfecto!, cuélgalo en tu mochila o llaves. Color al azar",
@@ -3526,5 +3515,27 @@ const productos = [
   },
   imagen: "Img/Imagen673.jpeg",
   stock: 24
+},
+                      {
+  nombre: "5876MINI LAVADORA PLEGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lavadora plegable portátil para ropa, calcetines, mini máquina de limpieza, ropa interior, lavadora centrífuga. Material: ABS ecológico, componentes electrónicos.",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "Img/Imagen674.jpeg",
+  stock: 1
+},
+             {
+  nombre: "5877MEDIAS LARGAS MARCAS",
+  categoria: "Ropa interior",
+  descripcion: "Dale un toque único a tu outfit con medias largas de excelente calidad, cómodas y resistentes para cualquier ocasión. Ideales para deporte, entrenamiento y uso diario",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+  },
+  imagen: "Img/Imagen675.jpeg",
+  stock: 9
 },
   ];
