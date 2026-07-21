@@ -3496,7 +3496,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen677.jpeg",
-  stock: 43
+  stock: 37
 },
       {
   nombre: "5881ARETES FLOR PELA",
