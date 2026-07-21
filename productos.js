@@ -3507,7 +3507,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen678.jpeg",
-  stock: 13
+  stock: 12
 },
         {
   nombre: "5882BALANZA GAMERA",
@@ -3584,7 +3584,7 @@ const productos = [
   stock: 1
 },
   {
-  nombre: "5890CEPILLO DESENREDANTE CON DISPENSADOR",
+  nombre: "5890LENTES HEXAGONALES",
   categoria: "Accesorios",
   descripcion: "Dale un toque moderno a tu estilo con estos lentes de diseño hexagonal, perfectos para complementar cualquier outfit con mucha personalidad. Color al azar",
   precios: {
@@ -3592,6 +3592,6 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen686.jpeg",
-  stock: 10
+  stock: 9
 },
   ];
