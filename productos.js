@@ -3518,7 +3518,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen679.jpeg",
-  stock: 9
+  stock: 7
 },
     {
   nombre: "5884BOLSA PAVONADA",
