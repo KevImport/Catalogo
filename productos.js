@@ -812,7 +812,7 @@ const productos = [
     "12": 1.55,
  },
   imagen: "Img/Imagen188.jpeg",
-  stock: 28
+  stock: 25
 },
 {
   nombre: "5104FLORERO CON FLORES ARTIFICIALES",
@@ -965,7 +965,7 @@ const productos = [
     "1": 5.40,
  },
   imagen: "Img/Imagen232.jpeg",
-  stock: 6
+  stock: 7
 },
  {
   nombre: "5182BRAZALETE SERPENTEADO",
@@ -2400,7 +2400,7 @@ const productos = [
    "3": 2.95,
        },
   imagen: "Img/Imagen537.jpeg",
-  stock: 11
+  stock: 5
 },
                {
   nombre: "5663SET DE MINI TENEDORES MINNIE",
@@ -2562,7 +2562,7 @@ const productos = [
    "3": 2.55,
        },
   imagen: "Img/Imagen560.jpeg",
-  stock: 8
+  stock: 5
 },
        {
   nombre: "5689CONTENEDOR PORTÁTIL PARA HUEVOS (2 COMPARTIMENTOS)",
@@ -2762,7 +2762,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen594.jpeg",
-  stock: 12
+  stock: 10
 },
           {
   nombre: "5740CORREA PARA CABALLERO",
@@ -3190,7 +3190,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen648.jpeg",
-  stock: 5
+  stock: 4
 },
    {
   nombre: "5837EXTENSOR DE GRIFO",
@@ -3308,16 +3308,6 @@ const productos = [
   },
   imagen: "Img/Imagen658.jpeg",
   stock: 10
-},
-       {
-  nombre: "5855CEPILLO PARA RIZOS DEFINIDOS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Define y da forma a tus rizos fácilmente, reduciendo el frizz y resaltando su volumen natural. Ideal para todo tipo de cabello rizado u ondulado, cómodo de usar y perfecto para tu rutina diaria.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen659.jpg",
-  stock: 1
 },
        {
   nombre: "5856SOPORTE CON BASE PARA CELULAR",
@@ -3484,7 +3474,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen676.jpeg",
-  stock: 10
+  stock: 9
 },
       {
   nombre: "5879INDIVIDUAL DE BAMBÚ",
@@ -3571,7 +3561,7 @@ const productos = [
    "1": 7.95,
   },
   imagen: "Img/Imagen684.jpeg",
-  stock: 4
+  stock: 1
 },
   {
   nombre: "5889CEPILLO DESENREDANTE CON DISPENSADOR",
