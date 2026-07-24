@@ -3315,10 +3315,9 @@ const productos = [
   descripcion: "Fácil de usar, fácil de instalar.Para escritorio o mesas, resistente ideal para escolares para clases, videos, selfies, chat, grabación, etc. Color: negro",
   precios: {
    "1": 4.95,
-   "3": 2.95,
   },
   imagen: "Img/Imagen660.png",
-  stock: 4
+  stock: 1
 },
        {
   nombre: "5857CREMA LIMPIADORA",
