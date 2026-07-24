@@ -3119,7 +3119,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen640.png",
-  stock: 8
+  stock: 7
 },
    {
   nombre: "5828LEGGIN SUPLEX TALLAS XL",
