@@ -3473,7 +3473,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen676.jpeg",
-  stock: 9
+  stock: 3
 },
       {
   nombre: "5879INDIVIDUAL DE BAMBÚ",
@@ -3485,7 +3485,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen677.jpeg",
-  stock: 37
+  stock: 12
 },
       {
   nombre: "5881ARETES FLOR PELA",
@@ -3531,16 +3531,6 @@ const productos = [
   },
   imagen: "Img/Imagen681.jpeg",
   stock: 1
-},
-      {
-  nombre: "5886PORTA CUBIERTOS DE BAMBÚ",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus cubiertos organizados y siempre al alcance, con un diseño práctico y elegante. Ideal para la cocina, comedor o mesa, aportando orden y un toque natural a cualquier espacio.",
-  precios: {
-   "1": 10.95,
-  },
-  imagen: "Img/Imagen682.jpeg",
-  stock: 4
 },
         {
   nombre: "5887ALICATE MULTIFUNCIONAL",
