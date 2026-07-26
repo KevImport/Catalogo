@@ -2972,19 +2972,6 @@ const productos = [
   imagen: "Img/Imagen619.png",
   stock: 6
 },
-                            {
-  nombre: "5792MINI SELLADOR DE BOLSAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Sella tus bolsas al instante y conserva los alimentos por más tiempo. Diseño compacto y práctico, ideal para llevar a cualquier lugar. Perfecto para snacks, frutas y todo tipo de empaques en casa.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.75,
-   "12": 2.55,
-    },
-  imagen: "Img/Imagen621.png",
-  stock: 18
-},
      {
   nombre: "5794PIEDRAS REFLECTORAS LUMINOSAS",
   categoria: "Hogar / Cocina",
@@ -3542,16 +3529,6 @@ const productos = [
   imagen: "Img/Imagen683.jpeg",
   stock: 2
 },
-          {
-  nombre: "5888PLATO CONCHA DE VIDRIO",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡El plato perfecto para tus piqueos, sushi, tequeños y snacks favoritos! Incluye una salsera profunda integrada para untar de forma cómoda, limpia y sin mezclas. Ensalza la presentación de tus reuniones con un toque elegante y moderno.",
-  precios: {
-   "1": 7.95,
-  },
-  imagen: "Img/Imagen684.jpeg",
-  stock: 1
-},
   {
   nombre: "5889CEPILLO DESENREDANTE CON DISPENSADOR",
   categoria: "Accesorios",
@@ -3573,4 +3550,85 @@ const productos = [
   imagen: "Img/Imagen686.jpeg",
   stock: 9
 },
+    {
+  nombre: "5891BOXER PARA NIÑOS",
+  categoria: "Ropa interior",
+  descripcion: "¡Comodidad, suavidad y diseños divertidos para acompañar cada aventura! Tela fresca, resistente y de excelente calidad para el uso diario. TALLA: 14",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+  },
+  imagen: "Img/Imagen687.jpeg",
+  stock: 6
+},
+      {
+  nombre: "5892SET DE VOLQUETA Y EXCAVADORA DE CONSTRUCCIÓN",
+  categoria: "Juguetes",
+  descripcion: "Medida del set: 34 x 8 x 13 cm. Despierta la imaginación de los pequeños con este divertido camión volquete y excavadora impulsados por fricción. ¡Son perfectos para transportar materiales, superar retos en la arena y desarrollar habilidades motrices mientras juegan sin parar!",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "Img/Imagen688.jpeg",
+  stock: 5
+},
+        {
+  nombre: "5895LLAVE PARA GRIFERÍA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para instalar o ajustar grifos, lavatorios, inodoros y calentadores de agua de forma rápida y sencilla. Diseño ergonómico con nivel de burbuja integrado, antideslizante y de gran alcance para llegar a espacios difíciles.",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "Img/Imagen689.jpeg",
+  stock: 5
+},
+          {
+  nombre: "5896SET DE 2 ALFOMBRAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Superficie antideslizante para mayor seguridad. Fácil de limpiar y mantener. Le da un toque moderno a tu espacio. Modelo al azar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen690.jpeg",
+  stock: 11
+},
+      {
+  nombre: "5897SET DE 6 CUCHARITAS DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfectas para café, té, postres y más. Prácticas, ligeras y con un diseño elegante para complementar tu mesa.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+  },
+  imagen: "Img/Imagen691.jpeg",
+  stock: 11
+},
+        {
+  nombre: "5898PINZA COLADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Atrapa y escurre tus comidas favoritas sin salpicaduras! Para platos crujientes, deliciosos y sin exceso de grasa.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+  },
+  imagen: "Img/Imagen692.jpeg",
+  stock: 12
+},
+          {
+  nombre: "5901SET DE 5 MALLAS DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Dile adiós a la grasa difícil sin rayar tus sartenes antiadherentes! Este trapo de malla ultra resistente limpia a fondo platos y ollas dejando tu cocina reluciente.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "Img/Imagen693.jpeg",
+  stock: 12
+},
+
   ];
