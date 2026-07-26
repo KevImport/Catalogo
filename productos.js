@@ -3449,7 +3449,7 @@ const productos = [
    "6": 5.25,
   },
   imagen: "Img/Imagen675.jpeg",
-  stock: 9
+  stock: 24
 },
     {
   nombre: "5880TABLA DE PICAR",
