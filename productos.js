@@ -3447,6 +3447,7 @@ const productos = [
    "1": 6.95,
    "3": 5.55,
    "6": 5.25,
+   "12": 4.95,
   },
   imagen: "Img/Imagen675.jpeg",
   stock: 24
@@ -3657,7 +3658,7 @@ const productos = [
   stock: 25
 },
                {
-  nombre: "5905KIT DE 5 BANDAS ELÁSTICAS DE RESISTENCIA",
+  nombre: "5905BOXER CALVIN KLEN XL",
   categoria: "Ropa interior",
   descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. TALLA: XL",
   precios: {
