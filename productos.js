@@ -3630,5 +3630,41 @@ const productos = [
   imagen: "Img/Imagen693.jpeg",
   stock: 12
 },
-
+            {
+  nombre: "5902ROMPECABEZAS 100 PIEZAS",
+  categoria: "Juguetes",
+  descripcion: "¡Diviértete en grande con tus personajes favoritos y arma estos increíbles rompecabezas. Su tamaño de 33 x 48 cm es perfecto para decorar tu habitación o compartir momentos geniales en familia. Modelo al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+  },
+  imagen: "Img/Imagen694.jpeg",
+  stock: 30
+},
+             {
+  nombre: "5903KIT DE 5 BANDAS ELÁSTICAS DE RESISTENCIA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Entrena en casa, en el gimnasio o donde quieras. Fortalece brazos, piernas, glúteos, abdomen y hombros con diferentes niveles de resistencia. Ideales para yoga, pilates, rehabilitación, estiramientos y entrenamiento funcional. Lleva tu rutina a otro nivel.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+  },
+  imagen: "Img/Imagen695.jpeg",
+  stock: 25
+},
+               {
+  nombre: "5905KIT DE 5 BANDAS ELÁSTICAS DE RESISTENCIA",
+  categoria: "Ropa interior",
+  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. TALLA: XL",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+  },
+  imagen: "Img/Imagen696.jpeg",
+  stock: 5
+},
   ];
