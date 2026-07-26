@@ -1984,17 +1984,6 @@ const productos = [
   imagen: "Img/Imagen472.jpeg",
   stock: 4
 },
-                     {
-  nombre: "5551GORRA SPORT CLÁSICA",
-  categoria: "Accesorios",
-  descripcion: "Diseño moderno y deportivo, ideal para uso diario o actividades al aire libre. Material ligero y cómodo, brinda ajuste perfecto y gran durabilidad. Colores surtidos, combina fácilmente con cualquier outfit.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-     },
-  imagen: "Img/Imagen475.jpeg",
-  stock: 3
-},
      {
   nombre: "5552ROMPE CHORRO",
   categoria: "Hogar / Cocina",
