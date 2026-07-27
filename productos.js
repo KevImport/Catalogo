@@ -3381,7 +3381,7 @@ const productos = [
    "1": 11.95,
   },
   imagen: "Img/Imagen683.jpeg",
-  stock: 2
+  stock: 1
 },
   {
   nombre: "5889CEPILLO DESENREDANTE CON DISPENSADOR",
@@ -3434,7 +3434,7 @@ const productos = [
    "1": 7.95,
   },
   imagen: "Img/Imagen689.jpeg",
-  stock: 5
+  stock: 2
 },
           {
   nombre: "5896SET DE 2 ALFOMBRAS",
