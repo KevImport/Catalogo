@@ -1282,18 +1282,6 @@ const productos = [
   imagen: "Img/Imagen317.jpg",
   stock: 1
 },
-    {
-  nombre: "5322PACK DE 10 VELAS MÁGICAS REENCENDIBLES",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Sopla y sorpréndete al ver cómo se encienden solas otra vez. Perfectas para cumpleaños divertidos y momentos inolvidables.",
-  precios: {
-   "1": 2.95,
-   "3": 1.55,
-   "6": 1.25,
-  },
-  imagen: "Img/Imagen318.jpeg",
-  stock: 10
-},
       {
   nombre: "5324ARBOL DE 60CM CON ACCESORIOS",
   categoria: "Navidad / Regalos",
@@ -1530,7 +1518,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen366.jpeg",
-  stock: 29
+  stock: 17
 },
        {
   nombre: "5387SET DE MINI DRAGONES",
@@ -2092,16 +2080,6 @@ const productos = [
   imagen: "Img/Imagen500.png",
   stock: 5
 },
-            {
-  nombre: "5593ESPONJA QUITA MUGRE",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "La esponja suave de alta densidad espesa, delicada y antideslizante, no solo puede eliminar la suciedad de todo el cuerpo, sino también limpiar eficazmente la piel.",
-  precios: {
-   "1": 2.95,
-       },
-  imagen: "Img/Imagen505.png",
-  stock: 2
-},
                {
   nombre: "5596SOQUETE CON ENCHUFE E INTERRUPTOR",
   categoria: "Hogar / Cocina",
@@ -2113,16 +2091,6 @@ const productos = [
        },
   imagen: "Img/Imagen508.jpeg",
   stock: 7
-},
-  {
-  nombre: "5601SET TECLADO Y MOUSE RECARGABLE",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Olvídate de las pilas con este combo inalámbrico de alta autonomía y diseño ergonómico. Disponible en colores según stock para darle un toque moderno a tu espacio de trabajo.",
-  precios: {
-   "1": 17.95,
-       },
-  imagen: "Img/Imagen509.jpeg",
-  stock: 1
 },
    {
   nombre: "5608MONEDERO PARA DAMA",
@@ -2259,11 +2227,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "6": 2.25,
-   "12": 1.95,
        },
   imagen: "Img/Imagen524.jpeg",
-  stock: 9
+  stock: 3
 },
        {
   nombre: "5635SOPORTE ADHESIVO PARA LENTES",
@@ -2463,30 +2429,6 @@ const productos = [
   imagen: "Img/Imagen549.jpeg",
   stock: 3
 },
-                  {
-  nombre: "5682MALLA PROTECTORA DE PLANCHADO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Medida: 40 x 60 cm, ideal para todo tipo de prendas. Protege la ropa del calor directo y evita quemaduras. Permite el paso del vapor para un planchado seguro y eficiente.",
-  precios: {
-   "1": 2.95,
-   "3": 1.55,
-   "6": 1.25,
-   "12": 0.95,
-       },
-  imagen: "Img/Imagen555.jpeg",
-  stock: 12
-},
-    {
-  nombre: "5683MOLDE PARA DONAS DE SILICONA 29 x 20 CM",
-  categoria: "Hogar / Cocina",
-  descripcion: "Prepara deliciosas donas caseras de forma fácil y rápida. Material de silicona flexible, antiadherente y resistente al calor. Fácil de desmoldar y limpiar, ideal para horno o repostería en casa.",
-  precios: {
-   "1": 3.95,
-   "3": 2.25,
-       },
-  imagen: "Img/Imagen552.jpeg",
-  stock: 3
-},
     {
   nombre: "5685SET DE 3 CORRECTORES DE ESCRITURA",
   categoria: "Escolar / Papelería",
@@ -2540,18 +2482,6 @@ const productos = [
        },
   imagen: "Img/Imagen560.jpeg",
   stock: 5
-},
-       {
-  nombre: "5689CONTENEDOR PORTÁTIL PARA HUEVOS (2 COMPARTIMENTOS)",
-  categoria: "Hogar / Cocina",
-  descripcion: "Protege tus huevos al transportarlos sin que se rompan. Diseño compacto con asa, ideal para viajes, camping o lonchera. Material resistente y fácil de limpiar, práctico para uso diario.",
-  precios: {
-   "1": 2.95,
-   "3": 1.55,
-   "6": 1.25,
-       },
-  imagen: "Img/Imagen562.jpeg",
-  stock: 6
 },
        {
   nombre: "5692SET DE 120 PLUMONES DUAL BRUSH + ESTUCHE",
@@ -2622,7 +2552,7 @@ const productos = [
    "3": 6.95,
        },
   imagen: "Img/Imagen577.jpeg",
-  stock: 9
+  stock: 4
 },
     {
   nombre: "5383FOCO  LED 30W",
@@ -2787,16 +2717,6 @@ const productos = [
   imagen: "Img/Imagen603.jpeg",
   stock: 10
 },
-            {
-  nombre: "5761RENOVADOR DE MADERA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Renueva tu mobiliario con nuestro RENOVADOR DE MADERA. ¡Dale nueva vida a tus espacios! Disfrutar de muebles como nuevos por mucho más tiempo. No dejes que el paso del tiempo afecte su belleza.",
-  precios: {
-   "1": 7.95,
-       },
-  imagen: "Img/Imagen604.png",
-  stock: 3
-},
     {
   nombre: "5762ESPONJA MÁGICA DE MELAMINA",
   categoria: "Hogar / Cocina",
@@ -2808,7 +2728,7 @@ const productos = [
    "12": 1.25,
        },
   imagen: "Img/Imagen605.png",
-  stock: 49
+  stock: 37
 },
                {
   nombre: "5765COLLAR EQUIPO",
@@ -2842,7 +2762,7 @@ const productos = [
    "12": 1.55,
        },
   imagen: "Img/Imagen608.jpeg",
-  stock: 15
+  stock: 12
 },
     {
   nombre: "5773MITONES CÁLIDOS",
@@ -3043,17 +2963,6 @@ const productos = [
   stock: 13
 },
    {
-  nombre: "5825MUÑECO PELUCHE BAILARIN",
-  categoria: "Juguetes",
-  descripcion: "¡El peluche más divertido llegó para alegrar cada momento! Baila, canta y repite todo lo que dices para horas de diversión.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-  },
-  imagen: "Img/Imagen638.jpeg",
-  stock: 3
-},
-   {
   nombre: "5826PACK DE 10 BOLSAS PINKY",
   categoria: "Organización / Almacenamiento",
   descripcion: "Ideal para armar packs de maquillaje, skincare, regalos y detalles especiales con una presentación elegante. Hermética, resistente y reutilizable; protege del polvo, humedad y derrames. Medida: 24 x 16 cm",
@@ -3124,7 +3033,7 @@ const productos = [
    "1": 13.95,
   },
   imagen: "Img/Imagen645.jpeg",
-  stock: 5
+  stock: 1
 },
      {
   nombre: "5833JARRA COLADORA DE ACEITE",
@@ -3145,17 +3054,6 @@ const productos = [
   },
   imagen: "Img/Imagen648.jpeg",
   stock: 4
-},
-   {
-  nombre: "5837EXTENSOR DE GRIFO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Gira para dirigir el agua donde la necesites, facilitando el lavado de manos, utensilios y el fregadero. Fácil de instalar, ayuda a reducir salpicaduras y mejora la comodidad en cocina o baño.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-  },
-  imagen: "Img/Imagen649.jpeg",
-  stock: 6
 },
    {
   nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
@@ -3245,11 +3143,9 @@ const productos = [
   descripcion: "Ideal para rociar agua, productos de limpieza o cuidar tus plantas de forma práctica y uniforme. Diseño ligero, fácil de usar y perfecto para el hogar, jardín, salón de belleza o uso diario.",
   precios: {
    "1": 3.95,
-   "3": 2.95,
-   "6": 2.75,
   },
   imagen: "Img/Imagen657.jpeg",
-  stock: 7
+  stock: 1
 },
      {
   nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
@@ -3262,16 +3158,6 @@ const productos = [
   },
   imagen: "Img/Imagen658.jpeg",
   stock: 10
-},
-       {
-  nombre: "5856SOPORTE CON BASE PARA CELULAR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Fácil de usar, fácil de instalar.Para escritorio o mesas, resistente ideal para escolares para clases, videos, selfies, chat, grabación, etc. Color: negro",
-  precios: {
-   "1": 4.95,
-  },
-  imagen: "Img/Imagen660.png",
-  stock: 1
 },
        {
   nombre: "5857CREMA LIMPIADORA",
@@ -3451,7 +3337,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen678.jpeg",
-  stock: 12
+  stock: 6
 },
         {
   nombre: "5882BALANZA GAMERA",
