@@ -1161,18 +1161,6 @@ const productos = [
   stock: 17
 },
   {
-  nombre: "5277PASTILLA PARA TANQUE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Limpiador concentrado ultra fuerte y durable. Mata gérmenes y bacterias. Desodoriza y evita las manchas. No daña las cañerías, no mancha ni deja residuos.",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-   "6": 2.25,
-  },
-  imagen: "Img/Imagen285.png",
-  stock: 3
-},
-  {
   nombre: "5278PIJAMA DE DOS PIEZAS",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Conjunto: camiseta manga corta + short. Cómodo, ligero y perfecto para descansar con estilo.",
@@ -2751,7 +2739,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen594.jpeg",
-  stock: 10
+  stock: 6
 },
           {
   nombre: "5740CORREA PARA CABALLERO",
@@ -3031,16 +3019,6 @@ const productos = [
   },
   imagen: "Img/Imagen627.jpeg",
   stock: 12
-},
-      {
-  nombre: "5805MALETIN CON LUZ LED",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Espejo con luz LED regulable para un maquillaje perfecto en cualquier momento. Portátil, recargable por USB y con compartimentos organizadores para llevar todos tus cosméticos de forma práctica y segura. Color al azar.",
-  precios: {
-   "1": 27.90,
-  },
-  imagen: "Img/Imagen629.png",
-  stock: 1
 },
     {
   nombre: "5815PARLANTE PELOTA",
