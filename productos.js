@@ -3318,7 +3318,7 @@ const productos = [
    "12": 1.95,
   },
   imagen: "Img/Imagen680.jpeg",
-  stock: 30
+  stock: 29
 },
          {
   nombre: "5887ALICATE MULTIFUNCIONAL",
