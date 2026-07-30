@@ -3371,7 +3371,7 @@ const productos = [
    "1": 7.95,
   },
   imagen: "Img/Imagen688.jpeg",
-  stock: 5
+  stock: 4
 },
         {
   nombre: "5895LLAVE PARA GRIFERÍA",
