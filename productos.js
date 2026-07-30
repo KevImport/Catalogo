@@ -3389,10 +3389,9 @@ const productos = [
   descripcion: "Superficie antideslizante para mayor seguridad. Fácil de limpiar y mantener. Le da un toque moderno a tu espacio. Modelo al azar.",
   precios: {
    "1": 7.95,
-   "3": 6.95,
   },
   imagen: "Img/Imagen690.jpeg",
-  stock: 11
+  stock: 1
 },
       {
   nombre: "5897SET DE 6 CUCHARITAS DE BAMBÚ",
@@ -3429,7 +3428,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 12
+  stock: 32
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -3442,7 +3441,7 @@ const productos = [
    "12": 3.95,
   },
   imagen: "Img/Imagen694.jpeg",
-  stock: 30
+  stock: 20
 },
              {
   nombre: "5903KIT DE 5 BANDAS ELÁSTICAS DE RESISTENCIA",
@@ -3464,8 +3463,9 @@ const productos = [
   precios: {
    "1": 6.95,
    "3": 5.55,
+   "6": 5.25,
   },
   imagen: "Img/Imagen696.jpeg",
-  stock: 5
+  stock: 6
 },
   ];
