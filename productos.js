@@ -1158,7 +1158,7 @@ const productos = [
    "6": 2.55,
   },
   imagen: "Img/Imagen284.png",
-  stock: 17
+  stock: 14
 },
   {
   nombre: "5278PIJAMA DE DOS PIEZAS",
@@ -1225,7 +1225,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen297.png",
-  stock: 7
+  stock: 4
 },
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
@@ -1260,7 +1260,7 @@ const productos = [
    "12": 0.95,
   },
   imagen: "Img/Imagen559.jpeg",
-  stock: 15
+  stock: 9
 },
  {
   nombre: "5317INFLADOR DE LLANTAS Y PELOTAS",
@@ -1727,7 +1727,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen418.png",
-  stock: 41
+  stock: 38
 },
      {
   nombre: "5469SET DE 12 COLORES DUAL JUMBO",
@@ -2290,17 +2290,6 @@ const productos = [
   stock: 9
 },
          {
-  nombre: "5646CONTENEDOR PARA CEREALES Y FIDEOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para almacenar cereales, fideos y alimentos secos. Medida: 8 x 28 cm, práctico y ahorra espacio. Mantiene la frescura y organiza tu cocina fácilmente.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-       },
-  imagen: "Img/Imagen531.jpeg",
-  stock: 4
-},
-              {
   nombre: "5650SET DE BROCHAS DE MAQUILLAJE",
   categoria: "Belleza / Cosmética",
   descripcion: "El juego incluye brocha de base, brocha de maquillaje, brocha de sombra, brocha de colorete, brocha de sombra de ojos, brocha de labios, etc. Las fibras artificiales suaves y finas reducen el daño a la piel. Color al azar.",
@@ -2541,7 +2530,7 @@ const productos = [
    "12": 2.55,
        },
   imagen: "Img/Imagen571.jpeg",
-  stock: 14
+  stock: 11
 },
   {
   nombre: "5737ORGANIZADOR DE GORRAS",
@@ -2600,17 +2589,6 @@ const productos = [
        },
   imagen: "Img/Imagen582.jpeg",
   stock: 7
-},
-      {
-  nombre: "5718ORGANIZADOR ARTÍSTICO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Organiza brochas o lápices con un diseño moderno tipo rostro. Funciona también como jarrón decorativo, resistente y ligero. Material: PP, medida: 9 x 16 cm",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-       },
-  imagen: "Img/Imagen583.jpeg",
-  stock: 5
 },
       {
   nombre: "5719SET DE 12 MARIPOSAS DECORATIVAS",
@@ -3137,17 +3115,7 @@ const productos = [
   imagen: "Img/Imagen656.jpeg",
   stock: 12
 },
-   {
-  nombre: "5851PULVERIZADOR MANUAL",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para rociar agua, productos de limpieza o cuidar tus plantas de forma práctica y uniforme. Diseño ligero, fácil de usar y perfecto para el hogar, jardín, salón de belleza o uso diario.",
-  precios: {
-   "1": 3.95,
-  },
-  imagen: "Img/Imagen657.jpeg",
-  stock: 1
-},
-     {
+        {
   nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Brinda mayor comodidad y soporte en cada paso, adaptándose fácilmente al tamaño de tu calzado. Ideal para uso diario, ayuda a reducir el impacto al caminar y proporciona una pisada más confortable. Medida: 30 x 8.5 cm",
@@ -3363,17 +3331,7 @@ const productos = [
   imagen: "Img/Imagen680.jpeg",
   stock: 30
 },
-      {
-  nombre: "5885CONTENEDOR DE BAMBÚ",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para almacenar fideos, cereales, galletas, menestras y más, manteniendo todo organizado. Práctico, elegante y perfecto para darle un toque de orden a tu cocina.",
-  precios: {
-   "1": 14.95,
-  },
-  imagen: "Img/Imagen681.jpeg",
-  stock: 1
-},
-        {
+         {
   nombre: "5887ALICATE MULTIFUNCIONAL",
   categoria: "Hogar / Cocina",
   descripcion: "¡Optimiza tu trabajo con la herramienta todo en uno definitiva para cortar, pelar  y crimpar cables de forma rápida! Su diseño ergonómico y antideslizante garantiza máxima precisión, fuerza y seguridad en cada proyecto eléctrico.",
@@ -3457,7 +3415,7 @@ const productos = [
    "6": 2.75,
   },
   imagen: "Img/Imagen691.jpeg",
-  stock: 11
+  stock: 8
 },
         {
   nombre: "5898PINZA COLADORA",
@@ -3469,7 +3427,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen692.jpeg",
-  stock: 12
+  stock: 9
 },
           {
   nombre: "5901SET DE 5 MALLAS DE LIMPIEZA",
