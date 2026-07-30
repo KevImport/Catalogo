@@ -2926,7 +2926,7 @@ const productos = [
    "1": 13.90,
   },
   imagen: "Img/Imagen630.jpeg",
-  stock: 6
+  stock: 5
 },
           {
   nombre: "5823TABLERO LED PARA MENSAJES",
@@ -3148,7 +3148,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen662.jpeg",
-  stock: 3
+  stock: 6
 },
        {
   nombre: "5863TRUSA CLÁSICA DAMA",
