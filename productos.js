@@ -3216,17 +3216,6 @@ const productos = [
   imagen: "Img/Imagen670.jpeg",
   stock: 3
 },
-                  {
-  nombre: "5871SQUISHY QUESITO",
-  categoria: "Juguetes",
-  descripcion: "¡Aprieta el quesito y mira cómo sale el tierno ratoncito! Un squishy súper suave, perfecto para aliviar el estrés. Ideal para niños y adultos, excelente como regalo o para coleccionar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen671.png",
-  stock: 8
-},
                     {
   nombre: "5874MANTA LUMINOSA",
   categoria: "Hogar / Cocina",
