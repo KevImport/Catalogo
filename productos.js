@@ -1633,7 +1633,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen394.jpeg",
-  stock: 10
+  stock: 3
 },
   {
   nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
