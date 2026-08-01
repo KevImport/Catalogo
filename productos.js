@@ -3457,4 +3457,37 @@ const productos = [
   imagen: "Img/Imagen696.jpeg",
   stock: 6
 },
+               {
+  nombre: "5907SET DE BANDEJAS ONDULADAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Dale un súper toque único a tus piqueos con este espectacular set de 3 fuentes! El diseño moderno de ondas es perfecto para sorprender a todos tus invitados en tus reuniones más especiales.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen697.png",
+  stock: 3
+},
+                 {
+  nombre: "5908SET DE 4 CLIPS ANTIRONQUIDOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a mejorar el flujo de aire nasal para una respiración más cómoda durante el descanso. Cómodos, reutilizables y fáciles de colocar; ideales para un sueño más tranquilo y reparador.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+  },
+  imagen: "Img/Imagen698.jpeg",
+  stock: 13
+},
+                 {
+  nombre: "5909ALMOHADA CERVICAL ERGONÓMICA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Brinda soporte ideal al cuello, ayudando a prevenir molestias y mejorar tu descanso. Suave, indeformable y anti-alérgica, elaborada con materiales de alta calidad para mayor confort y durabilidad.",
+  precios: {
+   "1": 11.95,
+  },
+  imagen: "Img/Imagen699.png",
+  stock: 1
+},
   ];
