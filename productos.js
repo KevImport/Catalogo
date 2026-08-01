@@ -603,17 +603,6 @@ const productos = [
   stock: 1
 },
 {
-  nombre: "4839REMOVEDOR DE VERRUGAS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Fórmula efectiva para eliminar verrugas de forma segura y sin dolor. Resultados visibles con uso constante.",
-  precios: {
-    "1": 8.95,
-    "3": 7.95,
-  },
-  imagen: "Img/Imagen139.jpg",
-  stock: 3
-},
-{
   nombre: "4812ALMOHADILLAS DE DESCANSO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Almohadillas suaves para aliviar el cansancio en pies o cuerpo. Ideales para descansar tras un día agitado.",
