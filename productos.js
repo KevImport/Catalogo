@@ -1358,7 +1358,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen325.jpeg",
-  stock: 7
+  stock: 5
 },
   {
   nombre: "5331DOMINÓ CLÁSICO",
@@ -3428,7 +3428,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 32
+  stock: 26
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
