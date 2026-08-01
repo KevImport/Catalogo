@@ -3490,4 +3490,35 @@ const productos = [
   imagen: "Img/Imagen699.png",
   stock: 1
 },
+                   {
+  nombre: "5910ESCURRIDOR COLADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Brinda soporte ideal al cuello, ayudando a prevenir molestias y mejorar tu descanso. Suave, indeformable y anti-alérgica, elaborada con materiales de alta calidad para mayor confort y durabilidad.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+  },
+  imagen: "Img/Imagen700.png",
+  stock: 4
+},
+                   {
+  nombre: "5914SET DE 12 PLUMONES GLITTER",
+  categoria: "Escolar / Papelería",
+  descripcion: "Disfruta de 24 tonos diferentes gracias a su innovador efecto de doble color. Perfectos para dibujar, decorar, hacer lettering y dar un toque brillante a todas tus creaciones.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen701.jpeg",
+  stock: 11
+},
+                   {
+  nombre: "5915PISO PLEGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 2 m x 1.8 m. Ideal para que bebés y niños jueguen cómodamente, brindando una superficie acolchada, fácil de limpiar, plegable y perfecta para el hogar o llevar a cualquier lugar.",
+  precios: {
+   "1": 30.90,
+  },
+  imagen: "Img/Imagen702.jpeg",
+  stock: 3
+},
   ];
