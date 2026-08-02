@@ -2239,10 +2239,9 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.65,
-   "12": 2.45, 
        },
   imagen: "Img/Imagen528.jpeg",
-  stock: 12
+  stock: 9
 },
                   {
   nombre: "5643PACK DE ALMOHADILLAS DE FIELTRO",
@@ -2373,17 +2372,6 @@ const productos = [
   imagen: "Img/Imagen547.jpeg",
   stock: 2
 },
-                 {
-  nombre: "5677SET DE 2 FUNDAS PARA LIMPIEZA DE PISOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Material de microfibra súper absorbente que atrapa polvo y suciedad. Ideal para limpiar mientras caminas, práctica y divertida. Reutilizable, lavable y perfecta para el hogar. Medida: 17 x 15 cm, color al azar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-       },
-  imagen: "Img/Imagen549.jpeg",
-  stock: 3
-},
     {
   nombre: "5685SET DE 3 CORRECTORES DE ESCRITURA",
   categoria: "Escolar / Papelería",
@@ -2425,7 +2413,7 @@ const productos = [
    "1": 4.95,
        },
   imagen: "Img/Imagen558.jpeg",
-  stock: 7
+  stock: 5
 },
      {
   nombre: "5621PULSERA DISEÑO BODHI",
