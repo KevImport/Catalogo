@@ -3464,7 +3464,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen701.jpeg",
-  stock: 11
+  stock: 10
 },
                    {
   nombre: "5915PISO PLEGABLE",
@@ -3559,7 +3559,7 @@ const productos = [
    "1": 18.95,
   },
   imagen: "Img/Imagen710.jpeg",
-  stock: 9
+  stock: 8
 },
               {
   nombre: "5931MOUSE PAD XL CON ATAJOS",
