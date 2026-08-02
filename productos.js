@@ -3550,7 +3550,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen707.jpeg",
-  stock: 4
+  stock: 2
 },
               {
   nombre: "5926PROTECTOR TÉRMICO ANTIFRIZZ DE COCO",
@@ -3581,7 +3581,7 @@ const productos = [
    "1": 18.95,
   },
   imagen: "Img/Imagen710.jpeg",
-  stock: 10
+  stock: 9
 },
               {
   nombre: "5931MOUSE PAD XL CON ATAJOS",
