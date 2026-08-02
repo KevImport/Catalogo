@@ -899,7 +899,7 @@ const productos = [
     "3": 3.50,
  },
   imagen: "Img/Imagen218.jpeg",
-  stock: 24
+  stock: 21
 },
  {
   nombre: "5143LUZ DECORATIVA LOVE",
@@ -2100,18 +2100,6 @@ const productos = [
        },
   imagen: "Img/Imagen513.jpeg",
   stock: 3
-},
-         {
-  nombre: "5618BANDEJA DE HIELO CON TAPA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctica y resistente. Evita derrames y malos olores en el congelador. Ideal para hacer cubos de hielo de forma higiénica. COLOR AL AZAR",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
-       },
-  imagen: "Img/Imagen514.jpeg",
-  stock: 6
 },
          {
   nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
