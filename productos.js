@@ -2802,17 +2802,6 @@ const productos = [
   imagen: "Img/Imagen620.jpeg",
   stock: 5
 },
-                          {
-  nombre: "5791LLAVERO MINI ÁLBUM",
-  categoria: "Hogar / Cocina",
-  descripcion: "Lleva tus recuerdos favoritos @a todas partes con este práctico mini álbum llavero. Capacidad para 20 fotos (no incluidas), ideal para regalar o personalizar.",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-    },
-  imagen: "Img/Imagen619.png",
-  stock: 6
-},
      {
   nombre: "5794PIEDRAS REFLECTORAS LUMINOSAS",
   categoria: "Hogar / Cocina",
@@ -3192,14 +3181,14 @@ const productos = [
    "12": 5.95,
   },
   imagen: "Img/Imagen673.jpeg",
-  stock: 24
+  stock: 18
 },
                       {
   nombre: "5876MINI LAVADORA PLEGABLE",
   categoria: "Hogar / Cocina",
   descripcion: "Lavadora plegable portátil para ropa, calcetines, mini máquina de limpieza, ropa interior, lavadora centrífuga. Material: ABS ecológico, componentes electrónicos.",
   precios: {
-   "1": 7.95,
+   "1": 34.90,
   },
   imagen: "Img/Imagen674.jpeg",
   stock: 1
