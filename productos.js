@@ -2148,7 +2148,7 @@ const productos = [
    "12": 1.55,
        },
   imagen: "Img/Imagen520.jpeg",
-  stock: 27
+  stock: 21
 },
     {
   nombre: "5629GANCHO CLIP BANANA",
@@ -2984,7 +2984,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen650.jpeg",
-  stock: 5
+  stock: 4
 },
      {
   nombre: "5063TRUSA PARA NIÑAS",
@@ -3527,17 +3527,6 @@ const productos = [
   },
   imagen: "Img/Imagen708.jpeg",
   stock: 5
-},
-              {
-  nombre: "5928COLADOR DE MALLA DE ALTA DENSIDAD",
-  categoria: "Hogar / Cocina",
-  descripcion: "Perfecto para filtrar leche de soya, jugos, café, salsas y más con mayor precisión. Malla de alta densidad reutilizable, resistente y fácil de limpiar.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-  },
-  imagen: "Img/Imagen709.jpeg",
-  stock: 3
 },
               {
   nombre: "5930SET DE 60 PLUMONES ACRÍLICOS",
