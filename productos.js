@@ -3521,4 +3521,100 @@ const productos = [
   imagen: "Img/Imagen702.jpeg",
   stock: 3
 },
+                   {
+  nombre: "5916SET DE 2 GANCHOS + 4 PARES DE ARETES",
+  categoria: "Accesorios",
+  descripcion: "Complementa cualquier look con este hermoso set de accesorios. Incluye 2 ganchos para el cabello y 4 pares de aretes, ideales para el uso diario, regalar o lucir en ocasiones especiales.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen703.jpeg",
+  stock: 14
+},
+                   {
+  nombre: "5917SOPORTE DE BAMBÚ PARA PLATOS Y VASOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza tus platos, vasos, tapas o utensilios de forma práctica y elegante. Resistente, compacto y perfecto para mantener tu cocina ordenada y aprovechar mejor el espacio.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "Img/Imagen704.jpeg",
+  stock: 6
+},
+                     {
+  nombre: "5918SHAMPOO DE ROMERO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1100ML",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen705.jpeg",
+  stock: 5
+},
+                     {
+  nombre: "5919LLAVERO CEREZA",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque tierno y divertido a tus llaves, mochila o cartera con este hermoso llavero de cereza. Medida: 8.5 × 4 cm, ligero, resistente e ideal para uso diario o para regalar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,    
+  },
+  imagen: "Img/Imagen706.jpeg",
+  stock: 5
+},
+              {
+  nombre: "5920FRASCO POTE DE MIEL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Conserva tu miel fresca con un frasco elegante, resistente y perfecto para almacenar alimentos. Acabado moderno, ideal para darle un toque natural y decorativo a tu cocina.",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "Img/Imagen707.jpeg",
+  stock: 4
+},
+              {
+  nombre: "5926PROTECTOR TÉRMICO ANTIFRIZZ DE COCO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protege tu cabello del calor de la plancha y secadora mientras controla el frizz! Enriquecido con coco para dejar tu cabello más suave, brillante e hidratado. PROTEGE • HIDRATA • CONTROLA EL FRIZZ • BRILLO NATURAL",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen708.jpeg",
+  stock: 5
+},
+              {
+  nombre: "5928COLADOR DE MALLA DE ALTA DENSIDAD",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfecto para filtrar leche de soya, jugos, café, salsas y más con mayor precisión. Malla de alta densidad reutilizable, resistente y fácil de limpiar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "Img/Imagen709.jpeg",
+  stock: 3
+},
+              {
+  nombre: "5930SET DE 60 PLUMONES ACRÍLICOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Dale vida a tus ideas con 60 colores! Perfectos para madera, vidrio, piedra, cerámica, papel, tela y mucho más. Ideales para manualidades, lettering, proyectos escolares y regalos creativos. ¡Todo en un práctico estuche!",
+  precios: {
+   "1": 18.95,
+  },
+  imagen: "Img/Imagen710.jpeg",
+  stock: 10
+},
+              {
+  nombre: "5931MOUSE PAD XL CON ATAJOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Medida: 80 x 30 cm | Optimiza tu trabajo o estudio con este mouse pad XL que incluye atajos de teclado. Superficie amplia, antideslizante y perfecta para una mayor comodidad.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen711.jpeg",
+  stock: 16
+},
   ];
