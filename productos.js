@@ -2589,7 +2589,7 @@ const productos = [
    "6": 3.65,
        },
   imagen: "Img/Imagen593.jpg",
-  stock: 11
+  stock: 9
 },
         {
   nombre: "5738PAQUETE DE BOLSAS CUBRE PLATOS",
@@ -2598,10 +2598,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
        },
   imagen: "Img/Imagen594.jpeg",
-  stock: 6
+  stock: 3
 },
           {
   nombre: "5740CORREA PARA CABALLERO",
