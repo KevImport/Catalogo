@@ -3182,17 +3182,6 @@ const productos = [
   imagen: "Img/Imagen669.jpeg",
   stock: 3
 },
-                {
-  nombre: "5870PACK DE 100 PRECINTOS DE SEGURIDAD",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideales para organizar, sujetar y asegurar cables, bolsas, herramientas y mucho más. Prácticos, resistentes y de múltiples usos. Medida: 3.8 × 200 mm | Contenido: Pack de 100 unidades.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen670.jpeg",
-  stock: 3
-},
                     {
   nombre: "5874MANTA LUMINOSA",
   categoria: "Hogar / Cocina",
