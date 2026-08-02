@@ -968,17 +968,6 @@ const productos = [
   stock: 4
 },
 {
-  nombre: "5213PACK PARCHES PARA EL DOLOR",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "El pack contiene 10 parches. Parches para el dolor de cuello, columna y rodilla, hechos a base de hierbas. Este parche analgésico externo auto calentable puede aliviar rápidamente todo tipo de dolor, mantener el calor, mantener la sangre, reducir la inflamación y aliviar el dolor. Ya sea que desee aliviar sus hombros, pies, espalda, cuello o rodillas.",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-  },
-  imagen: "Img/Imagen246.jpg",
-  stock: 4
-},
-{
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
   categoria: "Hogar / Cocina",
   descripcion: "Orgánica y con exquisito aroma. Producto importado de la India. Presentación en caja individual de 10ml.",
