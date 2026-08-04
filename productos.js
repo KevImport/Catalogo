@@ -3384,7 +3384,7 @@ const productos = [
    "12": 3.55,
   },
   imagen: "Img/Imagen695.jpeg",
-  stock: 25
+  stock: 24
 },
                {
   nombre: "5905BOXER CALVIN KLEN XL",
