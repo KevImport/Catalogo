@@ -3003,11 +3003,9 @@ const productos = [
   descripcion: "Tamaño A4 ideal para imprimir fotos, trabajos y recuerdos especiales. Acabado de alta calidad para colores vivos y detalles nítidos. Pack de 20 hojas, perfecto para casa, estudio y oficina.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
-   "6": 4.65,
   },
   imagen: "Img/Imagen652.jpeg",
-  stock: 8
+  stock: 2
 },
      {
   nombre: "5840SET DE 12 PLUMONES ACRÍLICOS",
@@ -3471,7 +3469,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen703.jpeg",
-  stock: 14
+  stock: 8
 },
                    {
   nombre: "5917SOPORTE DE BAMBÚ PARA PLATOS Y VASOS",
@@ -3545,6 +3543,6 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen711.jpeg",
-  stock: 16
+  stock: 11
 },
   ];
