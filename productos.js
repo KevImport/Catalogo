@@ -2427,7 +2427,7 @@ const productos = [
   stock: 5
 },
        {
-  nombre: "5692SET DE 120 PLUMONES DUAL BRUSH + ESTUCHE",
+  nombre: "5632SET DE 120 PLUMONES DUAL BRUSH + ESTUCHE",
   categoria: "Escolar / Papelería",
   descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
   precios: {
@@ -3027,10 +3027,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.75,
-   "6": 2.45,
   },
   imagen: "Img/Imagen654.jpeg",
-  stock: 11
+  stock: 5
 },
      {
   nombre: "5844ESTUCHE DE EXHIBICIÓN 3D",
@@ -3535,7 +3534,7 @@ const productos = [
    "1": 18.95,
   },
   imagen: "Img/Imagen710.jpeg",
-  stock: 8
+  stock: 1
 },
               {
   nombre: "5931MOUSE PAD XL CON ATAJOS",
