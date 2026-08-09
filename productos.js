@@ -3593,4 +3593,37 @@ const productos = [
   imagen: "Img/Imagen715.jpeg",
   stock: 33
 },
+                      {
+  nombre: "5940ROLLÓN DE PAPEL TISSUE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Suaves, resistentes y absorbentes, ideales para el hogar, oficina o negocio. Perfectos para el uso diario, brindando higiene y comodidad en cada hoja. Medida de la hoja: 20 x 20 cm",
+  precios: {
+   "1": 5.95,
+   "3": 4.65,
+   "6": 4.35,
+   "12": 4.05,
+  },
+  imagen: "Img/Imagen716.jpeg",
+  stock: 11
+},
+                        {
+  nombre: "5941MORTERO DE COCINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tritura ajos, especias, hierbas y más de forma rápida y sencilla para darle un sabor auténtico a tus comidas. Práctico, duradero y fácil de limpiar, ideal para preparar salsas, aderezos y recetas caseras deliciosas.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "Img/Imagen717.jpeg",
+  stock: 6
+},
+                          {
+  nombre: "5942LÁMPARA LUNA LED 3 TONALIDADES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante y acogedor a cualquier espacio con sus 3 tonalidades de luz y su moderno diseño en acrílico + metal. Medida: 11 × 26 cm. Ideal para dormitorios, salas, oficinas o como un regalo especial.",
+  precios: {
+   "1": 11.95,
+  },
+  imagen: "Img/Imagen718.jpeg",
+  stock: 3
+},
   ];
