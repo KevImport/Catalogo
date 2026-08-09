@@ -3512,7 +3512,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen707.jpeg",
-  stock: 2
+  stock: 1
 },
               {
   nombre: "5926PROTECTOR TÉRMICO ANTIFRIZZ DE COCO",
