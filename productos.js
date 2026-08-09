@@ -1001,18 +1001,6 @@ const productos = [
   stock: 4
 },
   {
-  nombre: "5244INDIVIDUALES REDONDOS ROJOS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Hechos de polipropileno tejido, resistentes y duraderos. Color rojo elegante que protege y decora tu mesa con estilo. Ideales para uso diario o para lucir en ocasiones especiales.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "5": 2.65,
- },
-  imagen: "Img/Imagen261.jpeg",
-  stock: 5
-},
-  {
   nombre: "5246BOLSA DE REGALO NAVIDEÑA – 32 x 26 x 10 CM",
   categoria: "Navidad / Regalos",
   descripcion: "Diseño festivo, resistente y práctico para envolver tus obsequios. Ideal para ropa, juguetes, accesorios u otros presentes navideños. Tamaño perfecto y reutilizable para dar un toque especial a tus regalos.",
@@ -2070,16 +2058,6 @@ const productos = [
   imagen: "Img/Imagen508.jpeg",
   stock: 7
 },
-   {
-  nombre: "5608MONEDERO PARA DAMA",
-  categoria: "Accesorios",
-  descripcion: "Elegante y práctico. Medida: 14.5 x 8 x 5 cm, compacto y fácil de llevar. Ideal para monedas, llaves y pequeños accesorios. COLOR AL AZAR",
-  precios: {
-   "1": 5.95,
-       },
-  imagen: "Img/Imagen511.jpeg",
-  stock: 2
-},
        {
   nombre: "5616SET DE 5 TAPERS",
   categoria: "Hogar / Cocina",
@@ -2704,7 +2682,7 @@ const productos = [
    "12": 2.35,
        },
   imagen: "Img/Imagen609.jpeg",
-  stock: 15
+  stock: 12
 },
       {
   nombre: "5774BOLSA CON ASAS",
