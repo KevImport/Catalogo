@@ -3543,6 +3543,54 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen711.jpeg",
-  stock: 11
+  stock: 5
+},
+                {
+  nombre: "5936SQUISH DONA ANTIESTRÉS",
+  categoria: "Juguetes",
+  descripcion: "¡Apriétala, estrújala y disfruta de su textura suave y esponjosa! Perfecta para aliviar el estrés, decorar o regalar a grandes y pequeños.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Imagen712.jpeg",
+  stock: 32
+},
+                {
+  nombre: "5937PEINE ESPEJO SANRIO",
+  categoria: "Accesorios",
+  descripcion: "¡Llévalo a todas partes! Combina un práctico peine con espejo en un diseño adorable de Sanrio. Ideal para retoques rápidos en cualquier momento.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "Img/Imagen713.jpeg",
+  stock: 7
+},
+                  {
+  nombre: "5938PELOTA 9´ CON DISEÑOS SANRIO",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión garantizada con tus personajes favoritos! Ideal para jugar, regalar o coleccionar. Material resistente, liviana y perfecta para niños y niñas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+  },
+  imagen: "Img/Imagen714.jpeg",
+  stock: 33
+},
+                    {
+  nombre: "5939MINI BANDEJA DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfecta para servir café, postres, piqueos o decorar tus espacios. Medida: 22 × 11 cm | Modelo al azar: rectangular y/o ovalado.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+  },
+  imagen: "Img/Imagen715.jpeg",
+  stock: 33
 },
   ];
