@@ -622,7 +622,7 @@ const productos = [
     "3": 3.95,
   },
   imagen: "Img/Imagen144.jpg",
-  stock: 4
+  stock: 3
 },
 {
   nombre: "4670MÁSCARA DE PESTAÑAS",
@@ -3106,7 +3106,7 @@ const productos = [
    "1": 14.95,
   },
   imagen: "Img/Imagen665.jpeg",
-  stock: 3
+  stock: 2
 },
          {
   nombre: "5867SOPORTE PARA ESCOBAS CON GANCHO",
