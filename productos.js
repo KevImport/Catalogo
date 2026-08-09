@@ -732,7 +732,7 @@ const productos = [
     "3": 2.95
   },
   imagen: "Img/Imagen175.jpeg",
-  stock: 6
+  stock: 3
 },
 {
   nombre: "4660CALZONCILLO CLÁSICO",
@@ -2380,10 +2380,9 @@ const productos = [
    "1": 4.95,
    "3": 3.55,
    "6": 3.25,
-   "12": 2.95,
        },
   imagen: "Img/Imagen553.png",
-  stock: 12
+  stock: 9
 },
     {
   nombre: "5598OXÍMETRO DE PULSO",
@@ -2516,10 +2515,9 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.65,
-   "12": 2.35,
        },
   imagen: "Img/Imagen580.jpeg",
-  stock: 13
+  stock: 10
 },
     {
   nombre: "5716RODILLO QUITAPELUSA",
@@ -3414,10 +3412,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
   },
   imagen: "Img/Imagen698.jpeg",
-  stock: 13
+  stock: 10
 },
                  {
   nombre: "5909ALMOHADA CERVICAL ERGONÓMICA",
