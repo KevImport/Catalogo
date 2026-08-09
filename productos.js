@@ -3623,4 +3623,141 @@ const productos = [
   imagen: "Img/Imagen718.jpeg",
   stock: 3
 },
+                          {
+  nombre: "5943MINI CAJA CUADRADA DÍA DEL NIÑO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Ideal para llenar con dulces, chocolates, sorpresas y pequeños regalos. Fabricada en material Folcote de excelente calidad, con medida de 15 × 15 cm, perfecta para celebrar a los más pequeños. Diseño al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen719.jpeg",
+  stock: 4
+},
+                          {
+  nombre: "5944CAJA LAZO GRANDE DÍA DEL NIÑO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Sorprende con una presentación única! Diseño impreso por dentro y por fuera, ideal para llenar de dulces, regalos y detalles especiales. Diseño al azar.",
+  precios: {
+   "1": 4.95,
+  },
+  imagen: "Img/Imagen720.jpeg",
+  stock: 2
+},
+                            {
+  nombre: "5945BANDEJA ARMABLE DÍA DEL NIÑO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Arma una presentación divertida y llena de color para sorprender a los pequeños! Ideal para entregar dulces, regalos, recuerdos o detalles en su día especial. Diseño al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen721.jpeg",
+  stock: 4
+},
+                            {
+  nombre: "5946SET DE ARTE HEXAGONAL 46 PIEZAS",
+  categoria: "Juguetes",
+  descripcion: "¡Todo lo que los pequeños artistas necesitan para pintar, dibujar y crear! Incluye colores, crayones, plumones y más en un práctico estuche hexagonal. Diseño al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.25,
+   "6": 6.95,
+  },
+  imagen: "Img/Imagen722.jpeg",
+  stock: 9
+},
+                              {
+  nombre: "5947EXFOLIANTE CORPORAL 350ML",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Renueva tu piel con una exfoliación suave que ayuda a eliminar impurezas y deja la piel más lisa, fresca y con un delicioso aroma. Aroma al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.25,
+  },
+  imagen: "Img/Imagen723.jpeg",
+  stock: 4
+},
+                                {
+  nombre: "5948CINTURÓN PARA CÓLICOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alivia cólicos y la inflamación abdominal gracias a su calor terapéutico y masaje por vibración. Relaja los músculos, mejora la circulación y brinda alivio durante el periodo. Diseño cómodo y portátil, ideal para usar en casa, trabajo o donde lo necesites. Color al azar.",
+  precios: {
+   "1": 9.90,
+  },
+  imagen: "Img/Imagen724.jpeg",
+  stock: 5
+},
+                                {
+  nombre: "5949VENTILADOR ANTI INSECTOS PARA MESA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén moscas e insectos alejados de tus alimentos de forma segura y silenciosa. Ideal para casa, picnic, restaurantes y reuniones al aire libre.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+  },
+  imagen: "Img/Imagen725.jpeg",
+  stock: 3
+},
+                                {
+  nombre: "5950SET DE MAQUILLAJE + SORPRESA",
+  categoria: "Juguetes",
+  descripcion: "Transforma el juego en pura diversión con este set de belleza mágico y no tóxico! Sorprende a las más pequeñas con maquillaje infantil. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+  },
+  imagen: "Img/Imagen726.jpeg",
+  stock: 14
+},
+                     {
+  nombre: "5951PAQUETE DE 8 PACKS DE TOALLITAS HÚMEDAS TUINIES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "¡Lleva la diversión y la limpieza a todos lados con tus personajes favoritos! 🥰 Ideales para la mochila o la lonchera, protegen las manos y el rostro de tus pequeños en cualquier momento.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "Img/Imagen727.jpeg",
+  stock: 4
+},
+                       {
+  nombre: "5952JABONERA PORTÁTIL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ligera y fácil de transportar, ideal para llevar tu jabón a cualquier lugar. Su tapa unida la hace más resistente y evita derrames. Perfecta para casa, viajes, camping o actividades al aire libre.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+  },
+  imagen: "Img/Imagen728.png",
+  stock: 12
+},
+                       {
+  nombre: "5954CARRUSEL MUSICAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante y encantador a cualquier espacio. Ideal para bares, tiendas, librerías, salas de estar, bodas y habitaciones. Material: Plástico. Medida aprox.: 16.5 × 10 cm. Color al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.85,
+   "6": 7.55,
+  },
+  imagen: "Img/Imagen729.jpeg",
+  stock: 11
+},
+    {
+  nombre: "5955CONTENEDOR CON DOS COMPARTIMENTOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Optimiza tu nevera al máximo con este organizador con divisiones y válvula de ventilación! Perfectos para mantener tus embutidos, carnes y verduras frescos, ordenados y sin mezclar olores por mucho más tiempo.  Medida: 20.5 x 7 cm",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "Img/Imagen730.jpeg",
+  stock: 30
+},
   ];
