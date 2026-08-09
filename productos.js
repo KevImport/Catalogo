@@ -1926,16 +1926,6 @@ const productos = [
   imagen: "Img/Imagen472.jpeg",
   stock: 4
 },
-     {
-  nombre: "5552ROMPE CHORRO",
-  categoria: "Hogar / Cocina",
-  descripcion: "La piedra puede absorber impurezas y purificar la calidad del agua. El diseño telescópico y giratorio de 360 grados hace que el grifo sea más útil y flexible. Fácil instalación y se adapta cualquier caño.",
-  precios: {
-   "1": 3.95,
-     },
-  imagen: "Img/Imagen476.png",
-  stock: 2
-},
          {
   nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
   categoria: "Accesorios",
@@ -2900,16 +2890,6 @@ const productos = [
   imagen: "Img/Imagen641.jpeg",
   stock: 1
 },
-     {
-  nombre: "5829TOMATODO SPORT 1 LITRO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para hidratarte en cualquier momento. Diseño práctico, resistente y ligero. Perfecto para gimnasio, deporte y uso diario. Color al azar.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen642.jpeg",
-  stock: 4
-},
    {
   nombre: "5830PACK DE PAÑOS QUITAGRASA",
   categoria: "Hogar / Cocina",
@@ -3287,16 +3267,6 @@ const productos = [
   imagen: "Img/Imagen689.jpeg",
   stock: 1
 },
-          {
-  nombre: "5896SET DE 2 ALFOMBRAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Superficie antideslizante para mayor seguridad. Fácil de limpiar y mantener. Le da un toque moderno a tu espacio. Modelo al azar.",
-  precios: {
-   "1": 7.95,
-  },
-  imagen: "Img/Imagen690.jpeg",
-  stock: 1
-},
       {
   nombre: "5897SET DE 6 CUCHARITAS DE BAMBÚ",
   categoria: "Hogar / Cocina",
@@ -3601,18 +3571,7 @@ const productos = [
   imagen: "Img/Imagen718.jpeg",
   stock: 3
 },
-                          {
-  nombre: "5943MINI CAJA CUADRADA DÍA DEL NIÑO",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Ideal para llenar con dulces, chocolates, sorpresas y pequeños regalos. Fabricada en material Folcote de excelente calidad, con medida de 15 × 15 cm, perfecta para celebrar a los más pequeños. Diseño al azar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen719.jpeg",
-  stock: 4
-},
-                          {
+                   {
   nombre: "5944CAJA LAZO GRANDE DÍA DEL NIÑO",
   categoria: "Decoración / Fiesta",
   descripcion: "¡Sorprende con una presentación única! Diseño impreso por dentro y por fuera, ideal para llenar de dulces, regalos y detalles especiales. Diseño al azar.",
