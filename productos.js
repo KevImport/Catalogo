@@ -2056,7 +2056,7 @@ const productos = [
    "1": 10.90,
        },
   imagen: "Img/Imagen513.jpeg",
-  stock: 3
+  stock: 2
 },
          {
   nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
@@ -2318,26 +2318,6 @@ const productos = [
    "1": 7.95,
        },
   imagen: "Img/Imagen544.jpeg",
-  stock: 2
-},
-             {
-  nombre: "5672PERFUME INDIAN COLLECTION BB274",
-  categoria: "Perfumeria",
-  descripcion: "Fragancia masculina inspirada en Bad Boy de Carolina Herrera, con aroma intenso y seductor. Capacidad: 100ML",
-  precios: {
-   "1": 13.95,
-       },
-  imagen: "Img/Imagen546.jpeg",
-  stock: 2
-},
-             {
-  nombre: "5673PERFUME DE MUJER PRF186",
-  categoria: "Perfumeria",
-  descripcion: "Dupe Fame Blooming Pink Paco Rabanne. Ideal para uso diario o para destacar en ocasiones especiales. Capacidad: 100ML",
-  precios: {
-   "1": 13.95,
-       },
-  imagen: "Img/Imagen547.jpeg",
   stock: 2
 },
     {
@@ -2732,18 +2712,7 @@ const productos = [
   imagen: "Img/Imagen617.jpeg",
   stock: 15
 },
-                      {
-  nombre: "5789ESPUMA EXPANSIVA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Súper práctica y fácil de usar! Ideal para sellar grietas, rellenar huecos, aislar del frío, calor y ruido. Se expande al aplicar y endurece rápido. Perfecta para trabajos en casa, construcción o reparaciones de emergencia. ¡Un básico en tu caja de herramientas!",
-  precios: {
-   "1": 9.95,
-   "3": 8.85,
-   "6": 8.55,
-    },
-  imagen: "Img/Imagen618.png",
-  stock: 6
-},
+
                         {
   nombre: "5790PELUCHE PANDITA",
   categoria: "Hogar / Cocina",
@@ -2753,7 +2722,7 @@ const productos = [
    "3": 6.95,
     },
   imagen: "Img/Imagen620.jpeg",
-  stock: 5
+  stock: 4
 },
      {
   nombre: "5794PIEDRAS REFLECTORAS LUMINOSAS",
@@ -2857,7 +2826,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "Img/Imagen639.jpeg",
-  stock: 25
+  stock: 22
 },
    {
   nombre: "5827PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
@@ -3118,10 +3087,9 @@ const productos = [
    "1": 7.95,
    "3": 6.55,
    "6": 6.25,
-   "12": 5.95,
   },
   imagen: "Img/Imagen673.jpeg",
-  stock: 18
+  stock: 12
 },
                       {
   nombre: "5876MINI LAVADORA PLEGABLE",
@@ -3189,7 +3157,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen679.jpeg",
-  stock: 7
+  stock: 6
 },
     {
   nombre: "5884BOLSA PAVONADA",
@@ -3202,7 +3170,7 @@ const productos = [
    "12": 1.95,
   },
   imagen: "Img/Imagen680.jpeg",
-  stock: 29
+  stock: 17
 },
          {
   nombre: "5887ALICATE MULTIFUNCIONAL",
@@ -3364,16 +3332,6 @@ const productos = [
   imagen: "Img/Imagen698.jpeg",
   stock: 10
 },
-                 {
-  nombre: "5909ALMOHADA CERVICAL ERGONÓMICA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Brinda soporte ideal al cuello, ayudando a prevenir molestias y mejorar tu descanso. Suave, indeformable y anti-alérgica, elaborada con materiales de alta calidad para mayor confort y durabilidad.",
-  precios: {
-   "1": 11.95,
-  },
-  imagen: "Img/Imagen699.png",
-  stock: 1
-},
                    {
   nombre: "5910ESCURRIDOR COLADOR",
   categoria: "Hogar / Cocina",
@@ -3390,10 +3348,10 @@ const productos = [
   categoria: "Escolar / Papelería",
   descripcion: "Disfruta de 24 tonos diferentes gracias a su innovador efecto de doble color. Perfectos para dibujar, decorar, hacer lettering y dar un toque brillante a todas tus creaciones.",
   precios: {
-   "1": 8.95,
+   "1": 10.95,
   },
   imagen: "Img/Imagen701.jpeg",
-  stock: 10
+  stock: 9
 },
                    {
   nombre: "5915PISO PLEGABLE",
@@ -3477,7 +3435,7 @@ const productos = [
    "1": 18.95,
   },
   imagen: "Img/Imagen710.jpeg",
-  stock: 1
+  stock: 5
 },
               {
   nombre: "5931MOUSE PAD XL CON ATAJOS",
