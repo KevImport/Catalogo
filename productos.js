@@ -3519,16 +3519,6 @@ const productos = [
   imagen: "Img/Imagen717.jpeg",
   stock: 6
 },
-                          {
-  nombre: "5942LÁMPARA LUNA LED 3 TONALIDADES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Dale un toque elegante y acogedor a cualquier espacio con sus 3 tonalidades de luz y su moderno diseño en acrílico + metal. Medida: 11 × 26 cm. Ideal para dormitorios, salas, oficinas o como un regalo especial.",
-  precios: {
-   "1": 11.95,
-  },
-  imagen: "Img/Imagen718.jpeg",
-  stock: 3
-},
                    {
   nombre: "5944CAJA LAZO GRANDE DÍA DEL NIÑO",
   categoria: "Decoración / Fiesta",
