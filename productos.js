@@ -3633,9 +3633,9 @@ const productos = [
   stock: 11
 },
     {
-  nombre: "5955CONTENEDOR CON DOS COMPARTIMENTOS",
+  nombre: "5955CONTENEDOR CON TRES COMPARTIMENTOS",
   categoria: "Hogar / Cocina",
-  descripcion: "Optimiza tu nevera al máximo con este organizador con divisiones y válvula de ventilación! Perfectos para mantener tus embutidos, carnes y verduras frescos, ordenados y sin mezclar olores por mucho más tiempo.  Medida: 20.5 x 7 cm",
+  descripcion: "Optimiza el espacio de tu refrigerador y mantén tus vegetales frescos y listos para cocinar con estos contenedores apilables de 3 compartimentos. Evita la mezcla de olores y sabores entre diferentes alimentos. Medida: 20.5 x 7 cm",
   precios: {
    "1": 2.95,
    "3": 1.95,
