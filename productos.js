@@ -2222,16 +2222,6 @@ const productos = [
   imagen: "Img/Imagen530.jpeg",
   stock: 9
 },
-         {
-  nombre: "5650SET DE BROCHAS DE MAQUILLAJE",
-  categoria: "Belleza / Cosmética",
-  descripcion: "El juego incluye brocha de base, brocha de maquillaje, brocha de sombra, brocha de colorete, brocha de sombra de ojos, brocha de labios, etc. Las fibras artificiales suaves y finas reducen el daño a la piel. Color al azar.",
-  precios: {
-   "1": 5.95,
-       },
-  imagen: "Img/Imagen533.jpeg",
-  stock: 1
-},
            {
   nombre: "5651DISPENSADOR DE CINTA DE EMBALAJE",
   categoria: "Hogar / Cocina",
