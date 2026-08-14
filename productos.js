@@ -3004,18 +3004,7 @@ const productos = [
   imagen: "Img/Imagen662.jpeg",
   stock: 6
 },
-       {
-  nombre: "5863TRUSA CLÁSICA DAMA",
-  categoria: "Ropa interior",
-  descripcion: "Ideal para el uso diario, brindando comodidad, frescura y libertad de movimiento. Talla L: 6 unidades",
-  precios: {
-   "1": 2.95,
-   "3": 2.75,
-  },
-  imagen: "Img/Imagen664.jpeg",
-  stock: 6
-},
-       {
+        {
   nombre: "5864MESA AUXILIAR MARIPOSA",
   categoria: "Hogar / Cocina",
   descripcion: "Dale un toque elegante a cualquier ambiente con esta práctica mesa auxiliar, ideal para sala, dormitorio o recibidor. Diseño moderno, fácil de armar y perfecta para colocar plantas, bebidas, libros o elementos decorativos.",
@@ -3396,16 +3385,6 @@ const productos = [
   },
   imagen: "Img/Imagen706.jpeg",
   stock: 5
-},
-              {
-  nombre: "5920FRASCO POTE DE MIEL",
-  categoria: "Hogar / Cocina",
-  descripcion: "Conserva tu miel fresca con un frasco elegante, resistente y perfecto para almacenar alimentos. Acabado moderno, ideal para darle un toque natural y decorativo a tu cocina.",
-  precios: {
-   "1": 9.95,
-  },
-  imagen: "Img/Imagen707.jpeg",
-  stock: 1
 },
               {
   nombre: "5926PROTECTOR TÉRMICO ANTIFRIZZ DE COCO",
