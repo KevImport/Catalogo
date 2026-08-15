@@ -2043,10 +2043,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.25,
-   "6": 2.95,
        },
   imagen: "Img/Imagen508.jpeg",
-  stock: 7
+  stock: 3
 },
        {
   nombre: "5616SET DE 5 TAPERS",
@@ -3249,7 +3248,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 26
+  stock: 23
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -3275,7 +3274,7 @@ const productos = [
    "12": 3.55,
   },
   imagen: "Img/Imagen695.jpeg",
-  stock: 24
+  stock: 18
 },
                {
   nombre: "5905BOXER CALVIN KLEN XL",
@@ -3371,7 +3370,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen705.jpeg",
-  stock: 5
+  stock: 4
 },
                      {
   nombre: "5919LLAVERO CEREZA",
@@ -3426,7 +3425,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Imagen712.jpeg",
-  stock: 32
+  stock: 29
 },
                 {
   nombre: "5937PEINE ESPEJO SANRIO",
@@ -3565,17 +3564,6 @@ const productos = [
   },
   imagen: "Img/Imagen726.jpeg",
   stock: 14
-},
-                     {
-  nombre: "5951PAQUETE DE 8 PACKS DE TOALLITAS HÚMEDAS TUINIES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "¡Lleva la diversión y la limpieza a todos lados con tus personajes favoritos! 🥰 Ideales para la mochila o la lonchera, protegen las manos y el rostro de tus pequeños en cualquier momento.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-  },
-  imagen: "Img/Imagen727.jpeg",
-  stock: 4
 },
                        {
   nombre: "5952JABONERA PORTÁTIL",
