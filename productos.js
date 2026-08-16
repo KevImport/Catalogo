@@ -3782,5 +3782,16 @@ const productos = [
      },
   imagen: "Img/Imagen746.jpeg",
   stock: 30
+},  
+                 {
+  nombre: "5990LINTERNA DE EMERGENCIA / SOLAR Y RECARGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para emergencias, cortes de luz, camping y uso diario. Recargable y con carga solar para tener iluminación cuando más la necesites.",
+  precios: {
+   "1": 10.95,
+   "3": 9.95,
+     },
+  imagen: "Img/Imagen747.jpeg",
+  stock: 15   
 },
   ];
