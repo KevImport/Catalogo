@@ -3773,7 +3773,7 @@ const productos = [
                  {
   nombre: "5989SET DE 11 PIEZAS PARA FIESTAS",
   categoria: "Hogar / Cocina",
-  descripcion: "Incluye 5 platos, 5 tenedores y 1 cuchillo, ideal para cumpleaños, reuniones y celebraciones. Práctico, bonito y reutilizable para disfrutar tus momentos especiales con estilo. Color al azar.",
+  descripcion: "Incluye 5 platos, 5 tenedores y 1 cuchillo, ideal para cumpleaños, reuniones y celebraciones. Práctico, bonito y reutilizable para disfrutar tus momentos especiales con estilo. Material: Plástico alimentario. Color al azar.",
   precios: {
    "1": 3.95,
    "3": 2.55,
