@@ -2497,7 +2497,7 @@ const productos = [
   categoria: "Gomitas",
   descripcion: "Fortalece tu agilidad mental y apoya un desarrollo saludable con nuestras Gomitas de DHA, Ácido Fólico y Vitaminas: el impulso esencial para tu cerebro y sistema nervioso.",
   precios: {
-   "1": 24.90,
+   "1": 21.90,
        },
   imagen: "Img/Imagen589.jpeg",
   stock: 1
