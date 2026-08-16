@@ -2336,7 +2336,7 @@ const productos = [
   categoria: "Escolar / Papelería",
   descripcion: "¡Organiza tu creatividad con este increíble set de 168 plumones Dual Brush, presentados en un práctico y elegante estuche negro! Con su doble punta (pincel y fina), tendrás el control total para crear lettering perfecto y colorear con un degradado impecable.",
   precios: {
-   "1": 49.90,
+   "1": 44.90,
        },
   imagen: "Img/Imagen557.png",
   stock: 1
