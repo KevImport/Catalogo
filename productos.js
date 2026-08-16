@@ -3602,4 +3602,185 @@ const productos = [
   imagen: "Img/Imagen730.jpeg",
   stock: 30
 },
+  {
+  nombre: "5957PELUCHE HELLO KITTY TUTÚ AMARILLO 22cm",
+  categoria: "Juguetes",
+  descripcion: "Un tierno peluche con vestido de tutú amarillo, ideal para regalar, decorar o ampliar tu colección de Hello Kitty. Medida: 22 cm",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Img/Imagen731.jpeg",
+  stock: 1
+},
+    {
+  nombre: "5959ACEITE PARA BEBÉ 200ml",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Humecta y suaviza delicadamente la piel de tu bebé, dejándola protegida e hidratada. Hipoalergénico, con aroma suave y delicado, ideal para usar después del baño.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+   "12": 5.55,
+  },
+  imagen: "Img/Imagen732.jpeg",
+  stock: 9
+},
+    {
+  nombre: "5962SERUM FACIAL DE ARROZ",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Hidrata profundamente, ilumina y ayuda a mejorar la apariencia de la piel. Su fórmula ligera deja el rostro suave, radiante y con un aspecto saludable.",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+  },
+  imagen: "Img/Imagen733.jpeg",
+  stock: 14
+},
+      {
+  nombre: "5965SET DE 12 BOLSAS DE REGALO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Presenta tus obsequios con estilo! Ideales para regalos, dulces, souvenirs, emprendimientos y toda ocasión especial. Medida: 21 x 11 x 27 cm. Color al azar.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "Imagen734.jpeg",
+  stock: 8
+},
+        {
+  nombre: "5966SET DE 10 BOLSITAS CON LAZO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Sorprende a tus invitados con estas hermosas bolsas tipo cartera con cierre hermético y ventana transparente. Color al azar.",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "Img/Imagen735.jpeg",
+  stock: 5
+},
+          {
+  nombre: "5968QUESERA / PORTA EMBUTIDOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Conserva tus fiambres súper frescos, cuida el planeta con bambú y dale un toque de lujo a tus desayunos. Medida: 24 x 18 x 7.5 cm",
+  precios: {
+   "1": 9.95,
+   "3": 8.95,
+  },
+  imagen: "Img/Imagen736.jpeg",
+  stock: 5
+},
+     {
+  nombre: "5973CREMA TRATAMIENTO CAPILAR CON COLÁGENO 500ML",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Nutre, fortalece y restaura el cabello dañado. Deja tu cabello suave, brillante y sedoso.",
+  precios: {
+   "1": 9.55,
+   "3": 8.55,
+   "6": 8.25,
+  },
+  imagen: "Img/Imagen737.jpeg",
+  stock: 6
+},
+   {
+  nombre: "5979SET DE 5 PINZAS PARA EL CABELLO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Sujeción firme y práctica para mantener tu cabello en su lugar sin complicaciones. Ideales para peinados, maquillaje y uso diario. Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "Img/Imagen738.jpeg",
+  stock: 3
+},
+     {
+  nombre: "5980BOLSA DE REGALO CON DISEÑO FLORAL",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Diseños hermosos y coloridos para darle un toque especial a cada regalo. Ideales para cumpleaños, celebraciones y cualquier ocasión especial. Medida: 15.5 x 14.5 x 7 cm",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "Img/Imagen739.jpeg",
+  stock: 27
+},
+       {
+  nombre: "5982TABLA DE PICAR CON UTENSILIOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctica y resistente, ideal para cortar, picar y servir tus alimentos. Tamaño perfecto: 30×18×1 cm — ¡un básico indispensable para tu cocina!",
+  precios: {
+   "1": 10.95,
+   "3": 9.95,
+     },
+  imagen: "Img/Imagen740.jpeg",
+  stock: 6
+},
+       {
+  nombre: "5983JABÓN ESPUMA FLOR 300ml",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpieza suave para cuerpo y manos, con práctica espuma y dispensador en forma de flor. Ideal para el cuidado diario del bebé, dejando una sensación fresca y delicada.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen741.jpeg",
+  stock: 4
+},
+         {
+  nombre: "5985ESPUMA DE LECHE PARA LIMPIEZA FACIAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpia profundamente tu rostro mientras ayuda a mantener la piel suave, fresca e hidratada. Con proteína de leche, ideal para una rutina de limpieza facial diaria.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen742.jpeg",
+  stock: 8
+},
+           {
+  nombre: "5986PUZZLE DESLIZANTE DISNEY LICENCIA",
+  categoria: "Juguetes",
+  descripcion: "Divertido juego de ingenio que ayuda a desarrollar la concentración y coordinación. ¡Ideal para entretener a los peques mientras se divierten con sus personajes favoritos de Disney! Personaje al azar",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "Img/Imagen743.jpeg",
+  stock: 5
+},
+             {
+  nombre: "5987SADOER BODY LOTION – HIDRATACIÓN TOTAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Piel suave, nutrida y radiante durante todo el día. Textura ligera y de rápida absorción para una sensación deliciosa.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen744.jpeg",
+  stock: 12
+},
+               {
+  nombre: "5988ESTANTE ESCALONADO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Este elegante estante de 3 niveles optimiza tu espacio con un diseño nórdico ideal para tazas, perfumes o especias. Medida: 29.5 x 20 x 15 cm",
+  precios: {
+   "1": 10.95,
+   "3": 9.95,
+     },
+  imagen: "Img/Imagen745.jpeg",
+  stock: 14
+},
+                 {
+  nombre: "5989SET DE 11 PIEZAS PARA FIESTAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 5 platos, 5 tenedores y 1 cuchillo, ideal para cumpleaños, reuniones y celebraciones. Práctico, bonito y reutilizable para disfrutar tus momentos especiales con estilo. Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen746.jpeg",
+  stock: 30
+},
   ];
