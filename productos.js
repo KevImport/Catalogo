@@ -1875,10 +1875,9 @@ const productos = [
   descripcion: "Organiza tus llaves con estilo y mantén todo en orden. Ideal para entrada, sala u oficina, fácil de colgar. Medida: 30 x 11 cm",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen466.jpeg",
-  stock: 5
+  stock: 2
 },
        {
   nombre: "5538LAPICERO MULTITINTAS GUERRERAS KPOP",
@@ -1979,7 +1978,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen492.jpeg",
-  stock: 13
+  stock: 7
 },
           {
   nombre: "5577CINTA DOBLE FAZ PARA ROPA",
