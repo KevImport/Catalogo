@@ -17,10 +17,9 @@ const productos = [
     "1": 4.95,
     "3": 3.55,
     "6": 3.25,
-    "12": 2.95,
  },
   imagen: "Img/Imagen235.jpeg",
-  stock: 12
+  stock: 6
 },
 {
   nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
@@ -77,16 +76,6 @@ const productos = [
   stock: 8
 },
 {
-  nombre: "4861PACK DE 12 VINCHAS",
-  categoria: "Accesorios",
-  descripcion: "Colores para cada día. Set de 12 vinchas elásticas, cómodas y perfectas para peinados o uso diario.",
-  precios: {
-    "1": 8.90,
-  },
-  imagen: "Img/Imagen42.jpg",
-  stock: 1
-},
-{
   nombre: "4855CHAL",
   categoria: "Accesorios",
   descripcion: "Elegancia ligera. Chal suave y versátil ideal para climas frescos o complementar cualquier look.",
@@ -118,16 +107,6 @@ const productos = [
   },
   imagen: "Img/Imagen50.jpg",
   stock: 2
-},
-{
-  nombre: "4775BOLSO CORAZÓN",
-  categoria: "Accesorios",
-  descripcion: "Tierno y a la moda. Bolso en forma de corazón con correa ajustable, ideal para salidas casuales o regalar.",
-  precios: {
-    "1": 8.90,
-  },
-  imagen: "Img/Imagen53.jpg",
-  stock: 1
 },
 {
   nombre: "4704MINI TELESCOPIO",
@@ -423,16 +402,6 @@ const productos = [
   },
   imagen: "Img/Imagen106.jpg",
   stock: 6
-},
-{
-  nombre: "2790SET DE 12 GANCHITOS",
-  categoria: "Accesorios",
-  descripcion: "Ganchitos coloridos y prácticos para sujetar el cabello o decorar peinados. Útiles y decorativos.",
-  precios: {
-    "2": 3.90,
-  },
-  imagen: "Img/Imagen107.jpg",
-  stock: 2
 },
 {
   nombre: "2717LIGA DE CIERRE",
@@ -756,16 +725,6 @@ const productos = [
   },
   imagen: "Img/Imagen178.jpeg",
   stock: 3
-},
- {
-  nombre: "5069ESTUCHE DE SOMBRAS PARA OJOS",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Tamaño compacto, ideal para llevar en la cartera. Tonos variados para cada ocasión. ¡Maquíllate donde quieras con estilo!",
-  precios: {
-    "1": 5.95
- },
-  imagen: "Img/Imagen180.jpeg",
-  stock: 1
 },
 {
   nombre: "5077LUZ PARA ESCALERA",
@@ -1126,16 +1085,6 @@ const productos = [
   imagen: "Img/Imagen284.png",
   stock: 14
 },
-  {
-  nombre: "5278PIJAMA DE DOS PIEZAS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Conjunto: camiseta manga corta + short. Cómodo, ligero y perfecto para descansar con estilo.",
-  precios: {
-   "1": 9.90,
-  },
-  imagen: "Img/Imagen286.jpeg",
-  stock: 1
-},
    {
   nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
   categoria: "Navidad / Regalos",
@@ -1213,7 +1162,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen310.jpeg",
-  stock: 3
+  stock: 1
 },
        {
   nombre: "5312MANGO UNIVERSAL PARA TAPAS",
@@ -1292,16 +1241,6 @@ const productos = [
   },
   imagen: "Img/Imagen322.jpeg",
   stock: 11
-},
-    {
-  nombre: "5328DUPES DE PERFUMES ARABES",
-  categoria: "Perfumeria",
-  descripcion: "Fragancias intensas, elegantes y duraderas — inspiran lujo y sofisticación. Aromas que conquistan con su estilo exótico y sensual. Capacidad: 250ml",
-  precios: {
-   "1": 9.95,
-  },
-  imagen: "Img/Imagen323.jpeg",
-  stock: 2
 },
       {
   nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
@@ -1395,18 +1334,6 @@ const productos = [
   },
   imagen: "Img/Imagen338.jpeg",
   stock: 4
-},
-    {
-  nombre: "5356BLOQUES ARMABLES 3D - TRALALERO",
-  categoria: "Juguetes",
-  descripcion: "Set de bloques 3D para armar divertidas figuras de animales y personajes. Piezas multicolores que estimulan la creatividad y la concentración. Son 12 modelos coleccionables, incluye instrucciones para el armado.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "5": 2.65,
-  },
-  imagen: "Img/Imagen343.jpg",
-  stock: 5
 },
         {
   nombre: "5363CINTA LED DE 3 METROS",
@@ -1506,7 +1433,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen369.jpeg",
-  stock: 12
+  stock: 11
 },
    {
   nombre: "5390SMARTWATCH D20 MACARON",
@@ -1578,7 +1505,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen389.jpeg",
-  stock: 3
+  stock: 2
 },
   {
   nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
@@ -1647,7 +1574,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen403.jpg",
-  stock: 16
+  stock: 13
 },
           {
   nombre: "5446SET SORBETES REUTILIZABLES + CEPILLO DE LIMPIEZA",
@@ -1934,7 +1861,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen479.jpeg",
-  stock: 4
+  stock: 3
 },
                  {
   nombre: "5560JABONERA ZAPATO ELEGANTE",
@@ -2000,19 +1927,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 16
-},
-                  {
-  nombre: "5582PAÑITOS CON LICENCIA – 25 UNIDADES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Suaves y delicados para la piel. Ideales para uso diario en casa o salidas. Diseños con personajes licenciados.",
-  precios: {
-   "1": 2.55,
-   "6": 1.55,
-   "12": 1.25,
-     },
-  imagen: "Img/Imagen497.jpeg",
-  stock: 22
+  stock: 15
 },
    {
   nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
@@ -2278,16 +2193,6 @@ const productos = [
   stock: 1
 },
        {
-  nombre: "5665PACK DE 3 GORRAS PARA DUCHA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Protegen tu cabello del agua y la humedad. Material impermeable, cómodo y reutilizable. Incluye 3 unidades, ideal para uso diario o familiar.",
-  precios: {
-   "1": 3.95,
-       },
-  imagen: "Img/Imagen540.jpeg",
-  stock: 2
-},
-       {
   nombre: "5666PINZA TRENZADA PARA CABELLO",
   categoria: "Accesorios",
   descripcion: "Diseño tipo trenza que brinda un look elegante al instante. Tamaño aproximado: 12.5 cm. Color al azar.",
@@ -2298,17 +2203,7 @@ const productos = [
   imagen: "Img/Imagen541.jpeg",
   stock: 3
 },
-           {
-  nombre: "5670SET DE 12 BOLSAS DISEÑO FÚTBOL",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Diseños deportivos ideales para fanáticos del fútbol. Material resistente con asas cómodas para transportar, medida: 22 x 23 x 11 cm. Perfecta para cumpleaños, sorpresas y ocasiones especiales.",
-  precios: {
-   "1": 7.95,
-       },
-  imagen: "Img/Imagen544.jpeg",
-  stock: 2
-},
-    {
+              {
   nombre: "5685SET DE 3 CORRECTORES DE ESCRITURA",
   categoria: "Escolar / Papelería",
   descripcion: "¡Perfecciona tu caligrafía con estos correctores ergonómicos! Su diseño de silicona ultra suave corrige la postura al escribir, reduciendo el cansancio y brindando máximo confort.",
@@ -2525,17 +2420,6 @@ const productos = [
   imagen: "Img/Imagen593.jpg",
   stock: 9
 },
-        {
-  nombre: "5738PAQUETE DE BOLSAS CUBRE PLATOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "El paquete contiene aprox. 100 bolsas. No tóxico, insípido, ecológico y seguro, por lo que se puede utilizar con seguridad para cubrir alimentos.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-       },
-  imagen: "Img/Imagen594.jpeg",
-  stock: 3
-},
           {
   nombre: "5740CORREA PARA CABALLERO",
   categoria: "Accesorios",
@@ -2731,7 +2615,7 @@ const productos = [
    "1": 10.95,
   },
   imagen: "Img/Imagen623.jpeg",
-  stock: 2
+  stock: 1
 },
          {
   nombre: "5798JABON CURCUMA",
@@ -3097,22 +2981,9 @@ const productos = [
   descripcion: "Ideal para cortar frutas, verduras, carnes y mucho más de forma práctica y cómoda. Fácil de limpiar, resistente y perfecta para el uso diario en cualquier cocina.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
   },
   imagen: "Img/Imagen676.jpeg",
-  stock: 3
-},
-      {
-  nombre: "5879INDIVIDUAL DE BAMBÚ",
-  categoria: "Hogar / Cocina",
-  descripcion: "Dale un toque elegante y ordenado a tu mesa mientras proteges la superficie de manchas y calor. Perfecto para comidas diarias, reuniones y celebraciones, combinando estilo y funcionalidad.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-   "6": 1.75,
-  },
-  imagen: "Img/Imagen677.jpeg",
-  stock: 12
+  stock: 1
 },
       {
   nombre: "5881ARETES FLOR PELA",
@@ -3359,7 +3230,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen704.jpeg",
-  stock: 6
+  stock: 5
 },
                      {
   nombre: "5918SHAMPOO DE ROMERO",
@@ -3601,16 +3472,6 @@ const productos = [
   imagen: "Img/Imagen730.jpeg",
   stock: 30
 },
-  {
-  nombre: "5957PELUCHE HELLO KITTY TUTÚ AMARILLO 22cm",
-  categoria: "Juguetes",
-  descripcion: "Un tierno peluche con vestido de tutú amarillo, ideal para regalar, decorar o ampliar tu colección de Hello Kitty. Medida: 22 cm",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen731.jpeg",
-  stock: 1
-},
     {
   nombre: "5959ACEITE PARA BEBÉ 200ml",
   categoria: "Higiene / Cuidado Personal",
@@ -3644,7 +3505,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Imagen734.jpeg",
-  stock: 8
+  stock: 7
 },
         {
   nombre: "5966SET DE 10 BOLSITAS CON LAZO",
