@@ -3369,7 +3369,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Img/Imagen705.jpeg",
-  stock: 3
+  stock: 1
 },
                      {
   nombre: "5919LLAVERO CEREZA",
