@@ -319,7 +319,7 @@ const productos = [
     "1": 10.90,
   },
   imagen: "Img/Imagen96.jpg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "3038SHORT LEVANTA POMPIS",
@@ -690,7 +690,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -913,7 +913,7 @@ const productos = [
     "1": 5.40,
  },
   imagen: "Img/Imagen232.jpeg",
-  stock: 7
+  stock: 4
 },
  {
   nombre: "5182BRAZALETE SERPENTEADO",
@@ -1495,7 +1495,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 17
+  stock: 10
 },
     {
   nombre: "5420ORUGUITA DE PELUCHE",
@@ -1620,7 +1620,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen418.png",
-  stock: 38
+  stock: 12
 },
      {
   nombre: "5469SET DE 12 COLORES DUAL JUMBO",
@@ -1709,17 +1709,6 @@ const productos = [
      },
   imagen: "Img/Imagen439.jpeg",
   stock: 8
-},
-  {
-  nombre: "5495SET DE 10 PLUMONES INDELEBLES DELGADO - DOBLE PUNTA",
-  categoria: "Escolar / Papelería",
-  descripcion: "Plumones de doble punta fina, ideales para escribir, marcar y detallar con precisión. Perfectos para el colegio, oficina o manualidades creativas.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-     },
-  imagen: "Img/Imagen442.jpeg",
-  stock: 4
 },
       {
   nombre: "5497CINTA MASKING TAPE DE 1\"",
@@ -2453,7 +2442,7 @@ const productos = [
    "3": 1.95,
        },
   imagen: "Img/Imagen602.png",
-  stock: 23
+  stock: 17
 },
             {
   nombre: "5760BOLSO MORRAL",
@@ -2770,7 +2759,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen648.jpeg",
-  stock: 4
+  stock: 3
 },
    {
   nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
@@ -3144,7 +3133,7 @@ const productos = [
    "12": 3.55,
   },
   imagen: "Img/Imagen695.jpeg",
-  stock: 18
+  stock: 16
 },
                {
   nombre: "5905BOXER CALVIN KLEN XL",
@@ -3199,7 +3188,7 @@ const productos = [
    "1": 10.95,
   },
   imagen: "Img/Imagen701.jpeg",
-  stock: 9
+  stock: 6
 },
                    {
   nombre: "5915PISO PLEGABLE",
@@ -3515,7 +3504,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen735.jpeg",
-  stock: 5
+  stock: 4
 },
           {
   nombre: "5968QUESERA / PORTA EMBUTIDOS",
@@ -3628,7 +3617,7 @@ const productos = [
    "3": 9.95,
      },
   imagen: "Img/Imagen745.jpeg",
-  stock: 14
+  stock: 9
 },
                  {
   nombre: "5989SET DE 11 PIEZAS PARA FIESTAS",
