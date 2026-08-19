@@ -2215,16 +2215,6 @@ const productos = [
   stock: 3
 },
      {
-  nombre: "5687SET DE 168 PLUMONES DUAL BRUSH",
-  categoria: "Escolar / Papelería",
-  descripcion: "¡Organiza tu creatividad con este increíble set de 168 plumones Dual Brush, presentados en un práctico y elegante estuche negro! Con su doble punta (pincel y fina), tendrás el control total para crear lettering perfecto y colorear con un degradado impecable.",
-  precios: {
-   "1": 44.90,
-       },
-  imagen: "Img/Imagen557.png",
-  stock: 1
-},
-     {
   nombre: "5688RECIPIENTE PARA SNACKS DISEÑO CALABAZA",
   categoria: "Hogar / Cocina",
   descripcion: "Práctico recipiente ideal para frutas, dulces o frutos secos. Diseño con tapa que mantiene los snacks protegidos y organizados. COLOR AL AZAR",
@@ -2244,16 +2234,6 @@ const productos = [
        },
   imagen: "Img/Imagen560.jpeg",
   stock: 5
-},
-       {
-  nombre: "5632SET DE 120 PLUMONES DUAL BRUSH + ESTUCHE",
-  categoria: "Escolar / Papelería",
-  descripcion: "Ideal para dibujar, colorear, hacer lettering y todo tipo de proyectos creativos. Incluye 120 colores vibrantes, punta doble (fina + pincel) y estuche organizador para llevarlos a todas partes.",
-  precios: {
-   "1": 29.90,
-       },
-  imagen: "Img/Imagen563.jpeg",
-  stock: 3
 },
            {
   nombre: "5694BOLSA DE 50 GLOBOS N°9",
