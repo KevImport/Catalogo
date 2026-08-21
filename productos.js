@@ -2086,10 +2086,9 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.75,
-   "12": 2.45,
        },
   imagen: "Img/Imagen526.jpeg",
-  stock: 19
+  stock: 10
 },
          {
   nombre: "5640SET DE 3 SECADORES SANRIO",
@@ -3087,7 +3086,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 23
+  stock: 17
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
