@@ -3274,7 +3274,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen713.jpeg",
-  stock: 7
+  stock: 4
 },
                   {
   nombre: "5938PELOTA 9´ CON DISEÑOS SANRIO",
@@ -3323,7 +3323,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen717.jpeg",
-  stock: 6
+  stock: 5
 },
                    {
   nombre: "5944CAJA LAZO GRANDE DÍA DEL NIÑO",
@@ -3367,7 +3367,7 @@ const productos = [
    "3": 5.25,
   },
   imagen: "Img/Imagen723.jpeg",
-  stock: 4
+  stock: 3
 },
                                 {
   nombre: "5948CINTURÓN PARA CÓLICOS",
