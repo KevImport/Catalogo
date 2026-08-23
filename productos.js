@@ -2943,17 +2943,7 @@ const productos = [
   imagen: "Img/Imagen675.jpeg",
   stock: 24
 },
-    {
-  nombre: "5880TABLA DE PICAR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para cortar frutas, verduras, carnes y mucho más de forma práctica y cómoda. Fácil de limpiar, resistente y perfecta para el uso diario en cualquier cocina.",
-  precios: {
-   "1": 4.95,
-  },
-  imagen: "Img/Imagen676.jpeg",
-  stock: 1
-},
-      {
+        {
   nombre: "5881ARETES FLOR PELA",
   categoria: "Accesorios",
   descripcion: "Dale un toque delicado y sofisticado a tu look con estos hermosos aretes flor perla, ideales para cualquier ocasión. Ligeros, cómodos y perfectos para regalar o complementar tus outfits con un estilo único.",
@@ -3541,7 +3531,7 @@ const productos = [
    "3": 9.95,
      },
   imagen: "Img/Imagen740.jpeg",
-  stock: 6
+  stock: 5
 },
        {
   nombre: "5983JABÓN ESPUMA FLOR 300ml",
@@ -3560,10 +3550,9 @@ const productos = [
   descripcion: "Limpia profundamente tu rostro mientras ayuda a mantener la piel suave, fresca e hidratada. Con proteína de leche, ideal para una rutina de limpieza facial diaria.",
   precios: {
    "1": 8.95,
-   "3": 7.95,
      },
   imagen: "Img/Imagen742.jpeg",
-  stock: 8
+  stock: 1
 },
            {
   nombre: "5986PUZZLE DESLIZANTE DISNEY LICENCIA",
@@ -3609,7 +3598,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen746.jpeg",
-  stock: 30
+  stock: 38
 },  
                  {
   nombre: "5990LINTERNA DE EMERGENCIA / SOLAR Y RECARGABLE",
@@ -3620,6 +3609,6 @@ const productos = [
    "3": 9.95,
      },
   imagen: "Img/Imagen747.jpeg",
-  stock: 15   
+  stock: 4   
 },
   ];
