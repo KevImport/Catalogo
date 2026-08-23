@@ -3270,7 +3270,7 @@ const productos = [
    "12": 2.95,
   },
   imagen: "Img/Imagen715.jpeg",
-  stock: 33
+  stock: 21
 },
                       {
   nombre: "5940ROLLÓN DE PAPEL TISSUE",
