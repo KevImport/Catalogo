@@ -3702,4 +3702,73 @@ const productos = [
   imagen: "Img/Imagen756.jpeg",
   stock: 7
 },
+  {
+  nombre: "6000ORGANIZADOR DE REFRIGERADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Maximiza el espacio de tu refri con este organizador retráctil! Engánchalo fácil, estíralo a tu gusto y mantén tus frutas bien frescas y súper ordenadas. Estás a un paso de tener la cocina de tus sueños.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen757.jpeg",
+  stock: 25
+},
+  {
+  nombre: "6001BOTA PROTECTORA IMPERMEABLE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protege tus zapatos de la lluvia y la humedad. ¡Práctica y fácil de usar! Material plástico | Talla y color al azar | Reutilizable",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+   "12": 4.95,
+     },
+  imagen: "Img/Imagen758.jpeg",
+  stock: 19
+},
+  {
+  nombre: "6002SOCKET PARA FOCO CON CABLE DE EXTENSIÓN",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lleva la iluminación donde la necesites con su cable de 5 metros. Ideal para el hogar, tiendas y espacios donde necesites mayor alcance.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen759.jpeg",
+  stock: 9
+},
+  {
+  nombre: "6003SCAJITA ORGANIZADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus accesorios, manualidades y pequeños objetos siempre ordenados y a la vista. Práctica, versátil y con divisores ajustables para organizar como quieras.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "Img/Imagen760.jpeg",
+  stock: 13
+},
+    {
+  nombre: "6004CINTA IMPERMEABLE DE BUTILO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sella, repara y protege contra filtraciones de forma rápida y efectiva. Ideal para techos, tuberías, ventanas, grietas y múltiples superficies.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen761.jpeg",
+  stock: 26
+},
+   {
+  nombre: "6005RADIO PARLANTE CON LINTERNA / RECARGABLE SOLAR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Disfruta de música, radio FM y luz LED donde quieras. Recargable con energía solar, ideal para hogar, camping y emergencias.",
+  precios: {
+   "1": 19.90,
+     },
+  imagen: "Img/Imagen762.jpeg",
+  stock: 13
+},
   ];
