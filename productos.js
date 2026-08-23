@@ -1982,7 +1982,7 @@ const productos = [
    "12": 2.95,
        },
   imagen: "Img/Imagen516.jpeg",
-  stock: 15
+  stock: 12
 },
      {
   nombre: "5622SET DE 12 COLORES LICENCIA DISNEY",
@@ -3169,17 +3169,7 @@ const productos = [
   imagen: "Img/Imagen704.jpeg",
   stock: 5
 },
-                     {
-  nombre: "5918SHAMPOO DE ROMERO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1100ML",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen705.jpeg",
-  stock: 1
-},
-                     {
+              {
   nombre: "5919LLAVERO CEREZA",
   categoria: "Accesorios",
   descripcion: "Dale un toque tierno y divertido a tus llaves, mochila o cartera con este hermoso llavero de cereza. Medida: 8.5 × 4 cm, ligero, resistente e ideal para uso diario o para regalar.",
