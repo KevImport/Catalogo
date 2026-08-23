@@ -1051,18 +1051,6 @@ const productos = [
   stock: 4
 },
  {
-  nombre: "5273VELA FLOR MUSICAL DE CUMPLEAÑOS",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Al encenderla se abre en forma de flor y gira con música. Cada pétalo incluye pequeñas velitas encendidas. Ideal para dar un toque mágico y especial a la celebración.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "5": 2.95,
-  },
-  imagen: "Img/Imagen281.png",
-  stock: 5
-},
- {
   nombre: "5275ORGANIZADOR COLGANTE",
   categoria: "Hogar / Cocina",
   descripcion: "Optimiza tu espacio y mantiene todo ordenado. Perfecto para ropa, toallas o pañales. Diseño colgante para encontrar todo rápido.",
@@ -1083,7 +1071,7 @@ const productos = [
    "6": 2.55,
   },
   imagen: "Img/Imagen284.png",
-  stock: 14
+  stock: 11
 },
    {
   nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
@@ -1505,7 +1493,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen389.jpeg",
-  stock: 2
+  stock: 1
 },
   {
   nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
@@ -1650,11 +1638,9 @@ const productos = [
   descripcion: "Trazo suave y uniforme. Ideales para dibujo y escritura. Perfectos para colegio u oficina.",
   precios: {
    "1": 5.95,
-   "3": 4.85,
-   "6": 4.55,
      },
   imagen: "Img/Imagen424.jpeg",
-  stock: 7
+  stock: 2
 },
    {
   nombre: "5475GOMA EN BARRA - 40 GRAMOS",
@@ -1847,10 +1833,9 @@ const productos = [
   descripcion: "Diseño delicado y femenino, ideales para cualquier ocasión. Livianos, cómodos y con acabado elegante. Colores vibrantes que realzan tu look al instante.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen479.jpeg",
-  stock: 3
+  stock: 2
 },
                  {
   nombre: "5560JABONERA ZAPATO ELEGANTE",
@@ -1916,7 +1901,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 15
+  stock: 13
 },
    {
   nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
@@ -1958,7 +1943,7 @@ const productos = [
    "1": 10.90,
        },
   imagen: "Img/Imagen513.jpeg",
-  stock: 2
+  stock: 1
 },
          {
   nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
@@ -2523,7 +2508,7 @@ const productos = [
    "3": 1.95,
     },
   imagen: "Img/Imagen613.jpeg",
-  stock: 14
+  stock: 13
 },
                   {
   nombre: "5787DESTAPADOR BOTELLA",
@@ -2642,7 +2627,7 @@ const productos = [
    "1": 13.90,
   },
   imagen: "Img/Imagen630.jpeg",
-  stock: 5
+  stock: 3
 },
           {
   nombre: "5823TABLERO LED PARA MENSAJES",
@@ -2875,17 +2860,6 @@ const productos = [
   },
   imagen: "Img/Imagen668.jpeg",
   stock: 11
-},
-              {
-  nombre: "5869SET DE 12 PAÑOS DE LIMPIEZA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡El kit infaltable para tu día a día! Set de 12 paños premium: máxima absorción, lavables y ultra resistentes. Dile adiós a los rayones en vidrios, pantallas, cocina o vehículo.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-  },
-  imagen: "Img/Imagen669.jpeg",
-  stock: 3
 },
                     {
   nombre: "5874MANTA LUMINOSA",
@@ -3154,10 +3128,9 @@ const productos = [
   descripcion: "Complementa cualquier look con este hermoso set de accesorios. Incluye 2 ganchos para el cabello y 4 pares de aretes, ideales para el uso diario, regalar o lucir en ocasiones especiales.",
   precios: {
    "1": 3.95,
-   "3": 2.95,
   },
   imagen: "Img/Imagen703.jpeg",
-  stock: 8
+  stock: 1
 },
                    {
   nombre: "5917SOPORTE DE BAMBÚ PARA PLATOS Y VASOS",
