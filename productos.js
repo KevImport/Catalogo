@@ -3463,7 +3463,7 @@ const productos = [
    "6": 5.25,
   },
   imagen: "Img/Imagen733.jpeg",
-  stock: 14
+  stock: 11
 },
       {
   nombre: "5965SET DE 12 BOLSAS DE REGALO",
@@ -3473,7 +3473,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Imagen734.jpeg",
-  stock: 7
+  stock: 5
 },
         {
   nombre: "5966SET DE 10 BOLSITAS CON LAZO",
