@@ -2748,7 +2748,7 @@ const productos = [
    "1": 6.95,
   },
   imagen: "Img/Imagen650.jpeg",
-  stock: 4
+  stock: 2
 },
      {
   nombre: "5063TRUSA PARA NIÑAS",
@@ -2761,16 +2761,6 @@ const productos = [
   },
   imagen: "Img/Imagen651.jpeg",
   stock: 11
-},
-     {
-  nombre: "5839SET DE 20 PAPELES FOTOGRÁFICOS A4 SIN ADHESIVO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Tamaño A4 ideal para imprimir fotos, trabajos y recuerdos especiales. Acabado de alta calidad para colores vivos y detalles nítidos. Pack de 20 hojas, perfecto para casa, estudio y oficina.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen652.jpeg",
-  stock: 2
 },
      {
   nombre: "5840SET DE 12 PLUMONES ACRÍLICOS",
