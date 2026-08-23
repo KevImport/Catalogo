@@ -3596,7 +3596,7 @@ const productos = [
    "3": 9.95,
      },
   imagen: "Img/Imagen745.jpeg",
-  stock: 9
+  stock: 8
 },
                  {
   nombre: "5989SET DE 11 PIEZAS PARA FIESTAS",
