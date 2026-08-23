@@ -2989,16 +2989,6 @@ const productos = [
   stock: 1
 },
   {
-  nombre: "5889CEPILLO DESENREDANTE CON DISPENSADOR",
-  categoria: "Accesorios",
-  descripcion: "Desenreda el cabello con suavidad mientras humedece cada mechón gracias a su práctico dispensador integrado. Ideal para todo tipo de cabello.",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen685.jpeg",
-  stock: 1
-},
-  {
   nombre: "5890LENTES HEXAGONALES",
   categoria: "Accesorios",
   descripcion: "Dale un toque moderno a tu estilo con estos lentes de diseño hexagonal, perfectos para complementar cualquier outfit con mucha personalidad. Color al azar",
@@ -3610,5 +3600,106 @@ const productos = [
      },
   imagen: "Img/Imagen747.jpeg",
   stock: 4   
+},
+  {
+  nombre: "5991PAQUETE DE 12 ESTUCHES – 360 DENTAL FLOSS TOOTHPICK",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Cada estuche contiene 30 unidades, ¡ideal para uso diario, negocio o reventa! Prácticos, higiénicos y fáciles de llevar para mantener una limpieza dental donde estés.",
+  precios: {
+   "1": 11.90,
+     },
+  imagen: "Img/Imagen748.jpeg",
+  stock: 7
+},
+  {
+  nombre: "5992ASPIRADORA PORTÁTIL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Compacta y práctica para hogar y auto. Incluye accesorios para una limpieza más profunda.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen749.png",
+  stock: 8
+},
+  {
+  nombre: "5993PONCHO IMPERMEABLE PARA ADULTOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protégete de la lluvia y mantente seco dondequiera que vayas. ¡Ideal para el día a día, viajes y actividades al aire libre!. Ligero, práctico y reutilizable, con capucha para una mayor protección. ¡Llévalo siempre contigo!. Color al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "Img/Imagen750.jpeg",
+  stock: 22
+},
+  {
+  nombre: "5994PACK DE 10 PARCHES DESODORANTES PARA PIES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a mantener tus pies frescos y con sensación agradable durante el día. ¡Prácticos y fáciles de usar para sentirte cómodo en todo momento!",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "Img/Imagen751.png",
+  stock: 21
+}, 
+  {
+  nombre: "5995POLERÓN HUGGLE HODDIES",
+  categoria: "Ropa interior",
+  descripcion: "Súper suave, abrigador y cómodo para mantenerte calientito en días fríos. Diseño amplio y acogedor, ideal para descansar, estudiar o ver tus series favoritas. Única Talla que cede por ser Oversize, color al azar.",
+  precios: {
+   "1": 22.90,
+     },
+  imagen: "Img/Imagen752.jpeg",
+  stock: 6
+},
+    {
+  nombre: "5996SET CORONA + BANDA “FELIZ CUMPLEAÑOS",
+  categoria: "Accesorios",
+  descripcion: "El complemento perfecto para celebrar y lucir increíble en tu día especial. Ideal para cumpleaños, fotos, fiestas y momentos inolvidables. Color al azar",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+     },
+  imagen: "Img/Imagen753.jpeg",
+  stock: 6
+},
+    {
+  nombre: "5997MEDIAS HIDRATANTES PARA EL CUIDADO DE LOS PIES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Hidrata, suaviza y ayuda a reparar los talones resecos y agrietados. Reutilizables, cómodas e ideales para el cuidado diario de tus pies.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+     },
+  imagen: "Img/Imagen754.png",
+  stock: 6
+},
+    {
+  nombre: "5998MINI OLLA FREIDORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Cocina tus frituras favoritas usando mucho menos aceite gracias a su diseño vertical inteligente! Incluye una cesta de malla de acero inoxidable para escurrir al instante y un pico vertedor antigoteo ideal para todo tipo de cocinas.",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "Img/Imagen755.jpeg",
+  stock: 13
+},
+    {
+  nombre: "5999MANTA CALAMINADA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Súper suave, cálida y acogedora para disfrutar de un descanso increíble. ¡Color al azar! Fácil de lavar y fabricada con material de piel de durazno. Medida: 2 x 2.3 m",
+  precios: {
+   "1": 15.95,
+     },
+  imagen: "Img/Imagen756.jpeg",
+  stock: 7
 },
   ];
