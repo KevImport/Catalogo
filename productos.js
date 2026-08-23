@@ -2229,10 +2229,9 @@ const productos = [
   descripcion: "Pulsera artesanal con cuentas Bodhi, símbolo de calma, espiritualidad y protección. Ajustable y cómoda. Estilo bohemio/zen. Ideal para meditación o uso diario.",
   precios: {
    "1": 3.95,
-   "3": 2.55,
        },
   imagen: "Img/Imagen560.jpeg",
-  stock: 5
+  stock: 2
 },
            {
   nombre: "5694BOLSA DE 50 GLOBOS N°9",
@@ -2738,7 +2737,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen648.jpeg",
-  stock: 3
+  stock: 2
 },
    {
   nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
