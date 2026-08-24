@@ -3100,7 +3100,7 @@ const productos = [
    "1": 10.95,
   },
   imagen: "Img/Imagen701.jpeg",
-  stock: 6
+  stock: 7
 },
                    {
   nombre: "5915PISO PLEGABLE",
@@ -3709,5 +3709,16 @@ const productos = [
      },
   imagen: "Imagen764.jpeg",
   stock: 1
+},
+      {
+  nombre: "4101SET DE 10 HOJAS ADHESIVAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Dale color y creatividad a tus proyectos con estos diseños adhesivos, ¡ideales para decorar!. Cada hoja mide 20 × 30 cm. Los modelos pueden variar.",
+  precios: {
+   "1": 3.90,
+   "3": 2.90,
+     },
+  imagen: "Imagen765.jpeg",
+  stock: 6
 },
   ];
