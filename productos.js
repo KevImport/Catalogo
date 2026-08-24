@@ -1071,7 +1071,7 @@ const productos = [
    "6": 2.55,
   },
   imagen: "Img/Imagen284.png",
-  stock: 11
+  stock: 6
 },
    {
   nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
@@ -1934,16 +1934,6 @@ const productos = [
        },
   imagen: "Img/Imagen508.jpeg",
   stock: 3
-},
-       {
-  nombre: "5616SET DE 5 TAPERS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Prácticos, resistentes y perfectos para guardar tus alimentos. Incluye 5 tamaños con tapa hermética ¡Ideales para el cole, la oficina o la casa!",
-  precios: {
-   "1": 10.90,
-       },
-  imagen: "Img/Imagen513.jpeg",
-  stock: 1
 },
          {
   nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
@@ -3123,16 +3113,6 @@ const productos = [
   stock: 3
 },
                    {
-  nombre: "5916SET DE 2 GANCHOS + 4 PARES DE ARETES",
-  categoria: "Accesorios",
-  descripcion: "Complementa cualquier look con este hermoso set de accesorios. Incluye 2 ganchos para el cabello y 4 pares de aretes, ideales para el uso diario, regalar o lucir en ocasiones especiales.",
-  precios: {
-   "1": 3.95,
-  },
-  imagen: "Img/Imagen703.jpeg",
-  stock: 1
-},
-                   {
   nombre: "5917SOPORTE DE BAMBÚ PARA PLATOS Y VASOS",
   categoria: "Hogar / Cocina",
   descripcion: "Organiza tus platos, vasos, tapas o utensilios de forma práctica y elegante. Resistente, compacto y perfecto para mantener tu cocina ordenada y aprovechar mejor el espacio.",
@@ -3254,7 +3234,7 @@ const productos = [
    "1": 5.95,
   },
   imagen: "Img/Imagen717.jpeg",
-  stock: 5
+  stock: 3
 },
                    {
   nombre: "5944CAJA LAZO GRANDE DÍA DEL NIÑO",
@@ -3627,7 +3607,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen755.jpeg",
-  stock: 13
+  stock: 11
 },
     {
   nombre: "5999MANTA CALAMINADA",
