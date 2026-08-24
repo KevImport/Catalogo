@@ -3203,10 +3203,9 @@ const productos = [
   descripcion: "¡Llévalo a todas partes! Combina un práctico peine con espejo en un diseño adorable de Sanrio. Ideal para retoques rápidos en cualquier momento.",
   precios: {
    "1": 7.95,
-   "3": 6.95,
   },
   imagen: "Img/Imagen713.jpeg",
-  stock: 4
+  stock: 1
 },
                   {
   nombre: "5938PELOTA 9´ CON DISEÑOS SANRIO",
