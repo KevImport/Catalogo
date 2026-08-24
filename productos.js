@@ -3700,4 +3700,14 @@ const productos = [
   imagen: "Img/Imagen763.png",
   stock: 6
 },
+    {
+  nombre: "5021SACO CORREA PARA NIÑAS",
+  categoria: "Ropa interior",
+  descripcion: "Elegante y abrigador, ideal para complementar cualquier outfit. Material Dakota afranelada, talla 12 y hermoso color perla.",
+  precios: {
+   "1": 17.90,
+     },
+  imagen: "Imagen764.jpeg",
+  stock: 1
+},
   ];
