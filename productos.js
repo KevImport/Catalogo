@@ -3594,10 +3594,9 @@ const productos = [
    "1": 5.95,
    "3": 4.55,
    "6": 4.25,
-   "12": 3.95,
      },
   imagen: "Img/Imagen751.png",
-  stock: 21
+  stock: 8
 }, 
   {
   nombre: "5995POLERÓN HUGGLE HODDIES",
