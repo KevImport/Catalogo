@@ -3427,18 +3427,6 @@ const productos = [
   imagen: "Img/Imagen736.jpeg",
   stock: 5
 },
-     {
-  nombre: "5973CREMA TRATAMIENTO CAPILAR CON COLÁGENO 500ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Nutre, fortalece y restaura el cabello dañado. Deja tu cabello suave, brillante y sedoso.",
-  precios: {
-   "1": 9.55,
-   "3": 8.55,
-   "6": 8.25,
-  },
-  imagen: "Img/Imagen737.jpeg",
-  stock: 6
-},
    {
   nombre: "5979SET DE 5 PINZAS PARA EL CABELLO",
   categoria: "Higiene / Cuidado Personal",
@@ -3571,7 +3559,7 @@ const productos = [
    "3": 7.95,
      },
   imagen: "Img/Imagen749.png",
-  stock: 8
+  stock: 2
 },
   {
   nombre: "5993PONCHO IMPERMEABLE PARA ADULTOS",
@@ -3627,10 +3615,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.75,
      },
   imagen: "Img/Imagen754.png",
-  stock: 6
+  stock: 5
 },
     {
   nombre: "5998MINI OLLA FREIDORA",
