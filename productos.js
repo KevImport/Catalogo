@@ -3689,7 +3689,7 @@ const productos = [
   stock: 13
 },
   {
-  nombre: "5729JABÓN QUITA MUGRE",
+  nombre: "5967JABÓN QUITA MUGRE",
   categoria: "Hogar / Cocina",
   descripcion: "Elimina manchas difíciles con alto poder de limpieza. Ideal para todo tipo de ropa, dejando tus prendas impecables.",
   precios: {
