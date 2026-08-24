@@ -3721,4 +3721,15 @@ const productos = [
   imagen: "Imagen765.jpeg",
   stock: 6
 },
+        {
+  nombre: "4834STICKER CUADRO 3D",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque moderno y elegante a tus espacios con este STICKER CUADRO 3D. Ideal para sala, escaleras, dormitorio y más. Medida aprox. 30 x 40 cm. ¡Fácil de colocar y perfecto para renovar tu decoración!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Imagen766.jpeg",
+  stock: 5
+},
   ];
