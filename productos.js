@@ -3483,7 +3483,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen741.jpeg",
-  stock: 4
+  stock: 10
 },
          {
   nombre: "5985ESPUMA DE LECHE PARA LIMPIEZA FACIAL",
@@ -3721,5 +3721,17 @@ const productos = [
      },
   imagen: "Img/Imagen762.jpeg",
   stock: 13
+},
+  {
+  nombre: "5729JABÓN QUITA MUGRE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina manchas difíciles con alto poder de limpieza. Ideal para todo tipo de ropa, dejando tus prendas impecables.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "Img/Imagen763.png",
+  stock: 6
 },
   ];
