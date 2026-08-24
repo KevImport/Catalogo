@@ -2566,10 +2566,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.25,
-   "6": 2.95,
   },
   imagen: "Img/Imagen624.jpeg",
-  stock: 12
+  stock: 4
 },
          {
   nombre: "5800FILTRO ATRAPA PELUSAS",
@@ -3515,10 +3514,9 @@ const productos = [
   descripcion: "Ideal para emergencias, cortes de luz, camping y uso diario. Recargable y con carga solar para tener iluminación cuando más la necesites.",
   precios: {
    "1": 10.95,
-   "3": 9.95,
      },
   imagen: "Img/Imagen747.jpeg",
-  stock: 4   
+  stock: 1
 },
   {
   nombre: "5991PAQUETE DE 12 ESTUCHES – 360 DENTAL FLOSS TOOTHPICK",
@@ -3528,7 +3526,7 @@ const productos = [
    "1": 11.90,
      },
   imagen: "Img/Imagen748.jpeg",
-  stock: 7
+  stock: 4
 },
   {
   nombre: "5992ASPIRADORA PORTÁTIL",
@@ -3686,7 +3684,7 @@ const productos = [
    "1": 19.90,
      },
   imagen: "Img/Imagen762.jpeg",
-  stock: 13
+  stock: 11
 },
   {
   nombre: "5967JABÓN QUITA MUGRE",
