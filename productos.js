@@ -1128,7 +1128,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen297.png",
-  stock: 4
+  stock: 3
 },
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
@@ -2993,7 +2993,7 @@ const productos = [
    "6": 2.75,
   },
   imagen: "Img/Imagen691.jpeg",
-  stock: 8
+  stock: 7
 },
         {
   nombre: "5898PINZA COLADORA",
@@ -3018,7 +3018,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 17
+  stock: 14
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -3089,7 +3089,7 @@ const productos = [
    "3": 3.25,
   },
   imagen: "Img/Imagen700.png",
-  stock: 4
+  stock: 3
 },
                    {
   nombre: "5914SET DE 12 PLUMONES GLITTER",
@@ -3348,7 +3348,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen730.jpeg",
-  stock: 30
+  stock: 16
 },
     {
   nombre: "5959ACEITE PARA BEBÉ 200ml",
@@ -3652,7 +3652,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen759.jpeg",
-  stock: 9
+  stock: 3
 },
   {
   nombre: "6003SCAJITA ORGANIZADORA",
