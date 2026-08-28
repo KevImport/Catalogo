@@ -2684,16 +2684,6 @@ const productos = [
   stock: 7
 },
      {
-  nombre: "5832ESTANTE FLOTANTE",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Transforma tus esquinas! Repisa esquinera flotante de 5 niveles en moderno diseño zig-zag. Ideal para plantas y decoración: ¡maximiza tus espacios con estilo y fácil instalación! Color al azar",
-  precios: {
-   "1": 13.95,
-  },
-  imagen: "Img/Imagen645.jpeg",
-  stock: 1
-},
-     {
   nombre: "5833JARRA COLADORA DE ACEITE",
   categoria: "Hogar / Cocina",
   descripcion: "Filtra y almacena el aceite de cocina de forma práctica, ayudando a mantenerlo limpio y listo para reutilizar. Capacidad: 1.3 L • Fabricada en acero inoxidable resistente, ideal para cualquier cocina.",
@@ -3508,16 +3498,6 @@ const productos = [
   imagen: "Img/Imagen746.jpeg",
   stock: 38
 },  
-                 {
-  nombre: "5990LINTERNA DE EMERGENCIA / SOLAR Y RECARGABLE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para emergencias, cortes de luz, camping y uso diario. Recargable y con carga solar para tener iluminación cuando más la necesites.",
-  precios: {
-   "1": 10.95,
-     },
-  imagen: "Img/Imagen747.jpeg",
-  stock: 1
-},
   {
   nombre: "5991PAQUETE DE 12 ESTUCHES – 360 DENTAL FLOSS TOOTHPICK",
   categoria: "Higiene / Cuidado Personal",
@@ -3676,16 +3656,6 @@ const productos = [
   imagen: "Img/Imagen761.jpeg",
   stock: 26
 },
-   {
-  nombre: "6005RADIO PARLANTE CON LINTERNA / RECARGABLE SOLAR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Disfruta de música, radio FM y luz LED donde quieras. Recargable con energía solar, ideal para hogar, camping y emergencias.",
-  precios: {
-   "1": 19.90,
-     },
-  imagen: "Img/Imagen762.jpeg",
-  stock: 11
-},
   {
   nombre: "5967JABÓN QUITA MUGRE",
   categoria: "Hogar / Cocina",
@@ -3693,10 +3663,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.75,
      },
   imagen: "Img/Imagen763.png",
-  stock: 6
+  stock: 3
 },
     {
   nombre: "5021SACO CORREA PARA NIÑAS",
