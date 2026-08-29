@@ -3711,4 +3711,118 @@ const productos = [
   imagen: "Img/Imagen767.jpeg",
   stock: 13
 },
+          {
+  nombre: "6011PAQUETE DE 100 LIMPIAPIPA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Perfectas para manualidades, trabajos escolares, decoración y proyectos creativos. ¡Crea figuras, animales y un sinfín de diseños con mucha imaginación! Color al azar",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+     },
+  imagen: "Img/Imagen768.jpeg",
+  stock: 25
+},
+          {
+  nombre: "6012GANCHOS MULTIUSOS PLANTITA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Decora tu cocina y mantén tus alimentos siempre frescos con este tierno imán para nevera! Sus hojas desmontables funcionan como prácticos clips de sellado para tus bolsas de snacks.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+     },
+  imagen: "Img/Imagen769.jpeg",
+  stock: 8
+},
+            {
+  nombre: "6013PAR DE GUANTES REUTILIZABLES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tus manos mientras realizas tus labores de limpieza y hogar. Cómodos, impermeables y reutilizables, ¡ideales para lavar, limpiar y mucho más! Medida: 31 cm / Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen770.jpeg",
+  stock: 19
+},
+      {
+  nombre: "6014PACK DE 12 PORTA ROSAS DECORATIVAS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Ideal para presentar rosas, girasoles u otras flores de forma elegante y creativa. Perfecto para regalos especiales o detalles románticos.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen771.jpeg",
+  stock: 10
+},
+      {
+  nombre: "6015FOCO PELOTA RECARGABLE CON PANEL SOLAR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ilumina tus espacios de forma práctica y eficiente, con carga solar y batería recargable. Ideal para el hogar, camping, emergencias y exteriores. ¡Llévalo donde necesites luz!",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "Img/Imagen772.jpeg",
+  stock: 27
+},
+      {
+  nombre: "6016ORGANIZADOR VERTICAL PARA ACCESORIOS DEL CABELLO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Pon fin al caos en tu tocador con este hermoso soporte de madera natural! Organiza tus gomas, coleteros y pinzas en un solo lugar para tenerlos siempre listos.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+     },
+  imagen: "Img/Imagen773.jpeg",
+  stock: 24
+},
+      {
+  nombre: "6017MINI PLANCHA PORTÁTIL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para planchar prendas y realizar proyectos de costura, parches, vinilo textil y manualidades detalladas. Compacta, práctica y fácil de usar para trabajos pequeños y precisos o para tener tu ropa impecable.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen774.jpeg",
+  stock: 5
+},
+      {
+  nombre: "6018DISPENSADOR DE PAPEL HIGIÉNICO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu baño ordenado y el papel siempre al alcance con este práctico dispensador. Fácil de usar y perfecto para darle un toque práctico y moderno a tu espacio. Color al azar",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen775.jpeg",
+  stock: 6
+},
+      {
+  nombre: "6019ALCOHOL CON AROMA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpieza y frescura con deliciosos aromas para acompañarte durante el día. Presentación de 100 ml, práctica y fácil de llevar a donde quieras. Aroma al azar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+     },
+  imagen: "Img/Imagen776.jpeg",
+  stock: 23
+},
+      {
+  nombre: "6021KIT DE HERRAMIENTAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Repara lo que quieras con este juego de 46 piezas que incluye chicharra, dados y puntas de alta resistencia. ¡El aliado perfecto, compacto y organizado para llevar siempre en tu maleta o auto!",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen777.jpeg",
+  stock: 8
+},
   ];
