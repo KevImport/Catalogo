@@ -3391,10 +3391,9 @@ const productos = [
   descripcion: "Conserva tus fiambres súper frescos, cuida el planeta con bambú y dale un toque de lujo a tus desayunos. Medida: 24 x 18 x 7.5 cm",
   precios: {
    "1": 9.95,
-   "3": 8.95,
   },
   imagen: "Img/Imagen736.jpeg",
-  stock: 5
+  stock: 2
 },
    {
   nombre: "5979SET DE 5 PINZAS PARA EL CABELLO",
@@ -3545,14 +3544,14 @@ const productos = [
   stock: 8
 }, 
   {
-  nombre: "5995POLERÓN HUGGLE HODDIES",
+  nombre: "5995POLERON ABRIGADOR",
   categoria: "Ropa interior",
   descripcion: "Súper suave, abrigador y cómodo para mantenerte calientito en días fríos. Diseño amplio y acogedor, ideal para descansar, estudiar o ver tus series favoritas. Única Talla que cede por ser Oversize, color al azar.",
   precios: {
    "1": 22.90,
      },
   imagen: "Img/Imagen752.jpeg",
-  stock: 6
+  stock: 4
 },
     {
   nombre: "5996SET CORONA + BANDA “FELIZ CUMPLEAÑOS",
@@ -3608,7 +3607,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen757.jpeg",
-  stock: 25
+  stock: 19
 },
   {
   nombre: "6001BOTA PROTECTORA IMPERMEABLE",
@@ -3621,7 +3620,7 @@ const productos = [
    "12": 4.95,
      },
   imagen: "Img/Imagen758.jpeg",
-  stock: 19
+  stock: 16
 },
   {
   nombre: "6002SOCKET PARA FOCO CON CABLE DE EXTENSIÓN",
@@ -3654,7 +3653,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen761.jpeg",
-  stock: 26
+  stock: 8
 },
   {
   nombre: "5967JABÓN QUITA MUGRE",
@@ -3698,5 +3697,18 @@ const productos = [
      },
   imagen: "Imagen766.jpeg",
   stock: 5
+},
+        {
+  nombre: "6009PACK DE 100 PAÑITOS GOTO KIDS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Libres de alcohol, limpian e hidratan suavemente la piel para un cuidado delicado. Incluye 100 pañitos, ideales para bebés, niños y toda la familia. Diseño al azar",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+     },
+  imagen: "Img/Imagen767.jpeg",
+  stock: 13
 },
   ];
