@@ -3572,7 +3572,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen755.jpeg",
-  stock: 1
+  stock: 3
 },
     {
   nombre: "5999MANTA CALAMINADA",
