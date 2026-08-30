@@ -1482,7 +1482,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 10
+  stock: 11
 },
     {
   nombre: "5420ORUGUITA DE PELUCHE",
@@ -2084,7 +2084,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen528.jpeg",
-  stock: 9
+  stock: 7
 },
                   {
   nombre: "5643PACK DE ALMOHADILLAS DE FIELTRO",
@@ -3691,7 +3691,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen773.jpeg",
-  stock: 24
+  stock: 23
 },
       {
   nombre: "6017MINI PLANCHA PORTÁTIL",
@@ -3712,7 +3712,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen775.jpeg",
-  stock: 6
+  stock: 4
 },
       {
   nombre: "6019ALCOHOL CON AROMA",
