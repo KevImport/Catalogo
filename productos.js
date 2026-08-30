@@ -2731,14 +2731,13 @@ const productos = [
    {
   nombre: "5847BOXER HOMBRE CALVIN KLEN",
   categoria: "Ropa interior",
-  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. Talla M: 6 unidades, Talla L: 6 unidades",
+  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. Talla M: 6 unidades, Talla L: 3 unidades",
   precios: {
    "3": 4.95,
    "6": 4.75,
-   "12": 4.55,
   },
   imagen: "Img/Imagen656.jpeg",
-  stock: 12
+  stock: 9
 },
         {
   nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
@@ -2761,7 +2760,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen661.jpeg",
-  stock: 23
+  stock: 21
 },
        {
   nombre: "5858PROTECTOR DE TECLADO",
@@ -3280,7 +3279,7 @@ const productos = [
    "6": 1.95,
   },
   imagen: "Img/Imagen728.png",
-  stock: 12
+  stock: 11
 },
                        {
   nombre: "5954CARRUSEL MUSICAL",
@@ -3360,7 +3359,7 @@ const productos = [
    "1": 9.95,
   },
   imagen: "Img/Imagen736.jpeg",
-  stock: 2
+  stock: 1
 },
    {
   nombre: "5979SET DE 5 PINZAS PARA EL CABELLO",
@@ -3368,10 +3367,9 @@ const productos = [
   descripcion: "Sujeción firme y práctica para mantener tu cabello en su lugar sin complicaciones. Ideales para peinados, maquillaje y uso diario. Color al azar",
   precios: {
    "1": 3.95,
-   "3": 2.95,
   },
   imagen: "Img/Imagen738.jpeg",
-  stock: 3
+  stock: 2
 },
      {
   nombre: "5980BOLSA DE REGALO CON DISEÑO FLORAL",
@@ -3395,7 +3393,7 @@ const productos = [
    "3": 9.95,
      },
   imagen: "Img/Imagen740.jpeg",
-  stock: 5
+  stock: 4
 },
        {
   nombre: "5983JABÓN ESPUMA FLOR 300ml",
