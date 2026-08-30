@@ -2672,16 +2672,6 @@ const productos = [
   imagen: "Img/Imagen644.png",
   stock: 7
 },
-     {
-  nombre: "5833JARRA COLADORA DE ACEITE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Filtra y almacena el aceite de cocina de forma práctica, ayudando a mantenerlo limpio y listo para reutilizar. Capacidad: 1.3 L • Fabricada en acero inoxidable resistente, ideal para cualquier cocina.",
-  precios: {
-   "1": 7.95,
-  },
-  imagen: "Img/Imagen646.jpeg",
-  stock: 1
-},
    {
   nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
   categoria: "Escolar / Papelería",
