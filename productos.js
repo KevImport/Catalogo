@@ -3584,7 +3584,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen755.jpeg",
-  stock: 2
+  stock: 1
 },
     {
   nombre: "5999MANTA CALAMINADA",
@@ -3721,7 +3721,7 @@ const productos = [
    "6": 3.75,
      },
   imagen: "Img/Imagen768.jpeg",
-  stock: 25
+  stock: 20
 },
           {
   nombre: "6012GANCHOS MULTIUSOS PLANTITA",
