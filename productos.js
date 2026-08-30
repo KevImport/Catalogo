@@ -3865,4 +3865,44 @@ const productos = [
   imagen: "Img/Imagen781.jpeg",
   stock: 1
 },
+        {
+  nombre: "GOMITAS DE MACA NEGRA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Potencia tu energía diaria, mejora tu rendimiento físico y eleva tu concentración mental al máximo! Las gomitas de Maca Negra Machopower Nacho de Sottcor fortalecen tu sistema inmunológico y promueven el bienestar masculino integral.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen782.png",
+  stock: 1
+},
+        {
+  nombre: "GOMITAS DE MULTIVITAMINAS PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Refuerza tus defensas, combate el cansancio diario y dale a tu cuerpo el combo completo de energía que necesita! Las Gomitas Multivitamínicas Sottcor contienen vitaminas A, C, D, E y complejo B para cuidar tus huesos, músculos y mejorar tu concentración.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen783.png",
+  stock: 1
+},
+   {
+  nombre: "GOMITAS DE PITAHAYA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Regula tu digestión, combate el estreñimiento y luce una piel radiante con total naturalidad! Disfruta del delicioso poder digestivo y antioxidante de las Gomitas de Pitahaya Sottcor, tu aliada diaria para ir al baño sin complicaciones.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen784.png",
+  stock: 1
+},
+     {
+  nombre: "GOMITAS DE DULCES SUEÑOS PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Consigue un sueño profundo y reparador, reduce el estrés y dile adiós a la ansiedad de forma 100% natural! Las Gomitas Dulce Sueños Sottcor combinan el poder relajante de la valeriana, manzanilla y toronjil con taurato de magnesio para que despiertes cada mañana con máxima energía.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen785.webp",
+  stock: 1
+},
   ];
