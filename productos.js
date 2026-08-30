@@ -3499,16 +3499,6 @@ const productos = [
   stock: 2
 },
     {
-  nombre: "5998MINI OLLA FREIDORA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Cocina tus frituras favoritas usando mucho menos aceite gracias a su diseño vertical inteligente! Incluye una cesta de malla de acero inoxidable para escurrir al instante y un pico vertedor antigoteo ideal para todo tipo de cocinas.",
-  precios: {
-   "1": 11.95,
-     },
-  imagen: "Img/Imagen755.jpeg",
-  stock: 3
-},
-    {
   nombre: "5999MANTA CALAMINADA",
   categoria: "Hogar / Cocina",
   descripcion: "Súper suave, cálida y acogedora para disfrutar de un descanso increíble. ¡Color al azar! Fácil de lavar y fabricada con material de piel de durazno. Medida: 2 x 2.3 m",
@@ -3516,7 +3506,7 @@ const productos = [
    "1": 15.95,
      },
   imagen: "Img/Imagen756.jpeg",
-  stock: 7
+  stock: 3
 },
   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
