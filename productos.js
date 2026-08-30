@@ -1385,10 +1385,9 @@ const productos = [
   descripcion: "Jabonera elegante con drenaje. Diseño moderno que evita la acumulación de agua y mantiene tu jabón siempre fresco y duradero.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
   },
   imagen: "Img/Imagen360.png",
-  stock: 3
+  stock: 2
 },
   {
   nombre: "5385PROTECTORES DE ANTEBRAZO",
