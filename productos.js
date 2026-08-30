@@ -3730,10 +3730,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.25,
-   "6": 2.95,
      },
   imagen: "Img/Imagen769.jpeg",
-  stock: 8
+  stock: 5
 },
             {
   nombre: "6013PAR DE GUANTES REUTILIZABLES",
