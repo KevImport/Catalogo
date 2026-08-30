@@ -3825,4 +3825,44 @@ const productos = [
   imagen: "Img/Imagen777.jpeg",
   stock: 8
 },
+        {
+  nombre: "GOMITAS DE CÚRCUMA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Desinflama tu cuerpo, protege tus células con antioxidantes y mejora tu digestión de forma 100% natural! Las Gomitas de Cúrcuma con Pimienta Negra Sottcor combinan la mejor absorción para reforzar tus defensas y llenarte de vitalidad diaria sin azúcar añadida.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen778.jpeg",
+  stock: 1
+},
+  {
+  nombre: "GOMITAS DE VINAGRE DE MANZANA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Reduce la ansiedad por comer, desintoxica tu cuerpo y dile adiós a la pesadez estomacal! Disfruta el poder del Vinagre de Manzana de Sottcor Labs en ricas gomitas que cuidan tu figura y llenan tu día de energía.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen779.webp",
+  stock: 1
+},
+    {
+  nombre: "GOMITAS DE BBL PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Equilibra tus hormonas, mejora tu rendimiento físico y favorece el aumento natural de glúteos y pechos! Descubre las BBL Gomitas de Sottcor, la fórmula perfecta con aguaje, fenogreco y maca roja que esculpe tu figura y te llena de energía.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen780.jpeg",
+  stock: 1
+},
+      {
+  nombre: "GOMITAS DE MAGNESIO PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Dile adiós al cansancio, relaja tus músculos y equilibra tu mente para dormir mucho mejor! Las Gomitas de Citrato de Magnesio Sottcor fortalecen tus huesos y te llenan de energía diaria en una deliciosa fórmula sin azúcar ni gluten.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen781.jpeg",
+  stock: 1
+},
   ];
