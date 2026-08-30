@@ -1910,7 +1910,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen498.jpeg",
-  stock: 7
+  stock: 2
 },
        {
   nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
@@ -2142,19 +2142,9 @@ const productos = [
    "6": 1.75,
        },
   imagen: "Img/Imagen538.jpeg",
-  stock: 9
+  stock: 8
 },
-               {
-  nombre: "5664SET DE MINI TENEDORES ANIMALITOS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Mini tenedores con divertidos diseños de animalitos. Ideales para frutas, snacks y loncheras. Prácticos, reutilizables y perfectos para niños.",
-  precios: {
-   "1": 2.95,
-       },
-  imagen: "Img/Imagen539.jpeg",
-  stock: 1
-},
-       {
+         {
   nombre: "5666PINZA TRENZADA PARA CABELLO",
   categoria: "Accesorios",
   descripcion: "Diseño tipo trenza que brinda un look elegante al instante. Tamaño aproximado: 12.5 cm. Color al azar.",
@@ -2661,17 +2651,6 @@ const productos = [
   stock: 1
 },
    {
-  nombre: "5830PACK DE PAÑOS QUITAGRASA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Lleva la higiene de tu cocina al siguiente nivel y ahorra tiempo en cada limpieza! Limpieza eficiente, despídete de los trapos sucios. No irritan la piel, adecuadas para uso diario.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-  },
-  imagen: "Img/Imagen644.png",
-  stock: 7
-},
-   {
   nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
   categoria: "Escolar / Papelería",
   descripcion: "Tamaño A4 ideal para imprimir fotos, stickers y proyectos creativos. Papel adhesivo, pega fácilmente en cualquier superficie. Impresión full color con alta calidad y colores vivos. Paquete de 20 hojas, perfecto para hogar, escuela y oficina.",
@@ -2827,7 +2806,7 @@ const productos = [
    "6": 6.25,
   },
   imagen: "Img/Imagen673.jpeg",
-  stock: 12
+  stock: 9
 },
                       {
   nombre: "5876MINI LAVADORA PLEGABLE",
@@ -3246,17 +3225,6 @@ const productos = [
   stock: 5
 },
                                 {
-  nombre: "5949VENTILADOR ANTI INSECTOS PARA MESA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén moscas e insectos alejados de tus alimentos de forma segura y silenciosa. Ideal para casa, picnic, restaurantes y reuniones al aire libre.",
-  precios: {
-   "1": 8.95,
-   "3": 7.95,
-  },
-  imagen: "Img/Imagen725.jpeg",
-  stock: 3
-},
-                                {
   nombre: "5950SET DE MAQUILLAJE + SORPRESA",
   categoria: "Juguetes",
   descripcion: "Transforma el juego en pura diversión con este set de belleza mágico y no tóxico! Sorprende a las más pequeñas con maquillaje infantil. Diseño al azar.",
@@ -3350,16 +3318,6 @@ const productos = [
   },
   imagen: "Img/Imagen735.jpeg",
   stock: 4
-},
-          {
-  nombre: "5968QUESERA / PORTA EMBUTIDOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Conserva tus fiambres súper frescos, cuida el planeta con bambú y dale un toque de lujo a tus desayunos. Medida: 24 x 18 x 7.5 cm",
-  precios: {
-   "1": 9.95,
-  },
-  imagen: "Img/Imagen736.jpeg",
-  stock: 1
 },
    {
   nombre: "5979SET DE 5 PINZAS PARA EL CABELLO",
@@ -3536,10 +3494,9 @@ const productos = [
   descripcion: "Hidrata, suaviza y ayuda a reparar los talones resecos y agrietados. Reutilizables, cómodas e ideales para el cuidado diario de tus pies.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen754.png",
-  stock: 5
+  stock: 2
 },
     {
   nombre: "5998MINI OLLA FREIDORA",
