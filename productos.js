@@ -2683,16 +2683,6 @@ const productos = [
   stock: 1
 },
    {
-  nombre: "5835SET DE 10 PARES DE MEDIAS",
-  categoria: "Ropa interior",
-  descripcion: "Medias cómodas y adorables. Perfectas para el uso diario, combinando comodidad, estilo y mucha ternura.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen648.jpeg",
-  stock: 2
-},
-   {
   nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
   categoria: "Escolar / Papelería",
   descripcion: "Tamaño A4 ideal para imprimir fotos, stickers y proyectos creativos. Papel adhesivo, pega fácilmente en cualquier superficie. Impresión full color con alta calidad y colores vivos. Paquete de 20 hojas, perfecto para hogar, escuela y oficina.",
