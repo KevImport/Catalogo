@@ -3905,4 +3905,44 @@ const productos = [
   imagen: "Img/Imagen785.webp",
   stock: 1
 },
+       {
+  nombre: "GOMITAS DE ZINC QUELADO PARA NIÑOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Refuerza las defensas de tus pequeños, apoya su crecimiento y mejora su concentración en el colegio! Las Gomitas Kids de Sottcor combinan zinc quelado, magnesio, betaglucano, vitamina C y selenio en un delicioso sabor frutal libre de alérgenos.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen786.png",
+  stock: 1
+},
+         {
+  nombre: "GOMITAS DE HIERRO PARA NIÑOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Combate la anemia, llena a tus hijos de vitalidad y mejora su rendimiento escolar y concentración! Las Gomitas de Hierro Sottcor están enriquecidas con aceite de moringa y vitaminas C, B9 y B12 para fortalecer sus defensas, huesos y dientes con un sabor delicioso.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen787.png",
+  stock: 1
+},
+    {
+  nombre: "GOMITAS DE VITAMINAS PARA NIÑOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Dale a tus hijos el escudo nutricional que necesitan para crecer fuertes, llenos de energía y súper concentrados! Las Gomitas Infantiles de Vitaminas Sottcor combinan el poder de las vitaminas A, D, C, E y todo el Complejo B para asegurar su desarrollo óptimo y defensas al 100%.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen788.png",
+  stock: 1
+},
+   {
+  nombre: "GOMITAS DE BUENAS NOCHES PARA NIÑOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Ayuda a tus pequeños a conciliar el sueño más rápido, lograr un descanso profundo y despertar felices cada mañana! Las Gomitas Buenas Noches Dulce Sueños Sottcor ofrecen una fórmula infantil suave, segura y libre de gluten, lactosa y GMO.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "Img/Imagen789.webp",
+  stock: 1
+},
   ];
