@@ -2329,11 +2329,11 @@ const productos = [
   stock: 27
 },
                      {
-  nombre: "POTE DE 130 GOMITAS - DHA",
+  nombre: "GOMITAS DE DHA PARA ADULTOS - 130 UNIDADES",
   categoria: "Gomitas",
   descripcion: "Fortalece tu agilidad mental y apoya un desarrollo saludable con nuestras Gomitas de DHA, Ácido Fólico y Vitaminas: el impulso esencial para tu cerebro y sistema nervioso.",
   precios: {
-   "1": 21.90,
+   "1": 20.90,
        },
   imagen: "Img/Imagen589.jpeg",
   stock: 1
