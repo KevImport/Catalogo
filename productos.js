@@ -2348,7 +2348,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen592.jpeg",
-  stock: 26
+  stock: 20
 },
       {
   nombre: "5736QUITAPELUSA PANDITA 2 EN 1",
@@ -2558,17 +2558,6 @@ const productos = [
   },
   imagen: "Img/Imagen623.jpeg",
   stock: 1
-},
-         {
-  nombre: "5798JABON CURCUMA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ayuda a limpiar profundamente la piel y unificar el tono. Ideal para manchas, acné y piel grasa, uso diario.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-  },
-  imagen: "Img/Imagen624.jpeg",
-  stock: 4
 },
          {
   nombre: "5800FILTRO ATRAPA PELUSAS",
