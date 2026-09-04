@@ -11,6 +11,20 @@
 
  <div class="barra-superior">
   <input type="text" id="buscador" placeholder="Buscar producto..." onkeyup="buscarProducto()">
+  <div class="controles-accesibilidad">
+    <div class="opcion-accesibilidad">
+      <span>Selecciona el tamaño de letra</span>
+      <button id="cambiar-tamano-letra" class="btn-tamano-letra" type="button" onclick="cambiarTamanoLetra()" aria-pressed="false">
+        Letra grande
+      </button>
+    </div>
+    <div class="opcion-accesibilidad">
+      <span>Selecciona el modo de color</span>
+      <button id="cambiar-modo-color" class="btn-modo-color" type="button" onclick="cambiarModoColor()" aria-pressed="false">
+        Modo oscuro
+      </button>
+    </div>
+  </div>
 
 </div>
 
@@ -36,6 +50,10 @@
 
   <div id="catalogo" class="productos">
   </div>
+
+  <button id="ver-mas" class="btn-ver-mas" type="button" onclick="cargarMasProductos()">
+    Ver más
+  </button>
 
 
   <script src="productos.js"></script>
