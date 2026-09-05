@@ -3614,7 +3614,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen772.jpeg",
-  stock: 8
+  stock: 3
 },
       {
   nombre: "6016ORGANIZADOR VERTICAL PARA ACCESORIOS DEL CABELLO",
@@ -3648,7 +3648,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen775.jpeg",
-  stock: 3
+  stock: 2
 },
       {
   nombre: "6019ALCOHOL CON AROMA",
