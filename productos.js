@@ -3792,4 +3792,96 @@ const productos = [
   imagen: "Img/Imagen789.webp",
   stock: 1
 },
+  {
+  nombre: "6024LIP GLOSS DUPE DIOR",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Dale a tus labios un brillo radiante, efecto jugoso e hidratación irresistible. Fórmula nutritiva y acabado espectacular, ¡luce unos labios hermosos a menor precio! Tono al azar.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "Img/Imagen790.jpeg",
+  stock: 2
+},
+  {
+  nombre: "6027EXTENSIONES GLITTER PARA CABELLO 50cm",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque de brillo y color a tu cabello con estas increíbles extensiones glitter de 50 cm. Fáciles de usar y perfectas para fiestas, eventos o darle un look diferente a tu estilo. Color al azar",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+     },
+  imagen: "Img/Imagen791.jpeg",
+  stock: 7
+},
+  {
+  nombre: "6028BOLSA DE REGALO TRANSPARENTE",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Elegante, práctica y resistente, ideal para presentar tus regalos con estilo. Perfecta para detalles y ocasiones especiales. Medida: 18 × 26 × 8 cm. Material: PVC transparente",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+     },
+  imagen: "Img/Imagen792.jpeg",
+  stock: 6
+},
+  {
+  nombre: "6030BOLSA DE REGALO CON VENTANA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Presenta tus regalos de forma elegante y especial en cualquier ocasión. Su ventana transparente permite lucir el contenido y darle un toque encantador.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+     },
+  imagen: "Img/Imagen793.jpeg",
+  stock: 5
+},
+    {
+  nombre: "6033SET DE 6 MOLDES DE SILICONA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prácticos, flexibles y reutilizables, ideales para preparar tus recetas favoritas. Perfectos para freidora de aire, horno, microondas y mucho más. ¡Cocina fácil y sin complicaciones! Color al azar",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+     },
+  imagen: "Img/Imagen794.jpeg",
+  stock: 7
+},
+    {
+  nombre: "6037LINTERNA RECARGABLE CON ESTUCHE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Potente y práctica, ideal para casa, auto, paseos y emergencias. Incluye estuche para transportarla y mantenerla protegida.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen795.jpeg",
+  stock: 4
+},    
+  {
+  nombre: "6038PAQUETE DE 50 BOLSAS DE BASURA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Resistentes y prácticas para mantener tus espacios limpios y ordenados. Ideales para el hogar y negocio, con capacidad de 20 litros.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.35,
+   "12": 3.15,
+     },
+  imagen: "Img/Imagen796.jpeg",
+  stock: 4
+},
+    {
+  nombre: "6040SET DE 12 COLORES BORRABLES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye 12 colores borrables + 2 lápices para escribir y colorear con creatividad. Además, trae 1 borrador y 1 tajador para tener todo lo necesario en un solo set.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen797.png",
+  stock: 8
+},
   ];
