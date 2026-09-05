@@ -3463,7 +3463,7 @@ const productos = [
    "1": 22.90,
      },
   imagen: "Img/Imagen752.jpeg",
-  stock: 4
+  stock: 3
 },
     {
   nombre: "5996SET CORONA + BANDA “FELIZ CUMPLEAÑOS",
@@ -3495,7 +3495,7 @@ const productos = [
    "1": 15.95,
      },
   imagen: "Img/Imagen756.jpeg",
-  stock: 3
+  stock: 2
 },
   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
