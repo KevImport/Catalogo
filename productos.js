@@ -3884,4 +3884,121 @@ const productos = [
   imagen: "Img/Imagen797.png",
   stock: 8
 },
+      {
+  nombre: "6041SET DE 12 PLUMONES CON SELLO",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Dibuja, colorea y estampa con estos hermosos sellos! Incluye estuche práctico para mantenerlos ordenados y llevarlos donde quieras.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+     },
+  imagen: "Img/Imagen798.jpeg",
+  stock: 6
+},
+      {
+  nombre: "6043SET DE 24 SILBATOS DIVERTIDOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Perfectos para fiestas, juegos, celebraciones y eventos! Set de 24 unidades para compartir y disfrutar en grande.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Img/Imagen799.jpeg",
+  stock: 33
+},
+      {
+  nombre: "6044TINTURA CAPILAR SPRAY PÚRPURA – 120ml",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Dale a tu cabello un toque púrpura intenso y divertido en segundos. Color temporal, lavable y fácil de aplicar, ¡ideal para crear looks increíbles!",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+   "6": 6.75,
+     },
+  imagen: "Img/Imagen800.jpeg",
+  stock: 6
+},
+      {
+  nombre: "6046COLLAR GIRASOL",
+  categoria: "Accesorios",
+  descripcion: "Un detalle delicado y lleno de alegría para complementar cualquier look. Presentación: cajita",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+   "6": 7.75,
+     },
+  imagen: "Img/Imagen801.jpeg",
+  stock: 10
+},
+        {
+  nombre: "6048SET DE 8 CARRITOS DE METAL",
+  categoria: "Juguetes",
+  descripcion: "El regalo perfecto para los pequeños pilotos y coleccionistas del hogar! Autos superresistentes de metal die-cast con rodaje libre, listos para dominar cualquier pista y asegurar horas de diversión.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+     },
+  imagen: "Img/Imagen802.jpeg",
+  stock: 13
+},
+        {
+  nombre: "6049CEPILLO GIRATORIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpia profundamente y llega a cada rincón con facilidad. Diseño ergonómico, cerdas resistentes y botón giratorio de 360°.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen803.jpeg",
+  stock: 12
+},
+        {
+  nombre: "6050SET DE 12 PLATITOS MULTIUSO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfectos para servir salsas, snacks, postres, frutas y bocaditos. Prácticos, ligeros y fáciles de limpiar. ¡Ideales para cualquier ocasión!. Color al azar",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "Img/Imagen804.jpeg",
+  stock: 1
+},
+        {
+  nombre: "6053KIT PARA PEINAR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Consigue un peinado impecable y sin frizz en segundos con este kit esencial de 3 piezas! Diseñado para pulir tu cabello, definir rayas perfectas y controlar esos rebeldes baby hairs. ¡Lógralo fácil! ¡Haz clic y resalta tu belleza hoy!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "Img/Imagen805.jpeg",
+  stock: 16
+},
+        {
+  nombre: "6054DELINEADOR NEGRO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Delineador negro qué permite hacer trazos finos y gruesos. Resalta la mirada, fácil y rápido de aplicar. Capacidad: 3.5g",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "Img/Imagen806.jpeg",
+  stock: 11
+},
+        {
+  nombre: "6057CINTA DOBLE CONTACTO DE 3 METROS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fija, pega y organiza sin complicaciones. Ideal para decorar, ordenar y sujetar diferentes objetos.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "Img/Imagen807.png",
+  stock: 19
+},
   ];
