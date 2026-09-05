@@ -578,10 +578,9 @@ const productos = [
   descripcion: "Pack surtido de esponjas beauty blender. Perfectas para aplicar base o corrector con acabado profesional.",
   precios: {
     "1": 4.95,
-    "3": 3.95,
   },
   imagen: "Img/Imagen144.jpg",
-  stock: 3
+  stock: 1
 },
 {
   nombre: "4670MÁSCARA DE PESTAÑAS",
@@ -1355,7 +1354,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen357.jpeg",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
@@ -1746,7 +1745,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen461.jpeg",
-  stock: 4
+  stock: 3
 },
    {
   nombre: "5527SOPORTE DE CELULAR GIRATORIO",
@@ -1789,10 +1788,9 @@ const productos = [
   descripcion: "Diseño moderno inspirado en el estilo K-Pop. Ideal para llevar snacks, lonche o almuerzo. Liviana, práctica y fácil de transportar. Diseño al azar.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen469.jpeg",
-  stock: 3
+  stock: 2
 },
         {
   nombre: "5542SET DE 12 LAPICES GUERRERAS KPOP",
@@ -1893,7 +1891,7 @@ const productos = [
 },
        {
   nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
-  categoria: "Escolar / Papelería",
+  categoria: "Hogar / Cocina",
   descripcion: "Ideales para decorar tortas, galletas y fondant. Colores vivos, seguros y fáciles de usar.",
   precios: {
    "1": 7.95,
@@ -2113,7 +2111,7 @@ const productos = [
 },
                {
   nombre: "5663SET DE MINI TENEDORES MINNIE",
-  categoria: "Escolar / Papelería",
+  categoria: "Hogar / Cocina",
   descripcion: "Mini tenedores con diseño adorable de Minnie, perfectos para loncheras y snacks. Ideales para frutas, postres, gelatina y bocaditos. Reutilizables, prácticos y fáciles de lavar.",
   precios: {
    "1": 2.95,
@@ -2608,16 +2606,6 @@ const productos = [
   },
   imagen: "Img/Imagen640.png",
   stock: 7
-},
-   {
-  nombre: "5828LEGGIN SUPLEX TALLAS XL",
-  categoria: "Ropa interior",
-  descripcion: "Pretina alta, talla: XL, color: NEGRO",
-  precios: {
-   "1": 16.90,
-  },
-  imagen: "Img/Imagen641.jpeg",
-  stock: 1
 },
    {
   nombre: "5809LEGGIN SUPLEX TALLAS L",
@@ -4000,5 +3988,27 @@ const productos = [
      },
   imagen: "Img/Imagen807.png",
   stock: 19
+},
+        {
+  nombre: "6058JABONERA CON REJILLA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Evita por completo los residuos pegajosos en tus superficies usando esta base protectora. Su estructura aireada es perfecta para ordenar los implementos de limpieza.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen808.jpeg",
+  stock: 13
+},
+          {
+  nombre: "6059TOALLAS HÚMEDAS ANTIBACTERIALES x 60",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpieza y protección para tus manos y piel, estés donde estés. Con alcohol y aloe vera, ideales para llevar siempre contigo.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen809.jpeg",
+  stock: 5
 },
   ];
