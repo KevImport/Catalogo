@@ -2993,16 +2993,6 @@ const productos = [
   imagen: "Img/Imagen696.jpeg",
   stock: 6
 },
-               {
-  nombre: "5907SET DE BANDEJAS ONDULADAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Dale un súper toque único a tus piqueos con este espectacular set de 3 fuentes! El diseño moderno de ondas es perfecto para sorprender a todos tus invitados en tus reuniones más especiales.",
-  precios: {
-   "1": 8.95,
-  },
-  imagen: "Img/Imagen697.png",
-  stock: 3
-},
                  {
   nombre: "5908SET DE 4 CLIPS ANTIRONQUIDOS",
   categoria: "Higiene / Cuidado Personal",
@@ -3348,10 +3338,9 @@ const productos = [
   descripcion: "Práctica y resistente, ideal para cortar, picar y servir tus alimentos. Tamaño perfecto: 30×18×1 cm — ¡un básico indispensable para tu cocina!",
   precios: {
    "1": 10.95,
-   "3": 9.95,
      },
   imagen: "Img/Imagen740.jpeg",
-  stock: 4
+  stock: 1
 },
        {
   nombre: "5983JABÓN ESPUMA FLOR 300ml",
@@ -3678,7 +3667,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen772.jpeg",
-  stock: 27
+  stock: 8
 },
       {
   nombre: "6016ORGANIZADOR VERTICAL PARA ACCESORIOS DEL CABELLO",
@@ -3712,7 +3701,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen775.jpeg",
-  stock: 4
+  stock: 3
 },
       {
   nombre: "6019ALCOHOL CON AROMA",
@@ -3734,7 +3723,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen777.jpeg",
-  stock: 8
+  stock: 2
 },
         {
   nombre: "GOMITAS DE CÚRCUMA PARA ADULTOS - 150 UNIDADES",
