@@ -109,16 +109,6 @@ const productos = [
   stock: 2
 },
 {
-  nombre: "4704MINI TELESCOPIO",
-  categoria: "Juguetes",
-  descripcion: "Explora el mundo desde cerca. Mini telescopio compacto y portátil, ideal para niños curiosos o actividades al aire libre.",
-  precios: {
-    "1": 24.90,
-  },
-  imagen: "Img/Imagen55.jpg",
-  stock: 1
-  },
-{
   nombre: "4675COLLAR PURE LOVE",
   categoria: "Accesorios",
   descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
@@ -698,10 +688,9 @@ const productos = [
   descripcion: "Perfectas para fiestas, reuniones o el día a día. Resistentes, coloridas y súper prácticas. ",
   precios: {
     "1": 3.95,
-    "3": 2.95
   },
   imagen: "Img/Imagen175.jpeg",
-  stock: 3
+  stock: 2
 },
 {
   nombre: "4660CALZONCILLO CLÁSICO",
@@ -1440,7 +1429,7 @@ const productos = [
    "1": 7.90,
      },
   imagen: "Img/Imagen372.jpeg",
-  stock: 4
+  stock: 1
 },
     {
   nombre: "5394STAR BELLY LAVABLE DE FELPA",
@@ -1746,7 +1735,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen459.jpeg",
-  stock: 2
+  stock: 1
 },
       {
   nombre: "5520CARTUCHERA 3D",
@@ -1858,16 +1847,6 @@ const productos = [
      },
   imagen: "Img/Imagen484.png",
   stock: 3
-},
-        {
-  nombre: "5573CAJA DE 10 SACHETS DE SHAMPOO ANTICANAS NEGRO",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Shampoo cubre canas para todo tipo de cabellos. ️La mejor solución a esas canitas. ️El uso es sencillo y no se necesita decolorar ni pasar por ningún tratamiento previo al uso.",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen490.jpeg",
-  stock: 1
 },
             {
   nombre: "5575GOTAS DE TERBINAFINA",
@@ -2337,7 +2316,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen592.jpeg",
-  stock: 20
+  stock: 19
 },
       {
   nombre: "5736QUITAPELUSA PANDITA 2 EN 1",
@@ -2395,7 +2374,7 @@ const productos = [
    "3": 7.95,
        },
   imagen: "Img/Imagen603.jpeg",
-  stock: 10
+  stock: 9
 },
     {
   nombre: "5762ESPONJA MÁGICA DE MELAMINA",
@@ -2513,7 +2492,7 @@ const productos = [
    "12": 4.95,
     },
   imagen: "Img/Imagen617.jpeg",
-  stock: 15
+  stock: 14
 },
 
                         {
@@ -2954,7 +2933,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 14
+  stock: 11
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -3485,17 +3464,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen754.png",
-  stock: 2
-},
-    {
-  nombre: "5999MANTA CALAMINADA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Súper suave, cálida y acogedora para disfrutar de un descanso increíble. ¡Color al azar! Fácil de lavar y fabricada con material de piel de durazno. Medida: 2 x 2.3 m",
-  precios: {
-   "1": 15.95,
-     },
-  imagen: "Img/Imagen756.jpeg",
-  stock: 2
+  stock: 1
 },
   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
@@ -3522,17 +3491,6 @@ const productos = [
      },
   imagen: "Img/Imagen758.jpeg",
   stock: 16
-},
-  {
-  nombre: "6002SOCKET PARA FOCO CON CABLE DE EXTENSIÓN",
-  categoria: "Hogar / Cocina",
-  descripcion: "Lleva la iluminación donde la necesites con su cable de 5 metros. Ideal para el hogar, tiendas y espacios donde necesites mayor alcance.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen759.jpeg",
-  stock: 3
 },
   {
   nombre: "6003SCAJITA ORGANIZADORA",
@@ -3702,7 +3660,7 @@ const productos = [
    "6": 1.75,
      },
   imagen: "Img/Imagen776.jpeg",
-  stock: 23
+  stock: 20
 },
       {
   nombre: "6021KIT DE HERRAMIENTAS",
