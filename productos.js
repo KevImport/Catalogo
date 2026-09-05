@@ -680,7 +680,7 @@ const productos = [
     "1": 6.90,
   },
   imagen: "Img/Imagen173.jpeg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
@@ -1471,7 +1471,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 11
+  stock: 8
 },
     {
   nombre: "5420ORUGUITA DE PELUCHE",
@@ -2660,7 +2660,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen653.jpeg",
-  stock: 12
+  stock: 9
 },
      {
   nombre: "5841SET DE 16 CLIPS ORGANIZADORES DE CABLES",
@@ -3003,7 +3003,7 @@ const productos = [
    "1": 10.95,
   },
   imagen: "Img/Imagen701.jpeg",
-  stock: 7
+  stock: 4
 },
                    {
   nombre: "5915PISO PLEGABLE",
@@ -3386,7 +3386,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen746.jpeg",
-  stock: 38
+  stock: 40
 },  
   {
   nombre: "5991PAQUETE DE 12 ESTUCHES – 360 DENTAL FLOSS TOOTHPICK",
@@ -3454,7 +3454,7 @@ const productos = [
    "6": 4.25,
      },
   imagen: "Img/Imagen753.jpeg",
-  stock: 6
+  stock: 7
 },
     {
   nombre: "5997MEDIAS HIDRATANTES PARA EL CUIDADO DE LOS PIES",
@@ -3544,7 +3544,7 @@ const productos = [
    "3": 2.90,
      },
   imagen: "Imagen765.jpeg",
-  stock: 6
+  stock: 3
 },
         {
   nombre: "4834STICKER CUADRO 3D",
@@ -3638,7 +3638,7 @@ const productos = [
    "3": 7.95,
      },
   imagen: "Img/Imagen774.jpeg",
-  stock: 5
+  stock: 4
 },
       {
   nombre: "6018DISPENSADOR DE PAPEL HIGIÉNICO",
