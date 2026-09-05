@@ -3266,7 +3266,7 @@ const productos = [
    "6": 5.25,
   },
   imagen: "Img/Imagen733.jpeg",
-  stock: 11
+  stock: 14
 },
       {
   nombre: "5965SET DE 12 BOLSAS DE REGALO",
@@ -3501,7 +3501,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen760.jpeg",
-  stock: 13
+  stock: 17
 },
     {
   nombre: "6004CINTA IMPERMEABLE DE BUTILO",
@@ -3512,7 +3512,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen761.jpeg",
-  stock: 8
+  stock: 11
 },
   {
   nombre: "5967JABÓN QUITA MUGRE",
