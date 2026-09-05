@@ -3624,17 +3624,6 @@ const productos = [
   imagen: "Img/Imagen768.jpeg",
   stock: 20
 },
-          {
-  nombre: "6012GANCHOS MULTIUSOS PLANTITA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Decora tu cocina y mantén tus alimentos siempre frescos con este tierno imán para nevera! Sus hojas desmontables funcionan como prácticos clips de sellado para tus bolsas de snacks.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-     },
-  imagen: "Img/Imagen769.jpeg",
-  stock: 3
-},
             {
   nombre: "6013PAR DE GUANTES REUTILIZABLES",
   categoria: "Hogar / Cocina",
