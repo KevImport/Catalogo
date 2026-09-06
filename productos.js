@@ -3953,7 +3953,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen807.png",
-  stock: 19
+  stock: 16
 },
         {
   nombre: "6058JABONERA CON REJILLA",
