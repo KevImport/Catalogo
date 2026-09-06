@@ -748,7 +748,7 @@ const productos = [
     "12": 1.55,
  },
   imagen: "Img/Imagen188.jpeg",
-  stock: 25
+  stock: 16
 },
 {
   nombre: "5104FLORERO CON FLORES ARTIFICIALES",
