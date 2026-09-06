@@ -1846,17 +1846,6 @@ const productos = [
   imagen: "Img/Imagen484.png",
   stock: 3
 },
-            {
-  nombre: "5575GOTAS DE TERBINAFINA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Tratamiento antifúngico eficaz contra hongos en uñas y piel. Presentación en gotas de fácil aplicación. Ideal para infecciones como pie de atleta y hongos en uñas.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen492.jpeg",
-  stock: 7
-},
           {
   nombre: "5577CINTA DOBLE FAZ PARA ROPA",
   categoria: "Higiene / Cuidado Personal",
@@ -3160,18 +3149,7 @@ const productos = [
   imagen: "Img/Imagen722.jpeg",
   stock: 9
 },
-                              {
-  nombre: "5947EXFOLIANTE CORPORAL 350ML",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Renueva tu piel con una exfoliación suave que ayuda a eliminar impurezas y deja la piel más lisa, fresca y con un delicioso aroma. Aroma al azar.",
-  precios: {
-   "1": 6.95,
-   "3": 5.25,
-  },
-  imagen: "Img/Imagen723.jpeg",
-  stock: 3
-},
-                                {
+  {
   nombre: "5948CINTURÓN PARA CÓLICOS",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Alivia cólicos y la inflamación abdominal gracias a su calor terapéutico y masaje por vibración. Relaja los músculos, mejora la circulación y brinda alivio durante el periodo. Diseño cómodo y portátil, ideal para usar en casa, trabajo o donde lo necesites. Color al azar.",
@@ -3791,18 +3769,6 @@ const productos = [
   stock: 2
 },
   {
-  nombre: "6027EXTENSIONES GLITTER PARA CABELLO 50cm",
-  categoria: "Accesorios",
-  descripcion: "Dale un toque de brillo y color a tu cabello con estas increíbles extensiones glitter de 50 cm. Fáciles de usar y perfectas para fiestas, eventos o darle un look diferente a tu estilo. Color al azar",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-   "6": 1.75,
-     },
-  imagen: "Img/Imagen791.jpeg",
-  stock: 7
-},
-  {
   nombre: "6028BOLSA DE REGALO TRANSPARENTE",
   categoria: "Decoración / Fiesta",
   descripcion: "Elegante, práctica y resistente, ideal para presentar tus regalos con estilo. Perfecta para detalles y ocasiones especiales. Medida: 18 × 26 × 8 cm. Material: PVC transparente",
@@ -3846,7 +3812,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen795.jpeg",
-  stock: 4
+  stock: 3
 },    
   {
   nombre: "6038PAQUETE DE 50 BOLSAS DE BASURA",
@@ -3859,7 +3825,7 @@ const productos = [
    "12": 3.15,
      },
   imagen: "Img/Imagen796.jpeg",
-  stock: 4
+  stock: 15
 },
     {
   nombre: "6040SET DE 12 COLORES BORRABLES",
@@ -3893,7 +3859,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen799.jpeg",
-  stock: 33
+  stock: 30
 },
       {
   nombre: "6044TINTURA CAPILAR SPRAY PÚRPURA – 120ml",
@@ -3905,7 +3871,7 @@ const productos = [
    "6": 6.75,
      },
   imagen: "Img/Imagen800.jpeg",
-  stock: 6
+  stock: 3
 },
       {
   nombre: "6046COLLAR GIRASOL",
