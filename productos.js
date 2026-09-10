@@ -3845,10 +3845,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.75,
      },
   imagen: "Img/Imagen798.jpeg",
-  stock: 6
+  stock: 3
 },
       {
   nombre: "6043SET DE 24 SILBATOS DIVERTIDOS",
@@ -3942,7 +3941,7 @@ const productos = [
    "6": 2.75,
      },
   imagen: "Img/Imagen806.jpeg",
-  stock: 11
+  stock: 10
 },
         {
   nombre: "6057CINTA DOBLE CONTACTO DE 3 METROS",
@@ -3972,9 +3971,8 @@ const productos = [
   descripcion: "Limpieza y protección para tus manos y piel, estés donde estés. Con alcohol y aloe vera, ideales para llevar siempre contigo.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "Img/Imagen809.jpeg",
-  stock: 5
+  stock: 1
 },
   ];
