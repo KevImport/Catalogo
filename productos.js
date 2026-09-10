@@ -3809,10 +3809,9 @@ const productos = [
   descripcion: "Potente y práctica, ideal para casa, auto, paseos y emergencias. Incluye estuche para transportarla y mantenerla protegida.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen795.jpeg",
-  stock: 3
+  stock: 1
 },    
   {
   nombre: "6038PAQUETE DE 50 BOLSAS DE BASURA",
