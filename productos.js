@@ -1594,7 +1594,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen422.png",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "5470TAJADOR CON BORRADOR",
@@ -1714,16 +1714,6 @@ const productos = [
      },
   imagen: "Img/Imagen454.jpeg",
   stock: 2
-},
-          {
-  nombre: "5516SET DE 12 COLORES LARGOS + TAJADOR ALPHA",
-  categoria: "Escolar / Papelería",
-  descripcion: "Colores intensos y duraderos para un pintado uniforme. Incluye tajador para mayor practicidad. Ideal para colegio, tareas y trabajos creativos.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen459.jpeg",
-  stock: 1
 },
       {
   nombre: "5520CARTUCHERA 3D",
@@ -2291,7 +2281,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "Img/Imagen592.jpeg",
-  stock: 19
+  stock: 18
 },
       {
   nombre: "5736QUITAPELUSA PANDITA 2 EN 1",
@@ -2895,10 +2885,9 @@ const productos = [
    "1": 2.95,
    "3": 1.95,
    "6": 1.75,
-   "12": 1.55,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 11
+  stock: 10
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -3079,7 +3068,7 @@ const productos = [
    "12": 2.95,
   },
   imagen: "Img/Imagen715.jpeg",
-  stock: 21
+  stock: 16
 },
                       {
   nombre: "5940ROLLÓN DE PAPEL TISSUE",
@@ -3264,16 +3253,6 @@ const productos = [
   },
   imagen: "Img/Imagen739.jpeg",
   stock: 27
-},
-       {
-  nombre: "5982TABLA DE PICAR CON UTENSILIOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctica y resistente, ideal para cortar, picar y servir tus alimentos. Tamaño perfecto: 30×18×1 cm — ¡un básico indispensable para tu cocina!",
-  precios: {
-   "1": 10.95,
-     },
-  imagen: "Img/Imagen740.jpeg",
-  stock: 1
 },
        {
   nombre: "5983JABÓN ESPUMA FLOR 300ml",
@@ -3474,10 +3453,9 @@ const productos = [
   descripcion: "Elimina manchas difíciles con alto poder de limpieza. Ideal para todo tipo de ropa, dejando tus prendas impecables.",
   precios: {
    "1": 3.95,
-   "3": 2.95,
      },
   imagen: "Img/Imagen763.png",
-  stock: 3
+  stock: 2
 },
     {
   nombre: "5021SACO CORREA PARA NIÑAS",
