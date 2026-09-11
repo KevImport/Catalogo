@@ -3800,7 +3800,7 @@ const productos = [
    "6": 4.65,
      },
   imagen: "Img/Imagen794.jpeg",
-  stock: 7
+  stock: 6
 },
   {
   nombre: "6038PAQUETE DE 50 BOLSAS DE BASURA",
