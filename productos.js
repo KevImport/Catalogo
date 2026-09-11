@@ -3398,7 +3398,7 @@ const productos = [
    "6": 4.25,
      },
   imagen: "Img/Imagen751.png",
-  stock: 8
+  stock: 7
 }, 
   {
   nombre: "5995POLERON ABRIGADOR",
@@ -3478,7 +3478,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen761.jpeg",
-  stock: 11
+  stock: 8
 },
   {
   nombre: "5967JABÓN QUITA MUGRE",
@@ -3577,10 +3577,9 @@ const productos = [
   descripcion: "Ilumina tus espacios de forma práctica y eficiente, con carga solar y batería recargable. Ideal para el hogar, camping, emergencias y exteriores. ¡Llévalo donde necesites luz!",
   precios: {
    "1": 7.95,
-   "3": 6.95,
      },
   imagen: "Img/Imagen772.jpeg",
-  stock: 3
+  stock: 2
 },
       {
   nombre: "6016ORGANIZADOR VERTICAL PARA ACCESORIOS DEL CABELLO",
@@ -3803,16 +3802,6 @@ const productos = [
   imagen: "Img/Imagen794.jpeg",
   stock: 7
 },
-    {
-  nombre: "6037LINTERNA RECARGABLE CON ESTUCHE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Potente y práctica, ideal para casa, auto, paseos y emergencias. Incluye estuche para transportarla y mantenerla protegida.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen795.jpeg",
-  stock: 1
-},    
   {
   nombre: "6038PAQUETE DE 50 BOLSAS DE BASURA",
   categoria: "Hogar / Cocina",
@@ -3821,10 +3810,9 @@ const productos = [
    "1": 4.95,
    "3": 3.55,
    "6": 3.35,
-   "12": 3.15,
      },
   imagen: "Img/Imagen796.jpeg",
-  stock: 15
+  stock: 9
 },
     {
   nombre: "6040SET DE 12 COLORES BORRABLES",
@@ -3835,7 +3823,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen797.png",
-  stock: 8
+  stock: 5
 },
       {
   nombre: "6041SET DE 12 PLUMONES CON SELLO",
@@ -3928,7 +3916,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen805.jpeg",
-  stock: 16
+  stock: 13
 },
         {
   nombre: "6054DELINEADOR NEGRO",
@@ -3940,7 +3928,7 @@ const productos = [
    "6": 2.75,
      },
   imagen: "Img/Imagen806.jpeg",
-  stock: 10
+  stock: 7
 },
         {
   nombre: "6057CINTA DOBLE CONTACTO DE 3 METROS",
@@ -3963,15 +3951,5 @@ const productos = [
      },
   imagen: "Img/Imagen808.jpeg",
   stock: 13
-},
-          {
-  nombre: "6059TOALLAS HÚMEDAS ANTIBACTERIALES x 60",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Limpieza y protección para tus manos y piel, estés donde estés. Con alcohol y aloe vera, ideales para llevar siempre contigo.",
-  precios: {
-   "1": 4.95,
-     },
-  imagen: "Img/Imagen809.jpeg",
-  stock: 1
 },
   ];
