@@ -3265,16 +3265,6 @@ const productos = [
   imagen: "Img/Imagen741.jpeg",
   stock: 10
 },
-         {
-  nombre: "5985ESPUMA DE LECHE PARA LIMPIEZA FACIAL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Limpia profundamente tu rostro mientras ayuda a mantener la piel suave, fresca e hidratada. Con proteína de leche, ideal para una rutina de limpieza facial diaria.",
-  precios: {
-   "1": 8.95,
-     },
-  imagen: "Img/Imagen742.jpeg",
-  stock: 1
-},
            {
   nombre: "5986PUZZLE DESLIZANTE DISNEY LICENCIA",
   categoria: "Juguetes",
@@ -3353,7 +3343,7 @@ const productos = [
    "12": 3.95,
      },
   imagen: "Img/Imagen750.jpeg",
-  stock: 22
+  stock: 20
 },
   {
   nombre: "5994PACK DE 10 PARCHES DESODORANTES PARA PIES",
@@ -3525,7 +3515,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen770.jpeg",
-  stock: 19
+  stock: 18
 },
       {
   nombre: "6014PACK DE 12 PORTA ROSAS DECORATIVAS",
