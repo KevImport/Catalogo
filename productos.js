@@ -3754,10 +3754,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.55,
-   "6": 3.35,
      },
   imagen: "Img/Imagen796.jpeg",
-  stock: 9
+  stock: 3
 },
     {
   nombre: "6040SET DE 12 COLORES BORRABLES",
@@ -3793,18 +3792,6 @@ const productos = [
   stock: 30
 },
       {
-  nombre: "6044TINTURA CAPILAR SPRAY PÚRPURA – 120ml",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Dale a tu cabello un toque púrpura intenso y divertido en segundos. Color temporal, lavable y fácil de aplicar, ¡ideal para crear looks increíbles!",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-   "6": 6.75,
-     },
-  imagen: "Img/Imagen800.jpeg",
-  stock: 3
-},
-      {
   nombre: "6046COLLAR GIRASOL",
   categoria: "Accesorios",
   descripcion: "Un detalle delicado y lleno de alegría para complementar cualquier look. Presentación: cajita",
@@ -3837,10 +3824,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
      },
   imagen: "Img/Imagen803.jpeg",
-  stock: 12
+  stock: 9
 },
         {
   nombre: "6050SET DE 12 PLATITOS MULTIUSO",
@@ -3861,7 +3847,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen805.jpeg",
-  stock: 13
+  stock: 10
 },
         {
   nombre: "6054DELINEADOR NEGRO",
@@ -3895,6 +3881,6 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen808.jpeg",
-  stock: 13
+  stock: 10
 },
   ];
