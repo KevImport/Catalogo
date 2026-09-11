@@ -3535,7 +3535,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen772.jpeg",
-  stock: 2
+  stock: 1
 },
       {
   nombre: "6016ORGANIZADOR VERTICAL PARA ACCESORIOS DEL CABELLO",
@@ -3562,16 +3562,6 @@ const productos = [
   stock: 4
 },
       {
-  nombre: "6018DISPENSADOR DE PAPEL HIGIÉNICO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tu baño ordenado y el papel siempre al alcance con este práctico dispensador. Fácil de usar y perfecto para darle un toque práctico y moderno a tu espacio. Color al azar",
-  precios: {
-   "1": 12.95,
-     },
-  imagen: "Img/Imagen775.jpeg",
-  stock: 2
-},
-      {
   nombre: "6019ALCOHOL CON AROMA",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Limpieza y frescura con deliciosos aromas para acompañarte durante el día. Presentación de 100 ml, práctica y fácil de llevar a donde quieras. Aroma al azar.",
@@ -3581,7 +3571,7 @@ const productos = [
    "6": 1.75,
      },
   imagen: "Img/Imagen776.jpeg",
-  stock: 20
+  stock: 15
 },
       {
   nombre: "6021KIT DE HERRAMIENTAS",
@@ -3753,10 +3743,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.65,
      },
   imagen: "Img/Imagen794.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "6038PAQUETE DE 50 BOLSAS DE BASURA",
