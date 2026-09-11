@@ -672,16 +672,6 @@ const productos = [
   stock: 12
 },
 {
-  nombre: "5058SET DE 8 PLUMONES OUTLINE",
-  categoria: "Escolar / Papelería",
-  descripcion: "Ideal para hacer las decoraciones. Se puede usar en papel y cartulina.Este plumón realiza los trazos de color por fuera y en el centro plateado. El set contiene 8 plumones por set",
-  precios: {
-    "1": 6.90,
-  },
-  imagen: "Img/Imagen173.jpeg",
-  stock: 1
-},
-{
   nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
   categoria: "Decoración / Fiesta",
   descripcion: "Perfectas para fiestas, reuniones o el día a día. Resistentes, coloridas y súper prácticas. ",
@@ -1467,10 +1457,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
      },
   imagen: "Img/Imagen384.jpeg",
-  stock: 8
+  stock: 5
 },
     {
   nombre: "5420ORUGUITA DE PELUCHE",
@@ -1978,10 +1967,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
        },
   imagen: "Img/Imagen522.jpeg",
-  stock: 6
+  stock: 5
 },
     {
   nombre: "5631COFRE CORAZÓN",
@@ -2637,7 +2625,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen653.jpeg",
-  stock: 9
+  stock: 6
 },
      {
   nombre: "5841SET DE 16 CLIPS ORGANIZADORES DE CABLES",
@@ -2980,7 +2968,7 @@ const productos = [
    "1": 10.95,
   },
   imagen: "Img/Imagen701.jpeg",
-  stock: 4
+  stock: 1
 },
                    {
   nombre: "5915PISO PLEGABLE",
@@ -3033,7 +3021,7 @@ const productos = [
    "1": 18.95,
   },
   imagen: "Img/Imagen710.jpeg",
-  stock: 5
+  stock: 1
 },
               {
   nombre: "5931MOUSE PAD XL CON ATAJOS",
