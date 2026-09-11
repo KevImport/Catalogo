@@ -3159,7 +3159,7 @@ const productos = [
    "6": 1.95,
   },
   imagen: "Img/Imagen728.png",
-  stock: 11
+  stock: 6
 },
                        {
   nombre: "5954CARRUSEL MUSICAL",
@@ -3548,7 +3548,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen773.jpeg",
-  stock: 23
+  stock: 21
 },
       {
   nombre: "6017MINI PLANCHA PORTÁTIL",
@@ -3556,10 +3556,9 @@ const productos = [
   descripcion: "Ideal para planchar prendas y realizar proyectos de costura, parches, vinilo textil y manualidades detalladas. Compacta, práctica y fácil de usar para trabajos pequeños y precisos o para tener tu ropa impecable.",
   precios: {
    "1": 8.95,
-   "3": 7.95,
      },
   imagen: "Img/Imagen774.jpeg",
-  stock: 4
+  stock: 1
 },
       {
   nombre: "6019ALCOHOL CON AROMA",
@@ -3870,7 +3869,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen807.png",
-  stock: 16
+  stock: 13
 },
         {
   nombre: "6058JABONERA CON REJILLA",
