@@ -3799,7 +3799,7 @@ const productos = [
    "6": 7.75,
      },
   imagen: "Img/Imagen801.jpeg",
-  stock: 10
+  stock: 9
 },
         {
   nombre: "6048SET DE 8 CARRITOS DE METAL",
