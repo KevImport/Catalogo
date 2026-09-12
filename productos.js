@@ -3435,7 +3435,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen761.jpeg",
-  stock: 8
+  stock: 5
 },
   {
   nombre: "5967JABÓN QUITA MUGRE",
@@ -3763,10 +3763,9 @@ const productos = [
   descripcion: "Incluye 12 colores borrables + 2 lápices para escribir y colorear con creatividad. Además, trae 1 borrador y 1 tajador para tener todo lo necesario en un solo set.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "Img/Imagen797.png",
-  stock: 5
+  stock: 2
 },
       {
   nombre: "6041SET DE 12 PLUMONES CON SELLO",
