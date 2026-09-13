@@ -2118,7 +2118,7 @@ const productos = [
    "1": 4.95,
        },
   imagen: "Img/Imagen558.jpeg",
-  stock: 5
+  stock: 1
 },
      {
   nombre: "5621PULSERA DISEÑO BODHI",
@@ -2150,10 +2150,9 @@ const productos = [
    "1": 4.95,
    "3": 3.95,
    "6": 3.65,
-   "12": 3.35,
        },
   imagen: "Img/Imagen567.jpg",
-  stock: 12
+  stock: 9
 },
            {
   nombre: "5698MANIQUÍ MANO CORTA DAMA",
@@ -2662,7 +2661,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen661.jpeg",
-  stock: 21
+  stock: 20
 },
        {
   nombre: "5858PROTECTOR DE TECLADO",
@@ -3917,16 +3916,6 @@ const productos = [
   imagen: "Img/Imagen815.jpeg",
   stock: 8
 },
-     {
-  nombre: "6068TIRA DE 5 METROS DE FOQUITOS MULTICOLOR",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ilumina y decora tus espacios con luces multicolor llenas de encanto. Carga solar y aproximadamente 20 foquitos para crear un ambiente especial.",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen816.jpeg",
-  stock: 1
-},
        {
   nombre: "6069ORGANIZADOR DE ESPECIAS",
   categoria: "Hogar / Cocina",
@@ -4065,7 +4054,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen827.jpeg",
-  stock: 13
+  stock: 11
 },
       {
   nombre: "6082CAJA DE 10 SACHETS SHAMPOO CUBRE CANAS – MARRÓN OSCURO",
