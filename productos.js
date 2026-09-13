@@ -3887,4 +3887,48 @@ const productos = [
   imagen: "Img/Imagen812.jpeg",
   stock: 13
 },
+      {
+  nombre: "6065MANTITA 50 x 80cm",
+  categoria: "Hogar / Cocina",
+  descripcion: "Suave, calientita y súper cómoda para el descanso. Perfecta para bebé, niños o para usar en cualquier momento. ¡Práctica y fácil de lavar! Diseño al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+     },
+  imagen: "Img/Imagen813.png",
+  stock: 6
+},
+     {
+  nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus infusiones ordenadas y siempre al alcance. Práctica, elegante y perfecta para organizar tu cocina.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen814.jpeg",
+  stock: 11
+},
+     {
+  nombre: "6067SET DE GANCHITOS FLOR",
+  categoria: "Accesorios",
+  descripcion: "Colores y diseños variados para darle un toque lindo y divertido a cualquier peinado. ¡Ideales para niñas y grandes!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+     },
+  imagen: "Img/Imagen815.jpeg",
+  stock: 8
+},
+     {
+  nombre: "6068TIRA DE 5 METROS DE FOQUITOS MULTICOLOR",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ilumina y decora tus espacios con luces multicolor llenas de encanto. Carga solar y aproximadamente 20 foquitos para crear un ambiente especial.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen816.jpeg",
+  stock: 1
+},
   ];
