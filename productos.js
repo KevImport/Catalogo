@@ -3931,4 +3931,92 @@ const productos = [
   imagen: "Img/Imagen816.jpeg",
   stock: 1
 },
+       {
+  nombre: "6069ORGANIZADOR DE ESPECIAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Ordena tu cocina y lleva tus condimentos frescos a donde quieras con este set modular. Listo para usar en tus mejores recetas. Medida: 25 x 9 x 9 cm",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen817.jpeg",
+  stock: 6
+},
+       {
+  nombre: "6071PACK DE 8 BARRAS DE SILICONA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideales para manualidades, reparaciones y todo tipo de proyectos. Medida: 0.7 x 18 cm — delgadas, prácticas y fáciles de usar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "Img/Imagen818.jpeg",
+  stock: 19
+},
+       {
+  nombre: "6072SET DE 20 CUBIERTAS DE ALUMINIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 20 piezas. Resistentes y reutilizables. Ideales para conservar y proteger alimentos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Img/Imagen819.png",
+  stock: 20
+},
+       {
+  nombre: "6073SET DE 5 BOLSAS AL VACÍO + SUCCIONADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Reduce el volumen de tu ropa y gana más espacio en tu clóset o maleta. Protege tus prendas del polvo y la humedad mientras las mantienes organizadas y compactas.",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "Img/Imagen820.jpeg",
+  stock: 1
+},
+         {
+  nombre: "6074JOYERO VIAJERO CUTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lleva tus accesorios siempre ordenados y protegidos, ¡perfecto para viajar! Compacto, práctico y con múltiples compartimentos para guardar tus joyitas favoritas.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen821.jpeg",
+  stock: 14
+},
+         {
+  nombre: "6075TOMATODO KIDS ",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Ideal para la escuela, paseos y mucho más! Capacidad de 528 ml, súper práctico para los peques. Diseño / color al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen822.jpeg",
+  stock: 3
+},
+         {
+  nombre: "6076SET DE 12 PELOTAS FIESTA",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión asegurada con diseños coloridos y llamativos! Ideales para fiestas, juegos, piñatas, regalos y mucho más. Diseño al azar",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen823.jpeg",
+  stock: 12
+},
+  {
+  nombre: "6077SET DE 10 PARES DE MEDIAS OSITO",
+  categoria: "Ropa interior",
+  descripcion: "Suavecitas, cómodas y súper lindas. ¡Ideales para el día a día!",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "Img/Imagen824.jpeg",
+  stock: 7
+},
+  
   ];
