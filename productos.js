@@ -3055,10 +3055,9 @@ const productos = [
    "1": 4.95,
    "3": 3.55,
    "6": 3.25,
-   "12": 2.95,
   },
   imagen: "Img/Imagen715.jpeg",
-  stock: 16
+  stock: 10
 },
                       {
   nombre: "5940ROLLÓN DE PAPEL TISSUE",
@@ -3146,10 +3145,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.25,
-   "6": 1.95,
   },
   imagen: "Img/Imagen728.png",
-  stock: 6
+  stock: 5
 },
                        {
   nombre: "5954CARRUSEL MUSICAL",
@@ -3422,10 +3420,9 @@ const productos = [
   descripcion: "Sella, repara y protege contra filtraciones de forma rápida y efectiva. Ideal para techos, tuberías, ventanas, grietas y múltiples superficies.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "Img/Imagen761.jpeg",
-  stock: 5
+  stock: 1
 },
   {
   nombre: "5967JABÓN QUITA MUGRE",
@@ -3528,7 +3525,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen773.jpeg",
-  stock: 21
+  stock: 19
 },
       {
   nombre: "6017MINI PLANCHA PORTÁTIL",
