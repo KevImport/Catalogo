@@ -3746,17 +3746,6 @@ const productos = [
   imagen: "Img/Imagen794.jpeg",
   stock: 5
 },
-  {
-  nombre: "6038PAQUETE DE 50 BOLSAS DE BASURA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Resistentes y prácticas para mantener tus espacios limpios y ordenados. Ideales para el hogar y negocio, con capacidad de 20 litros.",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-     },
-  imagen: "Img/Imagen796.jpeg",
-  stock: 3
-},
     {
   nombre: "6040SET DE 12 COLORES BORRABLES",
   categoria: "Escolar / Papelería",
