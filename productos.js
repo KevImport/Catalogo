@@ -3518,16 +3518,6 @@ const productos = [
   stock: 10
 },
       {
-  nombre: "6015FOCO PELOTA RECARGABLE CON PANEL SOLAR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ilumina tus espacios de forma práctica y eficiente, con carga solar y batería recargable. Ideal para el hogar, camping, emergencias y exteriores. ¡Llévalo donde necesites luz!",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "Img/Imagen772.jpeg",
-  stock: 1
-},
-      {
   nombre: "6016ORGANIZADOR VERTICAL PARA ACCESORIOS DEL CABELLO",
   categoria: "Hogar / Cocina",
   descripcion: "Pon fin al caos en tu tocador con este hermoso soporte de madera natural! Organiza tus gomas, coleteros y pinzas en un solo lugar para tenerlos siempre listos.",
@@ -3778,7 +3768,7 @@ const productos = [
    "6": 7.75,
      },
   imagen: "Img/Imagen801.jpeg",
-  stock: 9
+  stock: 8
 },
         {
   nombre: "6048SET DE 8 CARRITOS DE METAL",
@@ -3885,5 +3875,16 @@ const productos = [
      },
   imagen: "Img/Imagen811.jpeg",
   stock: 18
+},
+    {
+  nombre: "6064POLIVESTIDO KAWAII",
+  categoria: "Ropa interior",
+  descripcion: "Diseños tiernos y divertidos para lucir cómoda y adorable. Talla única. Diseño al azar.",
+  precios: {
+   "1": 9.95,
+   "3": 8.95,
+     },
+  imagen: "Img/Imagen812.jpeg",
+  stock: 13
 },
   ];
