@@ -3859,5 +3859,31 @@ const productos = [
      },
   imagen: "Img/Imagen808.jpeg",
   stock: 10
+},       
+  {
+  nombre: "6062PASTILLA PARA TANQUE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu inodoro limpio, fresco y con agradable aroma en cada descarga. Fácil de usar y práctica para el mantenimiento diario del baño.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+   "12": 1.75,
+     },
+  imagen: "Img/Imagen810.jpeg",
+  stock: 36
+},
+  {
+  nombre: "6063VELAS ESTILO GLOBOS PARA CUMPLEAÑOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque divertido y especial a tus tortas con estas lindas velas en forma de globo. Disponibles en números del 0 al 9 (según disponibilidad), ¡perfectas para cualquier celebración!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen811.jpeg",
+  stock: 18
 },
   ];
