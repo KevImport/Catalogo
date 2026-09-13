@@ -1430,16 +1430,6 @@ const productos = [
   imagen: "Img/Imagen374.jpeg",
   stock: 4
 },
-   {
-  nombre: "5406CARTERA MODERNO – LUXE",
-  categoria: "Accesorios",
-  descripcion: "Elegante, compacta y súper práctica, ideal para acompañarte en el día a día. Con detalles en tono cuero, estampado clásico y correa ajustable, aporta un toque sofisticado a cualquier outfit. Medida: 25 x 18 x 8 cm",
-  precios: {
-   "1": 14.90,
-     },
-  imagen: "Img/Imagen378.jpeg",
-  stock: 1
-},
             {
   nombre: "5411PRINCESA MUSICAL GIRATORIA",
   categoria: "Juguetes",
