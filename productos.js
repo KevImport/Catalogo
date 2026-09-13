@@ -4019,14 +4019,14 @@ const productos = [
   stock: 12
 },
   {
-  nombre: "6078MOCHILA ANTIROBO DE DAMA",
-  categoria: "Accesorios",
-  descripcion: "Diseño antirrobo, ligera y cómoda para llevar todo con seguridad. Material resistente e impermeable, ideal para el día a día. No incluye llavero, diseño al azar.",
+  nombre: "6077SET DE 10 PARES DE MEDIAS OSITO",
+  categoria: "Ropa interior",
+  descripcion: "Suavecitas, cómodas y súper lindas. ¡Ideales para el día a día!",
   precios: {
-   "1": 12.95,
+   "1": 5.95,
      },
-  imagen: "Img/Imagen825.jpeg",
-  stock: 8
+  imagen: "Img/Imagen824.jpeg",
+  stock: 7
 },
   
   {
@@ -4039,6 +4039,67 @@ const productos = [
   imagen: "Img/Imagen825.jpeg",
   stock: 8
 },
+    {
+  nombre: "6079PACK 4 LIBROS MÁGICOS MONTESSORI",
+  categoria: "Escolar / Papelería",
+  descripcion: "Aprende trazos, números, figuras y lógica de forma divertida y práctica. Reutilizables y borrables, ¡para practicar una y otra vez!",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen831.png",
+  stock: 4
+},
+    {
+  nombre: "6080SET DE 5 SORBETES DE VIDRIO + CEPILLO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Reutilizables, prácticos y perfectos para tus bebidas favoritas. Incluye cepillo de limpieza para mantenerlos siempre impecables.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "Img/Imagen826.jpeg",
+  stock: 2
+},
+      {
+  nombre: "6081PULSERA HELLO KITTY",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque tierno y divertido a tu look con esta hermosa pulsera de Hello Kitty. ¡Ideal para regalar y sorprender a toda fan de Hello Kitty!",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "Img/Imagen827.jpeg",
+  stock: 13
+},
+      {
+  nombre: "6082CAJA DE 10 SACHETS SHAMPOO CUBRE CANAS – MARRÓN OSCURO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Cubre las canas y ayuda a devolver un tono marrón oscuro al cabello de forma práctica. Fácil de usar y con resultados en pocos minutos, ideal para hombres y mujeres.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen828.jpeg",
+  stock: 11
+},
+      {
+  nombre: "6083FONDO NAVIDEÑO 220 x 250 CM",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque mágico y festivo a tus espacios con este hermoso fondo navideño. Ideal para fotos, eventos, sesiones navideñas y decoración. Diseño al azar",
+  precios: {
+   "1": 20.95,
+     },
+  imagen: "Img/Imagen829.jpeg",
+  stock: 10
+},
+      {
+  nombre: "6084BANDEJA CON TAPA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctica y resistente, ideal para conservar, organizar y transportar tus alimentos. Fabricada en acero, con tapa y excelente tamaño para el hogar, negocio u oficina. Medida: 40 × 24 × 8 cm. Material: Acero",
+  precios: {
+   "1": 8.90,
+     },
+  imagen: "Img/Imagen830.jpeg",
+  stock: 24
 },
   
   
