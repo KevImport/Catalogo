@@ -4008,15 +4008,38 @@ const productos = [
   imagen: "Img/Imagen823.jpeg",
   stock: 12
 },
-  {
-  nombre: "6077SET DE 10 PARES DE MEDIAS OSITO",
-  categoria: "Ropa interior",
-  descripcion: "Suavecitas, cómodas y súper lindas. ¡Ideales para el día a día!",
+           {
+  nombre: "6076SET DE 12 PELOTAS FIESTA",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión asegurada con diseños coloridos y llamativos! Ideales para fiestas, juegos, piñatas, regalos y mucho más. Diseño al azar",
   precios: {
-   "1": 5.95,
+   "1": 12.95,
      },
-  imagen: "Img/Imagen824.jpeg",
-  stock: 7
+  imagen: "Img/Imagen823.jpeg",
+  stock: 12
 },
+  {
+  nombre: "6078MOCHILA ANTIROBO DE DAMA",
+  categoria: "Accesorios",
+  descripcion: "Diseño antirrobo, ligera y cómoda para llevar todo con seguridad. Material resistente e impermeable, ideal para el día a día. No incluye llavero, diseño al azar.",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen825.jpeg",
+  stock: 8
+},
+  
+  {
+  nombre: "6078MOCHILA ANTIROBO DE DAMA",
+  categoria: "Accesorios",
+  descripcion: "Diseño antirrobo, ligera y cómoda para llevar todo con seguridad. Material resistente e impermeable, ideal para el día a día. No incluye llavero, diseño al azar.",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen825.jpeg",
+  stock: 8
+},
+},
+  
   
   ];
