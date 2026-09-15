@@ -3951,16 +3951,6 @@ const productos = [
   imagen: "Img/Imagen819.png",
   stock: 20
 },
-       {
-  nombre: "6073SET DE 5 BOLSAS AL VACÍO + SUCCIONADOR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Reduce el volumen de tu ropa y gana más espacio en tu clóset o maleta. Protege tus prendas del polvo y la humedad mientras las mantienes organizadas y compactas.",
-  precios: {
-   "1": 11.95,
-     },
-  imagen: "Img/Imagen820.jpeg",
-  stock: 1
-},
          {
   nombre: "6074JOYERO VIAJERO CUTE",
   categoria: "Hogar / Cocina",
