@@ -1952,17 +1952,6 @@ const productos = [
   imagen: "Img/Imagen523.jpeg",
   stock: 34
 },
-   {
-  nombre: "5632MOLDE PARA MINI GOMITAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para preparar gomitas, chocolates o gelatinas caseras. Material flexible y fácil de desmoldar. Perfecto para hacer dulces creativos en casa.",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-       },
-  imagen: "Img/Imagen524.jpeg",
-  stock: 3
-},
        {
   nombre: "5635SOPORTE ADHESIVO PARA LENTES",
   categoria: "Hogar / Cocina",
@@ -2029,7 +2018,7 @@ const productos = [
    "6": 2.95,
        },
   imagen: "Img/Imagen534.jpeg",
-  stock: 7
+  stock: 6
 },
              {
   nombre: "5652BÁLSAMO LABIAL HIDRATANTE DE 5ML",
@@ -2852,7 +2841,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen692.jpeg",
-  stock: 9
+  stock: 8
 },
           {
   nombre: "5901SET DE 5 MALLAS DE LIMPIEZA",
@@ -2913,7 +2902,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen698.jpeg",
-  stock: 10
+  stock: 9
 },
                    {
   nombre: "5910ESCURRIDOR COLADOR",
@@ -4011,7 +4000,7 @@ const productos = [
    "1": 8.90,
      },
   imagen: "Img/Imagen830.jpeg",
-  stock: 24
+  stock: 2
 },
         {
   nombre: "COMBO CREATIVO",
