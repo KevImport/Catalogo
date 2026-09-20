@@ -3365,16 +3365,6 @@ const productos = [
   imagen: "Img/Imagen753.jpeg",
   stock: 7
 },
-    {
-  nombre: "5997MEDIAS HIDRATANTES PARA EL CUIDADO DE LOS PIES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Hidrata, suaviza y ayuda a reparar los talones resecos y agrietados. Reutilizables, cómodas e ideales para el cuidado diario de tus pies.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen754.png",
-  stock: 1
-},
   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
   categoria: "Hogar / Cocina",
@@ -3523,17 +3513,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen773.jpeg",
-  stock: 19
-},
-      {
-  nombre: "6017MINI PLANCHA PORTÁTIL",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para planchar prendas y realizar proyectos de costura, parches, vinilo textil y manualidades detalladas. Compacta, práctica y fácil de usar para trabajos pequeños y precisos o para tener tu ropa impecable.",
-  precios: {
-   "1": 8.95,
-     },
-  imagen: "Img/Imagen774.jpeg",
-  stock: 1
+  stock: 16
 },
       {
   nombre: "6019ALCOHOL CON AROMA",
@@ -3882,18 +3862,6 @@ const productos = [
   imagen: "Img/Imagen812.jpeg",
   stock: 13
 },
-      {
-  nombre: "6065MANTITA 50 x 80cm",
-  categoria: "Hogar / Cocina",
-  descripcion: "Suave, calientita y súper cómoda para el descanso. Perfecta para bebé, niños o para usar en cualquier momento. ¡Práctica y fácil de lavar! Diseño al azar",
-  precios: {
-   "1": 3.95,
-   "3": 2.25,
-   "6": 1.95,
-     },
-  imagen: "Img/Imagen813.png",
-  stock: 6
-},
      {
   nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
   categoria: "Hogar / Cocina",
@@ -3925,7 +3893,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen817.jpeg",
-  stock: 6
+  stock: 5
 },
        {
   nombre: "6071PACK DE 8 BARRAS DE SILICONA",
@@ -4001,7 +3969,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen824.jpeg",
-  stock: 7
+  stock: 6
 },
   
   {
@@ -4012,7 +3980,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen825.jpeg",
-  stock: 8
+  stock: 6
 },
     {
   nombre: "6079PACK 4 LIBROS MÁGICOS MONTESSORI",
@@ -4033,7 +4001,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen826.jpeg",
-  stock: 2
+  stock: 1
 },
       {
   nombre: "6081PULSERA HELLO KITTY",
