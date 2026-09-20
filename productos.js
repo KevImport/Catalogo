@@ -3992,16 +3992,6 @@ const productos = [
   imagen: "Img/Imagen829.jpeg",
   stock: 10
 },
-      {
-  nombre: "6084BANDEJA CON TAPA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctica y resistente, ideal para conservar, organizar y transportar tus alimentos. Fabricada en acero, con tapa y excelente tamaño para el hogar, negocio u oficina. Medida: 40 × 24 × 8 cm. Material: Acero",
-  precios: {
-   "1": 8.90,
-     },
-  imagen: "Img/Imagen830.jpeg",
-  stock: 2
-},
         {
   nombre: "COMBO CREATIVO",
   categoria: "Combos",
