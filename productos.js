@@ -4199,8 +4199,7 @@ const productos = [
 },
      {
   nombre: "6105FLORERO ACRÍLICO MARIPOSA 3D",
-  categoria: "6108FRASCO DE ALMACENAMIENTO CON CUCHARITA
-",
+  categoria: "Hogar / Cocina",
   descripcion: "¡Dale un toque mágico, moderno y elegante a tu hogar con este hermoso florero exclusivo! Su diseño translúcido atrapa la luz y resalta tus flores favoritas en cualquier rincón.",
   precios: {
    "1": 5.95,
