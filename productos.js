@@ -1928,18 +1928,7 @@ const productos = [
   imagen: "Img/Imagen521.jpeg",
   stock: 7
 },
-    {
-  nombre: "5630PACK DE 6 MANIJAS ADHESIVAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Prácticas manijas autoadhesivas para puertas, cajones o ventanas. Fácil instalación sin perforar ni usar herramientas. Ideales para mejorar el agarre y la comodidad en el hogar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-       },
-  imagen: "Img/Imagen522.jpeg",
-  stock: 5
-},
-    {
+        {
   nombre: "5631COFRE CORAZÓN",
   categoria: "Hogar / Cocina",
   descripcion: "Medida: 5.5 x 3.5 cm, pequeño y encantador. Ideal para guardar anillos, aretes u objetos pequeños. Color al azar, perfecto para regalar o decorar.",
@@ -2015,10 +2004,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.25,
-   "6": 2.95,
        },
   imagen: "Img/Imagen534.jpeg",
-  stock: 6
+  stock: 3
 },
              {
   nombre: "5652BÁLSAMO LABIAL HIDRATANTE DE 5ML",
@@ -2166,7 +2154,7 @@ const productos = [
    "3": 6.95,
        },
   imagen: "Img/Imagen577.jpeg",
-  stock: 4
+  stock: 3
 },
     {
   nombre: "5383FOCO  LED 30W",
@@ -2420,10 +2408,9 @@ const productos = [
    "1": 6.95,
    "3": 5.55,
    "6": 5.25,
-   "12": 4.95,
     },
   imagen: "Img/Imagen617.jpeg",
-  stock: 14
+  stock: 10
 },
 
                         {
@@ -2589,10 +2576,9 @@ const productos = [
   descripcion: "Mantén tus cables organizados y evita enredos. Adhesivo resistente, fácil de instalar y perfecto para cargadores, USB, audífonos y más.",
   precios: {
    "1": 3.95,
-   "3": 2.75,
   },
   imagen: "Img/Imagen654.jpeg",
-  stock: 5
+  stock: 1
 },
      {
   nombre: "5844ESTUCHE DE EXHIBICIÓN 3D",
@@ -2809,16 +2795,6 @@ const productos = [
   imagen: "Img/Imagen688.jpeg",
   stock: 4
 },
-        {
-  nombre: "5895LLAVE PARA GRIFERÍA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para instalar o ajustar grifos, lavatorios, inodoros y calentadores de agua de forma rápida y sencilla. Diseño ergonómico con nivel de burbuja integrado, antideslizante y de gran alcance para llegar a espacios difíciles.",
-  precios: {
-   "1": 7.95,
-  },
-  imagen: "Img/Imagen689.jpeg",
-  stock: 1
-},
       {
   nombre: "5897SET DE 6 CUCHARITAS DE BAMBÚ",
   categoria: "Hogar / Cocina",
@@ -2841,7 +2817,7 @@ const productos = [
    "6": 2.95,
   },
   imagen: "Img/Imagen692.jpeg",
-  stock: 8
+  stock: 6
 },
           {
   nombre: "5901SET DE 5 MALLAS DE LIMPIEZA",
@@ -2853,7 +2829,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 10
+  stock: 7
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -3781,7 +3757,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen808.jpeg",
-  stock: 10
+  stock: 7
 },       
   {
   nombre: "6062PASTILLA PARA TANQUE",
@@ -4046,7 +4022,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen836.jpeg",
-  stock: 4
+  stock: 3
 },
             {
   nombre: "6092ADORNO RENO NAVIDEÑO",
@@ -4137,10 +4113,9 @@ const productos = [
   descripcion: "Organiza tu ropa de forma práctica y ahorra espacio en tu clóset. Resistentes, con pinzas antideslizantes y gancho giratorio 360°. Color / diseño al azar. Medida: 36 × 22.5 cm",
   precios: {
    "1": 8.95,
-   "3": 7.95,
      },
   imagen: "Img/Imagen844.jpeg",
-  stock: 4
+  stock: 1
 },
     {
   nombre: "6101ROLLO DE PAPEL ALUMINIO",
@@ -4175,7 +4150,7 @@ const productos = [
    "12": 5.05,
      },
   imagen: "Img/Imagen847.jpeg",
-  stock: 24
+  stock: 21
 },
    {
   nombre: "6104TACHO MODERNO CON TAPA PUSH",
@@ -4185,7 +4160,7 @@ const productos = [
    "1": 19.90,
      },
   imagen: "Img/Imagen848.jpeg",
-  stock: 17
+  stock: 14
 },
      {
   nombre: "6105FLORERO ACRÍLICO MARIPOSA 3D",
