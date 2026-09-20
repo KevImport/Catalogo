@@ -3448,7 +3448,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen770.jpeg",
-  stock: 18
+  stock: 17
 },
       {
   nombre: "6014PACK DE 12 PORTA ROSAS DECORATIVAS",
@@ -3657,7 +3657,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen794.jpeg",
-  stock: 5
+  stock: 4
 },
     {
   nombre: "6040SET DE 12 COLORES BORRABLES",
@@ -4252,7 +4252,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen853.jpeg",
-  stock: 7
+  stock: 5
 },
            {
   nombre: "6112CARRITO ORGANIZADOR DE 3 NIVELES",
