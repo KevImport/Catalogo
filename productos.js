@@ -1439,17 +1439,6 @@ const productos = [
   imagen: "Img/Imagen383.jpeg",
   stock: 2
 },
-              {
-  nombre: "5415SET x 12 PLUMONES MÁGICOS - CAMBIAN DE COLOR",
-  categoria: "Escolar / Papelería",
-  descripcion: "Contiene 12 plumones. ¿Ya conocías los PLUMONES MÁGICOS? Sí, estos plumones te van a sorprender ya que cambian de color. Ponte muy creativo e imagina todo lo que podrás hacer con ellos decorar, pintar, letras, títulos, manualidades y mucho más.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "Img/Imagen384.jpeg",
-  stock: 5
-},
     {
   nombre: "5420ORUGUITA DE PELUCHE",
   categoria: "Juguetes",
@@ -2075,7 +2064,7 @@ const productos = [
    "6": 1.75,
        },
   imagen: "Img/Imagen538.jpeg",
-  stock: 8
+  stock: 6
 },
          {
   nombre: "5666PINZA TRENZADA PARA CABELLO",
@@ -2937,17 +2926,7 @@ const productos = [
   imagen: "Img/Imagen700.png",
   stock: 3
 },
-                   {
-  nombre: "5914SET DE 12 PLUMONES GLITTER",
-  categoria: "Escolar / Papelería",
-  descripcion: "Disfruta de 24 tonos diferentes gracias a su innovador efecto de doble color. Perfectos para dibujar, decorar, hacer lettering y dar un toque brillante a todas tus creaciones.",
-  precios: {
-   "1": 10.95,
-  },
-  imagen: "Img/Imagen701.jpeg",
-  stock: 1
-},
-                   {
+                    {
   nombre: "5915PISO PLEGABLE",
   categoria: "Hogar / Cocina",
   descripcion: "Medida: 2 m x 1.8 m. Ideal para que bebés y niños jueguen cómodamente, brindando una superficie acolchada, fácil de limpiar, plegable y perfecta para el hogar o llevar a cualquier lugar.",
@@ -2990,17 +2969,7 @@ const productos = [
   imagen: "Img/Imagen708.jpeg",
   stock: 5
 },
-              {
-  nombre: "5930SET DE 60 PLUMONES ACRÍLICOS",
-  categoria: "Escolar / Papelería",
-  descripcion: "¡Dale vida a tus ideas con 60 colores! Perfectos para madera, vidrio, piedra, cerámica, papel, tela y mucho más. Ideales para manualidades, lettering, proyectos escolares y regalos creativos. ¡Todo en un práctico estuche!",
-  precios: {
-   "1": 18.95,
-  },
-  imagen: "Img/Imagen710.jpeg",
-  stock: 1
-},
-              {
+               {
   nombre: "5931MOUSE PAD XL CON ATAJOS",
   categoria: "Escolar / Papelería",
   descripcion: "Medida: 80 x 30 cm | Optimiza tu trabajo o estudio con este mouse pad XL que incluye atajos de teclado. Superficie amplia, antideslizante y perfecta para una mayor comodidad.",
@@ -4044,6 +4013,17 @@ const productos = [
   imagen: "Img/Imagen830.jpeg",
   stock: 24
 },
+        {
+  nombre: "COMBO CREATIVO",
+  categoria: "Combos",
+  descripcion: "¡COMBO CREATIVO DE 84 PLUMONES! 60 acrílicos + 12 glitter + 12 mágicos. ¡Perfectos para dibujos, lettering, manualidades y proyectos escolares!",
+  precios: {
+   "1": 39.90,
+     },
+  imagen: "Img/Imagen832.jpeg",
+  stock: 5
+},
+  
   
   
   ];
