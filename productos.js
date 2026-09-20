@@ -4012,7 +4012,87 @@ const productos = [
   imagen: "Img/Imagen832.jpeg",
   stock: 5
 },
-  
+        {
+  nombre: "6086ESTANTE DE BAMBÚ DE 2 NIVELES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza y aprovecha mejor tus espacios con este práctico estante de bambú. Ideal para cocina, baño, dormitorio u oficina, ¡combina con cualquier decoración!",
+  precios: {
+   "1": 16.95,
+     },
+  imagen: "Img/Imagen833.jpeg",
+  stock: 3
+},
+          {
+  nombre: "6089MONEDERO NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para guardar monedas, llaves y pequeños tesoros. Diseños navideños, práctico y perfecto para regalar. Medida: 7 cm",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,    
+     },
+  imagen: "Img/Imagen834.jpeg",
+  stock: 11
+},
+            {
+  nombre: "6090SET x 5 COLETS",
+  categoria: "Accesorios",
+  descripcion: "Prácticos y lindos para complementar tus peinados! Perfectos para uso diario. Diseño al azar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,    
+   "12": 1.55, 
+     },
+  imagen: "Img/Imagen835.jpeg",
+  stock: 16
+},
+            {
+  nombre: "6091ALFOMBRA SENSORIAL PARA BEBÉ",
+  categoria: "Juguetes",
+  descripcion: "Estimula los sentidos y entretiene al bebé con divertidas figuras acuáticas. Ideal para fortalecer la coordinación mientras juega y explora.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "Img/Imagen836.jpeg",
+  stock: 4
+},
+            {
+  nombre: "6092ADORNO RENO NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque mágico y navideño a tus espacios. Medida: 35 cm. Ideal para decorar tu hogar.",
+  precios: {
+   "1": 9.95,
+   "3": 8.95,
+     },
+  imagen: "Img/Imagen837.jpeg",
+  stock: 28
+},
+            {
+  nombre: "6093LÁPIZ DE COLORES INFINITOS – 12 PUNTAS INTERCAMBIABLES",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Crea y colorea sin límites con sus 12 puntas de diferentes colores! Práctico, divertido y perfecto para llevar a todas partes.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "Img/Imagen838.jpeg",
+  stock: 17
+},
+            {
+  nombre: "6094BLÍSTER DE 12 GANCHOS ADHESIVOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideales para organizar y colgar tus accesorios sin necesidad de perforar. Fáciles de instalar, prácticos y perfectos para cocina, baño, dormitorio u oficina.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,    
+     },
+  imagen: "Img/Imagen839.jpeg",
+  stock: 13
+},
   
   
   ];
