@@ -3897,7 +3897,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen821.jpeg",
-  stock: 14
+  stock: 12
 },
          {
   nombre: "6075TOMATODO KIDS ",
