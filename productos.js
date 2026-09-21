@@ -4167,8 +4167,8 @@ const productos = [
   categoria: "Hogar / Cocina",
   descripcion: "¡Dale un toque mágico, moderno y elegante a tu hogar con este hermoso florero exclusivo! Su diseño translúcido atrapa la luz y resalta tus flores favoritas en cualquier rincón.",
   precios: {
-   "1": 5.95,
-   "3": 4.95,
+   "1": 6.95,
+   "3": 5.95,
      },
   imagen: "Img/Imagen849.jpeg",
   stock: 24
