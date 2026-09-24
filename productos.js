@@ -4019,10 +4019,9 @@ const productos = [
   descripcion: "Estimula los sentidos y entretiene al bebé con divertidas figuras acuáticas. Ideal para fortalecer la coordinación mientras juega y explora.",
   precios: {
    "1": 7.95,
-   "3": 6.95,
      },
   imagen: "Img/Imagen836.jpeg",
-  stock: 3
+  stock: 1
 },
             {
   nombre: "6092ADORNO RENO NAVIDEÑO",
