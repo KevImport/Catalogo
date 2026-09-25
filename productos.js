@@ -3723,7 +3723,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen805.jpeg",
-  stock: 10
+  stock: 7
 },
         {
   nombre: "6054DELINEADOR NEGRO",
@@ -3794,7 +3794,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "Img/Imagen812.jpeg",
-  stock: 13
+  stock: 7
 },
      {
   nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
@@ -3986,7 +3986,7 @@ const productos = [
    "1": 16.95,
      },
   imagen: "Img/Imagen833.jpeg",
-  stock: 3
+  stock: 1
 },
           {
   nombre: "6089MONEDERO NAVIDEÑO",
@@ -4013,17 +4013,7 @@ const productos = [
   imagen: "Img/Imagen835.jpeg",
   stock: 16
 },
-            {
-  nombre: "6091ALFOMBRA SENSORIAL PARA BEBÉ",
-  categoria: "Juguetes",
-  descripcion: "Estimula los sentidos y entretiene al bebé con divertidas figuras acuáticas. Ideal para fortalecer la coordinación mientras juega y explora.",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "Img/Imagen836.jpeg",
-  stock: 1
-},
-            {
+         {
   nombre: "6092ADORNO RENO NAVIDEÑO",
   categoria: "Navidad / Regalos",
   descripcion: "Dale un toque mágico y navideño a tus espacios. Medida: 35 cm. Ideal para decorar tu hogar.",
@@ -4044,20 +4034,7 @@ const productos = [
      },
   imagen: "Img/Imagen838.jpeg",
   stock: 17
-},
-            {
-  nombre: "6094BLÍSTER DE 12 GANCHOS ADHESIVOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideales para organizar y colgar tus accesorios sin necesidad de perforar. Fáciles de instalar, prácticos y perfectos para cocina, baño, dormitorio u oficina.",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-   "6": 3.25,
-   "12": 2.95,    
-     },
-  imagen: "Img/Imagen839.jpeg",
-  stock: 13
-},          
+},  
   {
   nombre: "6096PORTAROLLOS NAVIDEÑOS",
   categoria: "Navidad / Regalos",
