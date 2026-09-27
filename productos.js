@@ -1833,7 +1833,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen498.jpeg",
-  stock: 2
+  stock: 1
 },
        {
   nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
@@ -2186,10 +2186,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.75,
        },
   imagen: "Img/Imagen581.jpeg",
-  stock: 6
+  stock: 4
 },
     {
   nombre: "5717RIÑONERA DAMA",
