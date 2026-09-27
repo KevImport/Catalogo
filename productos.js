@@ -4267,4 +4267,72 @@ const productos = [
   imagen: "Img/Imagen863.jpeg",
   stock: 1
 },
+                       {
+  nombre: "6125FUNDA DE COJÍN NAVIDEÑA DOBLE CARA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque mágico y navideño a tu hogar con estos hermosos diseños. Medida 45 × 45 cm y doble cara, diseño al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+     },
+  imagen: "Img/Imagen864.jpeg",
+  stock: 29
+},
+                       {
+  nombre: "6125FUNDA DE COJÍN NAVIDEÑA DOBLE CARA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque mágico y navideño a tu hogar con estos hermosos diseños. Medida 45 × 45 cm y doble cara, diseño al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+     },
+  imagen: "Img/Imagen864.jpeg",
+  stock: 29
+},
+                         {
+  nombre: "6127SERUM REVITALIZADOR PANTENE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Revitaliza y equilibra el cabello desde la raíz hasta las puntas. Aporta brillo, suavidad y una apariencia saludable sin sensación grasa.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen865.jpeg",
+  stock: 8
+},
+                         {
+  nombre: "6129SET DE 3 FUENTES DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elegantes, resistentes y perfectas para servir desayunos, bocaditos y postres. Dale un toque natural y moderno a tu mesa en cada ocasión.",
+  precios: {
+   "1": 19.90,
+     },
+  imagen: "Img/Imagen866.jpeg",
+  stock: 9
+},
+                           {
+  nombre: "6130ARO LED CON DOBLE SOPORTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ilumina tus fotos, videos y transmisiones con una luz uniforme y profesional. Ideal para celular, maquillaje, streaming, TikTok y creación de contenido.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "Img/Imagen867.jpeg",
+  stock: 6
+},
+                           {
+  nombre: "6131ORGANIZADOR PARA BEBÉ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Guarda pañales, toallitas, cremas y todos los accesorios de tu bebé en un solo lugar. Práctico, espacioso y fácil de transportar, ¡ideal para mantener todo siempre ordenado! Medida: 33 × 23 × 18 cm",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "Img/Imagen868.jpeg",
+  stock: 9
+},
   ];
