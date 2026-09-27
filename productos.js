@@ -3986,18 +3986,6 @@ const productos = [
   imagen: "Img/Imagen833.jpeg",
   stock: 1
 },
-          {
-  nombre: "6089MONEDERO NAVIDEÑO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ideal para guardar monedas, llaves y pequeños tesoros. Diseños navideños, práctico y perfecto para regalar. Medida: 7 cm",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-   "6": 1.75,    
-     },
-  imagen: "Img/Imagen834.jpeg",
-  stock: 11
-},
             {
   nombre: "6090SET x 5 COLETS",
   categoria: "Accesorios",
@@ -4057,17 +4045,6 @@ const productos = [
      },
   imagen: "Img/Imagen842.jpeg",
   stock: 16
-},
-  {
-  nombre: "6099COJÍN DE CUELLO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Viaja, descansa y relaja tu cuello con mayor comodidad. Ideal para viajes, auto, trabajo o simplemente  descansar. Color al azar",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-     },
-  imagen: "Img/Imagen843.jpeg",
-  stock: 4
 },
     {
   nombre: "6100SET DE GANCHOS METÁLICOS",
@@ -4253,32 +4230,9 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen862.jpeg",
-  stock: 12
+  stock: 9
 },
-                     {
-  nombre: "6124GUIRNALDA SOLAR ÁMBAR DE 10 FOCOS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ilumina tus espacios con una cálida y acogedora luz ámbar. Funciona con energía solar, ideal para decorar patios, jardines, terrazas y más.",
-  precios: {
-   "1": 14.95,
-     },
-  imagen: "Img/Imagen863.jpeg",
-  stock: 1
-},
-                       {
-  nombre: "6125FUNDA DE COJÍN NAVIDEÑA DOBLE CARA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque mágico y navideño a tu hogar con estos hermosos diseños. Medida 45 × 45 cm y doble cara, diseño al azar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.75,
-   "12": 3.55,
-     },
-  imagen: "Img/Imagen864.jpeg",
-  stock: 29
-},
-                       {
+         {
   nombre: "6125FUNDA DE COJÍN NAVIDEÑA DOBLE CARA",
   categoria: "Navidad / Regalos",
   descripcion: "Dale un toque mágico y navideño a tu hogar con estos hermosos diseños. Medida 45 × 45 cm y doble cara, diseño al azar.",
@@ -4320,7 +4274,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen867.jpeg",
-  stock: 6
+  stock: 4
 },
                            {
   nombre: "6131ORGANIZADOR PARA BEBÉ",
