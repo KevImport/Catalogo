@@ -2567,7 +2567,7 @@ const productos = [
    "3": 4.95,
   },
   imagen: "Img/Imagen653.jpeg",
-  stock: 6
+  stock: 3
 },
      {
   nombre: "5841SET DE 16 CLIPS ORGANIZADORES DE CABLES",
@@ -2877,7 +2877,7 @@ const productos = [
    "6": 2.25,
   },
   imagen: "Img/Imagen698.jpeg",
-  stock: 9
+  stock: 8
 },
                    {
   nombre: "5910ESCURRIDOR COLADOR",
@@ -3100,10 +3100,9 @@ const productos = [
    "1": 2.95,
    "3": 1.95,
    "6": 1.75,
-   "12": 1.55,
   },
   imagen: "Img/Imagen730.jpeg",
-  stock: 16
+  stock: 10
 },
     {
   nombre: "5959ACEITE PARA BEBÉ 200ml",
@@ -3410,7 +3409,7 @@ const productos = [
    "6": 3.75,
      },
   imagen: "Img/Imagen768.jpeg",
-  stock: 20
+  stock: 6
 },
             {
   nombre: "6013PAR DE GUANTES REUTILIZABLES",
@@ -3745,7 +3744,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen807.png",
-  stock: 13
+  stock: 10
 },
         {
   nombre: "6058JABONERA CON REJILLA",
