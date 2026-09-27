@@ -4226,4 +4226,45 @@ const productos = [
   imagen: "Img/Imagen859.jpeg",
   stock: 53
 },
+               {
+  nombre: "6121PACK DE 10 LUCES HADAS 3 METROS - COLOR ÁMBAR",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque cálido y mágico a tus espacios con estas lindas luces hada. Ideales para decorar dormitorios, fiestas, vitrinas y rincones especiales.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen860.jpeg",
+  stock: 6
+},
+                 {
+  nombre: "6122TIRA DE LUCES LLUVIA METEORITO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque mágico y acogedor a tus espacios con su hermosa iluminación. Ideal para decorar árboles, jardines, ventanas y celebraciones. Medida: 4 metros - Color: ámbar o blanco (al azar)",
+  precios: {
+   "1": 12.95,
+   "3": 11.95,
+     },
+  imagen: "Img/Imagen861.jpeg",
+  stock: 13
+},
+                   {
+  nombre: "6123JUEGO DE 2 DISPENSADORES Y 3 CONDIMENTEROS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza tu cocina con este práctico set de 5 piezas, ideal para aceite, vinagre y condimentos. Diseño moderno y funcional para mantener tus ingredientes ordenados y siempre a la mano.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen862.jpeg",
+  stock: 12
+},
+                     {
+  nombre: "6124GUIRNALDA SOLAR ÁMBAR DE 10 FOCOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ilumina tus espacios con una cálida y acogedora luz ámbar. Funciona con energía solar, ideal para decorar patios, jardines, terrazas y más.",
+  precios: {
+   "1": 14.95,
+     },
+  imagen: "Img/Imagen863.jpeg",
+  stock: 1
+},
   ];
