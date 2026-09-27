@@ -4383,4 +4383,29 @@ const productos = [
   imagen: "Img/Imagen872.jpeg",
   stock: 4
 },
+                              {
+  nombre: "6136GEL TRANSDÉRMICO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ideal para masajes y alivio de molestias musculares y articulares. Presentación de 75 g, práctico para llevar y usar donde lo necesites.",
+  precios: {
+   "1": 4.95,
+   "3": 3.65,
+   "6": 3.35,
+   "12": 3.05,
+     },
+  imagen: "Img/Imagen873.jpeg",
+  stock: 24
+},
+       {
+  nombre: "6137ENCENDEDOR RECARGABLE DE COCINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Olvídate del gas y los fósforos con su cuello, es flexible 360° que llega a cualquier lugar. Recarga por USB y supervisa la batería con sus luces LED. Seguro, ecológico y resistente al viento.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+     },
+  imagen: "Img/Imagen874.png",
+  stock: 24
+},
   ];
