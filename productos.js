@@ -4168,4 +4168,62 @@ const productos = [
   imagen: "Img/Imagen854.jpeg",
   stock: 13
 },
+             {
+  nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para organizar y conservar tus alimentos de forma práctica. Perfectos para cocina, refrigeradora y llevar tus comidas. Color al azar",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen855.jpeg",
+  stock: 3
+},
+             {
+  nombre: "6115VASO TÉRMICO 360ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico y moderno para disfrutar tus bebidas favoritas donde quieras. Capacidad: 360 ml. Color al azar",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+     },
+  imagen: "Img/Imagen856.jpeg",
+  stock: 9
+},
+             {
+  nombre: "6118CALENDARIO NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu hogar y vive la magia de contar los días hasta Navidad con este hermoso diseño. Ideal para decorar y regalar, ¡un detalle navideño que encantará a todos! Diseño al azar.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen857.jpeg",
+  stock: 20
+},
+             {
+  nombre: "6119JUEGO DE 3 PARES DE ARETES + 1 COLLAR",
+  categoria: "Accesorios",
+  descripcion: "Diseños tiernos y variados que combinan perfecto para cualquier ocasión. ¡Un detalle lindo y especial para regalar a las pequeñas!",
+  precios: {
+   "1": 4.95,
+   "3": 2.85,
+   "6": 2.65,
+     },
+  imagen: "Img/Imagen858.jpeg",
+  stock: 6
+},
+             {
+  nombre: "6120SET DE 10 VASOS NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Diseños navideños variados para llenar de alegría tus celebraciones. Perfectos para compartir en familia y darle un toque especial a tu mesa.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen859.jpeg",
+  stock: 53
+},
   ];
