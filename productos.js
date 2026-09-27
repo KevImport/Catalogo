@@ -4335,4 +4335,52 @@ const productos = [
   imagen: "Img/Imagen868.jpeg",
   stock: 9
 },
+                          {
+  nombre: "6132OVEN CLEANER - ESPUMA QUITA GRASA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpia y remueve toda la grasa, fácil de usar, déjalo actuar unos minutos y dile adiós a la grasa. Espuma de potente efecto saca grasa. Aplícalo por 20 minutos y sorpréndete de los resultados.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+   "12": 5.55,
+     },
+  imagen: "Img/Imagen869.jpeg",
+  stock: 13
+},
+                            {
+  nombre: "6133UNGÜENTO CANNABIS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alivio natural para dolores y molestias. Ideal para masajes, relaja y desinflama.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+     },
+  imagen: "Img/Imagen870.jpeg",
+  stock: 24
+},
+                            {
+  nombre: "6134LÁPIZ DELINEADOR 4 EN 1",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Práctico y versátil, ¡todo en un solo lápiz!. Ideal para lograr un maquillaje definido y llevarlo contigo a todas partes.",
+  precios: {
+   "1": 6.95,
+   "3": 5.65,
+   "6": 5.35,
+   "12": 5.05,
+     },
+  imagen: "Img/Imagen871.jpeg",
+  stock: 18
+},
+                              {
+  nombre: "6135CAJA VANITY",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Mantén tu maquillaje y accesorios siempre ordenados y protegidos. Con múltiples compartimentos, espejo y diseño práctico para llevar a donde quieras.",
+  precios: {
+   "1": 39.90,
+     },
+  imagen: "Img/Imagen872.jpeg",
+  stock: 4
+},
   ];
