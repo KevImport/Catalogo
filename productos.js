@@ -4111,7 +4111,7 @@ const productos = [
    "3": 5.65,
      },
   imagen: "Img/Imagen847.jpeg",
-  stock: 5
+  stock: 2
 },
    {
   nombre: "6104TACHO MODERNO CON TAPA PUSH",
