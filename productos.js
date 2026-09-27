@@ -4022,7 +4022,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "Img/Imagen837.jpeg",
-  stock: 28
+  stock: 13
 },
             {
   nombre: "6093LÁPIZ DE COLORES INFINITOS – 12 PUNTAS INTERCAMBIABLES",
@@ -4048,16 +4048,6 @@ const productos = [
   stock: 30
 },
   {
-  nombre: "6097DESODORANTE PIEDRA DE ALUMBRE",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "DESODORANTE PIEDRA DE ALUMBRE 100% NATURAL — protección y frescura todo el día, sin alcohol ni parabenos. Ayuda a controlar los malos olores y, con el uso constante, favorece una piel de apariencia más uniforme.",
-  precios: {
-   "1": 13.95,
-     },
-  imagen: "Img/Imagen841.jpeg",
-  stock: 5
-},
-  {
   nombre: "6098ROLLO FILM PARA ALIMENTOS",
   categoria: "Hogar / Cocina",
   descripcion: "Mantén tus alimentos frescos y protegidos por más tiempo. Práctico para cubrir, conservar y refrigerar todo tipo de alimentos. Medida: 10m x 30cm",
@@ -4077,11 +4067,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.75,
-   "12": 4.55,
      },
   imagen: "Img/Imagen843.jpeg",
-  stock: 9
+  stock: 4
 },
     {
   nombre: "6100SET DE GANCHOS METÁLICOS",
@@ -4100,10 +4088,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.75,    
      },
   imagen: "Img/Imagen845.jpeg",
-  stock: 15
+  stock: 4
 },
    {
   nombre: "6102CASCADA CON ESTRELLA MULTICOLOR",
@@ -4122,11 +4109,9 @@ const productos = [
   precios: {
    "1": 6.95,
    "3": 5.65,
-   "6": 5.35,
-   "12": 5.05,
      },
   imagen: "Img/Imagen847.jpeg",
-  stock: 21
+  stock: 5
 },
    {
   nombre: "6104TACHO MODERNO CON TAPA PUSH",
@@ -4136,7 +4121,7 @@ const productos = [
    "1": 19.90,
      },
   imagen: "Img/Imagen848.jpeg",
-  stock: 14
+  stock: 12
 },
      {
   nombre: "6105FLORERO ACRÍLICO MARIPOSA 3D",
@@ -4147,32 +4132,9 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen849.jpeg",
-  stock: 24
-},
-     {
-  nombre: "6106SET DE 12 PARES DE MEDIAS TALONERAS",
-  categoria: "Ropa interior",
-  descripcion: "Suaves, cómodas y frescas para el día a día. Ideales para zapatillas y zapatos bajos, ¡comodidad en cada paso! Color al azar",
-  precios: {
-   "1": 11.90,
-     },
-  imagen: "Img/Imagen850.jpeg",
-  stock: 7
+  stock: 12
 },
        {
-  nombre: "6108FRASCO DE ALMACENAMIENTO CON CUCHARITA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Medida aprox.: 10 cm. Práctico y elegante, ideal para mantener tus productos organizados y siempre a mano.",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-   "6": 3.25,
-   "12": 2.95,
-     },
-  imagen: "Img/Imagen851.jpeg",
-  stock: 35
-},
-         {
   nombre: "6109POTE DE 100 HISOPOS DE BAMBÚ",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Prácticos hisopos para el cuidado diario. Pote con 100 unidades, ideal para tener en casa o negocio.",
@@ -4204,6 +4166,6 @@ const productos = [
    "3": 10.95,
      },
   imagen: "Img/Imagen854.jpeg",
-  stock: 15
+  stock: 13
 },
   ];
