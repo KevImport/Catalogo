@@ -4043,7 +4043,7 @@ const productos = [
    "1": 19.90,
      },
   imagen: "Img/Imagen848.jpeg",
-  stock: 12
+  stock: 9
 },
      {
   nombre: "6105FLORERO ACRÍLICO MARIPOSA 3D",
