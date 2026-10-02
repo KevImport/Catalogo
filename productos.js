@@ -263,7 +263,7 @@ const productos = [
     "3": 4.90,
   },
   imagen: "Img/Imagen88.jpeg",
- stock: 7
+ stock: 6
 },
 {
   nombre: "3562PAÑOLETA",
@@ -1334,28 +1334,6 @@ const productos = [
   imagen: "Img/Imagen355.jpeg",
   stock: 6
 },
-                  {
-  nombre: "5376PORTAVELAS DE CRISTAL EN FORMA DE CORONA",
-  categoria: "Decoración / Fiesta",
-  descripcion: "Aporta un brillo elegante y sofisticado a tu hogar o eventos. Perfecto para crear ambientes cálidos y mágicos. Ideal como decoración o detalle especial para ocasiones únicas.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "Img/Imagen357.jpeg",
-  stock: 3
-},
-  {
-  nombre: "5378PACK DE 24 SLIME DE ARCILLAS",
-  categoria: "Escolar / Papelería",
-  descripcion: "Texturas suaves y elásticas perfectas para moldear, aplastar y crear. Incluye 24 unidades en colores variados para horas de diversión. Ideal para niños, manualidades, regalos y actividades sensoriales.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95
-  },
-  imagen: "Img/Imagen359.jpeg",
-  stock: 3
-},
     {
   nombre: "5379JABONERA CON CAJÓN",
   categoria: "Hogar / Cocina",
@@ -1574,7 +1552,7 @@ const productos = [
    "6": 2.65,
      },
   imagen: "Img/Imagen423.jpeg",
-  stock: 15
+  stock: 9
 },
    {
   nombre: "5471SET DE 12 LÁPICES TÉCNICO 2B",
@@ -2236,7 +2214,7 @@ const productos = [
    "6": 3.65,
        },
   imagen: "Img/Imagen593.jpg",
-  stock: 9
+  stock: 6
 },
           {
   nombre: "5740CORREA PARA CABALLERO",
@@ -3044,7 +3022,7 @@ const productos = [
    "1": 9.90,
   },
   imagen: "Img/Imagen724.jpeg",
-  stock: 5
+  stock: 4
 },
                                 {
   nombre: "5950SET DE MAQUILLAJE + SORPRESA",
@@ -3914,16 +3892,6 @@ const productos = [
   imagen: "Img/Imagen831.png",
   stock: 4
 },
-    {
-  nombre: "6080SET DE 5 SORBETES DE VIDRIO + CEPILLO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Reutilizables, prácticos y perfectos para tus bebidas favoritas. Incluye cepillo de limpieza para mantenerlos siempre impecables.",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen826.jpeg",
-  stock: 1
-},
       {
   nombre: "6081PULSERA HELLO KITTY",
   categoria: "Accesorios",
@@ -4034,16 +4002,6 @@ const productos = [
      },
   imagen: "Img/Imagen842.jpeg",
   stock: 16
-},
-    {
-  nombre: "6100SET DE GANCHOS METÁLICOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Organiza tu ropa de forma práctica y ahorra espacio en tu clóset. Resistentes, con pinzas antideslizantes y gancho giratorio 360°. Color / diseño al azar. Medida: 36 × 22.5 cm",
-  precios: {
-   "1": 8.95,
-     },
-  imagen: "Img/Imagen844.jpeg",
-  stock: 1
 },
     {
   nombre: "6101ROLLO DE PAPEL ALUMINIO",
