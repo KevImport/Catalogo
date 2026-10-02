@@ -173,10 +173,9 @@ const productos = [
   descripcion: "Despídete de los insectos. Pack de 10 trampas adhesivas para moscas, práctico, higiénico y fácil de usar.",
   precios: {
     "1": 6.90,
-    "3": 5.00,
   },
   imagen: "Img/Imagen67.jpg",
-  stock: 3
+  stock: 1
 },
 {
   nombre: "4183LENTES DE SOL 2025",
@@ -492,7 +491,7 @@ const productos = [
     "1": 4.90,
   },
   imagen: "Img/Imagen120.jpg",
-  stock: 12
+  stock: 11
 },
 {
   nombre: "2415CAJA CUADRADA",
@@ -890,7 +889,7 @@ const productos = [
     "1": 5.40,
  },
   imagen: "Img/Imagen232.jpeg",
-  stock: 4
+  stock: 1
 },
  {
   nombre: "5182BRAZALETE SERPENTEADO",
@@ -1540,7 +1539,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen422.png",
-  stock: 5
+  stock: 4
 },
   {
   nombre: "5470TAJADOR CON BORRADOR",
@@ -1791,7 +1790,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 13
+  stock: 11
 },
    {
   nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
@@ -1857,10 +1856,9 @@ const productos = [
    "1": 5.95,
    "3": 4.95,
    "6": 4.65,
-   "12": 4.45,
        },
   imagen: "Img/Imagen517.jpeg",
-  stock: 12
+  stock: 11
 },
      {
   nombre: "5627REMOVEDOR DE ADHESIVO",
@@ -2108,10 +2106,9 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.75,
-   "12": 2.55,
        },
   imagen: "Img/Imagen571.jpeg",
-  stock: 11
+  stock: 10
 },
   {
   nombre: "5737ORGANIZADOR DE GORRAS",
@@ -2401,16 +2398,6 @@ const productos = [
   },
   imagen: "Img/Imagen622.jpeg",
   stock: 22
-},
-       {
-  nombre: "5795RALLADOR 9 EN 1",
-  categoria: "Hogar / Cocina",
-  descripcion: "Corta, ralla y rebana con éstas cuchillas para ensaladas perfectas. Sistema giratorio integrado que permite lavar y escurrir tus vegetales al instante. Diseño ergonómico con protector de manos para una cocina rápida, segura y limpia.",
-  precios: {
-   "1": 10.95,
-  },
-  imagen: "Img/Imagen623.jpeg",
-  stock: 1
 },
          {
   nombre: "5800FILTRO ATRAPA PELUSAS",
@@ -2772,7 +2759,7 @@ const productos = [
    "6": 2.75,
   },
   imagen: "Img/Imagen691.jpeg",
-  stock: 7
+  stock: 6
 },
         {
   nombre: "5898PINZA COLADORA",
@@ -2793,10 +2780,9 @@ const productos = [
   precios: {
    "1": 2.95,
    "3": 1.95,
-   "6": 1.75,
   },
   imagen: "Img/Imagen693.jpeg",
-  stock: 7
+  stock: 5
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -2965,11 +2951,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.65,
-   "6": 4.35,
-   "12": 4.05,
   },
   imagen: "Img/Imagen716.jpeg",
-  stock: 11
+  stock: 4
 },
                         {
   nombre: "5941MORTERO DE COCINA",
@@ -3080,10 +3064,9 @@ const productos = [
    "1": 6.95,
    "3": 5.95,
    "6": 5.75,
-   "12": 5.55,
   },
   imagen: "Img/Imagen732.jpeg",
-  stock: 9
+  stock: 8
 },
     {
   nombre: "5962SERUM FACIAL DE ARROZ",
@@ -3311,16 +3294,6 @@ const productos = [
      },
   imagen: "Img/Imagen761.jpeg",
   stock: 1
-},
-  {
-  nombre: "5967JABÓN QUITA MUGRE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Elimina manchas difíciles con alto poder de limpieza. Ideal para todo tipo de ropa, dejando tus prendas impecables.",
-  precios: {
-   "1": 3.95,
-     },
-  imagen: "Img/Imagen763.png",
-  stock: 2
 },
     {
   nombre: "5021SACO CORREA PARA NIÑAS",
@@ -3588,7 +3561,7 @@ const productos = [
    "3": 2.55,
      },
   imagen: "Img/Imagen793.jpeg",
-  stock: 5
+  stock: 4
 },
     {
   nombre: "6033SET DE 6 MOLDES DE SILICONA",
@@ -3759,7 +3732,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "Img/Imagen812.jpeg",
-  stock: 7
+  stock: 6
 },
      {
   nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
@@ -3781,7 +3754,7 @@ const productos = [
    "6": 3.25,
      },
   imagen: "Img/Imagen815.jpeg",
-  stock: 8
+  stock: 7
 },
        {
   nombre: "6069ORGANIZADOR DE ESPECIAS",
@@ -3792,7 +3765,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen817.jpeg",
-  stock: 5
+  stock: 4
 },
        {
   nombre: "6071PACK DE 8 BARRAS DE SILICONA",
@@ -3805,7 +3778,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "Img/Imagen818.jpeg",
-  stock: 19
+  stock: 18
 },
        {
   nombre: "6072SET DE 20 CUBIERTAS DE ALUMINIO",
@@ -3868,7 +3841,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen824.jpeg",
-  stock: 6
+  stock: 4
 },
   
   {
@@ -3901,7 +3874,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen827.jpeg",
-  stock: 11
+  stock: 10
 },
       {
   nombre: "6082CAJA DE 10 SACHETS SHAMPOO CUBRE CANAS – MARRÓN OSCURO",
@@ -3911,7 +3884,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen828.jpeg",
-  stock: 11
+  stock: 10
 },
       {
   nombre: "6083FONDO NAVIDEÑO 220 x 250 CM",
@@ -3965,7 +3938,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "Img/Imagen837.jpeg",
-  stock: 13
+  stock: 11
 },
             {
   nombre: "6093LÁPIZ DE COLORES INFINITOS – 12 PUNTAS INTERCAMBIABLES",
@@ -4030,10 +4003,9 @@ const productos = [
   descripcion: "Instalación sin taladro, fuerte adhesión y fácil de colocar. Ideal para baño o cocina, mantiene todo ordenado y a la mano.",
   precios: {
    "1": 6.95,
-   "3": 5.65,
      },
   imagen: "Img/Imagen847.jpeg",
-  stock: 2
+  stock: 1
 },
    {
   nombre: "6104TACHO MODERNO CON TAPA PUSH",
@@ -4067,7 +4039,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen852.jpeg",
-  stock: 33
+  stock: 27
 },
            {
   nombre: "6110SET DE 10 PARES DE MANGAS DE PROTECCIÓN SOLAR",
@@ -4098,7 +4070,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen855.jpeg",
-  stock: 3
+  stock: 2
 },
              {
   nombre: "6115VASO TÉRMICO 360ML",
@@ -4190,7 +4162,7 @@ const productos = [
    "12": 3.55,
      },
   imagen: "Img/Imagen864.jpeg",
-  stock: 23
+  stock: 21
 },
                          {
   nombre: "6127SERUM REVITALIZADOR PANTENE",
