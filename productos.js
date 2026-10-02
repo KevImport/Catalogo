@@ -3688,7 +3688,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen805.jpeg",
-  stock: 7
+  stock: 4
 },
         {
   nombre: "6054DELINEADOR NEGRO",
@@ -3976,7 +3976,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen838.jpeg",
-  stock: 17
+  stock: 14
 },  
   {
   nombre: "6096PORTAROLLOS NAVIDEÑOS",
@@ -4077,7 +4077,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "Img/Imagen853.jpeg",
-  stock: 5
+  stock: 1
 },
            {
   nombre: "6112CARRITO ORGANIZADOR DE 3 NIVELES",
@@ -4088,7 +4088,7 @@ const productos = [
    "3": 10.95,
      },
   imagen: "Img/Imagen854.jpeg",
-  stock: 13
+  stock: 10
 },
              {
   nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
@@ -4110,7 +4110,7 @@ const productos = [
    "6": 5.75,
      },
   imagen: "Img/Imagen856.jpeg",
-  stock: 9
+  stock: 6
 },
              {
   nombre: "6118CALENDARIO NAVIDEÑO",
@@ -4146,7 +4146,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen859.jpeg",
-  stock: 53
+  stock: 50
 },
                {
   nombre: "6121PACK DE 10 LUCES HADAS 3 METROS - COLOR ÁMBAR",
@@ -4190,7 +4190,7 @@ const productos = [
    "12": 3.55,
      },
   imagen: "Img/Imagen864.jpeg",
-  stock: 29
+  stock: 23
 },
                          {
   nombre: "6127SERUM REVITALIZADOR PANTENE",
