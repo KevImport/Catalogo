@@ -491,7 +491,7 @@ const productos = [
     "1": 4.90,
   },
   imagen: "Img/Imagen120.jpg",
-  stock: 11
+  stock: 9
 },
 {
   nombre: "2415CAJA CUADRADA",
@@ -1789,7 +1789,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 11
+  stock: 6
 },
    {
   nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
@@ -2068,10 +2068,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.95,
-   "6": 3.75,
        },
   imagen: "Img/Imagen565.jpeg",
-  stock: 11
+  stock: 5
 },
            {
   nombre: "5697SET DE TENEDORES DECORATIVOS + BASE UNICORNIO",
@@ -2107,7 +2106,7 @@ const productos = [
    "6": 2.75,
        },
   imagen: "Img/Imagen571.jpeg",
-  stock: 10
+  stock: 9
 },
   {
   nombre: "5737ORGANIZADOR DE GORRAS",
@@ -2690,7 +2689,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "Img/Imagen679.jpeg",
-  stock: 6
+  stock: 5
 },
     {
   nombre: "5884BOLSA PAVONADA",
@@ -2995,7 +2994,7 @@ const productos = [
    "6": 6.95,
   },
   imagen: "Img/Imagen722.jpeg",
-  stock: 9
+  stock: 7
 },
   {
   nombre: "5948CINTURÓN PARA CÓLICOS",
@@ -3326,19 +3325,6 @@ const productos = [
   imagen: "Imagen766.jpeg",
   stock: 5
 },
-        {
-  nombre: "6009PACK DE 100 PAÑITOS GOTO KIDS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Libres de alcohol, limpian e hidratan suavemente la piel para un cuidado delicado. Incluye 100 pañitos, ideales para bebés, niños y toda la familia. Diseño al azar",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.75,
-   "12": 3.55,
-     },
-  imagen: "Img/Imagen767.jpeg",
-  stock: 13
-},
           {
   nombre: "6011PAQUETE DE 100 LIMPIAPIPA",
   categoria: "Escolar / Papelería",
@@ -3636,10 +3622,9 @@ const productos = [
   descripcion: "Limpia profundamente y llega a cada rincón con facilidad. Diseño ergonómico, cerdas resistentes y botón giratorio de 360°.",
   precios: {
    "1": 3.95,
-   "3": 2.55,
      },
   imagen: "Img/Imagen803.jpeg",
-  stock: 3
+  stock: 2
 },
         {
   nombre: "6050SET DE 12 PLATITOS MULTIUSO",
@@ -3851,7 +3836,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen825.jpeg",
-  stock: 6
+  stock: 5
 },
     {
   nombre: "6079PACK 4 LIBROS MÁGICOS MONTESSORI",
@@ -3873,7 +3858,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "Img/Imagen827.jpeg",
-  stock: 10
+  stock: 8
 },
       {
   nombre: "6082CAJA DE 10 SACHETS SHAMPOO CUBRE CANAS – MARRÓN OSCURO",
@@ -3937,7 +3922,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "Img/Imagen837.jpeg",
-  stock: 11
+  stock: 10
 },
             {
   nombre: "6093LÁPIZ DE COLORES INFINITOS – 12 PUNTAS INTERCAMBIABLES",
@@ -3997,16 +3982,6 @@ const productos = [
   stock: 2
 }, 
    {
-  nombre: "6103ORGANIZADOR ADHESIVO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Instalación sin taladro, fuerte adhesión y fácil de colocar. Ideal para baño o cocina, mantiene todo ordenado y a la mano.",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen847.jpeg",
-  stock: 1
-},
-   {
   nombre: "6104TACHO MODERNO CON TAPA PUSH",
   categoria: "Hogar / Cocina",
   descripcion: "Práctico y elegante para mantener tus espacios limpios y ordenados. Ideal para baño, dormitorio, oficina y más.",
@@ -4028,7 +4003,7 @@ const productos = [
   stock: 12
 },
        {
-  nombre: "6109POTE DE 100 HISOPOS DE BAMBÚ",
+  nombre: "6109POTE DE 100 HISOPOS",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Prácticos hisopos para el cuidado diario. Pote con 100 unidades, ideal para tener en casa o negocio.",
   precios: {
@@ -4038,7 +4013,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen852.jpeg",
-  stock: 27
+  stock: 21
 },
            {
   nombre: "6110SET DE 10 PARES DE MANGAS DE PROTECCIÓN SOLAR",
@@ -4069,7 +4044,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen855.jpeg",
-  stock: 2
+  stock: 1
 },
              {
   nombre: "6115VASO TÉRMICO 360ML",
@@ -4101,10 +4076,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 2.85,
-   "6": 2.65,
      },
   imagen: "Img/Imagen858.jpeg",
-  stock: 6
+  stock: 4
 },
              {
   nombre: "6120SET DE 10 VASOS NAVIDEÑOS",
