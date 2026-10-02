@@ -1529,16 +1529,6 @@ const productos = [
   imagen: "Img/Imagen407.png",
   stock: 4
 },
-    {
-  nombre: "5452CARGADOR REDD DE 75W + CABLE TIPO C",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Carga súper rápida para celulares, tablets y laptops compatibles. Incluye cable Tipo C resistente y de alto rendimiento. Ideal para uso diario, viajes y carga eficiente sin esperar horas.",
-  precios: {
-   "1": 12.95,
-     },
-  imagen: "Img/Imagen376.jpeg",
-  stock: 6
-},
           {
   nombre: "5457PORTA LAPICERO ANIMADO",
   categoria: "Escolar / Papelería",
@@ -3697,10 +3687,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "6": 2.25,
      },
   imagen: "Img/Imagen803.jpeg",
-  stock: 9
+  stock: 3
 },
         {
   nombre: "6050SET DE 12 PLATITOS MULTIUSO",
@@ -4286,19 +4275,6 @@ const productos = [
      },
   imagen: "Img/Imagen868.jpeg",
   stock: 9
-},
-                          {
-  nombre: "6132OVEN CLEANER - ESPUMA QUITA GRASA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Limpia y remueve toda la grasa, fácil de usar, déjalo actuar unos minutos y dile adiós a la grasa. Espuma de potente efecto saca grasa. Aplícalo por 20 minutos y sorpréndete de los resultados.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-   "6": 5.75,
-   "12": 5.55,
-     },
-  imagen: "Img/Imagen869.jpeg",
-  stock: 13
 },
                             {
   nombre: "6133UNGÜENTO CANNABIS",
