@@ -1442,10 +1442,9 @@ const productos = [
   descripcion: "Mantén tu ropa interior, medias y accesorios siempre ordenados. Diseño tierno, material de malla transpirable y resistente. Ahorra espacio y cuelga fácilmente en tu clóset o ropero.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "Img/Imagen394.jpeg",
-  stock: 3
+  stock: 2
 },
   {
   nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
@@ -1714,7 +1713,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen469.jpeg",
-  stock: 2
+  stock: 1
 },
         {
   nombre: "5542SET DE 12 LAPICES GUERRERAS KPOP",
@@ -2852,7 +2851,7 @@ const productos = [
    "1": 30.90,
   },
   imagen: "Img/Imagen702.jpeg",
-  stock: 3
+  stock: 2
 },
                    {
   nombre: "5917SOPORTE DE BAMBÚ PARA PLATOS Y VASOS",
@@ -4060,7 +4059,7 @@ const productos = [
    "3": 10.95,
      },
   imagen: "Img/Imagen854.jpeg",
-  stock: 10
+  stock: 9
 },
              {
   nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
