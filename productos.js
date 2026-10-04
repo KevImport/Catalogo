@@ -3723,7 +3723,7 @@ const productos = [
    "6": 3.25,
      },
   imagen: "Img/Imagen815.jpeg",
-  stock: 7
+  stock: 4
 },
        {
   nombre: "6069ORGANIZADOR DE ESPECIAS",
@@ -3985,7 +3985,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen849.jpeg",
-  stock: 12
+  stock: 11
 },
        {
   nombre: "6109POTE DE 100 HISOPOS",
@@ -4019,7 +4019,7 @@ const productos = [
    "3": 10.95,
      },
   imagen: "Img/Imagen854.jpeg",
-  stock: 8
+  stock: 7
 },
              {
   nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
