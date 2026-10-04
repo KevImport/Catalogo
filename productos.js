@@ -3130,7 +3130,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen741.jpeg",
-  stock: 10
+  stock: 7
 },
            {
   nombre: "5986PUZZLE DESLIZANTE DISNEY LICENCIA",
@@ -3152,7 +3152,7 @@ const productos = [
    "3": 7.95,
      },
   imagen: "Img/Imagen744.jpeg",
-  stock: 12
+  stock: 9
 },
                {
   nombre: "5988ESTANTE ESCALONADO",
@@ -3726,7 +3726,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen814.jpeg",
-  stock: 11
+  stock: 8
 },
      {
   nombre: "6067SET DE GANCHITOS FLOR",
@@ -3933,7 +3933,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen838.jpeg",
-  stock: 14
+  stock: 12
 },  
   {
   nombre: "6096PORTAROLLOS NAVIDEÑOS",
@@ -4034,7 +4034,7 @@ const productos = [
    "3": 10.95,
      },
   imagen: "Img/Imagen854.jpeg",
-  stock: 9
+  stock: 8
 },
              {
   nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
@@ -4109,10 +4109,9 @@ const productos = [
   descripcion: "Dale un toque mágico y acogedor a tus espacios con su hermosa iluminación. Ideal para decorar árboles, jardines, ventanas y celebraciones. Medida: 4 metros - Color: ámbar o blanco (al azar)",
   precios: {
    "1": 12.95,
-   "3": 11.95,
      },
   imagen: "Img/Imagen861.jpeg",
-  stock: 13
+  stock: 1
 },
                    {
   nombre: "6123JUEGO DE 2 DISPENSADORES Y 3 CONDIMENTEROS",
@@ -4146,7 +4145,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen865.jpeg",
-  stock: 8
+  stock: 6
 },
                          {
   nombre: "6129SET DE 3 FUENTES DE BAMBÚ",
@@ -4156,7 +4155,7 @@ const productos = [
    "1": 19.90,
      },
   imagen: "Img/Imagen866.jpeg",
-  stock: 9
+  stock: 6
 },
                            {
   nombre: "6130ARO LED CON DOBLE SOPORTE",
@@ -4199,10 +4198,9 @@ const productos = [
    "1": 6.95,
    "3": 5.65,
    "6": 5.35,
-   "12": 5.05,
      },
   imagen: "Img/Imagen871.jpeg",
-  stock: 18
+  stock: 10
 },
                               {
   nombre: "6135CAJA VANITY",
@@ -4225,7 +4223,7 @@ const productos = [
    "12": 3.05,
      },
   imagen: "Img/Imagen873.jpeg",
-  stock: 24
+  stock: 22
 },
        {
   nombre: "6137ENCENDEDOR RECARGABLE DE COCINA",
@@ -4237,6 +4235,6 @@ const productos = [
    "6": 3.75,
      },
   imagen: "Img/Imagen874.png",
-  stock: 24
+  stock: 20
 },
   ];
