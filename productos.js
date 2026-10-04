@@ -4304,4 +4304,207 @@ const productos = [
   imagen: "Img/Imagen880.jpeg",
   stock: 29
 },
+           {
+  nombre: "6149SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
+  categoria: "Navidad / Regalos",
+  descripcion: "¡Dale un toque especial a tus regalos con diseños navideños llenos de alegría! Prácticas y reutilizables, ideales para regalar y sorprender esta Navidad. Medida: 23 × 21 × 12 cm",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "Img/Imagen881.jpeg",
+  stock: 7
+},
+           {
+  nombre: "6150SET DE 12 PLASTILINAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "12 colores vibrantes, suaves y fáciles de moldear para crear figuras increíbles. Ideal para estimular la creatividad y disfrutar de horas de diversión.",
+  precios: {
+   "1": 2.95,
+   "3": 1.75,
+   "6": 1.55,
+     },
+  imagen: "Img/Imagen882.jpeg",
+  stock: 28
+},
+         {
+  nombre: "6151PLANCHA DE ABECEDARIO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Letras de foami microporoso adhesivo escarchado, ¡cada letra viene 3 veces! Color al azar, un solo color por plancha. Ideal para manualidades, carteles y trabajos escolares.",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+   "6": 1.25,
+   "12": 0.95,
+     },
+  imagen: "Img/Imagen883.jpeg",
+  stock: 49
+},
+         {
+  nombre: "6152SECADOR NAVIDEÑO 40 × 60 CM",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu hogar en Navidad con hermosos diseños festivos y llenos de color. Medida 40 × 60 cm y diseño al azar, ¡perfecto para darle un toque navideño a tus espacios!",
+  precios: {
+   "1": 3.95,
+   "3": 2.05,
+   "6": 1.85,
+   "12": 1.65,
+     },
+  imagen: "Img/Imagen884.jpeg",
+  stock: 23
+},
+         {
+  nombre: "6153SET DE 12 VELAS CURVAS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque especial y divertido a tus tortas con estas velas curvas de colores variados. Ideales para cumpleaños, aniversarios y celebraciones; ¡haz que cada momento sea inolvidable! Color: al azar",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen885.jpeg",
+  stock: 18
+},
+           {
+  nombre: "6154CÚPULA DE GRADUACIÓN – NIÑA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque especial y divertido a tus tortas con estas velas curvas de colores variados. Ideales para cumpleaños, aniversarios y celebraciones; ¡haz que cada momento sea inolvidable! Color: al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.55,
+     },
+  imagen: "Img/Imagen886.jpeg",
+  stock: 7
+},
+           {
+  nombre: "6156TOALLA DE MANO NAVIDEÑA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Práctica y decorativa para darle un toque navideño a tu hogar. Medida: 24 × 20 cm - Material: microfibra",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+     },
+  imagen: "Img/Imagen887.jpeg",
+  stock: 6
+},
+  {
+  nombre: "6157SET x 3 BANDEJAS RECTANGULARES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideales para servir y presentar tus alimentos de forma práctica y elegante. Perfectas para el hogar, reuniones y celebraciones.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen888.jpeg",
+  stock: 6
+},
+  {
+  nombre: "6158TABLA PARA CHARCUTERÍA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elegante tabla de charcutería con cuchillo para quesos. El accesorio ideal para lucir tus piqueos favoritos y deslumbrar a tus invitados en cualquier reunión especial.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen889.jpeg",
+  stock: 9
+},
+  {
+  nombre: "6159ROLLO DE PAÑOS DE LIMPIEZA NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Paños suaves, resistentes y absorbentes, perfectos para mantener tu hogar limpio con un toque navideño. Reutilizables y con diseños navideños variados, ideales para cocina, muebles, vidrios y mucho más.",
+  precios: {
+   "1": 6.95,
+   "3": 5.65,
+   "6": 5.35,
+     },
+  imagen: "Img/Imagen890.jpeg",
+  stock: 7
+},
+  {
+  nombre: "6160JARRA COLADORA DE ACEITE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Filtra y almacena el aceite de cocina de forma práctica, ayudando a mantenerlo limpio y listo para reutilizar. Fabricada en acero inoxidable resistente, ideal para cualquier cocina.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen891.jpeg",
+  stock: 21
+},
+  {
+  nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico y decorativo para mantener tus llaves siempre organizadas y a la mano. Ideal para colocar en la entrada de tu hogar y darle un toque bonito a tu espacio. Medida: 20 x 18 cm.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+   "12": 4.35,
+     },
+  imagen: "Img/Imagen892.jpeg",
+  stock: 16
+},
+  {
+  nombre: "6164AFILADOR DE CUCHILLOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Devuelve el filo a tus cuchillos de forma rápida y sencilla! Ideal para mantenerlos siempre listos. Diseño seguro, estable y práctico para usar en tu cocina con mayor comodidad.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+     },
+  imagen: "Img/Imagen893.jpeg",
+  stock: 28
+},
+    {
+  nombre: "6165SCRATCH NOTE",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Crea dibujos llenos de color y diversión! Ideal para estimular la creatividad de los pequeños. Incluye palito para descubrir increíbles colores al raspar. ¡Perfecto para regalar!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen894.jpeg",
+  stock: 67
+},
+    {
+  nombre: "6166TIRA DE LUCES LED",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque especial a tus espacios con sus luces brillantes y coloridas. Medida aprox. 10 metros. Conexión USB. Color al azar: multicolor, verde o rojo.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+     },
+  imagen: "Img/Imagen895.png",
+  stock: 34
+},
+    {
+  nombre: "6167VELA LED LARGA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ilumina tus espacios con una luz cálida y acogedora, sin llama ni humo. Ideal para decoración, cenas, eventos y ocasiones especiales. Color al azar: blanco, crema y rojo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+     },
+  imagen: "Img/Imagen896.jpeg",
+  stock: 39
+},
+    {
+  nombre: "6168DUMPLING SQUISHY BRILLANTES",
+  categoria: "Juguetes",
+  descripcion: "Divertidos squishies con brillitos y orbis para apretar, jugar y coleccionar. Colores variados, suaves y flexibles. Diversión en cada apriete!",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+     },
+  imagen: "Img/Imagen897.jpeg",
+  stock: 11
+},
   ];
