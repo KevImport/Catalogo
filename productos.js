@@ -4032,18 +4032,6 @@ const productos = [
   stock: 1
 },
              {
-  nombre: "6115VASO TÉRMICO 360ML",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctico y moderno para disfrutar tus bebidas favoritas donde quieras. Capacidad: 360 ml. Color al azar",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-   "6": 5.75,
-     },
-  imagen: "Img/Imagen856.jpeg",
-  stock: 6
-},
-             {
   nombre: "6118CALENDARIO NAVIDEÑO",
   categoria: "Navidad / Regalos",
   descripcion: "Decora tu hogar y vive la magia de contar los días hasta Navidad con este hermoso diseño. Ideal para decorar y regalar, ¡un detalle navideño que encantará a todos! Diseño al azar.",
@@ -4091,12 +4079,13 @@ const productos = [
                  {
   nombre: "6122TIRA DE LUCES LLUVIA METEORITO",
   categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque mágico y acogedor a tus espacios con su hermosa iluminación. Ideal para decorar árboles, jardines, ventanas y celebraciones. Medida: 4 metros - Color: ámbar o blanco (al azar)",
+  descripcion: "Dale un toque mágico y acogedor a tus espacios con su hermosa iluminación. Ideal para decorar árboles, jardines, ventanas y celebraciones. Medida: 4 metros - Color: ámbar",
   precios: {
    "1": 12.95,
+   "3": 11.95,
      },
   imagen: "Img/Imagen861.jpeg",
-  stock: 1
+  stock: 3
 },
                    {
   nombre: "6123JUEGO DE 2 DISPENSADORES Y 3 CONDIMENTEROS",
@@ -4182,10 +4171,9 @@ const productos = [
   precios: {
    "1": 6.95,
    "3": 5.65,
-   "6": 5.35,
      },
   imagen: "Img/Imagen871.jpeg",
-  stock: 10
+  stock: 4
 },
                               {
   nombre: "6135CAJA VANITY",
@@ -4208,7 +4196,7 @@ const productos = [
    "12": 3.05,
      },
   imagen: "Img/Imagen873.jpeg",
-  stock: 22
+  stock: 19
 },
        {
   nombre: "6137ENCENDEDOR RECARGABLE DE COCINA",
@@ -4220,7 +4208,7 @@ const productos = [
    "6": 3.75,
      },
   imagen: "Img/Imagen874.png",
-  stock: 20
+  stock: 14
 },
        {
   nombre: "6141ORGANIZADOR GANCHO",
@@ -4287,7 +4275,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen880.jpeg",
-  stock: 29
+  stock: 23
 },
            {
   nombre: "6149SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
