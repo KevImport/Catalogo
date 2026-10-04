@@ -4301,7 +4301,7 @@ const productos = [
    "12": 1.65,
      },
   imagen: "Img/Imagen884.jpeg",
-  stock: 23
+  stock: 20
 },
          {
   nombre: "6153SET DE 12 VELAS CURVAS",
@@ -4314,7 +4314,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen885.jpeg",
-  stock: 18
+  stock: 15
 },
            {
   nombre: "6154CÚPULA DE GRADUACIÓN – NIÑA",
@@ -4379,7 +4379,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen891.jpeg",
-  stock: 21
+  stock: 20
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
@@ -4405,7 +4405,7 @@ const productos = [
    "12": 2.55,
      },
   imagen: "Img/Imagen893.jpeg",
-  stock: 28
+  stock: 25
 },
     {
   nombre: "6165SCRATCH NOTE",
