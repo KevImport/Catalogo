@@ -4208,7 +4208,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen876.jpeg",
-  stock: 12
+  stock: 11
 },
        {
   nombre: "6144SET DE BAÑO NAVIDEÑO x 3 PIEZAS",
@@ -4392,7 +4392,7 @@ const productos = [
    "12": 4.35,
      },
   imagen: "Img/Imagen892.jpeg",
-  stock: 16
+  stock: 15
 },
   {
   nombre: "6164AFILADOR DE CUCHILLOS",
@@ -4431,7 +4431,7 @@ const productos = [
    "12": 3.55,
      },
   imagen: "Img/Imagen895.png",
-  stock: 34
+  stock: 33
 },
     {
   nombre: "6167VELA LED LARGA",
