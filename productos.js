@@ -4507,4 +4507,14 @@ const productos = [
   imagen: "Img/Imagen897.jpeg",
   stock: 11
 },
+    {
+  nombre: "6169PATILARGA NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Aporta un toque divertido y acogedor al ambiente navideño. Ideal para complementar el árbol, la sala o la entrada del hogar. ¡Un detalle encantador que llena de magia la Navidad! Medida extendido: 60cm.",
+  precios: {
+   "1": 13.95,
+     },
+  imagen: "Img/Imagen898.png",
+  stock: 7
+},
   ];
