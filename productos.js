@@ -2224,18 +2224,6 @@ const productos = [
   stock: 7
 },
             {
-  nombre: "5754PÉTALOS DE ALGODÓN",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Limpieza delicada para tu piel, ideales para maquillaje y cuidado diario. Pack de 80 unidades, suaves y resistentes para una rutina perfecta.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.75,
-       },
-  imagen: "Img/Imagen601.jpeg",
-  stock: 5
-},
-            {
   nombre: "5758LIBRO MÁGICO",
   categoria: "Hogar / Cocina",
   descripcion: "Pinta solo con agua y descubre colores que aparecen como por arte de magia. Reutilizable, limpio y seguro, ideal para estimular la creatividad de los niños.",
@@ -2802,10 +2790,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.95,
-   "6": 3.75,
   },
   imagen: "Img/Imagen695.jpeg",
-  stock: 11
+  stock: 3
 },
                {
   nombre: "5905BOXER CALVIN KLEN XL",
@@ -3240,11 +3227,9 @@ const productos = [
   descripcion: "El complemento perfecto para celebrar y lucir increíble en tu día especial. Ideal para cumpleaños, fotos, fiestas y momentos inolvidables. Color al azar",
   precios: {
    "1": 5.95,
-   "3": 4.55,
-   "6": 4.25,
      },
   imagen: "Img/Imagen753.jpeg",
-  stock: 7
+  stock: 1
 },
   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
