@@ -98,17 +98,6 @@ const productos = [
   stock: 10
 },
 {
-  nombre: "4831GUANTES TOUCH",
-  categoria: "Accesorios",
-  descripcion: "¡Tecnología al alcance de tus dedos! Guantes cálidos compatibles con pantallas táctiles. Ideal para invierno.",
-  precios: {
-    "1": 4.95,
-    "2": 3.85,
-  },
-  imagen: "Img/Imagen50.jpg",
-  stock: 2
-},
-{
   nombre: "4675COLLAR PURE LOVE",
   categoria: "Accesorios",
   descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
@@ -1108,17 +1097,7 @@ const productos = [
   imagen: "Img/Imagen309.jpg",
   stock: 6
 },
-     {
-  nombre: "5311ORGANIZADOR DE HUEVOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Diseño plegable sin montaje, acomoda hasta 24 huevos en capas separadas. Hecho de plástico resistente, ideal para mantener frescura y ahorrar espacio en tu refrigerador.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen310.jpeg",
-  stock: 1
-},
-       {
+           {
   nombre: "5312MANGO UNIVERSAL PARA TAPAS",
   categoria: "Hogar / Cocina",
   descripcion: "De acero y madera resistente, mide 5.5 x 3 cm — ¡fácil de instalar y duradero! Ideal para renovar tus tapas de olla y darles un toque elegante y funcional.",
@@ -2971,7 +2950,7 @@ const productos = [
    "6": 6.95,
   },
   imagen: "Img/Imagen722.jpeg",
-  stock: 7
+  stock: 6
 },
   {
   nombre: "5948CINTURÓN PARA CÓLICOS",
@@ -3284,10 +3263,9 @@ const productos = [
   descripcion: "Dale color y creatividad a tus proyectos con estos diseños adhesivos, ¡ideales para decorar!. Cada hoja mide 20 × 30 cm. Los modelos pueden variar.",
   precios: {
    "1": 3.90,
-   "3": 2.90,
      },
   imagen: "Imagen765.jpeg",
-  stock: 3
+  stock: 1
 },
         {
   nombre: "4834STICKER CUADRO 3D",
@@ -3550,10 +3528,9 @@ const productos = [
   descripcion: "¡Dibuja, colorea y estampa con estos hermosos sellos! Incluye estuche práctico para mantenerlos ordenados y llevarlos donde quieras.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen798.jpeg",
-  stock: 3
+  stock: 2
 },
       {
   nombre: "6043SET DE 24 SILBATOS DIVERTIDOS",
@@ -3871,10 +3848,9 @@ const productos = [
   precios: {
    "1": 2.95,
    "3": 1.95,
-   "6": 1.75,    
      },
   imagen: "Img/Imagen835.jpeg",
-  stock: 10
+  stock: 4
 },
          {
   nombre: "6092ADORNO RENO NAVIDEÑO",
@@ -4240,7 +4216,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen879.jpeg",
-  stock: 5
+  stock: 4
 },
          {
   nombre: "6147CUBIERTA PARA PLATOS",
