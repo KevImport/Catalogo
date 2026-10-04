@@ -168,16 +168,6 @@ const productos = [
  stock: 2
 },
 {
-  nombre: "4380PACK DE 10 PEGA MOSCAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Despídete de los insectos. Pack de 10 trampas adhesivas para moscas, práctico, higiénico y fácil de usar.",
-  precios: {
-    "1": 6.90,
-  },
-  imagen: "Img/Imagen67.jpg",
-  stock: 1
-},
-{
   nombre: "4183LENTES DE SOL 2025",
   categoria: "Accesorios",
   descripcion: "Protección y estilo moderno. Lentes de sol con diseño actual, perfectos para cualquier ocasión.",
@@ -1002,7 +992,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Img/Imagen278.jpeg",
-  stock: 10
+  stock: 7
 },
  {
   nombre: "5271BOLA DE NIEVE NAVIDEÑA SANTA",
@@ -2360,7 +2350,7 @@ const productos = [
    "6": 5.25,
     },
   imagen: "Img/Imagen617.jpeg",
-  stock: 10
+  stock: 6
 },
 
                         {
@@ -3772,17 +3762,6 @@ const productos = [
   stock: 12
 },
          {
-  nombre: "6075TOMATODO KIDS ",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Ideal para la escuela, paseos y mucho más! Capacidad de 528 ml, súper práctico para los peques. Diseño / color al azar.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-     },
-  imagen: "Img/Imagen822.jpeg",
-  stock: 3
-},
-         {
   nombre: "6076SET DE 12 PELOTAS FIESTA",
   categoria: "Juguetes",
   descripcion: "¡Diversión asegurada con diseños coloridos y llamativos! Ideales para fiestas, juegos, piñatas, regalos y mucho más. Diseño al azar",
@@ -3893,10 +3872,9 @@ const productos = [
    "1": 2.95,
    "3": 1.95,
    "6": 1.75,    
-   "12": 1.55, 
      },
   imagen: "Img/Imagen835.jpeg",
-  stock: 16
+  stock: 10
 },
          {
   nombre: "6092ADORNO RENO NAVIDEÑO",
@@ -4129,7 +4107,7 @@ const productos = [
    "1": 19.90,
      },
   imagen: "Img/Imagen866.jpeg",
-  stock: 6
+  stock: 5
 },
                            {
   nombre: "6130ARO LED CON DOBLE SOPORTE",
