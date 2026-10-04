@@ -4237,4 +4237,71 @@ const productos = [
   imagen: "Img/Imagen874.png",
   stock: 20
 },
+       {
+  nombre: "6141ORGANIZADOR GANCHO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza ropa, cinturones, accesorios y toallas en un solo lugar. ¡Práctico, resistente y giratorio para aprovechar mejor el espacio! Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "Img/Imagen875.jpeg",
+  stock: 7
+},
+       {
+  nombre: "6142ROBOT ASPIRADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpia tu hogar de forma práctica y automática, ahorrándote tiempo y esfuerzo. Ideal para mantener tus pisos libres de polvo y suciedad. Color al azar",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "Img/Imagen876.jpeg",
+  stock: 12
+},
+       {
+  nombre: "6144SET DE BAÑO NAVIDEÑO x 3 PIEZAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque navideño y acogedor a tu baño con este lindo set de 3 piezas. Ideal para decorar tu hogar y disfrutar de la magia de la Navidad. Diseño al azar.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen876.jpeg",
+  stock: 6
+},
+         {
+  nombre: "6145SET x 3 CANDELABROS DORADOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque elegante y sofisticado a tus espacios con este hermoso set decorativo. Medidas: 17, 19 y 23 cm. Material: Metal. Ideal para decorar mesas, repisas y ocasiones especiales.",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "Img/Imagen878.jpeg",
+  stock: 19
+},
+         {
+  nombre: "6146DESARMADOR 6 EN 1",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico y versátil, ideal para reparaciones en casa, trabajo y más. Incluye 6 puntas intercambiables para diferentes tipos de tornillos.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen879.jpeg",
+  stock: 5
+},
+         {
+  nombre: "6147CUBIERTA PARA PLATOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tus alimentos de insectos y mantenlos frescos por más tiempo. Práctica y fácil de usar, ideal para la cocina, mesa o reuniones.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "Img/Imagen880.jpeg",
+  stock: 29
+},
   ];
