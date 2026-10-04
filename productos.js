@@ -4502,10 +4502,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.75,
      },
   imagen: "Img/Imagen897.jpeg",
-  stock: 11
+  stock: 5
 },
     {
   nombre: "6169PATILARGA NAVIDEÑO",
