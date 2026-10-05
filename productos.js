@@ -3278,19 +3278,7 @@ const productos = [
   imagen: "Imagen766.jpeg",
   stock: 5
 },
-          {
-  nombre: "6011PAQUETE DE 100 LIMPIAPIPA",
-  categoria: "Escolar / Papelería",
-  descripcion: "Perfectas para manualidades, trabajos escolares, decoración y proyectos creativos. ¡Crea figuras, animales y un sinfín de diseños con mucha imaginación! Color al azar",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.75,
-     },
-  imagen: "Img/Imagen768.jpeg",
-  stock: 6
-},
-            {
+     {
   nombre: "6013PAR DE GUANTES REUTILIZABLES",
   categoria: "Hogar / Cocina",
   descripcion: "Protege tus manos mientras realizas tus labores de limpieza y hogar. Cómodos, impermeables y reutilizables, ¡ideales para lavar, limpiar y mucho más! Medida: 31 cm / Color al azar",
