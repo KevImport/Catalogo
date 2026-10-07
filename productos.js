@@ -691,7 +691,7 @@ const productos = [
     "3": 2.95,
  },
   imagen: "Img/Imagen185.jpeg",
-  stock: 9
+  stock: 6
 },
 {
   nombre: "5079BANDEJA ARAÑA",
@@ -1003,7 +1003,7 @@ const productos = [
    "3": 3.95,
   },
   imagen: "Img/Imagen280.jpeg",
-  stock: 4
+  stock: 3
 },
  {
   nombre: "5275ORGANIZADOR COLGANTE",
@@ -3484,10 +3484,9 @@ const productos = [
   descripcion: "Prácticos, flexibles y reutilizables, ideales para preparar tus recetas favoritas. Perfectos para freidora de aire, horno, microondas y mucho más. ¡Cocina fácil y sin complicaciones! Color al azar",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "Img/Imagen794.jpeg",
-  stock: 4
+  stock: 2
 },
     {
   nombre: "6040SET DE 12 COLORES BORRABLES",
@@ -3784,7 +3783,7 @@ const productos = [
    "1": 20.95,
      },
   imagen: "Img/Imagen829.jpeg",
-  stock: 10
+  stock: 7
 },
         {
   nombre: "COMBO CREATIVO",
@@ -3959,7 +3958,7 @@ const productos = [
    "3": 7.95,
      },
   imagen: "Img/Imagen857.jpeg",
-  stock: 20
+  stock: 15
 },
              {
   nombre: "6119JUEGO DE 3 PARES DE ARETES + 1 COLLAR",
@@ -3983,7 +3982,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen859.jpeg",
-  stock: 50
+  stock: 44
 },
                {
   nombre: "6121PACK DE 10 LUCES HADAS 3 METROS - COLOR ÁMBAR",
@@ -4170,7 +4169,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen878.jpeg",
-  stock: 19
+  stock: 17
 },
          {
   nombre: "6147CUBIERTA PARA PLATOS",
@@ -4296,10 +4295,9 @@ const productos = [
   precios: {
    "1": 6.95,
    "3": 5.65,
-   "6": 5.35,
      },
   imagen: "Img/Imagen890.jpeg",
-  stock: 7
+  stock: 4
 },
   {
   nombre: "6160JARRA COLADORA DE ACEITE",
@@ -4361,7 +4359,7 @@ const productos = [
    "12": 3.55,
      },
   imagen: "Img/Imagen895.png",
-  stock: 33
+  stock: 28
 },
     {
   nombre: "6167VELA LED LARGA",
