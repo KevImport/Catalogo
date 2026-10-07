@@ -4126,7 +4126,7 @@ const productos = [
    "6": 3.75,
      },
   imagen: "Img/Imagen874.png",
-  stock: 14
+  stock: 11
 },
        {
   nombre: "6141ORGANIZADOR GANCHO",
