@@ -3668,18 +3668,6 @@ const productos = [
   imagen: "Img/Imagen814.jpeg",
   stock: 8
 },
-     {
-  nombre: "6067SET DE GANCHITOS FLOR",
-  categoria: "Accesorios",
-  descripcion: "Colores y diseños variados para darle un toque lindo y divertido a cualquier peinado. ¡Ideales para niñas y grandes!",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-   "6": 3.25,
-     },
-  imagen: "Img/Imagen815.jpeg",
-  stock: 4
-},
        {
   nombre: "6069ORGANIZADOR DE ESPECIAS",
   categoria: "Hogar / Cocina",
@@ -4382,7 +4370,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen894.jpeg",
-  stock: 67
+  stock: 37
 },
     {
   nombre: "6166TIRA DE LUCES LED",
