@@ -2030,18 +2030,7 @@ const productos = [
   imagen: "Img/Imagen560.jpeg",
   stock: 2
 },
-           {
-  nombre: "5694BOLSA DE 50 GLOBOS N°9",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para decorar cumpleaños, eventos y celebraciones especiales. Un color por bolsa (al azar), llenarán de alegría cualquier ambiente. Fácil de inflar y perfecto para todo tipo de decoraciones.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-       },
-  imagen: "Img/Imagen565.jpeg",
-  stock: 5
-},
-           {
+                 {
   nombre: "5697SET DE TENEDORES DECORATIVOS + BASE UNICORNIO",
   categoria: "Hogar / Cocina",
   descripcion: "Diseño adorable que decora y divierte en la mesa. Incluye tenedor ideal para frutas, snacks y postres. Material resistente y fácil de limpiar, perfecto para niños y hogar.",
