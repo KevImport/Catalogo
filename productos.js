@@ -4080,7 +4080,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen868.jpeg",
-  stock: 9
+  stock: 6
 },
                             {
   nombre: "6133UNGÜENTO CANNABIS",
