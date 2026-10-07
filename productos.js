@@ -4184,17 +4184,6 @@ const productos = [
   stock: 19
 },
          {
-  nombre: "6146DESARMADOR 6 EN 1",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctico y versátil, ideal para reparaciones en casa, trabajo y más. Incluye 6 puntas intercambiables para diferentes tipos de tornillos.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen879.jpeg",
-  stock: 4
-},
-         {
   nombre: "6147CUBIERTA PARA PLATOS",
   categoria: "Hogar / Cocina",
   descripcion: "Protege tus alimentos de insectos y mantenlos frescos por más tiempo. Práctica y fácil de usar, ideal para la cocina, mesa o reuniones.",
@@ -4309,7 +4298,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen889.jpeg",
-  stock: 9
+  stock: 6
 },
   {
   nombre: "6159ROLLO DE PAÑOS DE LIMPIEZA NAVIDEÑOS",
