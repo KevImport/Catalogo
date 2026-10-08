@@ -802,7 +802,7 @@ const productos = [
     "3": 5.95,
  },
   imagen: "Img/Imagen216.jpeg",
-  stock: 22
+  stock: 19
 },
    {
   nombre: "5142PACK ASEO DENTAL",
@@ -3298,10 +3298,9 @@ const productos = [
    "1": 4.95,
    "3": 3.55,
    "6": 3.25,
-   "12": 2.95,
      },
   imagen: "Img/Imagen773.jpeg",
-  stock: 16
+  stock: 9
 },
       {
   nombre: "6019ALCOHOL CON AROMA",
@@ -4169,7 +4168,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen878.jpeg",
-  stock: 17
+  stock: 16
 },
          {
   nombre: "6147CUBIERTA PARA PLATOS",
@@ -4307,7 +4306,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen891.jpeg",
-  stock: 20
+  stock: 15
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
