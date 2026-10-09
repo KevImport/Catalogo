@@ -1758,7 +1758,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 6
+  stock: 1
 },
    {
   nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
