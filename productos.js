@@ -4327,18 +4327,7 @@ const productos = [
   imagen: "Img/Imagen896.jpeg",
   stock: 27
 },
-    {
-  nombre: "6168DUMPLING SQUISHY BRILLANTES",
-  categoria: "Juguetes",
-  descripcion: "Divertidos squishies con brillitos y orbis para apretar, jugar y coleccionar. Colores variados, suaves y flexibles. Diversión en cada apriete!",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-     },
-  imagen: "Img/Imagen897.jpeg",
-  stock: 3
-},
-      {
+          {
   nombre: "6170FUNDA PARA LAVADORA CON DISEÑO",
   categoria: "Hogar / Cocina",
   descripcion: "Protege tu lavadora del polvo y la suciedad mientras le das un toque decorativo. Medida: 60 x 60 x 85 cm | Color al azar.",
