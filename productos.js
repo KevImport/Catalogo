@@ -3577,19 +3577,6 @@ const productos = [
   stock: 7
 },       
   {
-  nombre: "6062PASTILLA PARA TANQUE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tu inodoro limpio, fresco y con agradable aroma en cada descarga. Fácil de usar y práctica para el mantenimiento diario del baño.",
-  precios: {
-   "1": 3.95,
-   "3": 2.25,
-   "6": 1.95,
-   "12": 1.75,
-     },
-  imagen: "Img/Imagen810.jpeg",
-  stock: 36
-},
-  {
   nombre: "6063VELAS ESTILO GLOBOS PARA CUMPLEAÑOS",
   categoria: "Decoración / Fiesta",
   descripcion: "Dale un toque divertido y especial a tus tortas con estas lindas velas en forma de globo. Disponibles en números del 0 al 9 (según disponibilidad), ¡perfectas para cualquier celebración!",
@@ -4349,6 +4336,17 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen897.jpeg",
+  stock: 3
+},
+      {
+  nombre: "6170FUNDA PARA LAVADORA CON DISEÑO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tu lavadora del polvo y la suciedad mientras le das un toque decorativo. Medida: 60 x 60 x 85 cm | Color al azar.",
+  precios: {
+   "1": 10.95,
+   "3": 9.95,
+     },
+  imagen: "Img/Diseño899.jpeg",
   stock: 5
 },
   ];
