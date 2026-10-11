@@ -3277,10 +3277,9 @@ const productos = [
   precios: {
    "1": 2.95,
    "3": 1.95,
-   "6": 1.75,
      },
   imagen: "Img/Imagen776.jpeg",
-  stock: 15
+  stock: 3
 },
       {
   nombre: "6021KIT DE HERRAMIENTAS",
@@ -4349,7 +4348,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen900.jpeg",
-  stock: 16
+  stock: 15
 },
        {
   nombre: "6173TOMATODO SHAKER 500 ML",
@@ -4423,7 +4422,7 @@ const productos = [
   stock: 12
 },
           {
-  nombre: "6182SHAMPOO DE ROMERO",
+  nombre: "6183DESATORADOR DE TUBERÍAS",
   categoria: "Hogar / Cocina",
   descripcion: "¡Desatorador en polvo para tuberías! Disuelve grasa, cabello y residuos en minutos. Ideal para lavamanos, duchas y desagües.",
   precios: {
@@ -4433,7 +4432,7 @@ const productos = [
    "12": 3.95,
      },
   imagen: "Img/Imagen907.png",
-  stock: 22
+  stock: 19
 },
            {
   nombre: "6191SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
