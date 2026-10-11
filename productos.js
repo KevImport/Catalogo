@@ -738,17 +738,6 @@ const productos = [
   stock: 3
 },
  {
-  nombre: "5112CUENCO PARA APERITIVOS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Perfecto para servir una variedad de aperitivos, postres, galletas, frutas, verduras y mucho más. Material: Plástico. Medida aprox.: 24 x 8 cm",
-  precios: {
-    "1": 3.95,
-    "2": 2.95,
- },
-  imagen: "Img/Imagen203.jpeg",
-  stock: 2
-},
- {
   nombre: "5115CARTUCHERA CON CALCULADORA",
   categoria: "Escolar / Papelería",
   descripcion: "Cartuchera con calculadora incorporada. Mantén tus lápices, lapiceros y accesorios siempre ordenados y resuelve operaciones al instante. ¡Práctica y funcional!",
@@ -921,10 +910,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "6": 2.25,
  },
   imagen: "Img/Imagen262.jpeg",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "5249BIOBELL PLACENTA CAPILAR",
@@ -1061,7 +1049,7 @@ const productos = [
    "6": 0.95,
   },
   imagen: "Img/Imagen291.jpeg",
-  stock: 138
+  stock: 60
 },
   {
   nombre: "5287SARTA DE COHETECILLOS",
@@ -1118,7 +1106,7 @@ const productos = [
    "1": 4.95,
   },
   imagen: "Img/Imagen314.jpeg",
-  stock: 2
+  stock: 1
 },
   {
   nombre: "5321SPLASH PARA EL CABELLO",
@@ -1758,16 +1746,6 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen495.jpeg",
-  stock: 1
-},
-   {
-  nombre: "5583CAJA DE 20 REPELENTES FLORESTA FAMILIAR",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Protección para toda la familia con DEET 7.5%. Con aloe vera, no graso y de larga duración.",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "Img/Imagen498.jpeg",
   stock: 1
 },
        {
@@ -2523,7 +2501,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen661.jpeg",
-  stock: 20
+  stock: 18
 },
        {
   nombre: "5858PROTECTOR DE TECLADO",
@@ -2850,7 +2828,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Imagen712.jpeg",
-  stock: 29
+  stock: 19
 },
                 {
   nombre: "5937PEINE ESPEJO SANRIO",
@@ -3178,16 +3156,6 @@ const productos = [
      },
   imagen: "Img/Imagen752.jpeg",
   stock: 3
-},
-    {
-  nombre: "5996SET CORONA + BANDA “FELIZ CUMPLEAÑOS",
-  categoria: "Accesorios",
-  descripcion: "El complemento perfecto para celebrar y lucir increíble en tu día especial. Ideal para cumpleaños, fotos, fiestas y momentos inolvidables. Color al azar",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "Img/Imagen753.jpeg",
-  stock: 1
 },
   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
@@ -3643,7 +3611,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "Img/Imagen812.jpeg",
-  stock: 6
+  stock: 5
 },
      {
   nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
@@ -3709,7 +3677,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen823.jpeg",
-  stock: 12
+  stock: 10
 },
            {
   nombre: "6076SET DE 12 PELOTAS FIESTA",
@@ -3740,7 +3708,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen825.jpeg",
-  stock: 5
+  stock: 4
 },
     {
   nombre: "6079PACK 4 LIBROS MÁGICOS MONTESSORI",
@@ -4036,7 +4004,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen865.jpeg",
-  stock: 6
+  stock: 5
 },
                          {
   nombre: "6129SET DE 3 FUENTES DE BAMBÚ",
@@ -4181,7 +4149,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen880.jpeg",
-  stock: 23
+  stock: 19
 },
            {
   nombre: "6149SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
@@ -4191,7 +4159,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen881.jpeg",
-  stock: 7
+  stock: 3
 },
            {
   nombre: "6150SET DE 12 PLASTILINAS",
@@ -4203,7 +4171,7 @@ const productos = [
    "6": 1.55,
      },
   imagen: "Img/Imagen882.jpeg",
-  stock: 28
+  stock: 25
 },
          {
   nombre: "6151PLANCHA DE ABECEDARIO",
@@ -4229,7 +4197,7 @@ const productos = [
    "12": 1.65,
      },
   imagen: "Img/Imagen884.jpeg",
-  stock: 20
+  stock: 17
 },
          {
   nombre: "6153SET DE 12 VELAS CURVAS",
@@ -4242,7 +4210,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen885.jpeg",
-  stock: 15
+  stock: 12
 },
            {
   nombre: "6154CÚPULA DE GRADUACIÓN – NIÑA",
@@ -4296,7 +4264,7 @@ const productos = [
    "3": 5.65,
      },
   imagen: "Img/Imagen890.jpeg",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "6160JARRA COLADORA DE ACEITE",
@@ -4306,7 +4274,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen891.jpeg",
-  stock: 15
+  stock: 16
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
