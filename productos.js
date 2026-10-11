@@ -4221,7 +4221,7 @@ const productos = [
    "3": 6.55,
      },
   imagen: "Img/Imagen886.jpeg",
-  stock: 7
+  stock: 4
 },
            {
   nombre: "6156TOALLA DE MANO NAVIDEÑA",
@@ -4284,10 +4284,9 @@ const productos = [
    "1": 5.95,
    "3": 4.95,
    "6": 4.65,
-   "12": 4.35,
      },
   imagen: "Img/Imagen892.jpeg",
-  stock: 15
+  stock: 9
 },
   {
   nombre: "6164AFILADOR DE CUCHILLOS",
@@ -4313,7 +4312,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen894.jpeg",
-  stock: 37
+  stock: 28
 },
     {
   nombre: "6166TIRA DE LUCES LED",
@@ -4339,7 +4338,7 @@ const productos = [
    "12": 2.35,
      },
   imagen: "Img/Imagen896.jpeg",
-  stock: 39
+  stock: 27
 },
     {
   nombre: "6168DUMPLING SQUISHY BRILLANTES",
