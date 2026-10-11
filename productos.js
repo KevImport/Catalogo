@@ -4349,4 +4349,88 @@ const productos = [
   imagen: "Img/Diseño899.jpeg",
   stock: 5
 },
+       {
+  nombre: "6172CÚPULA RELIGIOSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Un hermoso detalle para acompañar tus momentos de fe y decorar tus espacios. Diseños religiosos variados, ideales para regalar a alguien especial. Medida: 6.2 × 9 cm. Diseños al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.65,
+   "6": 3.35,
+   "12": 2.95,
+     },
+  imagen: "Img/Imagen900.jpeg",
+  stock: 16
+},
+       {
+  nombre: "6173TOMATODO SHAKER 500 ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para preparar y llevar tus bebidas favoritas. Práctico y cómodo para el gym, trabajo, cole o uso diario. Color al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+     },
+  imagen: "Img/Imagen901.jpeg",
+  stock: 10
+},
+        {
+  nombre: "6176PISO ABSORBENTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Alfombra absorbente antideslizante. Seca rápido, protege el piso y luce increíble en tu hogar. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+     },
+  imagen: "Img/Imagen902.png",
+  stock: 23
+},
+        {
+  nombre: "6177CORREA DE DAMA",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque especial a tus looks con esta correa elegante y versátil. Medida: 2 × 110 cm | Color al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+     },
+  imagen: "Img/Imagen903.jpeg",
+  stock: 13
+},
+        {
+  nombre: "6178CAMINO DE MESA NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque festivo y acogedor a tu mesa esta Navidad. Medida: 33 × 180 cm | Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "Img/Imagen904.png",
+  stock: 12
+},
+          {
+  nombre: "6181GNOMO NAVIDEÑO COLGANTE",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para decorar el árbol, puertas y rincones de tu hogar esta Navidad. Medida: 33 cm | Color al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+     },
+  imagen: "Img/Imagen905.jpeg",
+  stock: 26
+},
+          {
+  nombre: "6182SHAMPOO DE ROMERO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1100ML",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "Img/Imagen906.jpeg",
+  stock: 12
+},
   ];
