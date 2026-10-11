@@ -4014,7 +4014,7 @@ const productos = [
    "1": 19.90,
      },
   imagen: "Img/Imagen866.jpeg",
-  stock: 5
+  stock: 4
 },
                            {
   nombre: "6130ARO LED CON DOBLE SOPORTE",
