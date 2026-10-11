@@ -3736,7 +3736,7 @@ const productos = [
    "1": 20.95,
      },
   imagen: "Img/Imagen829.jpeg",
-  stock: 7
+  stock: 1
 },
         {
   nombre: "COMBO CREATIVO",
@@ -3827,16 +3827,6 @@ const productos = [
   imagen: "Img/Imagen845.jpeg",
   stock: 4
 },
-   {
-  nombre: "6102CASCADA CON ESTRELLA MULTICOLOR",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale vida a tu árbol con hermosas luces multicolor y una estrella iluminada. Medida de 2.10 metros, ideal para decorar y crear un ambiente navideño.",
-  precios: {
-   "1": 16.90,
-     },
-  imagen: "Img/Imagen846.jpeg",
-  stock: 2
-}, 
    {
   nombre: "6104TACHO MODERNO CON TAPA PUSH",
   categoria: "Hogar / Cocina",
@@ -3947,17 +3937,6 @@ const productos = [
   imagen: "Img/Imagen860.jpeg",
   stock: 6
 },
-                 {
-  nombre: "6122TIRA DE LUCES LLUVIA METEORITO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque mágico y acogedor a tus espacios con su hermosa iluminación. Ideal para decorar árboles, jardines, ventanas y celebraciones. Medida: 4 metros - Color: ámbar",
-  precios: {
-   "1": 12.95,
-   "3": 11.95,
-     },
-  imagen: "Img/Imagen861.jpeg",
-  stock: 3
-},
                    {
   nombre: "6123JUEGO DE 2 DISPENSADORES Y 3 CONDIMENTEROS",
   categoria: "Hogar / Cocina",
@@ -4021,7 +4000,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "Img/Imagen868.jpeg",
-  stock: 6
+  stock: 3
 },
                             {
   nombre: "6133UNGÜENTO CANNABIS",
@@ -4069,19 +4048,7 @@ const productos = [
   imagen: "Img/Imagen873.jpeg",
   stock: 19
 },
-       {
-  nombre: "6137ENCENDEDOR RECARGABLE DE COCINA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Olvídate del gas y los fósforos con su cuello, es flexible 360° que llega a cualquier lugar. Recarga por USB y supervisa la batería con sus luces LED. Seguro, ecológico y resistente al viento.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.75,
-     },
-  imagen: "Img/Imagen874.png",
-  stock: 11
-},
-       {
+             {
   nombre: "6141ORGANIZADOR GANCHO",
   categoria: "Hogar / Cocina",
   descripcion: "Organiza ropa, cinturones, accesorios y toallas en un solo lugar. ¡Práctico, resistente y giratorio para aprovechar mejor el espacio! Color al azar.",
@@ -4260,7 +4227,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen891.jpeg",
-  stock: 16
+  stock: 13
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
