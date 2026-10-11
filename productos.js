@@ -4425,12 +4425,38 @@ const productos = [
 },
           {
   nombre: "6182SHAMPOO DE ROMERO",
-  categoria: "Navidad / Regalos",
+  categoria: "Higiene / Cuidado Personal",
   descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1100ML",
   precios: {
    "1": 8.95,
      },
   imagen: "Img/Imagen906.jpeg",
   stock: 12
+},
+          {
+  nombre: "6182SHAMPOO DE ROMERO",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Desatorador en polvo para tuberías! Disuelve grasa, cabello y residuos en minutos. Ideal para lavamanos, duchas y desagües.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "Img/Imagen907.png",
+  stock: 22
+},
+           {
+  nombre: "6191SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideales para presentar tus regalos y dulces navideños. Medida: 25 x 20 x 8 cm. Diseños al azar.",
+  precios: {
+   "1": 2.95,
+   "3": 2.05,
+   "6": 1.85,
+   "12": 1.65,
+     },
+  imagen: "Img/Imagen908.jpeg",
+  stock: 60
 },
   ];
