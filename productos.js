@@ -4447,4 +4447,17 @@ const productos = [
   imagen: "Img/Imagen908.jpeg",
   stock: 60
 },
+  {
+  nombre: "6062PASTILLA PARA TANQUE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu inodoro limpio, fresco y con agradable aroma en cada descarga. Fácil de usar y práctica para el mantenimiento diario del baño.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+   "12": 1.75,
+     },
+  imagen: "Img/Imagen810.jpeg",
+  stock: 24
+},
   ];
