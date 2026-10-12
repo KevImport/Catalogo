@@ -982,17 +982,6 @@ const productos = [
   imagen: "Img/Imagen279.jpeg",
   stock: 8
 },
-  {
-  nombre: "5272MANDIL CON SECADOR NAVIDEÑO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Material: tela impermeable, en los costados cuenta con toalla absorbente de franela terciopelo coralino. Resistente al aceite para proteger tu ropa, medida aprox.: 70 x 65 cm.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-  },
-  imagen: "Img/Imagen280.jpeg",
-  stock: 3
-},
  {
   nombre: "5275ORGANIZADOR COLGANTE",
   categoria: "Hogar / Cocina",
@@ -1060,7 +1049,7 @@ const productos = [
    "3": 2.55,
   },
   imagen: "Img/Imagen292.jpeg",
-  stock: 79
+  stock: 60
 },
   {
   nombre: "5292MOLDE PARA HIELO FACIAL",
@@ -2398,10 +2387,9 @@ const productos = [
   descripcion: "Tamaño amplio para múltiples reparaciones. Ideal para sofás, asientos, carteras y más. Resistente, elegante y fácil de aplicar.",
   precios: {
    "1": 6.95,
-   "3": 5.95,
   },
   imagen: "Img/Imagen640.png",
-  stock: 7
+  stock: 1
 },
    {
   nombre: "5809LEGGIN SUPLEX TALLAS L",
@@ -3801,7 +3789,7 @@ const productos = [
    "6": 5.55,
      },
   imagen: "Img/Imagen840.jpeg",
-  stock: 30
+  stock: 27
 },
   {
   nombre: "6098ROLLO FILM PARA ALIMENTOS",
@@ -4089,7 +4077,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen878.jpeg",
-  stock: 16
+  stock: 15
 },
          {
   nombre: "6147CUBIERTA PARA PLATOS",
@@ -4102,7 +4090,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen880.jpeg",
-  stock: 19
+  stock: 15
 },
            {
   nombre: "6149SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
@@ -4150,7 +4138,7 @@ const productos = [
    "12": 1.65,
      },
   imagen: "Img/Imagen884.jpeg",
-  stock: 17
+  stock: 14
 },
          {
   nombre: "6153SET DE 12 VELAS CURVAS",
@@ -4209,17 +4197,6 @@ const productos = [
   stock: 6
 },
   {
-  nombre: "6159ROLLO DE PAÑOS DE LIMPIEZA NAVIDEÑOS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Paños suaves, resistentes y absorbentes, perfectos para mantener tu hogar limpio con un toque navideño. Reutilizables y con diseños navideños variados, ideales para cocina, muebles, vidrios y mucho más.",
-  precios: {
-   "1": 6.95,
-   "3": 5.65,
-     },
-  imagen: "Img/Imagen890.jpeg",
-  stock: 3
-},
-  {
   nombre: "6160JARRA COLADORA DE ACEITE",
   categoria: "Hogar / Cocina",
   descripcion: "Filtra y almacena el aceite de cocina de forma práctica, ayudando a mantenerlo limpio y listo para reutilizar. Fabricada en acero inoxidable resistente, ideal para cualquier cocina.",
@@ -4227,7 +4204,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "Img/Imagen891.jpeg",
-  stock: 13
+  stock: 12
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
@@ -4291,7 +4268,7 @@ const productos = [
    "12": 2.35,
      },
   imagen: "Img/Imagen896.jpeg",
-  stock: 27
+  stock: 21
 },
           {
   nombre: "6170FUNDA PARA LAVADORA CON DISEÑO",
@@ -4311,11 +4288,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.65,
-   "6": 3.35,
-   "12": 2.95,
      },
   imagen: "Img/Imagen900.jpeg",
-  stock: 15
+  stock: 4
 },
        {
   nombre: "6173TOMATODO SHAKER 500 ML",
@@ -4327,7 +4302,7 @@ const productos = [
    "6": 5.75,
      },
   imagen: "Img/Imagen901.jpeg",
-  stock: 10
+  stock: 9
 },
         {
   nombre: "6176PISO ABSORBENTE",
@@ -4339,7 +4314,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen902.png",
-  stock: 23
+  stock: 22
 },
         {
   nombre: "6177CORREA DE DAMA",
