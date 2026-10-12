@@ -4141,7 +4141,7 @@ const productos = [
   stock: 14
 },
          {
-  nombre: "6153SET DE 12 VELAS CURVAS",
+  nombre: "6153SET DE 12 VELAS CURVAS DORADAS",
   categoria: "Decoración / Fiesta",
   descripcion: "Dale un toque especial y divertido a tus tortas con estas velas curvas de colores variados. Ideales para cumpleaños, aniversarios y celebraciones; ¡haz que cada momento sea inolvidable! Color: al azar",
   precios: {
