@@ -3914,16 +3914,6 @@ const productos = [
   imagen: "Img/Imagen860.jpeg",
   stock: 6
 },
-                   {
-  nombre: "6123JUEGO DE 2 DISPENSADORES Y 3 CONDIMENTEROS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Organiza tu cocina con este práctico set de 5 piezas, ideal para aceite, vinagre y condimentos. Diseño moderno y funcional para mantener tus ingredientes ordenados y siempre a la mano.",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "Img/Imagen862.jpeg",
-  stock: 9
-},
          {
   nombre: "6125FUNDA DE COJÍN NAVIDEÑA DOBLE CARA",
   categoria: "Navidad / Regalos",
