@@ -3065,17 +3065,6 @@ const productos = [
   imagen: "Img/Imagen744.jpeg",
   stock: 9
 },
-               {
-  nombre: "5988ESTANTE ESCALONADO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Este elegante estante de 3 niveles optimiza tu espacio con un diseño nórdico ideal para tazas, perfumes o especias. Medida: 29.5 x 20 x 15 cm",
-  precios: {
-   "1": 10.95,
-   "3": 9.95,
-     },
-  imagen: "Img/Imagen745.jpeg",
-  stock: 8
-},
                  {
   nombre: "5989SET DE 11 PIEZAS PARA FIESTAS",
   categoria: "Hogar / Cocina",
