@@ -3746,18 +3746,7 @@ const productos = [
   imagen: "Img/Imagen835.jpeg",
   stock: 4
 },
-         {
-  nombre: "6092ADORNO RENO NAVIDEÑO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque mágico y navideño a tus espacios. Medida: 35 cm. Ideal para decorar tu hogar.",
-  precios: {
-   "1": 9.95,
-   "3": 8.95,
-     },
-  imagen: "Img/Imagen837.jpeg",
-  stock: 10
-},
-            {
+              {
   nombre: "6093LÁPIZ DE COLORES INFINITOS – 12 PUNTAS INTERCAMBIABLES",
   categoria: "Escolar / Papelería",
   descripcion: "¡Crea y colorea sin límites con sus 12 puntas de diferentes colores! Práctico, divertido y perfecto para llevar a todas partes.",
@@ -4330,7 +4319,7 @@ const productos = [
    "6": 5.75,
      },
   imagen: "Img/Imagen905.jpeg",
-  stock: 26
+  stock: 14
 },
           {
   nombre: "6182SHAMPOO DE ROMERO",
