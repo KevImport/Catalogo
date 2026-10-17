@@ -4282,7 +4282,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen902.png",
-  stock: 22
+  stock: 15
 },
         {
   nombre: "6177CORREA DE DAMA",
@@ -4319,7 +4319,8 @@ const productos = [
    "6": 5.75,
      },
   imagen: "Img/Imagen905.jpeg",
-  stock: 14
+  stock: 11
+            
 },
           {
   nombre: "6182SHAMPOO DE ROMERO",
@@ -4329,7 +4330,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen906.jpeg",
-  stock: 12
+  stock: 8
 },
           {
   nombre: "6183DESATORADOR DE TUBERÍAS",
