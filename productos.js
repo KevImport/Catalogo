@@ -4411,16 +4411,6 @@ const productos = [
   descripcion: "Dale un toque elegante y moderno a tu hogar con este hermoso florero decorativo. Medida: 18 x 13 cm. ¡Ideal para decorar cualquier espacio!",
   precios: {
    "1": 4.95,
-     },
-  imagen: "Img/Imagen911.jpeg",
-  stock: 2
-},
-  {
-  nombre: "6197FLORERO MODERNO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Dale un toque elegante y moderno a tu hogar con este hermoso florero decorativo. Medida: 18 x 13 cm. ¡Ideal para decorar cualquier espacio!",
-  precios: {
-   "1": 4.95,
    "3": 3.55,
    "6": 3.25,
      },
