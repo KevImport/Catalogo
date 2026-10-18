@@ -4371,4 +4371,117 @@ const productos = [
   imagen: "Img/Imagen810.jpeg",
   stock: 24
 },
+  {
+  nombre: "6193SET DE 8 MARCADORES DOBLE TRAZO",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Destaca tus apuntes y manualidades con estos increíbles marcadores de doble línea! Escribe con un deslumbrante centro metálico plateado mientras creas automáticamente un borde de color único con cada trazo.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "Img/Imagen909.jpeg",
+  stock: 10
+},
+  {
+  nombre: "6195DESINFECTANTE DE MANOS EN SPRAY",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Elimina bacterias al instante sin necesidad de agua. Secado rápido, práctico para llevar a todos lados.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen910.jpeg",
+  stock: 12
+},
+  {
+  nombre: "6196MANTEL NAVIDEÑO DE PLÁSTICO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu mesa con diseños navideños llenos de alegría y color. Medida: 1.37 x 1.83 m. Diseño al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "Img/Imagen911.jpeg",
+  stock: 11
+},
+  {
+  nombre: "6197FLORERO MODERNO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante y moderno a tu hogar con este hermoso florero decorativo. Medida: 18 x 13 cm. ¡Ideal para decorar cualquier espacio!",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "Img/Imagen911.jpeg",
+  stock: 2
+},
+  {
+  nombre: "6197FLORERO MODERNO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante y moderno a tu hogar con este hermoso florero decorativo. Medida: 18 x 13 cm. ¡Ideal para decorar cualquier espacio!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+     },
+  imagen: "Img/Imagen912.jpeg",
+  stock: 10
+},
+   {
+  nombre: "6198PORTAVELA FLOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elegante diseño de flor de loto, ideal para dar un toque delicado y sofisticado a tus espacios. Perfecto para velas de té o como decoración, creando un ambiente cálido y armonioso.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "Img/Imagen913.jpeg",
+  stock: 2
+},
+   {
+  nombre: "6199CERA PARA CABELLO CON AROMAS FRUTALES",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Ideal para peinar, moldear y dar estilo a tu cabello con deliciosos aromas frutales. Aroma al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+     },
+  imagen: "Img/Imagen914.png",
+  stock: 30
+},
+   {
+  nombre: "6200PERRITO GRADUADO 20cm",
+  categoria: "Juguetes",
+  descripcion: "Un detalle tierno y especial para celebrar grandes logros. ¡Ideal para regalos, graduaciones y recuerdos inolvidables!",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen915.jpeg",
+  stock: 29
+},
+     {
+  nombre: "6201OSITO GRADUADO 20cm",
+  categoria: "Juguetes",
+  descripcion: "Un detalle tierno y especial para celebrar un gran logro y guardar un recuerdo inolvidable. Ideal para graduaciones escolares, universitarias o para sorprender a esa persona especial. Color al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "Img/Imagen916.jpeg",
+  stock: 53
+},
+     {
+  nombre: "6202DELINEADOR CON SELLO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Ideal para lucir una mirada encantadora. Tono al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.75,
+   "6": 3.55,
+     },
+  imagen: "Img/Imagen917.png",
+  stock: 22
+},
   ];
