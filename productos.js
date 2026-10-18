@@ -1019,7 +1019,7 @@ const productos = [
 },
   {
   nombre: "5284CEPILLO DE VAPORIZADOR DE MASCOTAS",
-  categoria: "Mascotas",
+  categoria: "Hogar / Cocina",
   descripcion: "Elimina nudos y enredos fácilmente. Suaviza el pelaje con vapor para mayor comodidad. Ideal para perros y gatos de todo tipo de pelo. ¡Cepillado sin estrés y con más brillo!.",
   precios: {
    "1": 5.95,
@@ -2755,7 +2755,7 @@ const productos = [
 },
                     {
   nombre: "5915PISO PLEGABLE",
-  categoria: "Hogar / Cocina",
+  categoria: "Artículos para bebés",
   descripcion: "Medida: 2 m x 1.8 m. Ideal para que bebés y niños jueguen cómodamente, brindando una superficie acolchada, fácil de limpiar, plegable y perfecta para el hogar o llevar a cualquier lugar.",
   precios: {
    "1": 30.90,
@@ -4483,5 +4483,187 @@ const productos = [
      },
   imagen: "Img/Imagen917.png",
   stock: 22
+},
+     {
+  nombre: "6203DESMAQUILLANTE MÁGICO HECHIZO DE ARROZ",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Limpia tu rostro y ayuda a retirar el maquillaje fácilmente. Ideal para tu rutina de belleza diaria.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "Img/Imagen918.png",
+  stock: 5
+},
+     {
+  nombre: "6204SET DE 12 LAPICEROS DE GEL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Escritura suave y fluida, ideales para el cole, la oficina y tus apuntes. ¡Colores variados para darle vida a tus escritos!",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "Img/Imagen919.jpeg",
+  stock: 1
+},
+     {
+  nombre: "6205SET DE PLUMONES NEONES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores neón súper vibrantes, ideales para resaltar, dibujar y dar vida a tus apuntes.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "Img/Imagen920.jpeg",
+  stock: 9
+},
+     {
+  nombre: "6206LUSTRADOR DE ZAPATOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lustrador con esponja integrada para renovar el color y dar brillo instantáneo a tus zapatos. ¡Protege y mantén tu calzado impecable todos los días de la forma más rápida y limpia!",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+   "12": 3.25,
+     },
+  imagen: "Img/Imagen921.jpeg",
+  stock: 19
+},
+       {
+  nombre: "6207PACK DE 25 SOPORTES ADHESIVOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideales para fijar repisas y muebles de forma práctica y discreta. Fáciles de instalar, resistentes y perfectos para organizar tus espacios.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "Img/Imagen922.jpeg",
+  stock: 13
+},
+       {
+  nombre: "6208MATIFICANTE MÁGICO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Reduce el brillo y deja tu piel con un acabado mate y suave. ¡Luce un rostro fresco y radiante por más tiempo!",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "Img/Imagen923.jpeg",
+  stock: 17
+},
+       {
+  nombre: "6209PAPEL FOTOGRÁFICO A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Paquete de 100 hojas, ideal para imprimir fotos, imágenes y diseños a todo color. Perfecto para trabajos escolares, manualidades, proyectos y uso en casa u oficina.",
+  precios: {
+   "1": 15.90,
+     },
+  imagen: "Img/Imagen924.jpeg",
+  stock: 4
+},
+       {
+  nombre: "6210RUBOR EN PERLAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Aporta un toque de color y luminosidad a tus mejillas para un acabado radiante y natural. ¡Luce un rostro fresco, hermoso y con un brillo encantador!",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "Img/Imagen925.jpeg",
+  stock: 1
+},
+       {
+  nombre: "6211ILUMINADOR EN PERLAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Realza tu belleza con un brillo radiante y luminoso para un acabado espectacular. ¡Dale a tu rostro ese toque de luz que enamora!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+     },
+  imagen: "Img/Imagen926.jpeg",
+  stock: 5
+},
+       {
+  nombre: "6214LÁMPARA OSITO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Adorable diseño de osito que ilumina y decora cualquier espacio. Funciona a pilas, ideal para el dormitorio, la mesa de noche o regalar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen927.jpeg",
+  stock: 16
+},
+         {
+  nombre: "6215GORRA PARA BEBÉ",
+  categoria: "Artículos para bebés",
+  descripcion: "¡Protege a tu pequeño del sol con el estilo más tierno y divertido!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+     },
+  imagen: "Img/Imagen928.jpeg",
+  stock: 47
+},
+         {
+  nombre: "6216GUITARRA KIDS",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión musical con diseños coloridos! ¡El regalo perfecto para los pequeños! Diseño al azar.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "Img/Imagen929.jpeg",
+  stock: 10
+},
+         {
+  nombre: "6217SET DE 12 BOLSAS PARA COLOREAR",
+  categoria: "Juguetes",
+  descripcion: "¡Dale vida a tu imaginación con estas divertidas bolsas para colorear! Ideales para que los niños expresen su creatividad. Perfectas para regalar, decorar y llevar tus propias creaciones a todas partes. ¡Diversión y color en cada diseño! Medida: 38 x 32 x 10cm",
+  precios: {
+   "1": 11.90,
+     },
+  imagen: "Img/Imagen930.jpeg",
+  stock: 2
+},
+         {
+  nombre: "6218MOUSE PAD MAPAMUNDI",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Dale estilo gamer a tu escritorio con este mapamundi! Amplio y cómodo. Medida aprox.: 80 x 30cm",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+   "6": 6.75,
+   "12": 6.55,
+     },
+  imagen: "Img/Imagen931.jpeg",
+  stock: 23
+},
+           {
+  nombre: "6219SET DE 12 BOLSAS DE PAPEL",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Ideales para regalos, detalles y presentaciones. Medida: 21 × 16 × 8 cm | Set x12 unidades.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen932.jpeg",
+  stock: 6
+},
+             {
+  nombre: "6220MUÑECO PATILARGA - BELLA NAVIDAD",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu hogar con estos adorables muñecos navideños, ideales para darle un toque mágico y festivo a cada rincón. ¡Sus patitas se extienden hasta aproximadamente 60 cm para lucirlos con todo su encanto!",
+  precios: {
+   "1": 14.95,
+     },
+  imagen: "Img/Imagen933.jpeg",
+  stock: 6
+},
+             {
+  nombre: "6226CORRAL HEXAGONAL",
+  categoria: "Artículos para bebés",
+  descripcion: "Espacio amplio y seguro para que tu pequeño juegue y se divierta cómodamente. Ideal para mantener sus juguetes y su área de juego organizados. Colores: Rojo, Plateado, Azul y Negro.",
+  precios: {
+   "1": 49.95,
+     },
+  imagen: "Img/Imagen934.jpeg",
+  stock: 4
 },
   ];
