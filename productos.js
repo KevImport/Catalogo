@@ -4422,7 +4422,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "Img/Imagen914.png",
-  stock: 30
+  stock: 27
 },
    {
   nombre: "6200PERRITO GRADUADO 20cm",
