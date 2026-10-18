@@ -1413,7 +1413,7 @@ const productos = [
    "12": 3.95,
      },
   imagen: "Img/Imagen401.jpeg",
-  stock: 47
+  stock: 40
 },
      {
   nombre: "5437CAJA DE 10 MASCARILLAS BLANCAS KN95",
@@ -1425,7 +1425,7 @@ const productos = [
    "6": 3.65,
      },
   imagen: "Img/Imagen402.jpeg",
-  stock: 31
+  stock: 24
 },
      {
   nombre: "5439TOALLA DE ENFRIAMIENTO",
@@ -1493,10 +1493,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.65,
      },
   imagen: "Img/Imagen423.jpeg",
-  stock: 9
+  stock: 3
 },
    {
   nombre: "5471SET DE 12 LÁPICES TÉCNICO 2B",
@@ -2489,7 +2488,7 @@ const productos = [
    "3": 1.95,
   },
   imagen: "Img/Imagen661.jpeg",
-  stock: 18
+  stock: 15
 },
        {
   nombre: "5858PROTECTOR DE TECLADO",
@@ -2576,10 +2575,9 @@ const productos = [
    "1": 6.95,
    "3": 5.55,
    "6": 5.25,
-   "12": 4.95,
   },
   imagen: "Img/Imagen675.jpeg",
-  stock: 24
+  stock: 6
 },
         {
   nombre: "5881ARETES FLOR PELA",
@@ -2853,17 +2851,6 @@ const productos = [
   imagen: "Img/Imagen715.jpeg",
   stock: 10
 },
-                      {
-  nombre: "5940ROLLÓN DE PAPEL TISSUE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Suaves, resistentes y absorbentes, ideales para el hogar, oficina o negocio. Perfectos para el uso diario, brindando higiene y comodidad en cada hoja. Medida de la hoja: 20 x 20 cm",
-  precios: {
-   "1": 5.95,
-   "3": 4.65,
-  },
-  imagen: "Img/Imagen716.jpeg",
-  stock: 4
-},
                         {
   nombre: "5941MORTERO DE COCINA",
   categoria: "Hogar / Cocina",
@@ -2902,10 +2889,9 @@ const productos = [
   precios: {
    "1": 8.95,
    "3": 7.25,
-   "6": 6.95,
   },
   imagen: "Img/Imagen722.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "5948CINTURÓN PARA CÓLICOS",
@@ -2997,7 +2983,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "Imagen734.jpeg",
-  stock: 5
+  stock: 4
 },
         {
   nombre: "5966SET DE 10 BOLSITAS CON LAZO",
@@ -3030,7 +3016,7 @@ const productos = [
    "12": 1.55,
   },
   imagen: "Img/Imagen739.jpeg",
-  stock: 27
+  stock: 24
 },
        {
   nombre: "5983JABÓN ESPUMA FLOR 300ml",
@@ -3460,7 +3446,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "Img/Imagen799.jpeg",
-  stock: 30
+  stock: 25
 },
       {
   nombre: "6046COLLAR GIRASOL",
@@ -3482,10 +3468,9 @@ const productos = [
    "1": 5.95,
    "3": 4.95,
    "6": 4.75,
-   "12": 4.55,
      },
   imagen: "Img/Imagen802.jpeg",
-  stock: 13
+  stock: 9
 },
         {
   nombre: "6049CEPILLO GIRATORIO",
