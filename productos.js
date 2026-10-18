@@ -3569,7 +3569,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen814.jpeg",
-  stock: 8
+  stock: 6
 },
        {
   nombre: "6069ORGANIZADOR DE ESPECIAS",
@@ -4030,7 +4030,7 @@ const productos = [
    "1": 11.95,
      },
   imagen: "Img/Imagen878.jpeg",
-  stock: 15
+  stock: 12
 },
          {
   nombre: "6147CUBIERTA PARA PLATOS",
@@ -4221,7 +4221,7 @@ const productos = [
    "12": 2.35,
      },
   imagen: "Img/Imagen896.jpeg",
-  stock: 21
+  stock: 18
 },
           {
   nombre: "6170FUNDA PARA LAVADORA CON DISEÑO",
@@ -4279,7 +4279,7 @@ const productos = [
    "6": 3.75,
      },
   imagen: "Img/Imagen903.jpeg",
-  stock: 13
+  stock: 10
 },
         {
   nombre: "6178CAMINO DE MESA NAVIDEÑO",
