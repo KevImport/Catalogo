@@ -1057,10 +1057,9 @@ const productos = [
   descripcion: "Se usa para darle firmeza al rostro. Desinflama ojeras. Puedes utilizarlo en cualquier zona del cuerpo. Incluso para golpes, ya que ayuda a desinflamar. Ayuda a prevenir las arrugas. Puede usarse para bajar la temperatura de la fiebre.",
   precios: {
    "1": 5.95,
-   "3": 4.95,
   },
   imagen: "Img/Imagen297.png",
-  stock: 3
+  stock: 2
 },
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
@@ -2044,17 +2043,6 @@ const productos = [
   stock: 3
 },
     {
-  nombre: "5383FOCO  LED 30W",
-  categoria: "Hogar / Cocina",
-  descripcion: "Iluminación potente y de bajo consumo energético. Ideal para interiores o exteriores, brinda luz clara y uniforme. Ahorra energía y disfruta de mayor durabilidad.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-       },
-  imagen: "Img/Imagen363.jpeg",
-  stock: 3
-},
-    {
   nombre: "5715PACK DE 4 BOLSAS ORGANIZADORAS",
   categoria: "Hogar / Cocina",
   descripcion: "Protege y organiza tu ropa, accesorios o documentos fácilmente. Diseño lindo y práctico, ideal para viajes o uso diario.",
@@ -2716,18 +2704,6 @@ const productos = [
   imagen: "Img/Imagen695.jpeg",
   stock: 3
 },
-               {
-  nombre: "5905BOXER CALVIN KLEN XL",
-  categoria: "Ropa interior",
-  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. TALLA: XL",
-  precios: {
-   "1": 6.95,
-   "3": 5.55,
-   "6": 5.25,
-  },
-  imagen: "Img/Imagen696.jpeg",
-  stock: 6
-},
                  {
   nombre: "5908SET DE 4 CLIPS ANTIRONQUIDOS",
   categoria: "Higiene / Cuidado Personal",
@@ -3118,7 +3094,7 @@ const productos = [
    "1": 22.90,
      },
   imagen: "Img/Imagen752.jpeg",
-  stock: 3
+  stock: 2
 },
   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
@@ -3690,16 +3666,6 @@ const productos = [
   imagen: "Img/Imagen828.jpeg",
   stock: 10
 },
-      {
-  nombre: "6083FONDO NAVIDEÑO 220 x 250 CM",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque mágico y festivo a tus espacios con este hermoso fondo navideño. Ideal para fotos, eventos, sesiones navideñas y decoración. Diseño al azar",
-  precios: {
-   "1": 20.95,
-     },
-  imagen: "Img/Imagen829.jpeg",
-  stock: 1
-},
         {
   nombre: "COMBO CREATIVO",
   categoria: "Combos",
@@ -4123,10 +4089,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.95,
-   "6": 3.75,
      },
   imagen: "Img/Imagen887.jpeg",
-  stock: 6
+  stock: 3
 },
   {
   nombre: "6157SET x 3 BANDEJAS RECTANGULARES",
@@ -4266,7 +4231,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen902.png",
-  stock: 15
+  stock: 14
 },
         {
   nombre: "6177CORREA DE DAMA",
@@ -4422,7 +4387,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "Img/Imagen914.png",
-  stock: 27
+  stock: 24
 },
    {
   nombre: "6200PERRITO GRADUADO 20cm",
@@ -4587,17 +4552,7 @@ const productos = [
   imagen: "Img/Imagen929.jpeg",
   stock: 10
 },
-         {
-  nombre: "6217SET DE 12 BOLSAS PARA COLOREAR",
-  categoria: "Juguetes",
-  descripcion: "¡Dale vida a tu imaginación con estas divertidas bolsas para colorear! Ideales para que los niños expresen su creatividad. Perfectas para regalar, decorar y llevar tus propias creaciones a todas partes. ¡Diversión y color en cada diseño! Medida: 38 x 32 x 10cm",
-  precios: {
-   "1": 11.90,
-     },
-  imagen: "Img/Imagen930.jpeg",
-  stock: 2
-},
-         {
+               {
   nombre: "6218MOUSE PAD MAPAMUNDI",
   categoria: "Hogar / Cocina",
   descripcion: "¡Dale estilo gamer a tu escritorio con este mapamundi! Amplio y cómodo. Medida aprox.: 80 x 30cm",
