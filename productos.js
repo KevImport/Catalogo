@@ -3973,7 +3973,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "Img/Imagen876.jpeg",
-  stock: 11
+  stock: 8
 },
        {
   nombre: "6144SET DE BAÑO NAVIDEÑO x 3 PIEZAS",
@@ -3985,16 +3985,6 @@ const productos = [
      },
   imagen: "Img/Imagen876.jpeg",
   stock: 6
-},
-         {
-  nombre: "6145SET x 3 CANDELABROS DORADOS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque elegante y sofisticado a tus espacios con este hermoso set decorativo. Medidas: 17, 19 y 23 cm. Material: Metal. Ideal para decorar mesas, repisas y ocasiones especiales.",
-  precios: {
-   "1": 11.95,
-     },
-  imagen: "Img/Imagen878.jpeg",
-  stock: 12
 },
          {
   nombre: "6147CUBIERTA PARA PLATOS",
@@ -4385,7 +4375,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "Img/Imagen914.png",
-  stock: 24
+  stock: 21
 },
    {
   nombre: "6200PERRITO GRADUADO 20cm",
