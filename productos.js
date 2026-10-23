@@ -3068,11 +3068,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.55,
-   "6": 4.25,
-   "12": 3.95,
      },
   imagen: "Img/Imagen750.jpeg",
-  stock: 20
+  stock: 6
 },
   {
   nombre: "5994PACK DE 10 PARCHES DESODORANTES PARA PIES",
