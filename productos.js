@@ -4749,7 +4749,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen949.jpeg",
-  stock: 12
+  stock: 10
 },
            {
   nombre: "6250MINI BATIDOR",
