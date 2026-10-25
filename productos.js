@@ -2766,7 +2766,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Imagen712.jpeg",
-  stock: 19
+  stock: 15
 },
                 {
   nombre: "5937PEINE ESPEJO SANRIO",
