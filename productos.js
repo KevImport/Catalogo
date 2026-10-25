@@ -4627,4 +4627,71 @@ const productos = [
   imagen: "Img/Imagen938.jpeg",
   stock: 3
 },
+                 {
+  nombre: "6227SPINNER ANTIESTRÉS",
+  categoria: "Juguetes",
+  descripcion: "Gira, relaja y diviértete con su diseño giratorio 360°. ¡Ideal para niños y adultos! Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "Img/Imagen939.jpeg",
+  stock: 22
+},
+                 {
+  nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Revoluciona tu lavado con este cepillo flexible y súper resistente que elimina la grasa al instante sin rayar tus sartenes ni platos favoritos!",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "Img/Imagen940.jpeg",
+  stock: 10
+},
+                 {
+  nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Revoluciona tu lavado con este cepillo flexible y súper resistente que elimina la grasa al instante sin rayar tus sartenes ni platos favoritos!",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "Img/Imagen940.jpeg",
+  stock: 10
+},
+                 {
+  nombre: "6229CUCHILLO DE COCINA DE ACERO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para cortar y preparar tus alimentos con comodidad. Material: Acero + madera | Medida: 29 × 9.5 cm",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+     },
+  imagen: "Img/Imagen941.jpeg",
+  stock: 23
+},
+                 {
+  nombre: "6230LLAVERO CON INICIAL",
+  categoria: "Accesorios",
+  descripcion: "Lleva contigo un toque único de brillo con estos hermosos llaveros. ¡El accesorio o regalo perfecto, brillante y lleno de estilo que andabas buscando! Letra al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "Img/Imagen942.jpeg",
+  stock: 9
+},
+                 {
+  nombre: "6231TABLA DE PICAR DE ACERO 30 x 20 cm",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para picar y cortar carnes y otros alimentos. Resistente, práctica y fácil de limpiar. Medida: 30 × 20 cm.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen943.jpeg",
+  stock: 4
+},
   ];
