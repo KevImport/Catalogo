@@ -4219,7 +4219,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen902.png",
-  stock: 14
+  stock: 13
 },
         {
   nombre: "6177CORREA DE DAMA",
@@ -4409,7 +4409,7 @@ const productos = [
    "6": 3.55,
      },
   imagen: "Img/Imagen917.png",
-  stock: 22
+  stock: 18
 },
      {
   nombre: "6203DESMAQUILLANTE MÁGICO HECHIZO DE ARROZ",
@@ -4462,7 +4462,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen922.jpeg",
-  stock: 13
+  stock: 9
 },
        {
   nombre: "6208MATIFICANTE MÁGICO",
@@ -4491,9 +4491,12 @@ const productos = [
   descripcion: "Aporta un toque de color y luminosidad a tus mejillas para un acabado radiante y natural. ¡Luce un rostro fresco, hermoso y con un brillo encantador!",
   precios: {
    "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
      },
   imagen: "Img/Imagen925.jpeg",
-  stock: 1
+  stock: 13
 },
        {
   nombre: "6211ILUMINADOR EN PERLAS",
@@ -4515,7 +4518,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "Img/Imagen927.jpeg",
-  stock: 16
+  stock: 3
 },
          {
   nombre: "6215GORRA PARA BEBÉ",
@@ -4528,7 +4531,7 @@ const productos = [
    "12": 2.55,
      },
   imagen: "Img/Imagen928.jpeg",
-  stock: 47
+  stock: 28
 },
          {
   nombre: "6216GUITARRA KIDS",
@@ -4538,7 +4541,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen929.jpeg",
-  stock: 10
+  stock: 4
 },
                {
   nombre: "6218MOUSE PAD MAPAMUNDI",
@@ -4551,7 +4554,7 @@ const productos = [
    "12": 6.55,
      },
   imagen: "Img/Imagen931.jpeg",
-  stock: 23
+  stock: 22
 },
            {
   nombre: "6219SET DE 12 BOLSAS DE PAPEL",
@@ -4582,5 +4585,56 @@ const productos = [
      },
   imagen: "Img/Imagen934.jpeg",
   stock: 4
+},
+               {
+  nombre: "6217SET DE 12 BOLSAS PARA COLOREAR",
+  categoria: "Juguetes",
+  descripcion: "¡Dale vida a tu imaginación con estas divertidas bolsas para colorear! Ideales para que los niños expresen su creatividad.  Perfectas para regalar, decorar y llevar tus propias creaciones a todas partes. ¡Diversión y color en cada diseño! Medida: 38 x 32 x 10cm",
+  precios: {
+   "1": 11.90,
+     },
+  imagen: "Img/Imagen930.jpeg",
+  stock: 3
+},
+               {
+  nombre: "6212SET LONCHERA CHERRY",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 4 recipientes, ideal para llevar tus snacks y comidas favoritas. Práctico, bonito y perfecto para el colegio, la oficina o tus paseos.",
+  precios: {
+   "1": 24.95,
+     },
+  imagen: "Img/Imagen935.jpeg",
+  stock: 3
+},
+                 {
+  nombre: "6194PACK DE PERFILADORES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "El pack contiene 12 cartones de 3 perfiladores cada uno, es decir, el pack es de 36 perfiladores. Perfectos para perfilar y definir tus cejas con mayor precisión. Prácticos, fáciles de usar e ideales para llevar siempre contigo.",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "Img/Imagen936.jpeg",
+  stock: 1
+},
+                 {
+  nombre: "6225SHORT CABALLERO TELA MOJADA",
+  categoria: "Ropa interior",
+  descripcion: "Comodidad y estilo para cada ocasión. Short de caballero en tela mojada, ideal para tus looks casuales. TALLA M: Rojo, Verde, Negro, Azul. | TALLA L: Beige, Cocoa y Verde militar.",
+  precios: {
+   "1": 13.95,
+     },
+  imagen: "Img/Imagen937.jpeg",
+  stock: 7
+},
+                 {
+  nombre: "6171SET DE 50 BOLSAS ZIPLOC",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prácticas y herméticas, ideales para organizar, conservar y proteger tus productos. Medidas: 16.5 x 14.9 cm",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "Img/Imagen938.jpeg",
+  stock: 3
 },
   ];
