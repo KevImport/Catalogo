@@ -3776,17 +3776,7 @@ const productos = [
   imagen: "Img/Imagen852.jpeg",
   stock: 21
 },
-           {
-  nombre: "6110SET DE 10 PARES DE MANGAS DE PROTECCIÓN SOLAR",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Protege tus brazos del sol con comodidad y estilo. ¡Ideales para deporte y actividades al aire libre!",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "Img/Imagen853.jpeg",
-  stock: 1
-},
-           {
+                    {
   nombre: "6112CARRITO ORGANIZADOR DE 3 NIVELES",
   categoria: "Hogar / Cocina",
   descripcion: "¡Mantén todos tus espacios ordenados y aprovecha mejor cada rincón! Práctico, amplio y fácil de mover. Color al azar. Material: plástico",
