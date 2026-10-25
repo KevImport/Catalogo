@@ -1700,7 +1700,7 @@ const productos = [
    "6": 2.55,
      },
   imagen: "Img/Imagen483.png",
-  stock: 28
+  stock: 27
 },
                    {
   nombre: "5561SET DE 10 MANITOS SUJETADORAS",
@@ -3941,7 +3941,7 @@ const productos = [
    "12": 3.05,
      },
   imagen: "Img/Imagen873.jpeg",
-  stock: 19
+  stock: 18
 },
              {
   nombre: "6141ORGANIZADOR GANCHO",
@@ -3953,7 +3953,7 @@ const productos = [
    "6": 2.75,
      },
   imagen: "Img/Imagen875.jpeg",
-  stock: 7
+  stock: 6
 },
        {
   nombre: "6142ROBOT ASPIRADOR",
