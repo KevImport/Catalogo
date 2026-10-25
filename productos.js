@@ -551,16 +551,6 @@ const productos = [
   stock: 3
 },
 {
-  nombre: "4781PACK DE 25 ESPONJAS BEAUTY",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Pack surtido de esponjas beauty blender. Perfectas para aplicar base o corrector con acabado profesional.",
-  precios: {
-    "1": 4.95,
-  },
-  imagen: "Img/Imagen144.jpg",
-  stock: 1
-},
-{
   nombre: "4670MÁSCARA DE PESTAÑAS",
   categoria: "Belleza / Cosmética",
   descripcion: "Realza tus pestañas al máximo con esta máscara de larga duración. Volumen, definición y resistencia al agua en un solo producto.",
@@ -4374,7 +4364,7 @@ const productos = [
    "6": 3.55,
      },
   imagen: "Img/Imagen917.png",
-  stock: 18
+  stock: 17
 },
      {
   nombre: "6203DESMAQUILLANTE MÁGICO HECHIZO DE ARROZ",
@@ -4384,7 +4374,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen918.png",
-  stock: 5
+  stock: 4
 },
      {
   nombre: "6204SET DE 12 LAPICEROS DE GEL",
@@ -4461,7 +4451,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "Img/Imagen925.jpeg",
-  stock: 13
+  stock: 12
 },
        {
   nombre: "6211ILUMINADOR EN PERLAS",
@@ -4469,10 +4459,9 @@ const productos = [
   descripcion: "Realza tu belleza con un brillo radiante y luminoso para un acabado espectacular. ¡Dale a tu rostro ese toque de luz que enamora!",
   precios: {
    "1": 4.95,
-   "3": 3.55,
      },
   imagen: "Img/Imagen926.jpeg",
-  stock: 5
+  stock: 2
 },
        {
   nombre: "6214LÁMPARA OSITO",
@@ -4644,10 +4633,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.75,
      },
   imagen: "Img/Imagen942.jpeg",
-  stock: 9
+  stock: 5
 },
                  {
   nombre: "6231TABLA DE PICAR DE ACERO 30 x 20 cm",
