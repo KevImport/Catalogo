@@ -4561,7 +4561,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen932.jpeg",
-  stock: 6
+  stock: 4
 },
              {
   nombre: "6220MUÑECO PATILARGA - BELLA NAVIDAD",
