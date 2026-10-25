@@ -4682,7 +4682,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "Img/Imagen943.jpeg",
-  stock: 4
+  stock: 2
 },
                  {
   nombre: "6238SET DE 50 GANCHOS ESTRELLAS",
@@ -4718,7 +4718,7 @@ const productos = [
    "12": 6.15,
      },
   imagen: "Img/Imagen946.jpeg",
-  stock: 15
+  stock: 14
 },
                  {
   nombre: "6242PARAGUA DE CARTERA",
