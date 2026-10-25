@@ -4639,17 +4639,7 @@ const productos = [
   imagen: "Img/Imagen939.jpeg",
   stock: 22
 },
-                 {
-  nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Revoluciona tu lavado con este cepillo flexible y súper resistente que elimina la grasa al instante sin rayar tus sartenes ni platos favoritos!",
-  precios: {
-   "1": 9.90,
-     },
-  imagen: "Img/Imagen940.jpeg",
-  stock: 10
-},
-                 {
+                              {
   nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
   categoria: "Hogar / Cocina",
   descripcion: "¡Revoluciona tu lavado con este cepillo flexible y súper resistente que elimina la grasa al instante sin rayar tus sartenes ni platos favoritos!",
@@ -4693,5 +4683,93 @@ const productos = [
      },
   imagen: "Img/Imagen943.jpeg",
   stock: 4
+},
+                 {
+  nombre: "6238SET DE 50 GANCHOS ESTRELLAS",
+  categoria: "Accesorios",
+  descripcion: "Hermosos ganchitos de colores para crear peinados divertidos y darle un toque mágico al cabello de las pequeñas.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+   "6": 6.75,
+     },
+  imagen: "Img/Imagen944.jpeg",
+  stock: 10
+},
+                 {
+  nombre: "6240BRAZALETE BOHEMIO",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque femenino y colorido a tu look con estos hermosos brazaletes de estampado floral.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen945.jpeg",
+  stock: 3
+},
+                 {
+  nombre: "6241CORTINA IMANTADA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fácil instalación, se abre y cierra sola con imanes. Mantiene fuera los insectos y deja pasar el aire. Medida 2 m x 1 m, ideal para puertas. Color al azar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.75,
+   "6": 6.45,
+   "12": 6.15,
+     },
+  imagen: "Img/Imagen946.jpeg",
+  stock: 15
+},
+                 {
+  nombre: "6242PARAGUA DE CARTERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Compacto y ligero, ideal para llevarlo siempre contigo y protegerte de la lluvia cuando lo necesites. Su práctico tamaño cabe fácilmente en tu cartera o mochila. ¡Perfecto para llevar a todas partes!. Color al azar",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "Img/Imagen947.jpeg",
+  stock: 9
+},
+             {
+  nombre: "6248SET DE 12 GORROS NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "¡Celebra la Navidad con estilo! Gorro navideño ideal para adultos y niños, perfecto para compartir la magia en familia.",
+  precios: {
+   "1": 17.90,
+     },
+  imagen: "Img/Imagen948.jpeg",
+  stock: 8
+},
+               {
+  nombre: "6249PIZARRA + ROMPECABEZAS 2 EN 1",
+  categoria: "Juguetes",
+  descripcion: "¡Aprende jugando! Pizarra de 30 × 22 cm con letras de colores y 2 plumones incluidos, ideal para estimular la creatividad de los pequeños.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "Img/Imagen949.jpeg",
+  stock: 12
+},
+           {
+  nombre: "6250MINI BATIDOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mejora la textura de tus bebidas en casa con este práctico espumador portátil, diseñado para mezclar de manera sencilla y cómoda tus cafés o bebidas cotidianas. Color al azar.",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "Img/Imagen950.jpeg",
+  stock: 24
+},
+           {
+  nombre: "6251COLADOR DE MALLA DE ALTA DENSIDAD",
+  categoria: "Hogar / Cocina",
+  descripcion: "Filtrado ultra fino para jugos, leches vegetales y caldos. Práctico y fácil de usar. Reutilizable, resistente y fácil de lavar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "Img/Imagen950.jpeg",
+  stock: 30
 },
   ];
