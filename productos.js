@@ -1412,7 +1412,7 @@ const productos = [
    "12": 3.95,
      },
   imagen: "Img/Imagen401.jpeg",
-  stock: 40
+  stock: 30
 },
      {
   nombre: "5437CAJA DE 10 MASCARILLAS BLANCAS KN95",
@@ -1424,7 +1424,7 @@ const productos = [
    "6": 3.65,
      },
   imagen: "Img/Imagen402.jpeg",
-  stock: 24
+  stock: 15
 },
      {
   nombre: "5439TOALLA DE ENFRIAMIENTO",
@@ -1755,17 +1755,6 @@ const productos = [
    "3": 3.25,
        },
   imagen: "Img/Imagen508.jpeg",
-  stock: 3
-},
-         {
-  nombre: "5619MANGO DE SEGURIDAD PARA DUCHA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Barra de agarre con ventosas para mayor estabilidad y seguridad. Instalación rápida sin herramientas en superficies lisas como vidrio o cerámica. Ideal para adultos mayores, niños y mujeres embarazadas.",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-       },
-  imagen: "Img/Imagen515.png",
   stock: 3
 },
            {
@@ -2262,19 +2251,6 @@ const productos = [
   imagen: "Img/Imagen616.jpeg",
   stock: 36
 },
-                    {
-  nombre: "5788CABLE 3 EN 1 CARGA RÁPIDA 65W",
-  categoria: "Hogar / Cocina",
-  descripcion: "Compatible con Tipo C • V8 • iPhone • USB. Nailon reforzado resistente y diseño anti enredamiento para mayor duración. Ideal para carga rápida y uso diario.",
-  precios: {
-   "1": 6.95,
-   "3": 5.55,
-   "6": 5.25,
-    },
-  imagen: "Img/Imagen617.jpeg",
-  stock: 6
-},
-
                         {
   nombre: "5790PELUCHE PANDITA",
   categoria: "Hogar / Cocina",
@@ -3861,10 +3837,9 @@ const productos = [
   descripcion: "Revitaliza y equilibra el cabello desde la raíz hasta las puntas. Aporta brillo, suavidad y una apariencia saludable sin sensación grasa.",
   precios: {
    "1": 6.95,
-   "3": 5.95,
      },
   imagen: "Img/Imagen865.jpeg",
-  stock: 5
+  stock: 2
 },
                          {
   nombre: "6129SET DE 3 FUENTES DE BAMBÚ",
