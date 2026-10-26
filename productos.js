@@ -4463,18 +4463,7 @@ const productos = [
   imagen: "Img/Imagen926.jpeg",
   stock: 2
 },
-       {
-  nombre: "6214LÁMPARA OSITO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Adorable diseño de osito que ilumina y decora cualquier espacio. Funciona a pilas, ideal para el dormitorio, la mesa de noche o regalar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "Img/Imagen927.jpeg",
-  stock: 3
-},
-         {
+            {
   nombre: "6215GORRA PARA BEBÉ",
   categoria: "Artículos para bebés",
   descripcion: "¡Protege a tu pequeño del sol con el estilo más tierno y divertido!",
@@ -4495,7 +4484,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen929.jpeg",
-  stock: 4
+  stock: 1
 },
                {
   nombre: "6218MOUSE PAD MAPAMUNDI",
@@ -4540,17 +4529,7 @@ const productos = [
   imagen: "Img/Imagen934.jpeg",
   stock: 4
 },
-               {
-  nombre: "6217SET DE 12 BOLSAS PARA COLOREAR",
-  categoria: "Juguetes",
-  descripcion: "¡Dale vida a tu imaginación con estas divertidas bolsas para colorear! Ideales para que los niños expresen su creatividad.  Perfectas para regalar, decorar y llevar tus propias creaciones a todas partes. ¡Diversión y color en cada diseño! Medida: 38 x 32 x 10cm",
-  precios: {
-   "1": 11.90,
-     },
-  imagen: "Img/Imagen930.jpeg",
-  stock: 3
-},
-               {
+              {
   nombre: "6212SET LONCHERA CHERRY",
   categoria: "Hogar / Cocina",
   descripcion: "Incluye 4 recipientes, ideal para llevar tus snacks y comidas favoritas. Práctico, bonito y perfecto para el colegio, la oficina o tus paseos.",
@@ -4560,25 +4539,15 @@ const productos = [
   imagen: "Img/Imagen935.jpeg",
   stock: 3
 },
-                 {
-  nombre: "6194PACK DE PERFILADORES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "El pack contiene 12 cartones de 3 perfiladores cada uno, es decir, el pack es de 36 perfiladores. Perfectos para perfilar y definir tus cejas con mayor precisión. Prácticos, fáciles de usar e ideales para llevar siempre contigo.",
-  precios: {
-   "1": 11.95,
-     },
-  imagen: "Img/Imagen936.jpeg",
-  stock: 1
-},
-                 {
+                  {
   nombre: "6225SHORT CABALLERO TELA MOJADA",
   categoria: "Ropa interior",
-  descripcion: "Comodidad y estilo para cada ocasión. Short de caballero en tela mojada, ideal para tus looks casuales. TALLA M: Rojo, Verde, Negro, Azul. | TALLA L: Beige, Cocoa y Verde militar.",
+  descripcion: "Comodidad y estilo para cada ocasión. Short de caballero en tela mojada, ideal para tus looks casuales. TALLA M: Azul | TALLA L: Beige, Cocoa y Verde militar.",
   precios: {
    "1": 13.95,
      },
   imagen: "Img/Imagen937.jpeg",
-  stock: 7
+  stock: 4
 },
                  {
   nombre: "6171SET DE 50 BOLSAS ZIPLOC",
