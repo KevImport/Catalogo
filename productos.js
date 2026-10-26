@@ -1039,7 +1039,7 @@ const productos = [
    "3": 2.55,
   },
   imagen: "Img/Imagen292.jpeg",
-  stock: 60
+  stock: 12
 },
   {
   nombre: "5292MOLDE PARA HIELO FACIAL",
@@ -1518,17 +1518,6 @@ const productos = [
   imagen: "Img/Imagen435.jpeg",
   stock: 6
 },
-    {
-  nombre: "5487ACUARELA DE 12 COLORES + PINCEL",
-  categoria: "Escolar / Papelería",
-  descripcion: "Incluye 12 colores vibrantes y pincel. Medida aprox.: 20 x 8.5 cm. Ideal para escolares, estudiantes y artistas Compacta y fácil de transportar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "Img/Imagen436.jpeg",
-  stock: 3
-},
         {
   nombre: "5490BLOCK PAPEL LUSTRE A4",
   categoria: "Escolar / Papelería",
@@ -1637,7 +1626,7 @@ const productos = [
    "24": 1.55,
      },
   imagen: "Img/Imagen468.png",
-  stock: 33
+  stock: 27
 },
    {
   nombre: "5539LONCHERA KPOP",
@@ -1927,10 +1916,9 @@ const productos = [
   descripcion: "Diseño tipo trenza que brinda un look elegante al instante. Tamaño aproximado: 12.5 cm. Color al azar.",
   precios: {
    "1": 6.95,
-   "3": 5.65,
        },
   imagen: "Img/Imagen541.jpeg",
-  stock: 3
+  stock: 2
 },
               {
   nombre: "5685SET DE 3 CORRECTORES DE ESCRITURA",
@@ -2756,7 +2744,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "Imagen712.jpeg",
-  stock: 15
+  stock: 10
 },
                 {
   nombre: "5937PEINE ESPEJO SANRIO",
@@ -3585,7 +3573,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "Img/Imagen824.jpeg",
-  stock: 4
+  stock: 3
 },
   
   {
@@ -3639,16 +3627,6 @@ const productos = [
      },
   imagen: "Img/Imagen832.jpeg",
   stock: 5
-},
-        {
-  nombre: "6086ESTANTE DE BAMBÚ DE 2 NIVELES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Organiza y aprovecha mejor tus espacios con este práctico estante de bambú. Ideal para cocina, baño, dormitorio u oficina, ¡combina con cualquier decoración!",
-  precios: {
-   "1": 16.95,
-     },
-  imagen: "Img/Imagen833.jpeg",
-  stock: 1
 },
             {
   nombre: "6090SET x 5 COLETS",
@@ -3796,7 +3774,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "Img/Imagen859.jpeg",
-  stock: 44
+  stock: 41
 },
                {
   nombre: "6121PACK DE 10 LUCES HADAS 3 METROS - COLOR ÁMBAR",
@@ -4211,7 +4189,7 @@ const productos = [
    "6": 5.75,
      },
   imagen: "Img/Imagen905.jpeg",
-  stock: 11
+  stock: 10
             
 },
           {
@@ -4238,7 +4216,7 @@ const productos = [
   stock: 19
 },
            {
-  nombre: "6191SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
+  nombre: "6191BOLSAS TRANSPARENTES NAVIDEÑAS",
   categoria: "Navidad / Regalos",
   descripcion: "Ideales para presentar tus regalos y dulces navideños. Medida: 25 x 20 x 8 cm. Diseños al azar.",
   precios: {
@@ -4248,7 +4226,7 @@ const productos = [
    "12": 1.65,
      },
   imagen: "Img/Imagen908.jpeg",
-  stock: 60
+  stock: 54
 },
   {
   nombre: "6062PASTILLA PARA TANQUE",
@@ -4518,7 +4496,7 @@ const productos = [
    "1": 14.95,
      },
   imagen: "Img/Imagen933.jpeg",
-  stock: 6
+  stock: 5
 },
              {
   nombre: "6226CORRAL HEXAGONAL",
@@ -4571,7 +4549,7 @@ const productos = [
    "6": 2.75,
      },
   imagen: "Img/Imagen939.jpeg",
-  stock: 22
+  stock: 19
 },
                               {
   nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
@@ -4635,10 +4613,9 @@ const productos = [
   descripcion: "Dale un toque femenino y colorido a tu look con estos hermosos brazaletes de estampado floral.",
   precios: {
    "1": 6.95,
-   "3": 5.95,
      },
   imagen: "Img/Imagen945.jpeg",
-  stock: 3
+  stock: 2
 },
                  {
   nombre: "6241CORTINA IMANTADA",
@@ -4662,7 +4639,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "Img/Imagen947.jpeg",
-  stock: 9
+  stock: 8
 },
              {
   nombre: "6248SET DE 12 GORROS NAVIDEÑOS",
@@ -4692,7 +4669,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "Img/Imagen950.jpeg",
-  stock: 24
+  stock: 23
 },
            {
   nombre: "6251COLADOR DE MALLA DE ALTA DENSIDAD",
@@ -4703,6 +4680,6 @@ const productos = [
    "3": 1.95,
      },
   imagen: "Img/Imagen951.jpeg",
-  stock: 30
+  stock: 29
 },
   ];
