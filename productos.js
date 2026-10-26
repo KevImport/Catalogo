@@ -1041,16 +1041,6 @@ const productos = [
   imagen: "Img/Imagen292.jpeg",
   stock: 12
 },
-  {
-  nombre: "5292MOLDE PARA HIELO FACIAL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Se usa para darle firmeza al rostro. Desinflama ojeras. Puedes utilizarlo en cualquier zona del cuerpo. Incluso para golpes, ya que ayuda a desinflamar. Ayuda a prevenir las arrugas. Puede usarse para bajar la temperatura de la fiebre.",
-  precios: {
-   "1": 5.95,
-  },
-  imagen: "Img/Imagen297.png",
-  stock: 2
-},
    {
   nombre: "5310KIT DE LIMPIEZA DE OIDOS",
   categoria: "Higiene / Cuidado Personal",
@@ -1702,7 +1692,7 @@ const productos = [
    "6": 2.25,
      },
   imagen: "Img/Imagen494.jpeg",
-  stock: 10
+  stock: 9
 },
           {
   nombre: "5578ORGANIZADOR CON ASA",
@@ -2375,17 +2365,7 @@ const productos = [
   imagen: "Img/Imagen653.jpeg",
   stock: 3
 },
-     {
-  nombre: "5841SET DE 16 CLIPS ORGANIZADORES DE CABLES",
-  categoria: "Hogar / Cocina",
-  descripcion: "Mantén tus cables organizados y evita enredos. Adhesivo resistente, fácil de instalar y perfecto para cargadores, USB, audífonos y más.",
-  precios: {
-   "1": 3.95,
-  },
-  imagen: "Img/Imagen654.jpeg",
-  stock: 1
-},
-     {
+      {
   nombre: "5844ESTUCHE DE EXHIBICIÓN 3D",
   categoria: "Hogar / Cocina",
   descripcion: "Caja para exhibición de joyas y accesorios. Ideal para anillos, aretes, dijes, monedas y pequeños coleccionables. Medida: 11 × 11 cm. Diseño elegante que protege y resalta cada pieza.",
@@ -3159,7 +3139,7 @@ const productos = [
    "6": 3.25,
      },
   imagen: "Img/Imagen773.jpeg",
-  stock: 9
+  stock: 7
 },
       {
   nombre: "6019ALCOHOL CON AROMA",
@@ -3270,16 +3250,6 @@ const productos = [
    "1": 25.95,
      },
   imagen: "Img/Imagen786.png",
-  stock: 1
-},
-         {
-  nombre: "1011GOMITAS DE HIERRO PARA NIÑOS - 150 UNIDADES",
-  categoria: "Gomitas",
-  descripcion: "¡Combate la anemia, llena a tus hijos de vitalidad y mejora su rendimiento escolar y concentración! Las Gomitas de Hierro Sottcor están enriquecidas con aceite de moringa y vitaminas C, B9 y B12 para fortalecer sus defensas, huesos y dientes con un sabor delicioso.",
-  precios: {
-   "1": 25.95,
-     },
-  imagen: "Img/Imagen787.png",
   stock: 1
 },
     {
@@ -3884,7 +3854,7 @@ const productos = [
    "12": 3.05,
      },
   imagen: "Img/Imagen873.jpeg",
-  stock: 18
+  stock: 17
 },
              {
   nombre: "6141ORGANIZADOR GANCHO",
@@ -4385,7 +4355,7 @@ const productos = [
    "12": 3.25,
      },
   imagen: "Img/Imagen921.jpeg",
-  stock: 19
+  stock: 18
 },
        {
   nombre: "6207PACK DE 25 SOPORTES ADHESIVOS",
