@@ -4374,7 +4374,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen918.png",
-  stock: 4
+  stock: 7
 },
      {
   nombre: "6204SET DE 12 LAPICEROS DE GEL",
@@ -4417,7 +4417,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen922.jpeg",
-  stock: 9
+  stock: 10
 },
        {
   nombre: "6208MATIFICANTE MÁGICO",
@@ -4438,7 +4438,7 @@ const productos = [
    "1": 15.90,
      },
   imagen: "Img/Imagen924.jpeg",
-  stock: 4
+  stock: 5
 },
        {
   nombre: "6210RUBOR EN PERLAS",
@@ -4448,10 +4448,9 @@ const productos = [
    "1": 4.95,
    "3": 3.55,
    "6": 3.25,
-   "12": 2.95,
      },
   imagen: "Img/Imagen925.jpeg",
-  stock: 12
+  stock: 6
 },
        {
   nombre: "6211ILUMINADOR EN PERLAS",
@@ -4459,9 +4458,11 @@ const productos = [
   descripcion: "Realza tu belleza con un brillo radiante y luminoso para un acabado espectacular. ¡Dale a tu rostro ese toque de luz que enamora!",
   precios: {
    "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
      },
   imagen: "Img/Imagen926.jpeg",
-  stock: 2
+  stock: 8
 },
             {
   nombre: "6215GORRA PARA BEBÉ",
@@ -4484,7 +4485,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "Img/Imagen929.jpeg",
-  stock: 1
+  stock: 2
 },
                {
   nombre: "6218MOUSE PAD MAPAMUNDI",
