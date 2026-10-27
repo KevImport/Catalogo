@@ -1694,16 +1694,6 @@ const productos = [
   imagen: "Img/Imagen494.jpeg",
   stock: 9
 },
-          {
-  nombre: "5578ORGANIZADOR CON ASA",
-  categoria: "Accesorios",
-  descripcion: "Ideal para guardar maquillaje, esmaltes y accesorios. Práctico, resistente y fácil de transportar. Medida: 22 × 17 × 13 cm | Color al azar",
-  precios: {
-   "1": 4.95,
-     },
-  imagen: "Img/Imagen495.jpeg",
-  stock: 1
-},
        {
   nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
   categoria: "Hogar / Cocina",
@@ -4122,7 +4112,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "Img/Imagen902.png",
-  stock: 13
+  stock: 12
 },
         {
   nombre: "6177CORREA DE DAMA",
@@ -4446,7 +4436,7 @@ const productos = [
    "12": 6.55,
      },
   imagen: "Img/Imagen931.jpeg",
-  stock: 22
+  stock: 21
 },
            {
   nombre: "6219SET DE 12 BOLSAS DE PAPEL",
@@ -4504,10 +4494,9 @@ const productos = [
   descripcion: "Prácticas y herméticas, ideales para organizar, conservar y proteger tus productos. Medidas: 16.5 x 14.9 cm",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "Img/Imagen938.jpeg",
-  stock: 3
+  stock: 2
 },
                  {
   nombre: "6227SPINNER ANTIESTRÉS",
@@ -4575,7 +4564,7 @@ const productos = [
    "6": 6.75,
      },
   imagen: "Img/Imagen944.jpeg",
-  stock: 10
+  stock: 8
 },
                  {
   nombre: "6240BRAZALETE BOHEMIO",
