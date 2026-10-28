@@ -1,92 +1,193 @@
 <!DOCTYPE html>
 <html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Catálogo de Productos</title>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-
-  <h1>KEVIMPORT - CATÁLOGO DE PRODUCTOS</h1>
-
- <div class="barra-superior">
-  <input type="text" id="buscador" placeholder="Buscar producto..." onkeyup="buscarProducto()">
-  <div class="controles-accesibilidad">
-    <div class="opcion-accesibilidad">
-      <span>Selecciona el tamaño de letra</span>
-      <button id="cambiar-tamano-letra" class="btn-tamano-letra" type="button" onclick="cambiarTamanoLetra()" aria-pressed="false">
-        Letra grande
-      </button>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#172b46">
+    <meta name="description" content="Explora el catálogo KEVIMPORT: hogar, belleza, juguetes, accesorios y mucho más. Arma tu pedido y envíalo por WhatsApp.">
+    <title>KEVIMPORT · Encuentra un poco de todo</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+  </head>
+  <body>
+    <a class="saltar-contenido" href="#productos">Ir a los productos</a>
+    <div class="aviso-superior">
+      <div class="aviso-interior">
+        <p>Un poco de todo, en un solo lugar <span>·</span> Pedidos por WhatsApp</p>
+        <nav class="redes-sociales redes-superiores" aria-label="Redes sociales de KEVIMPORT">
+          <a href="https://www.instagram.com/kevimport/" target="_blank" rel="noopener noreferrer" aria-label="KEVIMPORT en Instagram (abre una pestaña nueva)"><img src="assets/img/instagram.svg" width="20" height="20" alt="" aria-hidden="true"></a>
+          <a href="https://www.facebook.com/share/1T22Hdd6Mj/" target="_blank" rel="noopener noreferrer" aria-label="KEVIMPORT en Facebook (abre una pestaña nueva)"><img src="assets/img/facebook.svg" width="20" height="20" alt="" aria-hidden="true"></a>
+          <a href="https://www.tiktok.com/@kev_import" target="_blank" rel="noopener noreferrer" aria-label="KEVIMPORT en TikTok (abre una pestaña nueva)"><img src="assets/img/tiktok.svg" width="20" height="20" alt="" aria-hidden="true"></a>
+        </nav>
+      </div>
     </div>
-    <div class="opcion-accesibilidad">
-      <span>Selecciona el modo de color</span>
-      <button id="cambiar-modo-color" class="btn-modo-color" type="button" onclick="cambiarModoColor()" aria-pressed="false">
-        Modo oscuro
-      </button>
+    <header class="cabecera">
+      <div class="cabecera-interior">
+        <a class="marca" href="./" aria-label="KEVIMPORT, inicio">
+          <span class="marca-icono" aria-hidden="true">K<span>·</span>
+          </span>
+          <span>KEV<span class="marca-acento">IMPORT</span>
+            <small>TU CATÁLOGO ONLINE</small>
+          </span>
+        </a>
+        <div class="busqueda">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+            <circle cx="10.5" cy="10.5" r="6.5"/>
+            <path d="m16 16 4.5 4.5"/>
+          </svg>
+          <input type="search" id="buscador" placeholder="¿Qué estás buscando hoy?" aria-label="Buscar producto" oninput="buscarProducto()">
+        </div>
+        <button class="btn-ver-carrito" type="button" onclick="alternarCarrito()" aria-label="Abrir mi carrito" aria-controls="carrito" aria-expanded="false">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+            <path d="M3 3h2l2.5 12h11L21 7H6"/>
+            <circle cx="9" cy="20" r="1"/>
+            <circle cx="18" cy="20" r="1"/>
+          </svg>
+          <span>Mi carrito</span>
+          <span id="cantidad-carrito" class="contador-carrito" aria-label="Unidades en el carrito">0</span>
+        </button>
+      </div>
+    </header>
+    <main class="contenedor">
+      <section class="bienvenida" aria-labelledby="titulo-principal">
+        <div class="bienvenida-texto">
+          <span class="etiqueta">NUESTRA HISTORIA · DESDE 2018</span>
+          <h1 id="titulo-principal">Más que productos,<br>
+            <span>construimos confianza.</span>
+          </h1>
+          <p>Desde 2018, construyendo confianza y cumpliendo con nuestros clientes. Comenzamos como <strong>Azul Virtual Store</strong>, crecimos como <strong>Inversiones Azul</strong> y hoy seguimos avanzando como <strong>KEVIMPORT</strong>.</p>
+          <p class="historia-gracias">¡Gracias por ser parte de nuestra historia!</p>
+          <a class="enlace-explorar" href="#productos">Explorar catálogo <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+        <div class="bienvenida-visual historia-fotos">
+          <figure class="historia-foto historia-foto-principal">
+            <img src="assets/img/empresa/personal-kevimport.webp" width="650" height="1446" alt="Personal con el polo y el logo de KEVIMPORT, junto a un paquete listo para envío y el entorno de la agencia." fetchpriority="high">
+            <figcaption>Detrás de cada pedido,<br><strong>un equipo comprometido.</strong></figcaption>
+          </figure>
+          <figure class="historia-foto historia-foto-secundaria">
+            <img src="assets/img/empresa/paquetes-envio.webp" width="738" height="825" alt="Paquetes de KEVIMPORT embalados y preparados para despacho, con los datos personales desenfocados." decoding="async">
+            <figcaption>Preparados con cuidado.<br><strong>Listos para seguir su camino.</strong></figcaption>
+          </figure>
+          <figure class="historia-foto historia-foto-local">
+            <img src="assets/img/empresa/local-productos.webp" width="650" height="1180" alt="Interior del local comercial, con estanterías y una mesa donde se exhiben productos de KEVIMPORT." decoding="async">
+            <figcaption>Variedad de productos<br><strong>para cada ocasión.</strong></figcaption>
+          </figure>
+        </div>
+      </section>
+      <div class="franja-beneficios">
+        <span>
+          <b aria-hidden="true">✓</b> Precios por cantidad</span>
+        <span>
+          <b aria-hidden="true">✓</b> Consulta el stock al instante</span>
+        <span>
+          <b aria-hidden="true">✓</b> Pide fácil por WhatsApp</span>
+      </div>
+      <div class="catalogo-layout" id="productos">
+        <aside class="panel-categorias" aria-label="Categorías de productos">
+          <div class="titulo-categorias">
+            <span class="etiqueta">ENCUENTRA LO TUYO</span>
+            <h2>Categorías <span aria-hidden="true">↗</span>
+            </h2>
+          </div>
+          <div id="categorias" class="categorias">
+            <button type="button" data-categoria="todos" aria-pressed="true" onclick="filtrarCategoria('todos')">TODOS</button>
+            <button type="button" data-categoria="Belleza / Cosmética" aria-pressed="false" onclick="filtrarCategoria('Belleza / Cosmética')">BELLEZA</button>
+            <button type="button" data-categoria="Ropa interior" aria-pressed="false" onclick="filtrarCategoria('Ropa interior')">ROPA E INTERIORES</button>
+            <button type="button" data-categoria="Escolar / Papelería" aria-pressed="false" onclick="filtrarCategoria('Escolar / Papelería')">ÚTILES DE ESCRITORIO</button>
+            <button type="button" data-categoria="Juguetes" aria-pressed="false" onclick="filtrarCategoria('Juguetes')">JUGUETERÍA</button>
+            <button type="button" data-categoria="Hogar / Cocina" aria-pressed="false" onclick="filtrarCategoria('Hogar / Cocina')">HOGAR</button>
+            <button type="button" data-categoria="Accesorios" aria-pressed="false" onclick="filtrarCategoria('Accesorios')">ACCESORIOS</button>
+            <button type="button" data-categoria="Organización / Almacenamiento" aria-pressed="false" onclick="filtrarCategoria('Organización / Almacenamiento')">ORGANIZACIÓN</button>
+            <button type="button" data-categoria="Decoración / Fiesta" aria-pressed="false" onclick="filtrarCategoria('Decoración / Fiesta')">DECORACIÓN</button>
+            <button type="button" data-categoria="Navidad / Regalos" aria-pressed="false" onclick="filtrarCategoria('Navidad / Regalos')">NAVIDAD</button>
+            <button type="button" data-categoria="Electrónica / Gadgets" aria-pressed="false" onclick="filtrarCategoria('Electrónica / Gadgets')">ELECTRÓNICA</button>
+            <button type="button" data-categoria="Higiene / Cuidado Personal" aria-pressed="false" onclick="filtrarCategoria('Higiene / Cuidado Personal')">CUIDADO PERSONAL</button>
+            <button type="button" data-categoria="Artículos para bebés" aria-pressed="false" onclick="filtrarCategoria('Artículos para bebés')">BEBÉS</button>
+            <button type="button" data-categoria="Pirotecnicos" aria-pressed="false" onclick="filtrarCategoria('Pirotecnicos')">FUEGOS ARTIFICIALES</button>
+            <button type="button" data-categoria="Gomitas" aria-pressed="false" onclick="filtrarCategoria('Gomitas')">GOMITAS SOTTCOR LABS</button>
+            <button type="button" data-categoria="Combos" aria-pressed="false" onclick="filtrarCategoria('Combos')">COMBOS</button>
+          </div>
+          <div class="ayuda-categorias">
+            <strong>¿Necesitas una mano?</strong>
+            <p>Te ayudamos con tu pedido.</p>
+            <a href="https://wa.me/51912876164" target="_blank" rel="noopener noreferrer">Conversemos ↗</a>
+          </div>
+        </aside>
+        <section class="zona-productos" aria-labelledby="titulo-catalogo">
+          <div class="encabezado-catalogo">
+            <div>
+              <span class="etiqueta">ELIGE TUS FAVORITOS</span>
+              <h2 id="titulo-catalogo">Todos los productos</h2>
+              <p id="resumen-productos" role="status">
+              </p>
+            </div>
+            <div class="controles-accesibilidad">
+              <button id="cambiar-tamano-letra" class="btn-tamano-letra" type="button" onclick="cambiarTamanoLetra()" aria-pressed="false" title="Cambiar el tamaño del texto">Letra grande</button>
+              <button id="cambiar-modo-color" class="btn-modo-color" type="button" onclick="cambiarModoColor()" aria-pressed="false" title="Cambiar la apariencia">Modo oscuro</button>
+            </div>
+          </div>
+          <div id="catalogo" class="productos">
+          </div>
+          <p id="sin-resultados" class="sin-resultados" hidden>No encontramos productos con esa búsqueda.<br>
+            <span>Prueba otro nombre o elige otra categoría.</span>
+          </p>
+          <button id="ver-mas" class="btn-ver-mas" type="button" onclick="cargarMasProductos()">Ver más productos <span aria-hidden="true">↓</span>
+          </button>
+        </section>
+      </div>
+    </main>
+    <footer class="pie-pagina">
+      <div class="footer-contenido">
+        <div class="footer-marca">
+          <a class="footer-logo" href="./" aria-label="KEVIMPORT, ir al inicio">
+            <img src="assets/img/empresa/logo-kevimport.jpg" width="918" height="918" loading="lazy" decoding="async" alt="Logo original de KEVIMPORT con globo terráqueo, Productos Importados, datos de contacto y trayectoria desde 2018.">
+          </a>
+          <p>Desde 2018, construyendo confianza y acercando productos a nuestros clientes.</p>
+        </div>
+        <div class="footer-enlaces">
+          <h2>Enlaces rápidos</h2>
+          <nav aria-label="Enlaces rápidos del pie de página">
+            <a href="./">Inicio</a>
+            <a href="#productos">Catálogo</a>
+            <a href="#titulo-principal">Nuestra historia</a>
+          </nav>
+        </div>
+        <div class="footer-redes">
+          <h2>Síguenos</h2>
+          <nav class="redes-sociales" aria-label="Síguenos en redes sociales">
+            <a href="https://www.instagram.com/kevimport/" target="_blank" rel="noopener noreferrer" aria-label="KEVIMPORT en Instagram (abre una pestaña nueva)"><img src="assets/img/instagram.svg" width="24" height="24" alt="" aria-hidden="true"></a>
+            <a href="https://www.facebook.com/share/1T22Hdd6Mj/" target="_blank" rel="noopener noreferrer" aria-label="KEVIMPORT en Facebook (abre una pestaña nueva)"><img src="assets/img/facebook.svg" width="24" height="24" alt="" aria-hidden="true"></a>
+            <a href="https://www.tiktok.com/@kev_import" target="_blank" rel="noopener noreferrer" aria-label="KEVIMPORT en TikTok (abre una pestaña nueva)"><img src="assets/img/tiktok.svg" width="24" height="24" alt="" aria-hidden="true"></a>
+          </nav>
+        </div>
+      </div>
+      <div class="footer-inferior"><p>© 2026 KEVIMPORT. Todos los derechos reservados.</p></div>
+    </footer>
+    <a href="https://wa.me/51912876164" class="whatsapp-fijo" target="_blank" rel="noopener noreferrer" aria-label="Escríbenos por WhatsApp">
+      <img src="assets/img/whatsapp.svg" width="32" height="32" alt="" aria-hidden="true">
+    </a>
+    <div id="carrito" class="carrito-flotante" role="dialog" aria-modal="false" aria-labelledby="titulo-carrito" tabindex="-1" hidden>
+      <div class="cabecera-carrito">
+        <span class="etiqueta">TUS FAVORITOS, JUNTOS</span>
+        <h2 id="titulo-carrito">Mi carrito</h2>
+        <p>Revisa tu selección y envíanos tu pedido.</p>
+      </div>
+      <div id="contenido-carrito">
+      </div>
+      <p id="total-carrito">
+      </p>
+      <button type="button" class="btn-enviar-pedido" onclick="enviarPedidoPorWhatsApp()">Enviar por WhatsApp ↗</button>
+      <button type="button" class="btn-cerrar-carrito" onclick="cerrarCarrito()">Seguir explorando</button>
     </div>
-  </div>
-
-</div>
-
-
-  <div id="categorias" class="categorias">
-  <button onclick="filtrarCategoria('todos')">TODOS</button>
-  <button onclick="filtrarCategoria('Belleza / Cosmética')">BELLEZA</button>
-  <button onclick="filtrarCategoria('Ropa interior')">ROPA E INTERIORES</button>
-  <button onclick="filtrarCategoria('Escolar / Papelería')">ÚTILES DE ESCRITORIO</button>
-  <button onclick="filtrarCategoria('Juguetes')">JUGUETERÍA</button>
-  <button onclick="filtrarCategoria('Hogar / Cocina')">HOGAR</button>
-  <button onclick="filtrarCategoria('Accesorios')">ACCESORIOS</button>
-  <button onclick="filtrarCategoria('Organización / Almacenamiento')">ORGANIZACIÓN</button>
-  <button onclick="filtrarCategoria('Decoración / Fiesta')">DECORACIÓN</button>
-  <button onclick="filtrarCategoria('Navidad / Regalos')">NAVIDAD</button>
-  <button onclick="filtrarCategoria('Electrónica / Gadgets')">ELECTRÓNICA</button>
-  <button onclick="filtrarCategoria('Higiene / Cuidado Personal')">CUIDADO PERSONAL</button>
-  <button onclick="filtrarCategoria('Artículos para bebés')">BEBÉS</button>
-  <button onclick="filtrarCategoria('Pirotecnicos')">FUEGOS ARTIFICIALES</button>
-  <button onclick="filtrarCategoria('Gomitas')">GOMITAS SOTTCOR LABS</button>
-  <button onclick="filtrarCategoria('Combos')">COMBOS</button>
-  </div>
-
-  <div id="catalogo" class="productos">
-  </div>
-
-  <button id="ver-mas" class="btn-ver-mas" type="button" onclick="cargarMasProductos()">
-    Ver más
-  </button>
-
-
-  <script src="productos.js"></script>
-  <script src="script.js"></script>
-
-  <a href="https://wa.me/51912876164" class="whatsapp-fijo" target="_blank" title="Escríbenos por WhatsApp">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp" />
-  </a>
-
-  <div id="carrito" class="carrito-flotante">
-    <h3>🛒 Carrito de compra</h3>
-    <div id="contenido-carrito"></div>
-    <p id="total-carrito"></p>
-    <button onclick="enviarPedidoPorWhatsApp()">Enviar por WhatsApp</button>
-    <button onclick="cerrarCarrito()">Cerrar</button>
-  </div>
-
-  <button class="btn-ver-carrito" onclick="abrirCarrito()">🛒 Ver carrito</button>
-
-</body>
+    <script src="data/productos.js">
+    </script>
+    <script src="assets/js/preferencias.js">
+    </script>
+    <script src="assets/js/catalogo.js">
+    </script>
+    <script src="assets/js/carrito.js">
+    </script>
+    <script src="assets/js/main.js">
+    </script>
+  </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

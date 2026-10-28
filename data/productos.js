@@ -1,0 +1,4644 @@
+const productos = [
+{
+  nombre: "5175CONDIMENTERO GIRATORIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Material: ABS + Metal resistente. Base giratoria 360°. Incluye 18 frascos de 100 ml. Diseño elegante y práctico. Medida aprox.: 37 x 24 x 32 cm",
+  precios: {
+    "1": 31.50,
+ },
+  imagen: "assets/img/productos/Imagen233.png",
+  stock: 2
+},
+ {
+  nombre: "4669LABIAL EN BARRA EFECTO MATE",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Descubre la colección de lápices labiales mate Flower Secret, perfectos para un look sofisticado y duradero. Con una gama de tonos vibrantes y nudes, ideales para cualquier ocasión.",
+  precios: {
+    "1": 4.95,
+    "3": 3.55,
+    "6": 3.25,
+ },
+  imagen: "assets/img/productos/Imagen235.jpeg",
+  stock: 6
+},
+{
+  nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
+  precios: {
+    "1": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen9.jpg",
+  stock: 2
+},
+{
+  nombre: "4966TAZA GAMER",
+  categoria: "Juguetes",
+  descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
+  precios: {
+    "1": 10.90,
+  },
+  imagen: "assets/img/productos/Imagen27.jpg",
+  stock: 2
+},
+{
+  nombre: "4955CHUPA PANZA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "¡Reduce medidas al instante! Este gel reafirmante ayuda a tonificar la zona abdominal y estilizar tu figura.",
+  precios: {
+    "1": 9.90,
+    "2": 8.90,
+  },
+  imagen: "assets/img/productos/Imagen31.jpg",
+  stock: 2
+},
+{
+  nombre: "4884TAPETE CAPYBARA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale estilo a tu entrada con este adorable tapete de capibara. Suave, resistente y antideslizante.",
+  precios: {
+    "1": 4.95,
+    "3": 3.55,
+    "6": 3.25,
+  },
+  imagen: "assets/img/productos/Imagen38.jpg",
+  stock: 11
+},
+{
+  nombre: "4862REBANADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Haz cortes perfectos. Este rebanador es ideal para frutas, verduras y más, con seguridad y precisión.",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+  },
+  imagen: "assets/img/productos/Imagen41.jpg",
+  stock: 8
+},
+{
+  nombre: "4855CHAL",
+  categoria: "Accesorios",
+  descripcion: "Elegancia ligera. Chal suave y versátil ideal para climas frescos o complementar cualquier look.",
+  precios: {
+    "1": 7.95,
+    "3": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen44.jpg",
+  stock: 4
+},
+{
+  nombre: "4853GLOBO FELIZ DÍA PAPA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Un detalle festivo que alegra el día. Globo decorativo con mensaje especial para papá.",
+  precios: {
+    "1": 2.95,
+    "3": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen46.jpg",
+  stock: 10
+},
+{
+  nombre: "4675COLLAR PURE LOVE",
+  categoria: "Accesorios",
+  descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
+  precios: {
+    "1": 3.95,
+    "3": 2.25,
+    "6": 1.95,
+    "12": 1.65,
+  },
+  imagen: "assets/img/productos/Imagen56.jpg",
+  stock: 12
+},
+{
+  nombre: "4629LAPICERO DOBLE PUNTA",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Dos funciones en uno! Lapicero con doble punta para escribir con precisión y comodidad.",
+  precios: {
+    "1": 3.95,
+    "3": 2.25,
+    "6": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen58.jpg",
+  stock: 12
+},
+{
+  nombre: "4547CORTADOR DE PASTILLA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Corte exacto y seguro. Herramienta compacta para dividir pastillas con precisión y sin esfuerzo.",
+  precios: {
+    "1": 3.90,
+    "3": 2.85,
+    "6": 2.55,
+  },
+  imagen: "assets/img/productos/Imagen62.jpg",
+  stock: 19
+},
+{
+  nombre: "4445JABONERA DE LUJO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Un toque elegante en tu baño. Jabonera resistente con diseño moderno, ideal para el hogar u oficina.",
+  precios: {
+    "1": 4.90,
+    "3": 3.50,
+  },
+  imagen: "assets/img/productos/Imagen64.jpg",
+  stock: 2
+},
+{
+  nombre: "4383MUÑEQUITO PARA CELULAR",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "¡Diversión en miniatura! Soporte decorativo para celular con diseño de muñequito. Práctico y adorable.",
+  precios: {
+    "1": 5.80,
+    "2": 3.80,
+  },
+  imagen: "assets/img/productos/Imagen66.jpg",
+ stock: 2
+},
+{
+  nombre: "4183LENTES DE SOL 2025",
+  categoria: "Accesorios",
+  descripcion: "Protección y estilo moderno. Lentes de sol con diseño actual, perfectos para cualquier ocasión.",
+  precios: {
+    "1": 6.00,
+    "3": 4.90,
+  },
+  imagen: "assets/img/productos/Imagen74.jpg",
+  stock: 3
+},
+{
+  nombre: "4175FORRO NAVIDEÑO PARA SILLA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora con espíritu navideño. Forro para silla con diseños festivos, ideal para cenas y reuniones familiares.",
+  precios: {
+    "3": 5.50,
+  },
+  imagen: "assets/img/productos/Imagen75.jpg",
+  stock: 3
+},
+{
+  nombre: "4118SOPORTE PARA ASIENTO DE AUTO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza tu auto fácilmente. Soporte multiuso para colgar bolsas, carteras o accesorios en el asiento del vehículo.",
+  precios: {
+    "1": 3.90,
+    "3": 2.30,
+  },
+  imagen: "assets/img/productos/Imagen78.jpg",
+  stock: 7
+},
+{
+  nombre: "3778CORTADOR DE VIDRIO Y CERÁMICA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Herramienta precisa para bricolaje. Corta fácilmente vidrio o cerámica con precisión profesional.",
+  precios: {
+    "1": 19.90,
+  },
+  imagen: "assets/img/productos/Imagen81.jpg",
+  stock: 2
+},
+{
+  nombre: "3930SET DE 6 INDIVIDUALES + 6 POSAVASOS NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque navideño a tu mesa con este set decorativo. Incluye 6 individuales y 6 posavasos con diseños festivos.",
+  precios: {
+    "1": 4.90,
+    "3": 3.20,
+    "6": 2.90,
+  },
+  imagen: "assets/img/productos/Imagen84.jpg",
+  stock: 6
+},
+{
+  nombre: "3655TOMATODO CARTOON",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tomatodo con diseños cartoon llamativos, perfecto para niños o fans de personajes animados.",
+  precios: {
+    "1": 8.00,
+    "3": 6.90,
+  },
+  imagen: "assets/img/productos/Imagen86.jpg",
+  stock: 3
+},
+{
+  nombre: "3648EMBUDO CREMERO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Embudo práctico y compacto ideal para servir cremas, líquidos o salsas sin derrames.",
+  precios: {
+    "1": 3.90,
+    "3": 2.60,
+  },
+  imagen: "assets/img/productos/Imagen87.jpg",
+  stock: 4
+},
+{
+  nombre: "3613CAJA DE JOYERÍA",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Organiza tus joyas con estilo. Caja transparente con compartimentos para mantener todo a la vista y ordenado.",
+  precios: {
+    "1": 6.00,
+    "3": 4.90,
+  },
+  imagen: "assets/img/productos/Imagen88.jpeg",
+ stock: 6
+},
+{
+  nombre: "3562PAÑOLETA",
+  categoria: "Accesorios",
+  descripcion: "Añade estilo y color a tu outfit con esta pañoleta versátil. Ideal para el cuello, el cabello o como accesorio de bolso.",
+  precios: {
+    "1": 3.90,
+    "3": 2.10,
+    "6": 1.80,
+    "12": 1.50,
+  },
+  imagen: "assets/img/productos/Imagen91.jpg",
+  stock: 12
+},
+{
+  nombre: "3159JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
+  categoria: "Accesorios",
+  descripcion: "Collares magnéticos para compartir con alguien especial. Al juntarse forman un corazón, ideal para parejas o amistades.",
+  precios: {
+    "1": 4.90,
+    "3": 3.50,
+    "6": 3.20,
+    "12": 2.90,
+  },
+  imagen: "assets/img/productos/Imagen94.jpg",
+  stock: 20
+},
+{
+  nombre: "3054AVE DE EQUILIBRIO",
+  categoria: "Juguetes",
+  descripcion: "Curiosa figura de ave que se equilibra mágicamente en una superficie. Sorprende a grandes y chicos.",
+  precios: {
+    "1": 1.00,
+  },
+  imagen: "assets/img/productos/Imagen95.jpg",
+  stock: 43
+},
+{
+  nombre: "3053JUGUETE BALANCE",
+  categoria: "Juguetes",
+  descripcion: "Divertido juguete educativo que ayuda a desarrollar la coordinación y el equilibrio en los más pequeños.",
+  precios: {
+    "1": 10.90,
+  },
+  imagen: "assets/img/productos/Imagen96.jpg",
+  stock: 2
+},
+{
+  nombre: "3038SHORT LEVANTA POMPIS",
+  categoria: "Ropa interior",
+  descripcion: "Short moldeador que realza tu figura. Comodidad y soporte con efecto push-up para tu día a día.",
+  precios: {
+    "1": 8.90,
+  },
+  imagen: "assets/img/productos/Imagen97.jpg",
+  stock: 2
+},
+{
+  nombre: "2968CAJA NAVIDEÑA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Caja con temática navideña perfecta para regalos, detalles o decoración. Ideal para sorprender en estas fiestas.",
+  precios: {
+    "1": 3.90,
+    "3": 2.90,
+  },
+  imagen: "assets/img/productos/Imagen99.jpg",
+  stock: 25
+},
+{
+  nombre: "2943MINI FREGONA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Compacta y funcional, esta mini fregona es ideal para limpiezas rápidas en espacios reducidos.",
+  precios: {
+    "1": 4.90,
+  },
+  imagen: "assets/img/productos/Imagen100.jpg",
+  stock: 6
+},
+{
+  nombre: "2819SET DE 6 VASOS NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Vasos con diseños festivos para darle alegría a tus celebraciones navideñas. ¡Ideal para compartir!",
+  precios: {
+    "1": 9.90,
+  },
+  imagen: "assets/img/productos/Imagen102.jpg",
+  stock: 2
+},
+{
+  nombre: "2803PEGATINA DE TATUAJE",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Pegatinas de tatuaje temporales para lucir diseños únicos sin compromiso. Fáciles de aplicar y remover.",
+  precios: {
+    "1": 4.90,
+    "3": 3.90,
+  },
+  imagen: "assets/img/productos/Imagen103.jpg",
+  stock: 22
+},
+{
+  nombre: "2802VASO DE BEBIDA REFRIGERANTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Vaso térmico diseñado para mantener tus bebidas frías por más tiempo. Ideal para el verano.",
+  precios: {
+    "1": 7.90,
+  },
+  imagen: "assets/img/productos/Imagen104.jpg",
+  stock: 3
+},
+{
+  nombre: "2795EXCAVADORA A CONTROL REMOTO",
+  categoria: "Juguetes",
+  descripcion: "Excavadora realista con control remoto. Diversión garantizada para los fanáticos de la construcción.",
+  precios: {
+    "1": 17.90,
+  },
+  imagen: "assets/img/productos/Imagen105.jpg",
+  stock: 1
+},
+{
+  nombre: "2794MASCARA HALOWEEN",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Máscara ideal para fiestas de Halloween o disfraces. Dale un toque terrorífico a tu look.",
+  precios: {
+    "1": 3.50,
+  },
+  imagen: "assets/img/productos/Imagen106.jpg",
+  stock: 6
+},
+{
+  nombre: "2717LIGA DE CIERRE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Liga multiuso con cierre resistente. Ideal para sujetar cables, bolsas o accesorios personales.",
+  precios: {
+    "5": 1.20,
+  },
+  imagen: "assets/img/productos/Imagen108.jpg",
+  stock: 36
+},
+{
+  nombre: "2689SET DE 10 FOIL + TAPER",
+  categoria: "Hogar / Cocina",
+  descripcion: "Set práctico de 10 láminas foil con recipiente tipo taper, ideal para conservar y transportar alimentos con estilo.",
+  precios: {
+    "5": 1.90,
+  },
+  imagen: "assets/img/productos/Imagen110.jpg",
+  stock: 12
+},
+{
+  nombre: "2688CAPA DE HALLOWEEN",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Capa temática perfecta para complementar tu disfraz de Halloween. Ligera, llamativa y fácil de usar.",
+  precios: {
+    "2": 3.90,
+  },
+  imagen: "assets/img/productos/Imagen111.jpg",
+  stock: 11
+},
+{
+  nombre: "2629ORGANIZADOR DE MEDIAS",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Mantén tus medias ordenadas y al alcance con este organizador práctico y compacto. Ideal para cajones o closets.",
+  precios: {
+    "1": 2.90,
+    "3": 1.90,
+  },
+  imagen: "assets/img/productos/Imagen112.jpg",
+  stock: 6
+},
+{
+  nombre: "2481TACHO KAWAII",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tacho de basura con diseño adorable estilo kawaii. Perfecto para escritorios o espacios pequeños con un toque tierno.",
+  precios: {
+    "3": 3.80,
+  },
+  imagen: "assets/img/productos/Imagen114.jpg",
+  stock: 28
+},
+{
+  nombre: "2421PAQUETE DE BOLSAS TERMORETRACTIL",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Bolsas que se ajustan al contenido con calor, ideales para embalaje seguro, ordenado y profesional.",
+  precios: {
+    "1": 24.90,
+  },
+  imagen: "assets/img/productos/Imagen116.jpg",
+  stock: 1
+},
+{
+  nombre: "2380PORTA SANDALIAS",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Organiza y transporta tus sandalias o zapatos de forma ordenada. Ideal para viajes o almacenaje en casa.",
+  precios: {
+    "3": 2.90,
+  },
+  imagen: "assets/img/productos/Imagen117.jpg",
+  stock: 3
+},
+{
+  nombre: "2416PLATO HONGUITO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tierno plato con diseño de hongo, perfecto para servir snacks, frutas o decorar tu cocina con un toque divertido.",
+  precios: {
+    "1": 3.90,
+  },
+  imagen: "assets/img/productos/Imagen118.jpg",
+  stock: 6
+},
+{
+  nombre: "1411CUCHARA MEZCLADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctica cuchara ideal para remover bebidas, jugos o mezclas de cocina. Útil y resistente para el uso diario.",
+  precios: {
+    "1": 3.90,
+  },
+  imagen: "assets/img/productos/Imagen119.jpg",
+  stock: 6
+},
+{
+  nombre: "1261EXPRIMIDOR DE ZUMO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Extrae jugo de tus frutas favoritas fácilmente. Diseño ergonómico y funcional para un exprimido sin esfuerzo.",
+  precios: {
+    "1": 4.90,
+  },
+  imagen: "assets/img/productos/Imagen120.jpg",
+  stock: 9
+},
+{
+  nombre: "2415CAJA CUADRADA",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Caja cerrada de 8.5 x 8.5 x 2.5 cm, fabricada en material Foldcote color blanco. Incluye espuma en su interior para mayor protección.",
+  precios: {
+    "3": 1.00,
+    "6": 0.80,
+    "12": 0.60,
+  },
+  imagen: "assets/img/productos/Imagen123.jpg",
+  stock: 60
+},
+{
+  nombre: "3682CAJA PARA LENTES",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Caja de aproximadamente 15.8 x 5.2 x 3.8 cm, elaborada en material Foldcote color blanco.",
+  precios: {
+    "3": 0.90,
+    "6": 0.70,
+    "12": 0.50,
+  },
+  imagen: "assets/img/productos/Imagen124.jpg",
+  stock: 60
+},
+{
+  nombre: "2331RETARDANTE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Producto especial para prolongar el momento íntimo. Uso discreto, cómodo y efectivo.",
+  precios: {
+    "1": 10.50,
+  },
+  imagen: "assets/img/productos/Imagen125.jpg",
+  stock: 15
+},
+{
+  nombre: "5016COLET ESPIRAL CORAZÓN",
+  categoria: "Accesorios",
+  descripcion: "Colet tipo espiral con diseño de corazón. No maltrata el cabello y añade un toque de estilo.",
+  precios: {
+    "1": 2.95,
+    "6": 1.85,
+    "12": 1.55,
+  },
+  imagen: "assets/img/productos/Imagen127.jpg",
+  stock: 16
+},
+{
+  nombre: "4992COLET BASE GRANDE",
+  categoria: "Accesorios",
+  descripcion: "Elástico resistente de gran tamaño, ideal para recoger cabello abundante con firmeza y comodidad.",
+  precios: {
+    "1": 2.95,
+    "3": 1.85, 
+  },
+  imagen: "assets/img/productos/Imagen128.jpg",
+  stock: 5
+},
+{
+  nombre: "4885DELINEADOR 2 EN 1",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Delineador doble función con punta precisa y otro extremo para difuminar. Perfecto para crear looks intensos y definidos.",
+  precios: {
+    "1": 4.95,
+  },
+  imagen: "assets/img/productos/Imagen138.jpg",
+  stock: 1
+},
+{
+  nombre: "4812ALMOHADILLAS DE DESCANSO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Almohadillas suaves para aliviar el cansancio en pies o cuerpo. Ideales para descansar tras un día agitado.",
+  precios: {
+    "1": 5.95,
+    "3": 4.95,
+  },
+  imagen: "assets/img/productos/Imagen141.jpg",
+  stock: 3
+},
+{
+  nombre: "4670MÁSCARA DE PESTAÑAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Realza tus pestañas al máximo con esta máscara de larga duración. Volumen, definición y resistencia al agua en un solo producto.",
+  precios: {
+    "1": 4.95,
+    "3": 3.95,
+    "6": 3.65,
+  },
+  imagen: "assets/img/productos/Imagen146.jpg",
+  stock: 6
+},
+{
+  nombre: "4648PESTAÑAS POSTIZAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Dale intensidad a tu mirada con estas pestañas postizas naturales y ligeras. Fáciles de colocar y reutilizables.",
+  precios: {
+    "1": 2.95,
+    "3": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen147.jpg",
+  stock: 3
+},
+{
+  nombre: "4491PESTAÑAS POSTIZAS 6D",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Pestañas de efecto 6D para una mirada impactante. Mayor volumen y curvatura para destacar tu belleza.",
+  precios: {
+    "1": 4.90,
+    "2": 3.20,
+  },
+  imagen: "assets/img/productos/Imagen150.jpg",
+  stock: 2
+},
+{
+  nombre: "5031SET DE 7 TEMPERAS + PALETA Y PINCEL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Kit de pintura ideal para pequeños artistas. Incluye 7 témperas, paleta y pincel para crear sin límites.",
+  precios: {
+    "1": 5.95,
+  },
+  imagen: "assets/img/productos/Imagen156.jpg",
+  stock: 2
+},
+{
+  nombre: "4650GUILLOTINA SANRIO / CAPIBARA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Guillotina temática para papel con diseño divertido de Sanrio o Capibara. Ideal para proyectos escolares o de oficina.",
+  precios: {
+    "1": 15.90,
+  },
+  imagen: "assets/img/productos/Imagen160.jpg",
+  stock: 1
+},
+{
+  nombre: "4633ESPIRÓGRAFO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Herramienta creativa para dibujar patrones y espirales únicos. Ideal para estimular la imaginación y precisión.",
+  precios: {
+    "1": 2.95,
+    "6": 1.95,
+    "12": 1.65,
+  },
+  imagen: "assets/img/productos/Imagen161.jpg",
+  stock: 29
+},
+{
+  nombre: "4303PACK DE 6 LAPICEROS ARCO IRIS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Conjunto de lapiceros con tinta de colores vibrantes tipo arco iris. Perfectos para escribir o decorar con estilo.",
+  precios: {
+    "1": 4.50,
+    "3": 3.50,
+  },
+  imagen: "assets/img/productos/Imagen168.jpg",
+  stock: 4
+},
+{
+  nombre: "4293CINTA FRÁGIL",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Cinta adhesiva con mensaje 'Frágil' para el cuidado de tus paquetes. Esencial en envíos y mudanzas.",
+  precios: {
+    "1": 4.50,
+    "3": 3.10,
+    "6": 2.80,
+  },
+  imagen: "assets/img/productos/Imagen169.jpg",
+  stock: 12
+},
+{
+  nombre: "5061PAQUETE DE 100 CAÑITAS FLEXIBLES",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Perfectas para fiestas, reuniones o el día a día. Resistentes, coloridas y súper prácticas. ",
+  precios: {
+    "1": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen175.jpeg",
+  stock: 2
+},
+{
+  nombre: "4660CALZONCILLO CLÁSICO",
+  categoria: "Ropa interior",
+  descripcion: "Material: algodón. Tallas disponibles: 6S",
+  precios: {
+    "1": 4.95,
+    "3": 3.05,
+    "6": 2.75
+  },
+  imagen: "assets/img/productos/Imagen177.jpeg",
+  stock: 6
+},
+{
+  nombre: "1000TRUSA BIKINI",
+  categoria: "Ropa interior",
+  descripcion: "Material: algodón. Talla disponible: L",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+  },
+  imagen: "assets/img/productos/Imagen178.jpeg",
+  stock: 3
+},
+{
+  nombre: "5077LUZ PARA ESCALERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Luz solar LED para escalones, caminos y escaleras. Se carga con el sol. Resistente al agua y fácil de instalar. ¡Ilumina y decora con estilo y seguridad!.",
+  precios: {
+    "1": 3.95,
+    "3": 2.95,
+ },
+  imagen: "assets/img/productos/Imagen185.jpeg",
+  stock: 6
+},
+{
+  nombre: "5079BANDEJA ARAÑA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Decoración terrorífica y divertida!. Canastitas con diseño de telaraña. Perfectas para dulces, snacks o decorar en Halloween.",
+  precios: {
+    "1": 4.95,
+    "3": 3.85,
+    "6": 3.55,
+ },
+  imagen: "assets/img/productos/Imagen187.jpeg",
+  stock: 8
+},
+{
+  nombre: "5080CINTA DOBLE CONTACTO",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Cinta doble contacto súper resistente! Medida: 1.7 cm x 3 m. Ideal para pegar cuadros, decoraciones y más sin clavos ni tornillos.",
+  precios: {
+    "1": 3.95,
+    "3": 1.95,
+    "6": 1.75,
+ },
+  imagen: "assets/img/productos/Imagen188.jpeg",
+  stock: 10
+},
+{
+  nombre: "5104FLORERO CON FLORES ARTIFICIALES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Arreglo floral colorido y elegante, ideal para decorar tu hogar u oficina. Sin mantenimiento y siempre hermoso.",
+  precios: {
+    "1": 6.95,
+ },
+  imagen: "assets/img/productos/Imagen198.jpeg",
+  stock: 2
+},
+{
+  nombre: "5110BOLSA DE 25 GANCHOS PERNO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fáciles de colocar, sin taladros ni daños en la pared. Ideales para colgar cuadros, marcos o decoraciones. Adhesión fuerte y reutilizables.",
+  precios: {
+    "1": 7.95,
+ },
+  imagen: "assets/img/productos/Imagen201.jpeg",
+  stock: 3
+},
+ {
+  nombre: "5115CARTUCHERA CON CALCULADORA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Cartuchera con calculadora incorporada. Mantén tus lápices, lapiceros y accesorios siempre ordenados y resuelve operaciones al instante. ¡Práctica y funcional!",
+  precios: {
+    "1": 4.95,
+    "3": 3.95,
+ },
+  imagen: "assets/img/productos/Imagen205.jpeg",
+  stock: 11
+},
+ {
+  nombre: "5120LLAVERO LÁSER MULTIFUNCIONAL",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Ligero y resistente, perfecto para iluminar, jugar con tu mascota o señalar a distancia. Siempre a mano y con estilo.",
+  precios: {
+    "1": 2.95,
+    "3": 1.85,
+ },
+  imagen: "assets/img/productos/Imagen207.jpeg",
+  stock: 4
+},
+ {
+  nombre: "5121VINCHA TRENZA",
+  categoria: "Accesorios",
+  descripcion: "El accesorio perfecto para darle un toque chic y elegante a tu look. Cómoda, ligera y fácil de combinar con cualquier outfit. Ideal para uso diario, eventos o para resaltar tu peinado con estilo.",
+  precios: {
+    "1": 3.95,
+    "3": 2.85,
+    "6": 2.55,
+ },
+  imagen: "assets/img/productos/Imagen208.jpeg",
+  stock: 8
+},
+ {
+  nombre: "5134SOPORTE UNIVERSAL PARA AUTO",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Ideal para sostener tu celular en el retrovisor. Ajustable y rotatorio. Fácil instalación. Compatible con la mayoría de los teléfonos. ¡Conduce seguro y con las manos libres!.",
+  precios: {
+    "1": 5.95,
+    "3": 4.95,
+ },
+  imagen: "assets/img/productos/Imagen213.jpeg",
+  stock: 5
+},
+  {
+  nombre: "5139RESTAURADOR DE PARTES NEGRAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Restaura partes negras, devuelve el color, brillo y protección a plásticos, molduras y defensas. ¡Fácil de aplicar!",
+  precios: {
+    "1": 6.95,
+    "3": 5.95,
+ },
+  imagen: "assets/img/productos/Imagen216.jpeg",
+  stock: 19
+},
+   {
+  nombre: "5142PACK ASEO DENTAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Mantén tu baño ordenado, con gancho adheso para colocarlo en la pared. Es ideal para niños y adultos ya que es práctico. Modelo sin diseño",
+  precios: {
+    "1": 4.50,
+    "3": 3.50,
+ },
+  imagen: "assets/img/productos/Imagen218.jpeg",
+  stock: 21
+},
+ {
+  nombre: "5143LUZ DECORATIVA LOVE",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Tamaño: 10.5 x 6 cm. Ideal para decorar tu habitación, sala u oficina. Perfecto detalle para regalar.",
+  precios: {
+    "1": 2.95,
+    "3": 1.95,
+ },
+  imagen: "assets/img/productos/Imagen219.jpeg",
+  stock: 29
+},
+  {
+  nombre: "5141GANCHO GIRATORIO FULL SPACE",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Con espacios para colgar ropa, accesorios o toallas. Ahorra espacio y mantiene todo ordenado. Práctico, resistente y fácil de usar.",
+  precios: {
+    "1": 2.95,
+    "3": 1.85,
+    "6": 1.55,
+    "12": 1.25,
+ },
+  imagen: "assets/img/productos/Imagen221.jpeg",
+  stock: 19
+},
+  {
+  nombre: "5150COLLAR DE PRINCESAS",
+  categoria: "Accesorios",
+  descripcion: "Material: Acero. Presentación en blíster individual. ¡Un detalle encantador para las reinas de la casa!",
+  precios: {
+    "1": 5.95,
+    "3": 4.95,
+ },
+  imagen: "assets/img/productos/Imagen226.png",
+  stock: 6
+},
+ {
+  nombre: "5169PACK DE 10 BOLSITAS DULCERAS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Mini bolsitas reutilizables. Diseños tiernos y coloridos. Perfectas para snacks, dulces o cositas pequeñas. Prácticas y adorables para el día a día.",
+  precios: {
+    "1": 8.95,
+ },
+  imagen: "assets/img/productos/Imagen230.jpeg",
+  stock: 4
+},
+ {
+  nombre: "5174LUCES ESPACIAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lámpara Proyector Estrellado. Proyección giratoria de luna y estrellas. Recargable por USB. Ideal para decoración y noches relajantes. Perfecta para dormitorio, sala o regalo especial.",
+  precios: {
+    "1": 5.40,
+ },
+  imagen: "assets/img/productos/Imagen232.jpeg",
+  stock: 1
+},
+ {
+  nombre: "5182BRAZALETE SERPENTEADO",
+  categoria: "Accesorios",
+  descripcion: "Pulsera estilo serpiente. Elegante, moderna y perfecta para realzar tu look. Ideal para cualquier ocasión especial.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+ },
+  imagen: "assets/img/productos/Imagen239.jpeg",
+  stock: 4
+},
+{
+  nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "Orgánica y con exquisito aroma. Producto importado de la India. Presentación en caja individual de 10ml.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+ },
+  imagen: "assets/img/productos/Imagen247.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5219COLGADOR DE PANTALONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para pantalones, bufandas, faldas y más. Ahorra espacio en tu clóset con diseño práctico y resistente. Gancho giratorio + barras deslizables = fácil de usar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+ },
+  imagen: "assets/img/productos/Imagen249.png",
+  stock: 3
+},
+ {
+  nombre: "5235SET DE BANDEJAS DE HIELO CON CAJA Y PALA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Transforma la forma de preparar y servir hielo en casa. Con caja para mantener el hielo fresco. Con pala para servir fácil y con estilo.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+ },
+  imagen: "assets/img/productos/Imagen256.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5246BOLSA DE REGALO NAVIDEÑA – 32 x 26 x 10 CM",
+  categoria: "Navidad / Regalos",
+  descripcion: "Diseño festivo, resistente y práctico para envolver tus obsequios. Ideal para ropa, juguetes, accesorios u otros presentes navideños. Tamaño perfecto y reutilizable para dar un toque especial a tus regalos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+ },
+  imagen: "assets/img/productos/Imagen262.jpeg",
+  stock: 3
+},
+  {
+  nombre: "5249BIOBELL PLACENTA CAPILAR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Revitalizante con Panthenol, para evitar la caída del cabello. Te deja el cabello sumamente suave y brilloso. Revitaliza el cabello, combate la caspa, grasa , seborrea y ayuda a frenar la caída. Capacidad: 15ML",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+ },
+  imagen: "assets/img/productos/Imagen265.jpg",
+  stock: 9
+},
+ {
+  nombre: "5256SET DE VELAS DE CUMPLEAÑOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque mágico y personalizado a tus celebraciones. Perfectas para pasteles, cupcakes o postres festivos. Un detalle que ilumina momentos inolvidables.",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+ },
+  imagen: "assets/img/productos/Imagen271.png",
+  stock: 7
+},
+   {
+  nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Figuras de arbolitos con diseños navideños (Santa, reno, muñeco de nieve y más). Luces cálidas que crean un ambiente mágico y festivo. Ideal para decorar ventanas, salas o tu arbolito. Dale un brillo especial a tu Navidad. Medida: 3m x 1.5m",
+  precios: {
+   "1": 14.95,
+ },
+  imagen: "assets/img/productos/Imagen273.jpeg",
+  stock: 9
+},
+   {
+  nombre: "5269MINI CEPILLO CON ESPEJO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Puedes llevarlo a todos lados para verte perfecta y linda siempre. Peine retráctil e incluye espejo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+ },
+  imagen: "assets/img/productos/Imagen277.png",
+  stock: 12
+},
+  {
+  nombre: "5270PLANCHA DE LIGUITAS PARA EL CABELLO",
+  categoria: "Accesorios",
+  descripcion: "Incluye variedad de colores vibrantes y divertidos. Ideales para peinados diarios y ocasiones especiales. Suaves, resistentes y cómodas de usar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "assets/img/productos/Imagen278.jpeg",
+  stock: 7
+},
+ {
+  nombre: "5271BOLA DE NIEVE NAVIDEÑA SANTA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Adorno decorativo con figura de Papá Noel. Base roja con lazo dorado y mensaje Merry Christmas. Ideal para decorar tu hogar o regalar en esta Navidad.  Un detalle clásico y encantador para celebrar la temporada. Medida aprox.: 9cm",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen279.jpeg",
+  stock: 8
+},
+ {
+  nombre: "5275ORGANIZADOR COLGANTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Optimiza tu espacio y mantiene todo ordenado. Perfecto para ropa, toallas o pañales. Diseño colgante para encontrar todo rápido.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen283.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5276CORTADOR ONDAS DE PAPAS Y VERDURAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Corta papas, verduras y frutas con un divertido estilo ondulado. Acero inoxidable y mango cómodo para uso rápido y seguro. Crea platos creativos y atractivos en segundos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.55,
+  },
+  imagen: "assets/img/productos/Imagen284.png",
+  stock: 6
+},
+   {
+  nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Contiene 50 notas con temática navideña. Diseños encantadores. Ideales para apuntes, recordatorios y mensajes especiales. Un detalle práctico y festivo para la temporada.",
+  precios: {
+   "1": 2.95,
+   "5": 1.25,
+   "10": 0.95,
+  },
+  imagen: "assets/img/productos/Imagen288.jpeg",
+  stock: 60
+},
+  {
+  nombre: "5284CEPILLO DE VAPORIZADOR DE MASCOTAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina nudos y enredos fácilmente. Suaviza el pelaje con vapor para mayor comodidad. Ideal para perros y gatos de todo tipo de pelo. ¡Cepillado sin estrés y con más brillo!.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+  },
+  imagen: "assets/img/productos/Imagen289.png",
+  stock: 3
+},
+ {
+  nombre: "5286CAJITA TRONADORES",
+  categoria: "Pirotecnicos",
+  descripcion: "Presentación: Cajita con 50 tronadores. Los clásicos truquitos explosivos que hacen “¡pop!” al lanzarlos. Diversión segura para chicos y grandes. Perfecto para cumpleaños, reuniones y celebraciones especiales.",
+  precios: {
+   "1": 2.95,
+   "3": 1.25,
+   "6": 0.95,
+  },
+  imagen: "assets/img/productos/Imagen291.jpeg",
+  stock: 60
+},
+  {
+  nombre: "5287SARTA DE COHETECILLOS",
+  categoria: "Pirotecnicos",
+  descripcion: "Encender la mecha y apartarse a una distancia moderada. Se sugiere emplearse bajo la supervisión de un adulto.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+  },
+  imagen: "assets/img/productos/Imagen292.jpeg",
+  stock: 12
+},
+   {
+  nombre: "5310KIT DE LIMPIEZA DE OIDOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Kit reutilizable, fácil de limpiar. Una de las partes que más requieren limpieza son nuestros oídos. Material: Acero inoxidable.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.65,
+  },
+  imagen: "assets/img/productos/Imagen309.jpg",
+  stock: 6
+},
+           {
+  nombre: "5312MANGO UNIVERSAL PARA TAPAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "De acero y madera resistente, mide 5.5 x 3 cm — ¡fácil de instalar y duradero! Ideal para renovar tus tapas de olla y darles un toque elegante y funcional.",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+   "6": 1.25,
+   "12": 0.95,
+  },
+  imagen: "assets/img/productos/Imagen559.jpeg",
+  stock: 9
+},
+ {
+  nombre: "5317INFLADOR DE LLANTAS Y PELOTAS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Práctico y portátil, ideal para autos, bicicletas, pelotas y más. Fácil de usar, con gran potencia y diseño compacto para llevar a cualquier lugar.",
+  precios: {
+   "1": 4.95,
+  },
+  imagen: "assets/img/productos/Imagen314.jpeg",
+  stock: 1
+},
+  {
+  nombre: "5321SPLASH PARA EL CABELLO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Las lociones para el cabello son preparaciones destinadas a cuidar del aspecto y la salud del cabello, sin dañar tu cuero cabelludo. Harán lucir tu cabello brillante y con aroma exquisito. Te encantará ya que también sirve como hidratante para el cabello.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen317.jpg",
+  stock: 1
+},
+      {
+  nombre: "5324ARBOL DE 60CM CON ACCESORIOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para decorar tu oficina centro de trabajo o habitación. Medida: 60 cm",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "assets/img/productos/Imagen319.jpeg",
+  stock: 1
+},
+        {
+  nombre: "5325HADA VOLADORA",
+  categoria: "Juguetes",
+  descripcion: "Gira, vuela y brilla con magia. Fácil de usar, solo enciéndela y déjala volar. Diversión mágica para niñas y niños.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "assets/img/productos/Imagen320.png",
+  stock: 24
+},
+  {
+  nombre: "5326FIGURA LED NAVIDEÑA - 1 PIEZA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para la decoración de la sala, dormitorio, etc. Se adhiere con su ventosa. Material: Plástico",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+  },
+  imagen: "assets/img/productos/Imagen321.jpeg",
+  stock: 28
+},
+    {
+  nombre: "5327ARMABLE DIDÁCTICO ITALIAN BRAINROT",
+  categoria: "Juguetes",
+  descripcion: "Divertidos sets para armar con entre 56 y 73 piezas, según el modelo. Estimula la creatividad, la concentración y la coordinación. Ideal para niños desde 6 años.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen322.jpeg",
+  stock: 11
+},
+      {
+  nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
+  categoria: "Accesorios",
+  descripcion: "Incluye lentes modernos y ganchos para el cabello a juego. Perfecto para un look fresco, divertido y con mucho estilo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "assets/img/productos/Imagen324.jpeg",
+  stock: 15
+},
+        {
+  nombre: "5330ROMPECABEZAS DE MADERA DIDÁCTICO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Diseños divertidos de animalitos y dinosaurios que estimulan la motricidad y creatividad. Mide 10.8 × 10.8 × 0.5 cm — ¡ideal para manos pequeñas y horas de diversión educativa!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+  },
+  imagen: "assets/img/productos/Imagen325.jpeg",
+  stock: 5
+},
+  {
+  nombre: "5331DOMINÓ CLÁSICO",
+  categoria: "Juguetes",
+  descripcion: "Fichas negras con puntos blancos, presentadas en caja resistente y elegante. Mide 14.7 × 5 × 3 cm — ¡perfecto para jugar en casa o llevar a cualquier lugar!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "assets/img/productos/Imagen326.jpeg",
+  stock: 14
+},
+     {
+  nombre: "5334PACK DE 10 BOLSAS PARA HIELO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Hecho de 100% esteres de BPA y ftalato. Autosellado, no se necesita máquina de sellado. Se puede utilizar para hacer diferentes sabores de cubitos de hielo según su gusto. Puedes añadir varias frutas, verduras, dulces, etc.",
+  precios: {
+   "1": 2.95,
+   "3": 1.65,
+   "6": 1.35,
+   "6": 1.05,
+  },
+  imagen: "assets/img/productos/Imagen328.png",
+  stock: 14
+},
+      {
+  nombre: "5337ROLLO DE ADHESIVO DE VENTANA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 60cm x 2m. Ideal para privacidad y decoración, dejando pasar la luz natural. Fácil de colocar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen330.jpeg",
+  stock: 7
+},
+      {
+  nombre: "5338PROTECTOR DE TALÓN",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Olvídate de las molestias! Protector antiampollas para el talón. Suave, cómodo y discreto. Evita roces y ampollas. Ideal para caminar, correr o usar zapatos nuevos.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen331.png",
+  stock: 14
+},
+{
+  nombre: "5343RIÑONERA CON DETALLES TORNASOLADOS",
+  categoria: "Accesorios",
+  descripcion: "Moderna y brillante. Ideal para llevar celular, llaves y accesorios con estilo. Perfecta para paseos, viajes o looks urbanos con toque fashion.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen336.jpeg",
+  stock: 8
+},
+    {
+  nombre: "5348PELUCHE TRALALERO MUSICAL",
+  categoria: "Juguetes",
+  descripcion: "Con luz y musical. Tamaño entre 25 y 30 cm.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+  },
+  imagen: "assets/img/productos/Imagen338.jpeg",
+  stock: 4
+},
+        {
+  nombre: "5363CINTA LED DE 3 METROS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Use esta cinta led para crear un ambiente festivo, ideal para empacar regalos de Navidad, hacer coronas navideñas, decorar árboles de Navidad, etc. Material sobre cinta: hecho de organza. Color de la cinta: Dorado",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "assets/img/productos/Imagen345.png",
+  stock: 4
+},
+      {
+  nombre: "5369TAZA DE CERAMICA NAVIDEÑA 20onzas",
+  categoria: "Navidad / Regalos",
+  descripcion: "Tazas festivas con diseños súper lindos de Navidad, perfectas para regalar o decorar tu cocina. Material resistente, colores vibrantes y listos para darle magia a tus mañanas.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+  },
+  imagen: "assets/img/productos/Imagen350.jpeg",
+  stock: 13
+},
+              {
+  nombre: "5374ESMALTE DE UÑAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Colores vibrantes y de larga duración para lucir uñas perfectas. Acabado brillante y profesional en cada aplicación. Ideal para uso diario o para completar tu look con estilo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+  },
+  imagen: "assets/img/productos/Imagen355.jpeg",
+  stock: 6
+},
+    {
+  nombre: "5379JABONERA CON CAJÓN",
+  categoria: "Hogar / Cocina",
+  descripcion: "Jabonera elegante con drenaje. Diseño moderno que evita la acumulación de agua y mantiene tu jabón siempre fresco y duradero.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "assets/img/productos/Imagen360.png",
+  stock: 2
+},
+  {
+  nombre: "5385PROTECTORES DE ANTEBRAZO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protectores de antebrazo de cuero PU resistente, impermeables y duraderos. Fácil limpieza y reutilizables, ideales para mantener la ropa protegida en todo momento. Perfectos para cocina, limpieza, jardinería, pesca, carnicería y más.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen366.jpeg",
+  stock: 17
+},
+       {
+  nombre: "5387SET DE MINI DRAGONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 6 mini dragones con detalles increíbles y llenos de carácter. Fabricados en resina, resistentes y perfectos para coleccionar o decorar. Ideales para escritorios, repisas o como regalo para amantes de la fantasía.",
+  precios: {
+   "1": 4.95,
+   "1": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen368.jpeg",
+  stock: 18
+},
+        {
+  nombre: "5388PULSERA DE ABUNDANCIA Y RIQUEZA",
+  categoria: "Accesorios",
+  descripcion: "Atrae buena vibra. Favorece la llegada del dinero. Protege de la envidia. Ideal como amuleto diario.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen369.jpeg",
+  stock: 11
+},
+   {
+  nombre: "5390SMARTWATCH D20 MACARON",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Con este moderno reloj inteligente podrás llevar tus actividades diarias con estilo. Incluye funciones deportivas, monitorización básica y pantalla táctil para mayor comodidad. Disponible en diseños juveniles y brillantes, ideal para regalar o usar a diario.",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "assets/img/productos/Imagen371.jpeg",
+  stock: 4
+},
+            {
+  nombre: "5391CAMPANAS DE VIENTO MÍSTICOS Y ENERGÉTICOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Atrae paz, armonía y vibras positivas con estos carillones llenos de simbolismo espiritual. Sus detalles representan protección, equilibrio y buena fortuna para tu hogar. Perfectos para decorar interiores o exteriores, con un sonido relajante que llena cualquier espacio de magia.",
+  precios: {
+   "1": 7.90,
+     },
+  imagen: "assets/img/productos/Imagen372.jpeg",
+  stock: 1
+},
+    {
+  nombre: "5394STAR BELLY LAVABLE DE FELPA",
+  categoria: "Juguetes",
+  descripcion: "Suave y adorable peluche con luz proyectora, hecho de felpa súper cómoda. Es lavable, ideal para mantenerlo siempre limpio y listo para acompañar a los peques. Perfecto para dormir con tranquilidad y llenar la habitación de magia.",
+  precios: {
+   "1": 14.90,
+     },
+  imagen: "assets/img/productos/Imagen374.jpeg",
+  stock: 4
+},
+            {
+  nombre: "5411PRINCESA MUSICAL GIRATORIA",
+  categoria: "Juguetes",
+  descripcion: "Encantadora muñeca sirena que baila, gira y brilla con luces de colores. Incluye música divertida y movimientos que capturan la atención de los peques. Ideal para niñas desde 3 años y perfecto como regalo mágico.",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "assets/img/productos/Imagen383.jpeg",
+  stock: 2
+},
+    {
+  nombre: "5420ORUGUITA DE PELUCHE",
+  categoria: "Juguetes",
+  descripcion: "Suave, colorida y perfecta para abrazar, ideal para niños y bebés. Diseño tierno con múltiples colores que encantan a primera vista. Medida: 39 x 12.5 x 10 cm",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen389.jpeg",
+  stock: 1
+},
+  {
+  nombre: "5424PARLANTE BLUETOOTH PORTÁTIL",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Sonido potente para disfrutar tu música al máximo. Conexión inalámbrica compatible con celulares y más dispositivos. Compactos, ligeros y perfectos para llevar a todas partes.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen393.jpeg",
+  stock: 1
+},
+           {
+  nombre: "5426ORGANIZADOR DE ROPA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu ropa interior, medias y accesorios siempre ordenados. Diseño tierno, material de malla transpirable y resistente. Ahorra espacio y cuelga fácilmente en tu clóset o ropero.",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen394.jpeg",
+  stock: 2
+},
+  {
+  nombre: "5428TOBOGÁN ELÉCTRICO DE DINOSAURIOS",
+  categoria: "Juguetes",
+  descripcion: "Horas de diversión con luces LED brillantes y efectos de sonido emocionantes. Los mini dinos suben solitos y se deslizan una y otra vez. ¡El regalo perfecto para pequeños amantes de dinosaurios y aventuras!",
+  precios: {
+   "1": 19.90,
+     },
+  imagen: "assets/img/productos/Imagen396.jpeg",
+  stock: 3
+},
+    {
+  nombre: "5436CAJA DE 50 MASCARILLAS DE TRES PLIEGUES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protección confiable y cómoda con mascarillas desechables de 3 pliegues. Alta filtración de partículas y gotículas para mayor seguridad. Pack de 50 unidades, ideal para uso diario, laboral o profesional.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen401.jpeg",
+  stock: 30
+},
+     {
+  nombre: "5437CAJA DE 10 MASCARILLAS BLANCAS KN95",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alta protección y ajuste seguro al rostro. Filtración eficiente de partículas y gotículas. Cómodas, livianas y de uso diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+     },
+  imagen: "assets/img/productos/Imagen402.jpeg",
+  stock: 15
+},
+     {
+  nombre: "5439TOALLA DE ENFRIAMIENTO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Refresca al instante al mojarla y escurrirla. Ideal para deporte, gimnasio o días de calor. Ligera, reutilizable y fácil de llevar.",
+  precios: {
+   "1": 3.55,
+   "3": 2.15,
+   "6": 1.85,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen403.jpg",
+  stock: 13
+},
+          {
+  nombre: "5446SET SORBETES REUTILIZABLES + CEPILLO DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Set contiene: 1 Sorbete Curvo + 1 Sorbete Recto + 1 Cepillo Limpiador de Metal. Práctico y muy útil juego de 2 cañitas. una con punta diagonal para mayor comodidad y otra cañita recta para cuando la prefiera. Y para su limpieza se incluye el limpiador de Sorbetes. Sorbete de acero Inoxidable, ideal para batidos, jugos, te de burbujas, también recomendado para uso de adultos mayores, etc.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+     },
+  imagen: "assets/img/productos/Imagen407.png",
+  stock: 4
+},
+          {
+  nombre: "5457PORTA LAPICERO ANIMADO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Medida 15 × 10 × 5.5 cm. Material tipo madera, resistente y duradero. Ideal para escritorio o estudio. Modelos variados.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+     },
+  imagen: "assets/img/productos/Imagen413.jpeg",
+  stock: 6
+},
+      {
+  nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Estas notas son ideales para hacer anotaciones en libros de texto, ya que puedes ver a través de ellas para resaltar o llamar a un contenido específico. Utilízalas en manualidades para calcar imágenes o patrones de otros artículos. Cada paquete tiene 50 hojitas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.05,
+   "6": 1.85,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen418.png",
+  stock: 12
+},
+     {
+  nombre: "5469SET DE 12 COLORES DUAL JUMBO",
+  categoria: "Escolar / Papelería",
+  descripcion: "24 tonos en total (doble punta). Tamaño jumbo, fácil agarre. Ideal para el cole y manualidades.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen422.png",
+  stock: 4
+},
+  {
+  nombre: "5470TAJADOR CON BORRADOR",
+  categoria: "Escolar / Papelería",
+  descripcion: "Tajador práctico con tapa para evitar desorden. Cuenta con 2 agujeros: tamaño normal y jumbo. Incluye borrador integrado, ideal para la escuela. Diseño funcional y compacto, perfecto para el día a día.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen423.jpeg",
+  stock: 3
+},
+   {
+  nombre: "5471SET DE 12 LÁPICES TÉCNICO 2B",
+  categoria: "Escolar / Papelería",
+  descripcion: "Trazo suave y uniforme. Ideales para dibujo y escritura. Perfectos para colegio u oficina.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen424.jpeg",
+  stock: 2
+},
+   {
+  nombre: "5475GOMA EN BARRA - 40 GRAMOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Pega en forma rápida, limpia y sencilla; papel, fotos, cartón, cartulina, tela, etc. Tapa hermética que garantiza un pegamento fresco. Ideal para el colegio, hogar y oficina.",
+  precios: {
+   "1": 3.55,
+   "3": 2.25,
+   "6": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen428.jpeg",
+  stock: 30
+},
+        {
+  nombre: "5485ABACO VERTICAL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Compresión del sistema numérico decimal. Favorece el aprendizaje en las operaciones aritméticas básicas. Incentiva el cálculo mental. Material: madera",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen435.jpeg",
+  stock: 6
+},
+        {
+  nombre: "5490BLOCK PAPEL LUSTRE A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores vivos y brillantes. Tamaño A4 ideal para trabajos escolares. Incluye 14 hojas surtidas. Perfecto para manualidades y decoración.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen438.jpeg",
+  stock: 4
+},
+          {
+  nombre: "5492DIDÁCTICO DE MADERA GEOMÉTRICO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Juego educativo para aprender formas, colores y números. Ideal para estimulación temprana y aprendizaje divertido. Elaborado en madera resistente y duradera. Incluye múltiples piezas para armar y encajar. Medida: 18 x 18 cm, modelo al azar.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen439.jpeg",
+  stock: 8
+},
+      {
+  nombre: "5497CINTA MASKING TAPE DE 1\"",
+  categoria: "Escolar / Papelería",
+  descripcion: "Excelente para el taller, oficina y hogar. Fácil de cortar. Dura como ninguno",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen444.jpeg",
+  stock: 37
+},
+  {
+  nombre: "5498CINTA MASKING TAPE DE 2\"",
+  categoria: "Escolar / Papelería",
+  descripcion: "Excelente para el taller, oficina y hogar. Buena adhesión en diferentes superficies. Medida: 2\" x 18 yardas",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen445.jpeg",
+  stock: 3
+},
+    {
+  nombre: "5504JUEGO DE LABERINTO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Medida aprox.: 11 × 9 × 9 cm. Desafía la lógica y la coordinación. Ideal para niños y entretenimiento educativo.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+     },
+  imagen: "assets/img/productos/Imagen451.png",
+  stock: 4
+},
+ {
+  nombre: "5508GEL LIMPIADOR DE INODORO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sello de gel de larga duración, mantiene el inodoro limpio y perfumado en cada descarga. Incluye dispensador + gel, limpieza. desodorizante práctico y sin contacto.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen454.jpeg",
+  stock: 2
+},
+      {
+  nombre: "5520CARTUCHERA 3D",
+  categoria: "Escolar / Papelería",
+  descripcion: "Diseño en relieve súper llamativo ideal para el cole. Amplio espacio para lápices, colores y accesorios. Modelos y colores surtidos, al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen461.jpeg",
+  stock: 3
+},
+   {
+  nombre: "5527SOPORTE DE CELULAR GIRATORIO",
+  categoria: "Electrónica / Gadgets",
+  descripcion: "Ideal para ver pelis, videollamadas o grabar contenido. Estable, práctico y súper cómodo. ¡Llévalo a donde quieras!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+     },
+  imagen: "assets/img/productos/Imagen463.jpeg",
+  stock: 3
+},
+     {
+  nombre: "5533PERCHERO DECORATIVO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza tus llaves con estilo y mantén todo en orden. Ideal para entrada, sala u oficina, fácil de colgar. Medida: 30 x 11 cm",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen466.jpeg",
+  stock: 2
+},
+       {
+  nombre: "5538LAPICERO MULTITINTAS GUERRERAS KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Varios colores de tintas en un solo lapicero. Diseño divertido y llamativo. Ideal para el cole o la cartuchera.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+   "12": 1.75,
+   "24": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen468.png",
+  stock: 27
+},
+   {
+  nombre: "5539LONCHERA KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Diseño moderno inspirado en el estilo K-Pop. Ideal para llevar snacks, lonche o almuerzo. Liviana, práctica y fácil de transportar. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen469.jpeg",
+  stock: 1
+},
+        {
+  nombre: "5542SET DE 12 LAPICES GUERRERAS KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Inspirados en el mundo KPOP, súper modernos. Escritura suave y resistente. Perfectos para cole, eventos y souvenirs.",
+  precios: {
+   "1": 4.95,
+   "2": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen471.jpeg",
+  stock: 2
+},
+       {
+  nombre: "5543SET DE 10 REGLAS KPOP",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye regla + moldes para dibujar figuras fácilmente. Ideal para tareas, dibujo y creatividad.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen472.jpeg",
+  stock: 4
+},
+         {
+  nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
+  categoria: "Accesorios",
+  descripcion: "Diseño delicado y femenino, ideales para cualquier ocasión. Livianos, cómodos y con acabado elegante. Colores vibrantes que realzan tu look al instante.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen479.jpeg",
+  stock: 2
+},
+                 {
+  nombre: "5560JABONERA ZAPATO ELEGANTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño decorativo en forma de tacón, ideal para baño o cocina. Drenaje integrado que mantiene el jabón seco y limpio. Funcional y decorativa, da un toque chic a cualquier espacio.",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.55,
+     },
+  imagen: "assets/img/productos/Imagen483.png",
+  stock: 27
+},
+                   {
+  nombre: "5561SET DE 10 MANITOS SUJETADORAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Instalación sin perforar: retira el protector y pega en superficies lisas. Diseño en forma de pulgar, práctico y decorativo para el hogar. Material: plástico resistente, no daña las paredes",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+     },
+  imagen: "assets/img/productos/Imagen484.png",
+  stock: 3
+},
+          {
+  nombre: "5577CINTA DOBLE FAZ PARA ROPA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Fija la ropa al cuerpo de forma segura y discreta todo el día. Ideal para escotes, vestidos y blusas, no daña la tela.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+     },
+  imagen: "assets/img/productos/Imagen494.jpeg",
+  stock: 9
+},
+       {
+  nombre: "5585SET DE 5 PLUMONES DE TINTA COMESTIBLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideales para decorar tortas, galletas y fondant. Colores vivos, seguros y fáciles de usar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen500.png",
+  stock: 5
+},
+               {
+  nombre: "5596SOQUETE CON ENCHUFE E INTERRUPTOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para focos, práctico y fácil de usar en cualquier espacio. Cable flexible con botón ON/OFF para mayor comodidad.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+       },
+  imagen: "assets/img/productos/Imagen508.jpeg",
+  stock: 3
+},
+           {
+  nombre: "5620PASTILLERO FLOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño floral compacto, práctico y fácil de llevar a cualquier lugar. Con varios compartimentos para organizar pastillas, vitaminas o suplementos. También sirve para guardar joyas u objetos pequeños. Color al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+       },
+  imagen: "assets/img/productos/Imagen516.jpeg",
+  stock: 12
+},
+     {
+  nombre: "5622SET DE 12 COLORES LICENCIA DISNEY",
+  categoria: "Escolar / Papelería",
+  descripcion: "Set de 12 colores ideales para dibujar y colorear. Perfectos para la escuela, tareas o actividades creativas. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+       },
+  imagen: "assets/img/productos/Imagen517.jpeg",
+  stock: 11
+},
+     {
+  nombre: "5627REMOVEDOR DE ADHESIVO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Removedor de adhesivo es la solución versátil para eliminar adhesivos difíciles y residuos pegajosos, su diseño fácil de usar hace que sea muy fácil de usar, rocía y limpia. Capacidad: 100ml",
+  precios: {
+   "1": 6.95,
+       },
+  imagen: "assets/img/productos/Imagen519.png",
+  stock: 2
+},
+     {
+  nombre: "5628CEPILLO DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Cepillo para detalles difíciles. Ideal para tapas, termos, botellas y rincones pequeños.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+       },
+  imagen: "assets/img/productos/Imagen520.jpeg",
+  stock: 21
+},
+    {
+  nombre: "5629GANCHO CLIP BANANA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus snacks y alimentos frescos sellando bolsas fácilmente. Diseño en forma de plátano que también funciona como imán para el refrigerador. Ideal para organizar bolsas en la despensa.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+       },
+  imagen: "assets/img/productos/Imagen521.jpeg",
+  stock: 7
+},
+        {
+  nombre: "5631COFRE CORAZÓN",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 5.5 x 3.5 cm, pequeño y encantador. Ideal para guardar anillos, aretes u objetos pequeños. Color al azar, perfecto para regalar o decorar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+       },
+  imagen: "assets/img/productos/Imagen523.jpeg",
+  stock: 34
+},
+       {
+  nombre: "5635SOPORTE ADHESIVO PARA LENTES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico organizador de pared con diseño de conejito. Instalación fácil con adhesivo, sin perforar la pared. Ideal para guardar lentes, gafas o pequeños accesorios.",
+  precios: {
+   "1": 3.95,
+   "2": 2.55,
+       },
+  imagen: "assets/img/productos/Imagen525.jpeg",
+  stock: 2
+},
+         {
+  nombre: "5637ESTUCHE ORGANIZADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Estuche de gran capacidad ideal para guardar lápices, plumones y útiles. Diseño transparente que permite ver el contenido fácilmente. Apilable, resistente y con cierre seguro para mantener todo organizado.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+       },
+  imagen: "assets/img/productos/Imagen526.jpeg",
+  stock: 10
+},
+         {
+  nombre: "5640SET DE 3 SECADORES SANRIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Paños de microfibra, super suaves. Medida: 30 x 30 cm, ideales para secar manos o superficies. Le dan un toque tierno a tu cocina o baño.",
+  precios: {
+   "1": 4.95,
+       },
+  imagen: "assets/img/productos/Imagen527.jpg",
+  stock: 2
+},
+         {
+  nombre: "5641TAPER DE DOS DIVISIONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico contenedor con divisiones para guardar condimentos o snacks. Medida: 10 x 18 x 6 cm, ideal para cocina o lonchera. Tapa segura que mantiene los alimentos frescos y ordenados.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "assets/img/productos/Imagen528.jpeg",
+  stock: 7
+},
+                  {
+  nombre: "5643PACK DE ALMOHADILLAS DE FIELTRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protegen muebles, puertas y pisos de rayones y golpes. Reducen el ruido al mover sillas o cerrar gabinetes. Fáciles de colocar, adhesivas y duraderas para el hogar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+       },
+  imagen: "assets/img/productos/Imagen530.jpeg",
+  stock: 9
+},
+           {
+  nombre: "5651DISPENSADOR DE CINTA DE EMBALAJE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fácil de usar, rápido para cortar. Material: plástico",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+       },
+  imagen: "assets/img/productos/Imagen534.jpeg",
+  stock: 3
+},
+             {
+  nombre: "5652BÁLSAMO LABIAL HIDRATANTE DE 5ML",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Hidrata y protege los labios del resecamiento. Ideal para llevar a todos lados y uso diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "5": 3.25,
+       },
+  imagen: "assets/img/productos/Imagen535.jpeg",
+  stock: 5
+},
+               {
+  nombre: "5657REPISA HUMANOIDE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Multiusos para el hogar. Organiza tu cocina, lavandería, librería y baño con este estante. Listo para armar y pegar donde usted desee.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+       },
+  imagen: "assets/img/productos/Imagen537.jpeg",
+  stock: 5
+},
+               {
+  nombre: "5663SET DE MINI TENEDORES MINNIE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mini tenedores con diseño adorable de Minnie, perfectos para loncheras y snacks. Ideales para frutas, postres, gelatina y bocaditos. Reutilizables, prácticos y fáciles de lavar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+       },
+  imagen: "assets/img/productos/Imagen538.jpeg",
+  stock: 6
+},
+         {
+  nombre: "5666PINZA TRENZADA PARA CABELLO",
+  categoria: "Accesorios",
+  descripcion: "Diseño tipo trenza que brinda un look elegante al instante. Tamaño aproximado: 12.5 cm. Color al azar.",
+  precios: {
+   "1": 6.95,
+       },
+  imagen: "assets/img/productos/Imagen541.jpeg",
+  stock: 2
+},
+              {
+  nombre: "5685SET DE 3 CORRECTORES DE ESCRITURA",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Perfecciona tu caligrafía con estos correctores ergonómicos! Su diseño de silicona ultra suave corrige la postura al escribir, reduciendo el cansancio y brindando máximo confort.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+       },
+  imagen: "assets/img/productos/Imagen553.png",
+  stock: 9
+},
+    {
+  nombre: "5598OXÍMETRO DE PULSO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Mide oxígeno en sangre y pulso en segundos. Pantalla digital clara y fácil de usar.",
+  precios: {
+   "1": 17.95,
+       },
+  imagen: "assets/img/productos/Imagen556.png",
+  stock: 3
+},
+     {
+  nombre: "5688RECIPIENTE PARA SNACKS DISEÑO CALABAZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico recipiente ideal para frutas, dulces o frutos secos. Diseño con tapa que mantiene los snacks protegidos y organizados. COLOR AL AZAR",
+  precios: {
+   "1": 4.95,
+       },
+  imagen: "assets/img/productos/Imagen558.jpeg",
+  stock: 1
+},
+     {
+  nombre: "5621PULSERA DISEÑO BODHI",
+  categoria: "Accesorios",
+  descripcion: "Pulsera artesanal con cuentas Bodhi, símbolo de calma, espiritualidad y protección. Ajustable y cómoda. Estilo bohemio/zen. Ideal para meditación o uso diario.",
+  precios: {
+   "1": 3.95,
+       },
+  imagen: "assets/img/productos/Imagen560.jpeg",
+  stock: 2
+},
+                 {
+  nombre: "5697SET DE TENEDORES DECORATIVOS + BASE UNICORNIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño adorable que decora y divierte en la mesa. Incluye tenedor ideal para frutas, snacks y postres. Material resistente y fácil de limpiar, perfecto para niños y hogar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+       },
+  imagen: "assets/img/productos/Imagen567.jpg",
+  stock: 9
+},
+           {
+  nombre: "5698MANIQUÍ MANO CORTA DAMA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para exhibir guantes, mitones, pulseras, relojes y anillos. Fabricado en plástico resistente tipo basa, perfecto para vitrinas y negocios. Color al azar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.85,
+   "5": 6.55,
+       },
+  imagen: "assets/img/productos/Imagen568.jpeg",
+  stock: 5
+},
+             {
+  nombre: "5704TRITURADOR DE AJOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Material de acero inoxidable + plástico reforzado. Triturador manual. Medidas: 10.5 x 7 x 5 cm. Práctico de utilizar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+       },
+  imagen: "assets/img/productos/Imagen571.jpeg",
+  stock: 9
+},
+  {
+  nombre: "5737ORGANIZADOR DE GORRAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Permite organizar varias gorras en poco espacio. Ideal para colgar detrás de la puerta o en la pared. Color al azar. Mantiene tus gorras ordenadas, visibles y sin deformarse.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+       },
+  imagen: "assets/img/productos/Imagen577.jpeg",
+  stock: 3
+},
+    {
+  nombre: "5715PACK DE 4 BOLSAS ORGANIZADORAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege y organiza tu ropa, accesorios o documentos fácilmente. Diseño lindo y práctico, ideal para viajes o uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "assets/img/productos/Imagen580.jpeg",
+  stock: 10
+},
+    {
+  nombre: "5716RODILLO QUITAPELUSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina pelusa, polvo y pelos de mascotas fácilmente. Ideal para ropa, muebles y mantener todo impecable. Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+       },
+  imagen: "assets/img/productos/Imagen581.jpeg",
+  stock: 4
+},
+    {
+  nombre: "5717RIÑONERA DAMA",
+  categoria: "Accesorios",
+  descripcion: "Práctica y cómoda, con varios compartimentos para organizar tus esenciales. Cierres seguros y correa ajustable para llevarla con estilo a donde. Color al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+       },
+  imagen: "assets/img/productos/Imagen582.jpeg",
+  stock: 7
+},
+      {
+  nombre: "5719SET DE 12 MARIPOSAS DECORATIVAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfectas para decorar paredes, habitaciones o eventos con un toque delicado. Fáciles de colocar y reutilizables para cualquier ocasión especial. Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+       },
+  imagen: "assets/img/productos/Imagen584.jpeg",
+  stock: 27
+},
+                     {
+  nombre: "1001GOMITAS DE DHA PARA ADULTOS - 130 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "Fortalece tu agilidad mental y apoya un desarrollo saludable con nuestras Gomitas de DHA, Ácido Fólico y Vitaminas: el impulso esencial para tu cerebro y sistema nervioso.",
+  precios: {
+   "1": 20.90,
+       },
+  imagen: "assets/img/productos/Imagen589.jpeg",
+  stock: 1
+},
+                {
+  nombre: "5734SET DE PARCHES DESINTOXICANTES PARA PIES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Contiene 5 pares. Limpia y activa tu cuerpo, con estos parches para pies desintoxicantes. Mejoran el sueño y reduce la fatiga. Resultados visibles en tan solo 5 noches. Fácil de usar los colocas en las noches y retiras por la mañana ó después de 8hras.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+       },
+  imagen: "assets/img/productos/Imagen592.jpeg",
+  stock: 18
+},
+      {
+  nombre: "5736QUITAPELUSA PANDITA 2 EN 1",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina pelusa, polvo y pelos fácilmente en ropa y muebles. Diseño compacto y práctico, ideal para usar en casa o llevar contigo.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.65,
+       },
+  imagen: "assets/img/productos/Imagen593.jpg",
+  stock: 6
+},
+          {
+  nombre: "5740CORREA PARA CABALLERO",
+  categoria: "Accesorios",
+  descripcion: "Diseño elegante y versátil, ideal para cualquier ocasión. Medida 3.5 x 115 cm, cómodo y fácil de combinar con tu outfit.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+       },
+  imagen: "assets/img/productos/Imagen595.jpeg",
+  stock: 7
+},
+            {
+  nombre: "5758LIBRO MÁGICO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Pinta solo con agua y descubre colores que aparecen como por arte de magia. Reutilizable, limpio y seguro, ideal para estimular la creatividad de los niños.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+       },
+  imagen: "assets/img/productos/Imagen602.png",
+  stock: 17
+},
+            {
+  nombre: "5760BOLSO MORRAL",
+  categoria: "Accesorios",
+  descripcion: "Lleva todo lo esencial con estilo y comodidad gracias a su diseño práctico y moderno. Ideal para uso diario, con múltiples compartimentos y correa ajustable para mayor seguridad. Color al azar.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+       },
+  imagen: "assets/img/productos/Imagen603.jpeg",
+  stock: 9
+},
+    {
+  nombre: "5762ESPONJA MÁGICA DE MELAMINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elimina manchas y suciedad fácilmente sin dañar las superficies. Ideal para paredes, cocina, baño, zapatillas y mucho más.",
+  precios: {
+   "1": 2.95,
+   "3": 1.85,
+   "6": 1.55,
+   "12": 1.25,
+       },
+  imagen: "assets/img/productos/Imagen605.png",
+  stock: 37
+},
+               {
+  nombre: "5765COLLAR EQUIPO",
+  categoria: "Accesorios",
+  descripcion: "¡Atención hinchas de corazón! Tenemos el collar perfecto para lucir. Ya sea que alienta a Alianza Lima o Sporting Cristal, este collar está hecho para ti. Ideal para llevar el escudo en el pecho con orgullo. ¡Hazlo parte de tu estilo diario!. Se elige: (Alianza o Cristal), color al azar.",
+  precios: {
+   "1": 7.95,
+       },
+  imagen: "assets/img/productos/Imagen606.jpeg",
+  stock: 2
+},
+  {
+  nombre: "5770DEPILADOR NASAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Elimina el vello nasal de forma rápida, segura y sin dolor. Diseño práctico y compacto, ideal para el cuidado personal diario.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+       },
+  imagen: "assets/img/productos/Imagen607.jpeg",
+  stock: 3
+},
+  {
+  nombre: "5771QUITA ESPINILLAS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a remover puntos negros y exceso de grasa de forma práctica y segura. Diseño compacto y fácil de usar, ideal para tu rutina de cuidado facial.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+       },
+  imagen: "assets/img/productos/Imagen608.jpeg",
+  stock: 12
+},
+    {
+  nombre: "5773MITONES CÁLIDOS",
+  categoria: "Accesorios",
+  descripcion: "Mantén tus manos abrigadas y cómodas durante los días fríos. Suaves, elegantes y perfectos para complementar cualquier outfit de invierno. Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+       },
+  imagen: "assets/img/productos/Imagen609.jpeg",
+  stock: 12
+},
+      {
+  nombre: "5774BOLSA CON ASAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 20 x 25 x 9 cm, prácticas y espaciosas. Dale un toque elegante y moderno a tus regalos, detalles y emprendimientos. Resistentes, prácticas y súper lindas para toda ocasión ",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+       },
+  imagen: "assets/img/productos/Imagen610.jpeg",
+  stock: 4
+},
+        {
+  nombre: "5777KIT TERMO CON TAZAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Práctico, útil y listo para usar!  Termo de 500 ML con 3 tazas para disfrutar tus bebidas frías o calientes en el trabajo, estudio o viaje. Color al azar",
+  precios: {
+   "1": 9.90,
+       },
+  imagen: "assets/img/productos/Imagen611.jpeg",
+  stock: 16
+},
+            {
+  nombre: "5780PARCHE LEON",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Activa el calor para aliviar molestias musculares en cuello, espalda, rodillas y más. Ideal para relajar tensiones y brindar confort en tu día a día.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+    },
+  imagen: "assets/img/productos/Imagen613.jpeg",
+  stock: 13
+},
+                  {
+  nombre: "5787DESTAPADOR BOTELLA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Diseño original en forma de botella, práctico y decorativo para tu cocina, bar o negocio. Medida: 14 cm | Ideal para regalo, colección o uso diario.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+    },
+  imagen: "assets/img/productos/Imagen616.jpeg",
+  stock: 36
+},
+                        {
+  nombre: "5790PELUCHE PANDITA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Tierno pandita con chalina súper suave y abrazable! Ideal para sorprender con un detalle especial lleno de ternura. Color al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+    },
+  imagen: "assets/img/productos/Imagen620.jpeg",
+  stock: 4
+},
+     {
+  nombre: "5794PIEDRAS REFLECTORAS LUMINOSAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Absorben la luz durante el día y brillan en la oscuridad, creando un efecto decorativo encantador. Ideales para jardines, macetas, peceras y manualidades. Contenido aprox.: 80 g. Diseño al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "assets/img/productos/Imagen622.jpeg",
+  stock: 22
+},
+         {
+  nombre: "5800FILTRO ATRAPA PELUSAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu ropa más limpia atrapando pelusas, cabellos y residuos durante cada lavado. Reutilizable, práctico y fácil de usar; ayuda a proteger tus prendas y mantener la lavadora en mejores condiciones.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "assets/img/productos/Imagen625.jpeg",
+  stock: 14
+},
+         {
+  nombre: "5802MANZANA ACRILICA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Manzanas acrílicas rellenables! El detalle más lindo y original para consentir a tus maestros favoritos. ¡Ponles sus dulces o chocolates preferidos, personalízalas con su nombre y sorpréndelos en su día!",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+  },
+  imagen: "assets/img/productos/Imagen628.jpeg",
+  stock: 9
+},
+         {
+  nombre: "5804LLAVERO ESFERA PONCHO DE ENERGENCIA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Llévalo en tu mochila, cartera o llavero gracias a su práctico estuche compacto. Ideal para días lluviosos, ligero, reutilizable y siempre listo para protegerte donde vayas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+  },
+  imagen: "assets/img/productos/Imagen627.jpeg",
+  stock: 12
+},
+    {
+  nombre: "5815PARLANTE PELOTA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Conecta tu música y vive la pasión del fútbol con este parlante Bluetooth mundialista de sonido potente y diseño único. Ideal para reuniones, partidos y celebraciones, con conexión rápida para disfrutar tus canciones favoritas donde vayas.",
+  precios: {
+   "1": 13.90,
+  },
+  imagen: "assets/img/productos/Imagen630.jpeg",
+  stock: 3
+},
+          {
+  nombre: "5823TABLERO LED PARA MENSAJES",
+  categoria: "Juguetes",
+  descripcion: "Escribe notas, recordatorios o mensajes creativos con marcadores de colores y hazlos brillar con luz LED. Incluye plumones de colores y conexión USB, ideal para escritorio, habitación o decoración personalizada.",
+  precios: {
+   "1": 10.95,
+   "3": 9.25,
+   "6": 8.95,
+  },
+  imagen: "assets/img/productos/Imagen636.jpeg",
+  stock: 13
+},
+   {
+  nombre: "5826PACK DE 10 BOLSAS PINKY",
+  categoria: "Organización / Almacenamiento",
+  descripcion: "Ideal para armar packs de maquillaje, skincare, regalos y detalles especiales con una presentación elegante. Hermética, resistente y reutilizable; protege del polvo, humedad y derrames. Medida: 24 x 16 cm",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+  },
+  imagen: "assets/img/productos/Imagen639.jpeg",
+  stock: 22
+},
+   {
+  nombre: "5827PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tamaño amplio para múltiples reparaciones. Ideal para sofás, asientos, carteras y más. Resistente, elegante y fácil de aplicar.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen640.png",
+  stock: 1
+},
+   {
+  nombre: "5809LEGGIN SUPLEX TALLAS L",
+  categoria: "Ropa interior",
+  descripcion: "Pretina alta, talla: L, color: NEGRO",
+  precios: {
+   "1": 14.90,
+  },
+  imagen: "assets/img/productos/Imagen641.jpeg",
+  stock: 1
+},
+   {
+  nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Tamaño A4 ideal para imprimir fotos, stickers y proyectos creativos. Papel adhesivo, pega fácilmente en cualquier superficie. Impresión full color con alta calidad y colores vivos. Paquete de 20 hojas, perfecto para hogar, escuela y oficina.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen650.jpeg",
+  stock: 2
+},
+     {
+  nombre: "5063TRUSA PARA NIÑAS",
+  categoria: "Ropa interior",
+  descripcion: "Calzoncito para niña, suaves, cómodos y con adorables diseños florales para el uso diario. Tallas disponibles: 3 unidades talla 4 - 6 unidades talla 12 - 2 unidades talla 14",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.55,
+  },
+  imagen: "assets/img/productos/Imagen651.jpeg",
+  stock: 11
+},
+     {
+  nombre: "5840SET DE 12 PLUMONES ACRÍLICOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores intensos y de secado rápido para todo tipo de manualidades. Ideales para pintar en madera, vidrio, piedra, cerámica, papel y más.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+  },
+  imagen: "assets/img/productos/Imagen653.jpeg",
+  stock: 3
+},
+      {
+  nombre: "5844ESTUCHE DE EXHIBICIÓN 3D",
+  categoria: "Hogar / Cocina",
+  descripcion: "Caja para exhibición de joyas y accesorios. Ideal para anillos, aretes, dijes, monedas y pequeños coleccionables. Medida: 11 × 11 cm. Diseño elegante que protege y resalta cada pieza.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "assets/img/productos/Imagen655.jpeg",
+  stock: 36
+},
+   {
+  nombre: "5847BOXER HOMBRE CALVIN KLEN",
+  categoria: "Ropa interior",
+  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. Talla M: 6 unidades, Talla L: 3 unidades",
+  precios: {
+   "3": 4.95,
+   "6": 4.75,
+  },
+  imagen: "assets/img/productos/Imagen656.jpeg",
+  stock: 9
+},
+        {
+  nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Brinda mayor comodidad y soporte en cada paso, adaptándose fácilmente al tamaño de tu calzado. Ideal para uso diario, ayuda a reducir el impacto al caminar y proporciona una pisada más confortable. Medida: 30 x 8.5 cm",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+  },
+  imagen: "assets/img/productos/Imagen658.jpeg",
+  stock: 10
+},
+       {
+  nombre: "5857CREMA LIMPIADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpia, protege y devuelve el brillo a zapatos, cuero, muebles y más, ¡sin complicaciones! Incluye esponja aplicadora para una limpieza rápida y práctica, ideal para el hogar y el auto.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen661.jpeg",
+  stock: 15
+},
+       {
+  nombre: "5858PROTECTOR DE TECLADO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tu teclado del polvo, líquidos y el desgaste diario, manteniéndolo limpio por más tiempo. Fabricado con material flexible y delgado, se adapta perfectamente y permite escribir con total comodidad.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+  },
+  imagen: "assets/img/productos/Imagen662.jpeg",
+  stock: 6
+},
+        {
+  nombre: "5864MESA AUXILIAR MARIPOSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante a cualquier ambiente con esta práctica mesa auxiliar, ideal para sala, dormitorio o recibidor. Diseño moderno, fácil de armar y perfecta para colocar plantas, bebidas, libros o elementos decorativos.",
+  precios: {
+   "1": 14.95,
+  },
+  imagen: "assets/img/productos/Imagen665.jpeg",
+  stock: 2
+},
+         {
+  nombre: "5867SOPORTE PARA ESCOBAS CON GANCHO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén escobas, trapeadores y utensilios de limpieza siempre organizados y al alcance. ¡Se instala con adhesivo, sin perforar paredes! Ideal para cocina, baño, lavandería o patio. Ahorra espacio y mantén tu hogar más ordenado.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen667.jpeg",
+  stock: 10
+},
+               {
+  nombre: "5868LLAVERO GRABADORA KWAI",
+  categoria: "Accesorios",
+  descripcion: "¡Graba tu voz y diviértete al máximo! Este minillavero retro graba mensajes y cambia tu voz con efectos súper locos y graciosos. ¡El accesorio kawaii perfecto!, cuélgalo en tu mochila o llaves. Color al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen668.jpeg",
+  stock: 11
+},
+                    {
+  nombre: "5874MANTA LUMINOSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Brillan en la oscuridad. Abrígate con éstas mantas luminosas. Medida aprox.: 100cm x 150cm. Se recarga con la luz solar o artificial. Color o diseño al azar.",
+  precios: {
+   "1": 9.90,
+  },
+  imagen: "assets/img/productos/Imagen672.jpeg",
+  stock: 8
+},
+                      {
+  nombre: "5875CINTA DE EMBALAJE 400 YARDAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Cinta adhesiva de alta resistencia, ideal para sellar cajas, paquetes y envíos de forma segura y duradera. Medida: 400 yardas | Perfecta para negocios, almacenes, mudanzas y uso diario.",
+  precios: {
+   "1": 7.95,
+   "3": 6.55,
+   "6": 6.25,
+  },
+  imagen: "assets/img/productos/Imagen673.jpeg",
+  stock: 9
+},
+                      {
+  nombre: "5876MINI LAVADORA PLEGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lavadora plegable portátil para ropa, calcetines, mini máquina de limpieza, ropa interior, lavadora centrífuga. Material: ABS ecológico, componentes electrónicos.",
+  precios: {
+   "1": 34.90,
+  },
+  imagen: "assets/img/productos/Imagen674.jpeg",
+  stock: 1
+},
+             {
+  nombre: "5877MEDIAS LARGAS MARCAS",
+  categoria: "Ropa interior",
+  descripcion: "Dale un toque único a tu outfit con medias largas de excelente calidad, cómodas y resistentes para cualquier ocasión. Ideales para deporte, entrenamiento y uso diario",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+  },
+  imagen: "assets/img/productos/Imagen675.jpeg",
+  stock: 6
+},
+        {
+  nombre: "5881ARETES FLOR PELA",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque delicado y sofisticado a tu look con estos hermosos aretes flor perla, ideales para cualquier ocasión. Ligeros, cómodos y perfectos para regalar o complementar tus outfits con un estilo único.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen678.jpeg",
+  stock: 6
+},
+        {
+  nombre: "5882BALANZA GAMERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Balanza gramera digital pesa desde 1 gramo hasta 5 kg. Tiene botón de tarar (tare) así solo pesas el contenido del recipiente. Apagado automático. Fácil de usar, guardar y transportar. Funciona con 2 pilas AA (Incluye pilas).",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen679.jpeg",
+  stock: 5
+},
+    {
+  nombre: "5884BOLSA PAVONADA",
+  categoria: "Accesorios",
+  descripcion: "¡Dale un toque elegante y delicado a cada regalo! Ideal para detalles, cosméticos, dulces y mucho más. Material resistente con acabado pavonado que luce hermoso en cualquier ocasión. ¡Haz que tu presentación enamore! Medida: 24.5 x 19.5 x 9.5 cm",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen680.jpeg",
+  stock: 17
+},
+         {
+  nombre: "5887ALICATE MULTIFUNCIONAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Optimiza tu trabajo con la herramienta todo en uno definitiva para cortar, pelar  y crimpar cables de forma rápida! Su diseño ergonómico y antideslizante garantiza máxima precisión, fuerza y seguridad en cada proyecto eléctrico.",
+  precios: {
+   "1": 11.95,
+  },
+  imagen: "assets/img/productos/Imagen683.jpeg",
+  stock: 1
+},
+  {
+  nombre: "5890LENTES HEXAGONALES",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque moderno a tu estilo con estos lentes de diseño hexagonal, perfectos para complementar cualquier outfit con mucha personalidad. Color al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen686.jpeg",
+  stock: 9
+},
+    {
+  nombre: "5891BOXER PARA NIÑOS",
+  categoria: "Ropa interior",
+  descripcion: "¡Comodidad, suavidad y diseños divertidos para acompañar cada aventura! Tela fresca, resistente y de excelente calidad para el uso diario. TALLA: 14",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+  },
+  imagen: "assets/img/productos/Imagen687.jpeg",
+  stock: 6
+},
+      {
+  nombre: "5892SET DE VOLQUETA Y EXCAVADORA DE CONSTRUCCIÓN",
+  categoria: "Juguetes",
+  descripcion: "Medida del set: 34 x 8 x 13 cm. Despierta la imaginación de los pequeños con este divertido camión volquete y excavadora impulsados por fricción. ¡Son perfectos para transportar materiales, superar retos en la arena y desarrollar habilidades motrices mientras juegan sin parar!",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "assets/img/productos/Imagen688.jpeg",
+  stock: 4
+},
+      {
+  nombre: "5897SET DE 6 CUCHARITAS DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfectas para café, té, postres y más. Prácticas, ligeras y con un diseño elegante para complementar tu mesa.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+  },
+  imagen: "assets/img/productos/Imagen691.jpeg",
+  stock: 6
+},
+        {
+  nombre: "5898PINZA COLADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Atrapa y escurre tus comidas favoritas sin salpicaduras! Para platos crujientes, deliciosos y sin exceso de grasa.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+  },
+  imagen: "assets/img/productos/Imagen692.jpeg",
+  stock: 6
+},
+          {
+  nombre: "5901SET DE 5 MALLAS DE LIMPIEZA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Dile adiós a la grasa difícil sin rayar tus sartenes antiadherentes! Este trapo de malla ultra resistente limpia a fondo platos y ollas dejando tu cocina reluciente.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen693.jpeg",
+  stock: 5
+},
+            {
+  nombre: "5902ROMPECABEZAS 100 PIEZAS",
+  categoria: "Juguetes",
+  descripcion: "¡Diviértete en grande con tus personajes favoritos y arma estos increíbles rompecabezas. Su tamaño de 33 x 48 cm es perfecto para decorar tu habitación o compartir momentos geniales en familia. Modelo al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen694.jpeg",
+  stock: 20
+},
+             {
+  nombre: "5903KIT DE 5 BANDAS ELÁSTICAS DE RESISTENCIA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Entrena en casa, en el gimnasio o donde quieras. Fortalece brazos, piernas, glúteos, abdomen y hombros con diferentes niveles de resistencia. Ideales para yoga, pilates, rehabilitación, estiramientos y entrenamiento funcional. Lleva tu rutina a otro nivel.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen695.jpeg",
+  stock: 3
+},
+                 {
+  nombre: "5908SET DE 4 CLIPS ANTIRONQUIDOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a mejorar el flujo de aire nasal para una respiración más cómoda durante el descanso. Cómodos, reutilizables y fáciles de colocar; ideales para un sueño más tranquilo y reparador.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+  },
+  imagen: "assets/img/productos/Imagen698.jpeg",
+  stock: 8
+},
+                   {
+  nombre: "5910ESCURRIDOR COLADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Brinda soporte ideal al cuello, ayudando a prevenir molestias y mejorar tu descanso. Suave, indeformable y anti-alérgica, elaborada con materiales de alta calidad para mayor confort y durabilidad.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+  },
+  imagen: "assets/img/productos/Imagen700.png",
+  stock: 3
+},
+                    {
+  nombre: "5915PISO PLEGABLE",
+  categoria: "Artículos para bebés",
+  descripcion: "Medida: 2 m x 1.8 m. Ideal para que bebés y niños jueguen cómodamente, brindando una superficie acolchada, fácil de limpiar, plegable y perfecta para el hogar o llevar a cualquier lugar.",
+  precios: {
+   "1": 30.90,
+  },
+  imagen: "assets/img/productos/Imagen702.jpeg",
+  stock: 2
+},
+                   {
+  nombre: "5917SOPORTE DE BAMBÚ PARA PLATOS Y VASOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza tus platos, vasos, tapas o utensilios de forma práctica y elegante. Resistente, compacto y perfecto para mantener tu cocina ordenada y aprovechar mejor el espacio.",
+  precios: {
+   "1": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen704.jpeg",
+  stock: 5
+},
+              {
+  nombre: "5919LLAVERO CEREZA",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque tierno y divertido a tus llaves, mochila o cartera con este hermoso llavero de cereza. Medida: 8.5 × 4 cm, ligero, resistente e ideal para uso diario o para regalar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,    
+  },
+  imagen: "assets/img/productos/Imagen706.jpeg",
+  stock: 5
+},
+              {
+  nombre: "5926PROTECTOR TÉRMICO ANTIFRIZZ DE COCO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protege tu cabello del calor de la plancha y secadora mientras controla el frizz! Enriquecido con coco para dejar tu cabello más suave, brillante e hidratado. PROTEGE • HIDRATA • CONTROLA EL FRIZZ • BRILLO NATURAL",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "assets/img/productos/Imagen708.jpeg",
+  stock: 5
+},
+               {
+  nombre: "5931MOUSE PAD XL CON ATAJOS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Medida: 80 x 30 cm | Optimiza tu trabajo o estudio con este mouse pad XL que incluye atajos de teclado. Superficie amplia, antideslizante y perfecta para una mayor comodidad.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+  },
+  imagen: "assets/img/productos/Imagen711.jpeg",
+  stock: 5
+},
+                {
+  nombre: "5936SQUISH DONA ANTIESTRÉS",
+  categoria: "Juguetes",
+  descripcion: "¡Apriétala, estrújala y disfruta de su textura suave y esponjosa! Perfecta para aliviar el estrés, decorar o regalar a grandes y pequeños.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "assets/img/adicionales/Imagen712.jpeg",
+  stock: 10
+},
+                {
+  nombre: "5937PEINE ESPEJO SANRIO",
+  categoria: "Accesorios",
+  descripcion: "¡Llévalo a todas partes! Combina un práctico peine con espejo en un diseño adorable de Sanrio. Ideal para retoques rápidos en cualquier momento.",
+  precios: {
+   "1": 7.95,
+  },
+  imagen: "assets/img/productos/Imagen713.jpeg",
+  stock: 1
+},
+                  {
+  nombre: "5938PELOTA 9´ CON DISEÑOS SANRIO",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión garantizada con tus personajes favoritos! Ideal para jugar, regalar o coleccionar. Material resistente, liviana y perfecta para niños y niñas.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+  },
+  imagen: "assets/img/productos/Imagen714.jpeg",
+  stock: 33
+},
+                    {
+  nombre: "5939MINI BANDEJA DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfecta para servir café, postres, piqueos o decorar tus espacios. Medida: 22 × 11 cm | Modelo al azar: rectangular y/o ovalado.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+  },
+  imagen: "assets/img/productos/Imagen715.jpeg",
+  stock: 10
+},
+                        {
+  nombre: "5941MORTERO DE COCINA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Tritura ajos, especias, hierbas y más de forma rápida y sencilla para darle un sabor auténtico a tus comidas. Práctico, duradero y fácil de limpiar, ideal para preparar salsas, aderezos y recetas caseras deliciosas.",
+  precios: {
+   "1": 5.95,
+  },
+  imagen: "assets/img/productos/Imagen717.jpeg",
+  stock: 3
+},
+                   {
+  nombre: "5944CAJA LAZO GRANDE DÍA DEL NIÑO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Sorprende con una presentación única! Diseño impreso por dentro y por fuera, ideal para llenar de dulces, regalos y detalles especiales. Diseño al azar.",
+  precios: {
+   "1": 4.95,
+  },
+  imagen: "assets/img/productos/Imagen720.jpeg",
+  stock: 2
+},
+                            {
+  nombre: "5945BANDEJA ARMABLE DÍA DEL NIÑO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Arma una presentación divertida y llena de color para sorprender a los pequeños! Ideal para entregar dulces, regalos, recuerdos o detalles en su día especial. Diseño al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+  },
+  imagen: "assets/img/productos/Imagen721.jpeg",
+  stock: 4
+},
+                            {
+  nombre: "5946SET DE ARTE HEXAGONAL 46 PIEZAS",
+  categoria: "Juguetes",
+  descripcion: "¡Todo lo que los pequeños artistas necesitan para pintar, dibujar y crear! Incluye colores, crayones, plumones y más en un práctico estuche hexagonal. Diseño al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.25,
+  },
+  imagen: "assets/img/productos/Imagen722.jpeg",
+  stock: 5
+},
+  {
+  nombre: "5948CINTURÓN PARA CÓLICOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alivia cólicos y la inflamación abdominal gracias a su calor terapéutico y masaje por vibración. Relaja los músculos, mejora la circulación y brinda alivio durante el periodo. Diseño cómodo y portátil, ideal para usar en casa, trabajo o donde lo necesites. Color al azar.",
+  precios: {
+   "1": 9.90,
+  },
+  imagen: "assets/img/productos/Imagen724.jpeg",
+  stock: 4
+},
+                                {
+  nombre: "5950SET DE MAQUILLAJE + SORPRESA",
+  categoria: "Juguetes",
+  descripcion: "Transforma el juego en pura diversión con este set de belleza mágico y no tóxico! Sorprende a las más pequeñas con maquillaje infantil. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+  },
+  imagen: "assets/img/productos/Imagen726.jpeg",
+  stock: 14
+},
+                       {
+  nombre: "5952JABONERA PORTÁTIL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ligera y fácil de transportar, ideal para llevar tu jabón a cualquier lugar. Su tapa unida la hace más resistente y evita derrames. Perfecta para casa, viajes, camping o actividades al aire libre.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+  },
+  imagen: "assets/img/productos/Imagen728.png",
+  stock: 5
+},
+                       {
+  nombre: "5954CARRUSEL MUSICAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante y encantador a cualquier espacio. Ideal para bares, tiendas, librerías, salas de estar, bodas y habitaciones. Material: Plástico. Medida aprox.: 16.5 × 10 cm. Color al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.85,
+   "6": 7.55,
+  },
+  imagen: "assets/img/productos/Imagen729.jpeg",
+  stock: 11
+},
+    {
+  nombre: "5955CONTENEDOR CON TRES COMPARTIMENTOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Optimiza el espacio de tu refrigerador y mantén tus vegetales frescos y listos para cocinar con estos contenedores apilables de 3 compartimentos. Evita la mezcla de olores y sabores entre diferentes alimentos. Medida: 20.5 x 7 cm",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+  },
+  imagen: "assets/img/productos/Imagen730.jpeg",
+  stock: 10
+},
+    {
+  nombre: "5959ACEITE PARA BEBÉ 200ml",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Humecta y suaviza delicadamente la piel de tu bebé, dejándola protegida e hidratada. Hipoalergénico, con aroma suave y delicado, ideal para usar después del baño.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+  },
+  imagen: "assets/img/productos/Imagen732.jpeg",
+  stock: 8
+},
+    {
+  nombre: "5962SERUM FACIAL DE ARROZ",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Hidrata profundamente, ilumina y ayuda a mejorar la apariencia de la piel. Su fórmula ligera deja el rostro suave, radiante y con un aspecto saludable.",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+  },
+  imagen: "assets/img/productos/Imagen733.jpeg",
+  stock: 14
+},
+      {
+  nombre: "5965SET DE 12 BOLSAS DE REGALO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Presenta tus obsequios con estilo! Ideales para regalos, dulces, souvenirs, emprendimientos y toda ocasión especial. Medida: 21 x 11 x 27 cm. Color al azar.",
+  precios: {
+   "1": 8.95,
+  },
+  imagen: "assets/img/adicionales/Imagen734.jpeg",
+  stock: 4
+},
+        {
+  nombre: "5966SET DE 10 BOLSITAS CON LAZO",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Sorprende a tus invitados con estas hermosas bolsas tipo cartera con cierre hermético y ventana transparente. Color al azar.",
+  precios: {
+   "1": 9.95,
+  },
+  imagen: "assets/img/productos/Imagen735.jpeg",
+  stock: 4
+},
+   {
+  nombre: "5979SET DE 5 PINZAS PARA EL CABELLO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Sujeción firme y práctica para mantener tu cabello en su lugar sin complicaciones. Ideales para peinados, maquillaje y uso diario. Color al azar",
+  precios: {
+   "1": 3.95,
+  },
+  imagen: "assets/img/productos/Imagen738.jpeg",
+  stock: 2
+},
+     {
+  nombre: "5980BOLSA DE REGALO CON DISEÑO FLORAL",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Diseños hermosos y coloridos para darle un toque especial a cada regalo. Ideales para cumpleaños, celebraciones y cualquier ocasión especial. Medida: 15.5 x 14.5 x 7 cm",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+  },
+  imagen: "assets/img/productos/Imagen739.jpeg",
+  stock: 24
+},
+       {
+  nombre: "5983JABÓN ESPUMA FLOR 300ml",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpieza suave para cuerpo y manos, con práctica espuma y dispensador en forma de flor. Ideal para el cuidado diario del bebé, dejando una sensación fresca y delicada.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen741.jpeg",
+  stock: 7
+},
+           {
+  nombre: "5986PUZZLE DESLIZANTE DISNEY LICENCIA",
+  categoria: "Juguetes",
+  descripcion: "Divertido juego de ingenio que ayuda a desarrollar la concentración y coordinación. ¡Ideal para entretener a los peques mientras se divierten con sus personajes favoritos de Disney! Personaje al azar",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen743.jpeg",
+  stock: 5
+},
+             {
+  nombre: "5987SADOER BODY LOTION – HIDRATACIÓN TOTAL",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Piel suave, nutrida y radiante durante todo el día. Textura ligera y de rápida absorción para una sensación deliciosa.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen744.jpeg",
+  stock: 9
+},
+                 {
+  nombre: "5989SET DE 11 PIEZAS PARA FIESTAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 5 platos, 5 tenedores y 1 cuchillo, ideal para cumpleaños, reuniones y celebraciones. Práctico, bonito y reutilizable para disfrutar tus momentos especiales con estilo. Material: Plástico alimentario. Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen746.jpeg",
+  stock: 40
+},  
+  {
+  nombre: "5991PAQUETE DE 12 ESTUCHES – 360 DENTAL FLOSS TOOTHPICK",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Cada estuche contiene 30 unidades, ¡ideal para uso diario, negocio o reventa! Prácticos, higiénicos y fáciles de llevar para mantener una limpieza dental donde estés.",
+  precios: {
+   "1": 11.90,
+     },
+  imagen: "assets/img/productos/Imagen748.jpeg",
+  stock: 4
+},
+  {
+  nombre: "5992ASPIRADORA PORTÁTIL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Compacta y práctica para hogar y auto. Incluye accesorios para una limpieza más profunda.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen749.png",
+  stock: 2
+},
+  {
+  nombre: "5993PONCHO IMPERMEABLE PARA ADULTOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protégete de la lluvia y mantente seco dondequiera que vayas. ¡Ideal para el día a día, viajes y actividades al aire libre!. Ligero, práctico y reutilizable, con capucha para una mayor protección. ¡Llévalo siempre contigo!. Color al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+     },
+  imagen: "assets/img/productos/Imagen750.jpeg",
+  stock: 6
+},
+  {
+  nombre: "5994PACK DE 10 PARCHES DESODORANTES PARA PIES",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ayuda a mantener tus pies frescos y con sensación agradable durante el día. ¡Prácticos y fáciles de usar para sentirte cómodo en todo momento!",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+     },
+  imagen: "assets/img/productos/Imagen751.png",
+  stock: 7
+}, 
+  {
+  nombre: "5995POLERON ABRIGADOR",
+  categoria: "Ropa interior",
+  descripcion: "Súper suave, abrigador y cómodo para mantenerte calientito en días fríos. Diseño amplio y acogedor, ideal para descansar, estudiar o ver tus series favoritas. Única Talla que cede por ser Oversize, color al azar.",
+  precios: {
+   "1": 22.90,
+     },
+  imagen: "assets/img/productos/Imagen752.jpeg",
+  stock: 2
+},
+  {
+  nombre: "6000ORGANIZADOR DE REFRIGERADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Maximiza el espacio de tu refri con este organizador retráctil! Engánchalo fácil, estíralo a tu gusto y mantén tus frutas bien frescas y súper ordenadas. Estás a un paso de tener la cocina de tus sueños.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen757.jpeg",
+  stock: 19
+},
+  {
+  nombre: "6001BOTA PROTECTORA IMPERMEABLE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Protege tus zapatos de la lluvia y la humedad. ¡Práctica y fácil de usar! Material plástico | Talla y color al azar | Reutilizable",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+   "12": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen758.jpeg",
+  stock: 16
+},
+  {
+  nombre: "6003SCAJITA ORGANIZADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus accesorios, manualidades y pequeños objetos siempre ordenados y a la vista. Práctica, versátil y con divisores ajustables para organizar como quieras.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen760.jpeg",
+  stock: 17
+},
+    {
+  nombre: "6004CINTA IMPERMEABLE DE BUTILO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sella, repara y protege contra filtraciones de forma rápida y efectiva. Ideal para techos, tuberías, ventanas, grietas y múltiples superficies.",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen761.jpeg",
+  stock: 1
+},
+    {
+  nombre: "5021SACO CORREA PARA NIÑAS",
+  categoria: "Ropa interior",
+  descripcion: "Elegante y abrigador, ideal para complementar cualquier outfit. Material Dakota afranelada, talla 12 y hermoso color perla.",
+  precios: {
+   "1": 17.90,
+     },
+  imagen: "assets/img/adicionales/Imagen764.jpeg",
+  stock: 1
+},
+      {
+  nombre: "4101SET DE 10 HOJAS ADHESIVAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "Dale color y creatividad a tus proyectos con estos diseños adhesivos, ¡ideales para decorar!. Cada hoja mide 20 × 30 cm. Los modelos pueden variar.",
+  precios: {
+   "1": 3.90,
+     },
+  imagen: "assets/img/adicionales/Imagen765.jpeg",
+  stock: 1
+},
+        {
+  nombre: "4834STICKER CUADRO 3D",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque moderno y elegante a tus espacios con este STICKER CUADRO 3D. Ideal para sala, escaleras, dormitorio y más. Medida aprox. 30 x 40 cm. ¡Fácil de colocar y perfecto para renovar tu decoración!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/adicionales/Imagen766.jpeg",
+  stock: 5
+},
+     {
+  nombre: "6013PAR DE GUANTES REUTILIZABLES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tus manos mientras realizas tus labores de limpieza y hogar. Cómodos, impermeables y reutilizables, ¡ideales para lavar, limpiar y mucho más! Medida: 31 cm / Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen770.jpeg",
+  stock: 17
+},
+      {
+  nombre: "6014PACK DE 12 PORTA ROSAS DECORATIVAS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Ideal para presentar rosas, girasoles u otras flores de forma elegante y creativa. Perfecto para regalos especiales o detalles románticos.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen771.jpeg",
+  stock: 10
+},
+      {
+  nombre: "6016ORGANIZADOR VERTICAL PARA ACCESORIOS DEL CABELLO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Pon fin al caos en tu tocador con este hermoso soporte de madera natural! Organiza tus gomas, coleteros y pinzas en un solo lugar para tenerlos siempre listos.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+     },
+  imagen: "assets/img/productos/Imagen773.jpeg",
+  stock: 7
+},
+      {
+  nombre: "6019ALCOHOL CON AROMA",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Limpieza y frescura con deliciosos aromas para acompañarte durante el día. Presentación de 100 ml, práctica y fácil de llevar a donde quieras. Aroma al azar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen776.jpeg",
+  stock: 3
+},
+      {
+  nombre: "6021KIT DE HERRAMIENTAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Repara lo que quieras con este juego de 46 piezas que incluye chicharra, dados y puntas de alta resistencia. ¡El aliado perfecto, compacto y organizado para llevar siempre en tu maleta o auto!",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "assets/img/productos/Imagen777.jpeg",
+  stock: 2
+},
+        {
+  nombre: "1002GOMITAS DE CÚRCUMA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Desinflama tu cuerpo, protege tus células con antioxidantes y mejora tu digestión de forma 100% natural! Las Gomitas de Cúrcuma con Pimienta Negra Sottcor combinan la mejor absorción para reforzar tus defensas y llenarte de vitalidad diaria sin azúcar añadida.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen778.jpeg",
+  stock: 1
+},
+  {
+  nombre: "1003GOMITAS DE VINAGRE DE MANZANA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Reduce la ansiedad por comer, desintoxica tu cuerpo y dile adiós a la pesadez estomacal! Disfruta el poder del Vinagre de Manzana de Sottcor Labs en ricas gomitas que cuidan tu figura y llenan tu día de energía.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen779.webp",
+  stock: 1
+},
+    {
+  nombre: "1004GOMITAS DE BBL PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Equilibra tus hormonas, mejora tu rendimiento físico y favorece el aumento natural de glúteos y pechos! Descubre las BBL Gomitas de Sottcor, la fórmula perfecta con aguaje, fenogreco y maca roja que esculpe tu figura y te llena de energía.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen780.jpeg",
+  stock: 1
+},
+      {
+  nombre: "1005GOMITAS DE MAGNESIO PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Dile adiós al cansancio, relaja tus músculos y equilibra tu mente para dormir mucho mejor! Las Gomitas de Citrato de Magnesio Sottcor fortalecen tus huesos y te llenan de energía diaria en una deliciosa fórmula sin azúcar ni gluten.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen781.jpeg",
+  stock: 1
+},
+        {
+  nombre: "1006GOMITAS DE MACA NEGRA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Potencia tu energía diaria, mejora tu rendimiento físico y eleva tu concentración mental al máximo! Las gomitas de Maca Negra Machopower Nacho de Sottcor fortalecen tu sistema inmunológico y promueven el bienestar masculino integral.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen782.png",
+  stock: 1
+},
+        {
+  nombre: "1007GOMITAS DE MULTIVITAMINAS PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Refuerza tus defensas, combate el cansancio diario y dale a tu cuerpo el combo completo de energía que necesita! Las Gomitas Multivitamínicas Sottcor contienen vitaminas A, C, D, E y complejo B para cuidar tus huesos, músculos y mejorar tu concentración.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen783.png",
+  stock: 1
+},
+   {
+  nombre: "1008GOMITAS DE PITAHAYA PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Regula tu digestión, combate el estreñimiento y luce una piel radiante con total naturalidad! Disfruta del delicioso poder digestivo y antioxidante de las Gomitas de Pitahaya Sottcor, tu aliada diaria para ir al baño sin complicaciones.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen784.png",
+  stock: 1
+},
+     {
+  nombre: "1009GOMITAS DE DULCES SUEÑOS PARA ADULTOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Consigue un sueño profundo y reparador, reduce el estrés y dile adiós a la ansiedad de forma 100% natural! Las Gomitas Dulce Sueños Sottcor combinan el poder relajante de la valeriana, manzanilla y toronjil con taurato de magnesio para que despiertes cada mañana con máxima energía.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen785.webp",
+  stock: 1
+},
+       {
+  nombre: "1010GOMITAS DE ZINC QUELADO PARA NIÑOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Refuerza las defensas de tus pequeños, apoya su crecimiento y mejora su concentración en el colegio! Las Gomitas Kids de Sottcor combinan zinc quelado, magnesio, betaglucano, vitamina C y selenio en un delicioso sabor frutal libre de alérgenos.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen786.png",
+  stock: 1
+},
+    {
+  nombre: "1012GOMITAS DE VITAMINAS PARA NIÑOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Dale a tus hijos el escudo nutricional que necesitan para crecer fuertes, llenos de energía y súper concentrados! Las Gomitas Infantiles de Vitaminas Sottcor combinan el poder de las vitaminas A, D, C, E y todo el Complejo B para asegurar su desarrollo óptimo y defensas al 100%.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen788.png",
+  stock: 1
+},
+   {
+  nombre: "1013GOMITAS DE BUENAS NOCHES PARA NIÑOS - 150 UNIDADES",
+  categoria: "Gomitas",
+  descripcion: "¡Ayuda a tus pequeños a conciliar el sueño más rápido, lograr un descanso profundo y despertar felices cada mañana! Las Gomitas Buenas Noches Dulce Sueños Sottcor ofrecen una fórmula infantil suave, segura y libre de gluten, lactosa y GMO.",
+  precios: {
+   "1": 25.95,
+     },
+  imagen: "assets/img/productos/Imagen789.webp",
+  stock: 1
+},
+  {
+  nombre: "6024LIP GLOSS DUPE DIOR",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Dale a tus labios un brillo radiante, efecto jugoso e hidratación irresistible. Fórmula nutritiva y acabado espectacular, ¡luce unos labios hermosos a menor precio! Tono al azar.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen790.jpeg",
+  stock: 2
+},
+  {
+  nombre: "6028BOLSA DE REGALO TRANSPARENTE",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Elegante, práctica y resistente, ideal para presentar tus regalos con estilo. Perfecta para detalles y ocasiones especiales. Medida: 18 × 26 × 8 cm. Material: PVC transparente",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+     },
+  imagen: "assets/img/productos/Imagen792.jpeg",
+  stock: 6
+},
+  {
+  nombre: "6030BOLSA DE REGALO CON VENTANA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Presenta tus regalos de forma elegante y especial en cualquier ocasión. Su ventana transparente permite lucir el contenido y darle un toque encantador.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+     },
+  imagen: "assets/img/productos/Imagen793.jpeg",
+  stock: 4
+},
+    {
+  nombre: "6033SET DE 6 MOLDES DE SILICONA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prácticos, flexibles y reutilizables, ideales para preparar tus recetas favoritas. Perfectos para freidora de aire, horno, microondas y mucho más. ¡Cocina fácil y sin complicaciones! Color al azar",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen794.jpeg",
+  stock: 2
+},
+    {
+  nombre: "6040SET DE 12 COLORES BORRABLES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Incluye 12 colores borrables + 2 lápices para escribir y colorear con creatividad. Además, trae 1 borrador y 1 tajador para tener todo lo necesario en un solo set.",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen797.png",
+  stock: 2
+},
+      {
+  nombre: "6041SET DE 12 PLUMONES CON SELLO",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Dibuja, colorea y estampa con estos hermosos sellos! Incluye estuche práctico para mantenerlos ordenados y llevarlos donde quieras.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen798.jpeg",
+  stock: 2
+},
+      {
+  nombre: "6043SET DE 24 SILBATOS DIVERTIDOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "¡Perfectos para fiestas, juegos, celebraciones y eventos! Set de 24 unidades para compartir y disfrutar en grande.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen799.jpeg",
+  stock: 25
+},
+      {
+  nombre: "6046COLLAR GIRASOL",
+  categoria: "Accesorios",
+  descripcion: "Un detalle delicado y lleno de alegría para complementar cualquier look. Presentación: cajita",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+   "6": 7.75,
+     },
+  imagen: "assets/img/productos/Imagen801.jpeg",
+  stock: 8
+},
+        {
+  nombre: "6048SET DE 8 CARRITOS DE METAL",
+  categoria: "Juguetes",
+  descripcion: "El regalo perfecto para los pequeños pilotos y coleccionistas del hogar! Autos superresistentes de metal die-cast con rodaje libre, listos para dominar cualquier pista y asegurar horas de diversión.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+     },
+  imagen: "assets/img/productos/Imagen802.jpeg",
+  stock: 9
+},
+        {
+  nombre: "6049CEPILLO GIRATORIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpia profundamente y llega a cada rincón con facilidad. Diseño ergonómico, cerdas resistentes y botón giratorio de 360°.",
+  precios: {
+   "1": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen803.jpeg",
+  stock: 2
+},
+        {
+  nombre: "6050SET DE 12 PLATITOS MULTIUSO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Perfectos para servir salsas, snacks, postres, frutas y bocaditos. Prácticos, ligeros y fáciles de limpiar. ¡Ideales para cualquier ocasión!. Color al azar",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen804.jpeg",
+  stock: 1
+},
+        {
+  nombre: "6053KIT PARA PEINAR",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Consigue un peinado impecable y sin frizz en segundos con este kit esencial de 3 piezas! Diseñado para pulir tu cabello, definir rayas perfectas y controlar esos rebeldes baby hairs. ¡Lógralo fácil! ¡Haz clic y resalta tu belleza hoy!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen805.jpeg",
+  stock: 4
+},
+        {
+  nombre: "6054DELINEADOR NEGRO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Delineador negro qué permite hacer trazos finos y gruesos. Resalta la mirada, fácil y rápido de aplicar. Capacidad: 3.5g",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "assets/img/productos/Imagen806.jpeg",
+  stock: 7
+},
+        {
+  nombre: "6057CINTA DOBLE CONTACTO DE 3 METROS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fija, pega y organiza sin complicaciones. Ideal para decorar, ordenar y sujetar diferentes objetos.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen807.png",
+  stock: 10
+},
+        {
+  nombre: "6058JABONERA CON REJILLA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Evita por completo los residuos pegajosos en tus superficies usando esta base protectora. Su estructura aireada es perfecta para ordenar los implementos de limpieza.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen808.jpeg",
+  stock: 7
+},       
+  {
+  nombre: "6063VELAS ESTILO GLOBOS PARA CUMPLEAÑOS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque divertido y especial a tus tortas con estas lindas velas en forma de globo. Disponibles en números del 0 al 9 (según disponibilidad), ¡perfectas para cualquier celebración!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen811.jpeg",
+  stock: 18
+},
+    {
+  nombre: "6064POLIVESTIDO KAWAII",
+  categoria: "Ropa interior",
+  descripcion: "Diseños tiernos y divertidos para lucir cómoda y adorable. Talla única. Diseño al azar.",
+  precios: {
+   "1": 9.95,
+   "3": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen812.jpeg",
+  stock: 5
+},
+     {
+  nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus infusiones ordenadas y siempre al alcance. Práctica, elegante y perfecta para organizar tu cocina.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen814.jpeg",
+  stock: 6
+},
+       {
+  nombre: "6069ORGANIZADOR DE ESPECIAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Ordena tu cocina y lleva tus condimentos frescos a donde quieras con este set modular. Listo para usar en tus mejores recetas. Medida: 25 x 9 x 9 cm",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen817.jpeg",
+  stock: 4
+},
+       {
+  nombre: "6071PACK DE 8 BARRAS DE SILICONA",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideales para manualidades, reparaciones y todo tipo de proyectos. Medida: 0.7 x 18 cm — delgadas, prácticas y fáciles de usar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.55,
+   "6": 2.25,
+   "12": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen818.jpeg",
+  stock: 18
+},
+       {
+  nombre: "6072SET DE 20 CUBIERTAS DE ALUMINIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 20 piezas. Resistentes y reutilizables. Ideales para conservar y proteger alimentos.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen819.png",
+  stock: 20
+},
+         {
+  nombre: "6074JOYERO VIAJERO CUTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lleva tus accesorios siempre ordenados y protegidos, ¡perfecto para viajar! Compacto, práctico y con múltiples compartimentos para guardar tus joyitas favoritas.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen821.jpeg",
+  stock: 12
+},
+         {
+  nombre: "6076SET DE 12 PELOTAS FIESTA",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión asegurada con diseños coloridos y llamativos! Ideales para fiestas, juegos, piñatas, regalos y mucho más. Diseño al azar",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "assets/img/productos/Imagen823.jpeg",
+  stock: 10
+},
+           {
+  nombre: "6076SET DE 12 PELOTAS FIESTA",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión asegurada con diseños coloridos y llamativos! Ideales para fiestas, juegos, piñatas, regalos y mucho más. Diseño al azar",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "assets/img/productos/Imagen823.jpeg",
+  stock: 12
+},
+  {
+  nombre: "6077SET DE 10 PARES DE MEDIAS OSITO",
+  categoria: "Ropa interior",
+  descripcion: "Suavecitas, cómodas y súper lindas. ¡Ideales para el día a día!",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen824.jpeg",
+  stock: 3
+},
+  
+  {
+  nombre: "6078MOCHILA ANTIROBO DE DAMA",
+  categoria: "Accesorios",
+  descripcion: "Diseño antirrobo, ligera y cómoda para llevar todo con seguridad. Material resistente e impermeable, ideal para el día a día. No incluye llavero, diseño al azar.",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "assets/img/productos/Imagen825.jpeg",
+  stock: 4
+},
+    {
+  nombre: "6079PACK 4 LIBROS MÁGICOS MONTESSORI",
+  categoria: "Escolar / Papelería",
+  descripcion: "Aprende trazos, números, figuras y lógica de forma divertida y práctica. Reutilizables y borrables, ¡para practicar una y otra vez!",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen831.png",
+  stock: 4
+},
+      {
+  nombre: "6081PULSERA HELLO KITTY",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque tierno y divertido a tu look con esta hermosa pulsera de Hello Kitty. ¡Ideal para regalar y sorprender a toda fan de Hello Kitty!",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen827.jpeg",
+  stock: 8
+},
+      {
+  nombre: "6082CAJA DE 10 SACHETS SHAMPOO CUBRE CANAS – MARRÓN OSCURO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Cubre las canas y ayuda a devolver un tono marrón oscuro al cabello de forma práctica. Fácil de usar y con resultados en pocos minutos, ideal para hombres y mujeres.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen828.jpeg",
+  stock: 10
+},
+        {
+  nombre: "COMBO CREATIVO",
+  categoria: "Combos",
+  descripcion: "¡COMBO CREATIVO DE 84 PLUMONES! 60 acrílicos + 12 glitter + 12 mágicos. ¡Perfectos para dibujos, lettering, manualidades y proyectos escolares!",
+  precios: {
+   "1": 39.90,
+     },
+  imagen: "assets/img/productos/Imagen832.jpeg",
+  stock: 5
+},
+            {
+  nombre: "6090SET x 5 COLETS",
+  categoria: "Accesorios",
+  descripcion: "Prácticos y lindos para complementar tus peinados! Perfectos para uso diario. Diseño al azar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen835.jpeg",
+  stock: 4
+},
+              {
+  nombre: "6093LÁPIZ DE COLORES INFINITOS – 12 PUNTAS INTERCAMBIABLES",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Crea y colorea sin límites con sus 12 puntas de diferentes colores! Práctico, divertido y perfecto para llevar a todas partes.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen838.jpeg",
+  stock: 12
+},  
+  {
+  nombre: "6096PORTAROLLOS NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque mágico y festivo a tu cocina esta Navidad con nuestros hermosos portarrollos decorativos. Ideales para el hogar, oficina o como un lindo regalo navideño. Diseño al azar",
+  precios: {
+   "1": 6.95,
+   "3": 5.85,
+   "6": 5.55,
+     },
+  imagen: "assets/img/productos/Imagen840.jpeg",
+  stock: 27
+},
+  {
+  nombre: "6098ROLLO FILM PARA ALIMENTOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tus alimentos frescos y protegidos por más tiempo. Práctico para cubrir, conservar y refrigerar todo tipo de alimentos. Medida: 10m x 30cm",
+  precios: {
+   "1": 3.95,
+   "3": 2.85,
+   "6": 2.65,
+   "12": 2.45,
+     },
+  imagen: "assets/img/productos/Imagen842.jpeg",
+  stock: 16
+},
+    {
+  nombre: "6101ROLLO DE PAPEL ALUMINIO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para cocinar, hornear, asar y conservar tus alimentos. Práctico, resistente y fácil de usar en la cocina. Medida: 5 metros",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen845.jpeg",
+  stock: 4
+},
+   {
+  nombre: "6104TACHO MODERNO CON TAPA PUSH",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico y elegante para mantener tus espacios limpios y ordenados. Ideal para baño, dormitorio, oficina y más.",
+  precios: {
+   "1": 19.90,
+     },
+  imagen: "assets/img/productos/Imagen848.jpeg",
+  stock: 2
+},
+     {
+  nombre: "6105FLORERO ACRÍLICO MARIPOSA 3D",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Dale un toque mágico, moderno y elegante a tu hogar con este hermoso florero exclusivo! Su diseño translúcido atrapa la luz y resalta tus flores favoritas en cualquier rincón.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen849.jpeg",
+  stock: 11
+},
+       {
+  nombre: "6109POTE DE 100 HISOPOS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Prácticos hisopos para el cuidado diario. Pote con 100 unidades, ideal para tener en casa o negocio.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen852.jpeg",
+  stock: 21
+},
+                    {
+  nombre: "6112CARRITO ORGANIZADOR DE 3 NIVELES",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Mantén todos tus espacios ordenados y aprovecha mejor cada rincón! Práctico, amplio y fácil de mover. Color al azar. Material: plástico",
+  precios: {
+   "1": 11.95,
+   "3": 10.95,
+     },
+  imagen: "assets/img/productos/Imagen854.jpeg",
+  stock: 7
+},
+             {
+  nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para organizar y conservar tus alimentos de forma práctica. Perfectos para cocina, refrigeradora y llevar tus comidas. Color al azar",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen855.jpeg",
+  stock: 1
+},
+             {
+  nombre: "6118CALENDARIO NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu hogar y vive la magia de contar los días hasta Navidad con este hermoso diseño. Ideal para decorar y regalar, ¡un detalle navideño que encantará a todos! Diseño al azar.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen857.jpeg",
+  stock: 15
+},
+             {
+  nombre: "6119JUEGO DE 3 PARES DE ARETES + 1 COLLAR",
+  categoria: "Accesorios",
+  descripcion: "Diseños tiernos y variados que combinan perfecto para cualquier ocasión. ¡Un detalle lindo y especial para regalar a las pequeñas!",
+  precios: {
+   "1": 4.95,
+   "3": 2.85,
+     },
+  imagen: "assets/img/productos/Imagen858.jpeg",
+  stock: 4
+},
+             {
+  nombre: "6120SET DE 10 VASOS NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Diseños navideños variados para llenar de alegría tus celebraciones. Perfectos para compartir en familia y darle un toque especial a tu mesa.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen859.jpeg",
+  stock: 41
+},
+               {
+  nombre: "6121PACK DE 10 LUCES HADAS 3 METROS - COLOR ÁMBAR",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque cálido y mágico a tus espacios con estas lindas luces hada. Ideales para decorar dormitorios, fiestas, vitrinas y rincones especiales.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen860.jpeg",
+  stock: 6
+},
+         {
+  nombre: "6125FUNDA DE COJÍN NAVIDEÑA DOBLE CARA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque mágico y navideño a tu hogar con estos hermosos diseños. Medida 45 × 45 cm y doble cara, diseño al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+     },
+  imagen: "assets/img/productos/Imagen864.jpeg",
+  stock: 21
+},
+                         {
+  nombre: "6127SERUM REVITALIZADOR PANTENE",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Revitaliza y equilibra el cabello desde la raíz hasta las puntas. Aporta brillo, suavidad y una apariencia saludable sin sensación grasa.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen865.jpeg",
+  stock: 2
+},
+                         {
+  nombre: "6129SET DE 3 FUENTES DE BAMBÚ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elegantes, resistentes y perfectas para servir desayunos, bocaditos y postres. Dale un toque natural y moderno a tu mesa en cada ocasión.",
+  precios: {
+   "1": 19.90,
+     },
+  imagen: "assets/img/productos/Imagen866.jpeg",
+  stock: 4
+},
+                           {
+  nombre: "6130ARO LED CON DOBLE SOPORTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ilumina tus fotos, videos y transmisiones con una luz uniforme y profesional. Ideal para celular, maquillaje, streaming, TikTok y creación de contenido.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen867.jpeg",
+  stock: 4
+},
+                           {
+  nombre: "6131ORGANIZADOR PARA BEBÉ",
+  categoria: "Hogar / Cocina",
+  descripcion: "Guarda pañales, toallitas, cremas y todos los accesorios de tu bebé en un solo lugar. Práctico, espacioso y fácil de transportar, ¡ideal para mantener todo siempre ordenado! Medida: 33 × 23 × 18 cm",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen868.jpeg",
+  stock: 3
+},
+                            {
+  nombre: "6133UNGÜENTO CANNABIS",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Alivio natural para dolores y molestias. Ideal para masajes, relaja y desinflama.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen870.jpeg",
+  stock: 24
+},
+                            {
+  nombre: "6134LÁPIZ DELINEADOR 4 EN 1",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Práctico y versátil, ¡todo en un solo lápiz!. Ideal para lograr un maquillaje definido y llevarlo contigo a todas partes.",
+  precios: {
+   "1": 6.95,
+   "3": 5.65,
+     },
+  imagen: "assets/img/productos/Imagen871.jpeg",
+  stock: 4
+},
+                              {
+  nombre: "6135CAJA VANITY",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Mantén tu maquillaje y accesorios siempre ordenados y protegidos. Con múltiples compartimentos, espejo y diseño práctico para llevar a donde quieras.",
+  precios: {
+   "1": 39.90,
+     },
+  imagen: "assets/img/productos/Imagen872.jpeg",
+  stock: 4
+},
+                              {
+  nombre: "6136GEL TRANSDÉRMICO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Ideal para masajes y alivio de molestias musculares y articulares. Presentación de 75 g, práctico para llevar y usar donde lo necesites.",
+  precios: {
+   "1": 4.95,
+   "3": 3.65,
+   "6": 3.35,
+   "12": 3.05,
+     },
+  imagen: "assets/img/productos/Imagen873.jpeg",
+  stock: 17
+},
+             {
+  nombre: "6141ORGANIZADOR GANCHO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Organiza ropa, cinturones, accesorios y toallas en un solo lugar. ¡Práctico, resistente y giratorio para aprovechar mejor el espacio! Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "assets/img/productos/Imagen875.jpeg",
+  stock: 6
+},
+       {
+  nombre: "6142ROBOT ASPIRADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Limpia tu hogar de forma práctica y automática, ahorrándote tiempo y esfuerzo. Ideal para mantener tus pisos libres de polvo y suciedad. Color al azar",
+  precios: {
+   "1": 12.95,
+     },
+  imagen: "assets/img/productos/Imagen876.jpeg",
+  stock: 8
+},
+       {
+  nombre: "6144SET DE BAÑO NAVIDEÑO x 3 PIEZAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque navideño y acogedor a tu baño con este lindo set de 3 piezas. Ideal para decorar tu hogar y disfrutar de la magia de la Navidad. Diseño al azar.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen877.jpeg",
+  stock: 6
+},
+         {
+  nombre: "6147CUBIERTA PARA PLATOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tus alimentos de insectos y mantenlos frescos por más tiempo. Práctica y fácil de usar, ideal para la cocina, mesa o reuniones.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen880.jpeg",
+  stock: 15
+},
+           {
+  nombre: "6149SET DE 12 BOLSAS NAVIDEÑAS REUTILIZABLES",
+  categoria: "Navidad / Regalos",
+  descripcion: "¡Dale un toque especial a tus regalos con diseños navideños llenos de alegría! Prácticas y reutilizables, ideales para regalar y sorprender esta Navidad. Medida: 23 × 21 × 12 cm",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "assets/img/productos/Imagen881.jpeg",
+  stock: 3
+},
+           {
+  nombre: "6150SET DE 12 PLASTILINAS",
+  categoria: "Escolar / Papelería",
+  descripcion: "12 colores vibrantes, suaves y fáciles de moldear para crear figuras increíbles. Ideal para estimular la creatividad y disfrutar de horas de diversión.",
+  precios: {
+   "1": 2.95,
+   "3": 1.75,
+   "6": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen882.jpeg",
+  stock: 25
+},
+         {
+  nombre: "6151PLANCHA DE ABECEDARIO",
+  categoria: "Escolar / Papelería",
+  descripcion: "Letras de foami microporoso adhesivo escarchado, ¡cada letra viene 3 veces! Color al azar, un solo color por plancha. Ideal para manualidades, carteles y trabajos escolares.",
+  precios: {
+   "1": 2.95,
+   "3": 1.55,
+   "6": 1.25,
+   "12": 0.95,
+     },
+  imagen: "assets/img/productos/Imagen883.jpeg",
+  stock: 49
+},
+         {
+  nombre: "6152SECADOR NAVIDEÑO 40 × 60 CM",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu hogar en Navidad con hermosos diseños festivos y llenos de color. Medida 40 × 60 cm y diseño al azar, ¡perfecto para darle un toque navideño a tus espacios!",
+  precios: {
+   "1": 3.95,
+   "3": 2.05,
+   "6": 1.85,
+   "12": 1.65,
+     },
+  imagen: "assets/img/productos/Imagen884.jpeg",
+  stock: 14
+},
+         {
+  nombre: "6153SET DE 12 VELAS CURVAS DORADAS",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque especial y divertido a tus tortas con estas velas curvas de colores variados. Ideales para cumpleaños, aniversarios y celebraciones; ¡haz que cada momento sea inolvidable! Color: al azar",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+     },
+  imagen: "assets/img/productos/Imagen885.jpeg",
+  stock: 6
+},
+           {
+  nombre: "6154CÚPULA DE GRADUACIÓN – NIÑA",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Dale un toque especial y divertido a tus tortas con estas velas curvas de colores variados. Ideales para cumpleaños, aniversarios y celebraciones; ¡haz que cada momento sea inolvidable! Color: al azar",
+  precios: {
+   "1": 7.95,
+   "3": 6.55,
+     },
+  imagen: "assets/img/productos/Imagen886.jpeg",
+  stock: 4
+},
+           {
+  nombre: "6156TOALLA DE MANO NAVIDEÑA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Práctica y decorativa para darle un toque navideño a tu hogar. Medida: 24 × 20 cm - Material: microfibra",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen887.jpeg",
+  stock: 3
+},
+  {
+  nombre: "6157SET x 3 BANDEJAS RECTANGULARES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideales para servir y presentar tus alimentos de forma práctica y elegante. Perfectas para el hogar, reuniones y celebraciones.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen888.jpeg",
+  stock: 6
+},
+  {
+  nombre: "6158TABLA PARA CHARCUTERÍA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elegante tabla de charcutería con cuchillo para quesos. El accesorio ideal para lucir tus piqueos favoritos y deslumbrar a tus invitados en cualquier reunión especial.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen889.jpeg",
+  stock: 6
+},
+  {
+  nombre: "6160JARRA COLADORA DE ACEITE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Filtra y almacena el aceite de cocina de forma práctica, ayudando a mantenerlo limpio y listo para reutilizar. Fabricada en acero inoxidable resistente, ideal para cualquier cocina.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen891.jpeg",
+  stock: 12
+},
+  {
+  nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico y decorativo para mantener tus llaves siempre organizadas y a la mano. Ideal para colocar en la entrada de tu hogar y darle un toque bonito a tu espacio. Medida: 20 x 18 cm.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.65,
+     },
+  imagen: "assets/img/productos/Imagen892.jpeg",
+  stock: 9
+},
+  {
+  nombre: "6164AFILADOR DE CUCHILLOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Devuelve el filo a tus cuchillos de forma rápida y sencilla! Ideal para mantenerlos siempre listos. Diseño seguro, estable y práctico para usar en tu cocina con mayor comodidad.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+     },
+  imagen: "assets/img/productos/Imagen893.jpeg",
+  stock: 25
+},
+    {
+  nombre: "6165SCRATCH NOTE",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Crea dibujos llenos de color y diversión! Ideal para estimular la creatividad de los pequeños. Incluye palito para descubrir increíbles colores al raspar. ¡Perfecto para regalar!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen894.jpeg",
+  stock: 28
+},
+    {
+  nombre: "6166TIRA DE LUCES LED",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque especial a tus espacios con sus luces brillantes y coloridas. Medida aprox. 10 metros. Conexión USB. Color al azar: multicolor, verde o rojo.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+     },
+  imagen: "assets/img/productos/Imagen895.png",
+  stock: 28
+},
+    {
+  nombre: "6167VELA LED LARGA",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ilumina tus espacios con una luz cálida y acogedora, sin llama ni humo. Ideal para decoración, cenas, eventos y ocasiones especiales. Color al azar: blanco, crema y rojo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.65,
+   "12": 2.35,
+     },
+  imagen: "assets/img/productos/Imagen896.jpeg",
+  stock: 18
+},
+          {
+  nombre: "6170FUNDA PARA LAVADORA CON DISEÑO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Protege tu lavadora del polvo y la suciedad mientras le das un toque decorativo. Medida: 60 x 60 x 85 cm | Color al azar.",
+  precios: {
+   "1": 10.95,
+   "3": 9.95,
+     },
+  imagen: "assets/img/productos/Diseño899.jpeg",
+  stock: 5
+},
+       {
+  nombre: "6172CÚPULA RELIGIOSA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Un hermoso detalle para acompañar tus momentos de fe y decorar tus espacios. Diseños religiosos variados, ideales para regalar a alguien especial. Medida: 6.2 × 9 cm. Diseños al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.65,
+     },
+  imagen: "assets/img/productos/Imagen900.jpeg",
+  stock: 4
+},
+       {
+  nombre: "6173TOMATODO SHAKER 500 ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para preparar y llevar tus bebidas favoritas. Práctico y cómodo para el gym, trabajo, cole o uso diario. Color al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+     },
+  imagen: "assets/img/productos/Imagen901.jpeg",
+  stock: 9
+},
+        {
+  nombre: "6176PISO ABSORBENTE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Alfombra absorbente antideslizante. Seca rápido, protege el piso y luce increíble en tu hogar. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.25,
+   "6": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen902.png",
+  stock: 12
+},
+        {
+  nombre: "6177CORREA DE DAMA",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque especial a tus looks con esta correa elegante y versátil. Medida: 2 × 110 cm | Color al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+     },
+  imagen: "assets/img/productos/Imagen903.jpeg",
+  stock: 10
+},
+        {
+  nombre: "6178CAMINO DE MESA NAVIDEÑO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque festivo y acogedor a tu mesa esta Navidad. Medida: 33 × 180 cm | Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen904.png",
+  stock: 12
+},
+          {
+  nombre: "6181GNOMO NAVIDEÑO COLGANTE",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideal para decorar el árbol, puertas y rincones de tu hogar esta Navidad. Medida: 33 cm | Color al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+     },
+  imagen: "assets/img/productos/Imagen905.jpeg",
+  stock: 10
+            
+},
+          {
+  nombre: "6182SHAMPOO DE ROMERO",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Estimula el crecimiento: Fórmula enriquecida con romero que promueve un cabello más fuerte y voluminoso. Fortalece y nutre: Aporta nutrientes esenciales para revitalizar y mejorar la salud de tu cabello. Reduce la caída: Combate la caída excesiva y mejora la resistencia de tu cabello. Capacidad: 1100ML",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen906.jpeg",
+  stock: 8
+},
+          {
+  nombre: "6183DESATORADOR DE TUBERÍAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Desatorador en polvo para tuberías! Disuelve grasa, cabello y residuos en minutos. Ideal para lavamanos, duchas y desagües.",
+  precios: {
+   "1": 5.95,
+   "3": 4.55,
+   "6": 4.25,
+   "12": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen907.png",
+  stock: 19
+},
+           {
+  nombre: "6191BOLSAS TRANSPARENTES NAVIDEÑAS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ideales para presentar tus regalos y dulces navideños. Medida: 25 x 20 x 8 cm. Diseños al azar.",
+  precios: {
+   "1": 2.95,
+   "3": 2.05,
+   "6": 1.85,
+   "12": 1.65,
+     },
+  imagen: "assets/img/productos/Imagen908.jpeg",
+  stock: 54
+},
+  {
+  nombre: "6062PASTILLA PARA TANQUE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu inodoro limpio, fresco y con agradable aroma en cada descarga. Fácil de usar y práctica para el mantenimiento diario del baño.",
+  precios: {
+   "1": 3.95,
+   "3": 2.25,
+   "6": 1.95,
+   "12": 1.75,
+     },
+  imagen: "assets/img/productos/Imagen810.jpeg",
+  stock: 24
+},
+  {
+  nombre: "6193SET DE 8 MARCADORES DOBLE TRAZO",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Destaca tus apuntes y manualidades con estos increíbles marcadores de doble línea! Escribe con un deslumbrante centro metálico plateado mientras creas automáticamente un borde de color único con cada trazo.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen909.jpeg",
+  stock: 10
+},
+  {
+  nombre: "6195DESINFECTANTE DE MANOS EN SPRAY",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Elimina bacterias al instante sin necesidad de agua. Secado rápido, práctico para llevar a todos lados.",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen910.jpeg",
+  stock: 12
+},
+  {
+  nombre: "6196MANTEL NAVIDEÑO DE PLÁSTICO",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu mesa con diseños navideños llenos de alegría y color. Medida: 1.37 x 1.83 m. Diseño al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "assets/img/productos/Imagen911.jpeg",
+  stock: 11
+},
+  {
+  nombre: "6197FLORERO MODERNO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Dale un toque elegante y moderno a tu hogar con este hermoso florero decorativo. Medida: 18 x 13 cm. ¡Ideal para decorar cualquier espacio!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+     },
+  imagen: "assets/img/productos/Imagen912.jpeg",
+  stock: 10
+},
+   {
+  nombre: "6198PORTAVELA FLOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Elegante diseño de flor de loto, ideal para dar un toque delicado y sofisticado a tus espacios. Perfecto para velas de té o como decoración, creando un ambiente cálido y armonioso.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen913.jpeg",
+  stock: 2
+},
+   {
+  nombre: "6199CERA PARA CABELLO CON AROMAS FRUTALES",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Ideal para peinar, moldear y dar estilo a tu cabello con deliciosos aromas frutales. Aroma al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+     },
+  imagen: "assets/img/productos/Imagen914.png",
+  stock: 21
+},
+   {
+  nombre: "6200PERRITO GRADUADO 20cm",
+  categoria: "Juguetes",
+  descripcion: "Un detalle tierno y especial para celebrar grandes logros. ¡Ideal para regalos, graduaciones y recuerdos inolvidables!",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen915.jpeg",
+  stock: 29
+},
+     {
+  nombre: "6201OSITO GRADUADO 20cm",
+  categoria: "Juguetes",
+  descripcion: "Un detalle tierno y especial para celebrar un gran logro y guardar un recuerdo inolvidable. Ideal para graduaciones escolares, universitarias o para sorprender a esa persona especial. Color al azar",
+  precios: {
+   "1": 8.95,
+   "3": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen916.jpeg",
+  stock: 53
+},
+     {
+  nombre: "6202DELINEADOR CON SELLO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Ideal para lucir una mirada encantadora. Tono al azar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.75,
+   "6": 3.55,
+     },
+  imagen: "assets/img/productos/Imagen917.png",
+  stock: 17
+},
+     {
+  nombre: "6203DESMAQUILLANTE MÁGICO HECHIZO DE ARROZ",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Limpia tu rostro y ayuda a retirar el maquillaje fácilmente. Ideal para tu rutina de belleza diaria.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen918.png",
+  stock: 7
+},
+     {
+  nombre: "6204SET DE 12 LAPICEROS DE GEL",
+  categoria: "Escolar / Papelería",
+  descripcion: "Escritura suave y fluida, ideales para el cole, la oficina y tus apuntes. ¡Colores variados para darle vida a tus escritos!",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen919.jpeg",
+  stock: 1
+},
+     {
+  nombre: "6205SET DE PLUMONES NEONES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Colores neón súper vibrantes, ideales para resaltar, dibujar y dar vida a tus apuntes.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen920.jpeg",
+  stock: 9
+},
+     {
+  nombre: "6206LUSTRADOR DE ZAPATOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lustrador con esponja integrada para renovar el color y dar brillo instantáneo a tus zapatos. ¡Protege y mantén tu calzado impecable todos los días de la forma más rápida y limpia!",
+  precios: {
+   "1": 4.95,
+   "3": 3.85,
+   "6": 3.55,
+   "12": 3.25,
+     },
+  imagen: "assets/img/productos/Imagen921.jpeg",
+  stock: 18
+},
+       {
+  nombre: "6207PACK DE 25 SOPORTES ADHESIVOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideales para fijar repisas y muebles de forma práctica y discreta. Fáciles de instalar, resistentes y perfectos para organizar tus espacios.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen922.jpeg",
+  stock: 10
+},
+       {
+  nombre: "6208MATIFICANTE MÁGICO",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Reduce el brillo y deja tu piel con un acabado mate y suave. ¡Luce un rostro fresco y radiante por más tiempo!",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen923.jpeg",
+  stock: 17
+},
+       {
+  nombre: "6209PAPEL FOTOGRÁFICO A4",
+  categoria: "Escolar / Papelería",
+  descripcion: "Paquete de 100 hojas, ideal para imprimir fotos, imágenes y diseños a todo color. Perfecto para trabajos escolares, manualidades, proyectos y uso en casa u oficina.",
+  precios: {
+   "1": 15.90,
+     },
+  imagen: "assets/img/productos/Imagen924.jpeg",
+  stock: 5
+},
+       {
+  nombre: "6210RUBOR EN PERLAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Aporta un toque de color y luminosidad a tus mejillas para un acabado radiante y natural. ¡Luce un rostro fresco, hermoso y con un brillo encantador!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+     },
+  imagen: "assets/img/productos/Imagen925.jpeg",
+  stock: 6
+},
+       {
+  nombre: "6211ILUMINADOR EN PERLAS",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Realza tu belleza con un brillo radiante y luminoso para un acabado espectacular. ¡Dale a tu rostro ese toque de luz que enamora!",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+     },
+  imagen: "assets/img/productos/Imagen926.jpeg",
+  stock: 8
+},
+            {
+  nombre: "6215GORRA PARA BEBÉ",
+  categoria: "Artículos para bebés",
+  descripcion: "¡Protege a tu pequeño del sol con el estilo más tierno y divertido!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+     },
+  imagen: "assets/img/productos/Imagen928.jpeg",
+  stock: 28
+},
+         {
+  nombre: "6216GUITARRA KIDS",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión musical con diseños coloridos! ¡El regalo perfecto para los pequeños! Diseño al azar.",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen929.jpeg",
+  stock: 2
+},
+               {
+  nombre: "6218MOUSE PAD MAPAMUNDI",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Dale estilo gamer a tu escritorio con este mapamundi! Amplio y cómodo. Medida aprox.: 80 x 30cm",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+   "6": 6.75,
+   "12": 6.55,
+     },
+  imagen: "assets/img/productos/Imagen931.jpeg",
+  stock: 21
+},
+           {
+  nombre: "6219SET DE 12 BOLSAS DE PAPEL",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Ideales para regalos, detalles y presentaciones. Medida: 21 × 16 × 8 cm | Set x12 unidades.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen932.jpeg",
+  stock: 4
+},
+             {
+  nombre: "6220MUÑECO PATILARGA - BELLA NAVIDAD",
+  categoria: "Navidad / Regalos",
+  descripcion: "Decora tu hogar con estos adorables muñecos navideños, ideales para darle un toque mágico y festivo a cada rincón. ¡Sus patitas se extienden hasta aproximadamente 60 cm para lucirlos con todo su encanto!",
+  precios: {
+   "1": 14.95,
+     },
+  imagen: "assets/img/productos/Imagen933.jpeg",
+  stock: 5
+},
+             {
+  nombre: "6226CORRAL HEXAGONAL",
+  categoria: "Artículos para bebés",
+  descripcion: "Espacio amplio y seguro para que tu pequeño juegue y se divierta cómodamente. Ideal para mantener sus juguetes y su área de juego organizados. Colores: Rojo, Plateado, Azul y Negro.",
+  precios: {
+   "1": 49.95,
+     },
+  imagen: "assets/img/productos/Imagen934.jpeg",
+  stock: 4
+},
+              {
+  nombre: "6212SET LONCHERA CHERRY",
+  categoria: "Hogar / Cocina",
+  descripcion: "Incluye 4 recipientes, ideal para llevar tus snacks y comidas favoritas. Práctico, bonito y perfecto para el colegio, la oficina o tus paseos.",
+  precios: {
+   "1": 24.95,
+     },
+  imagen: "assets/img/productos/Imagen935.jpeg",
+  stock: 3
+},
+                  {
+  nombre: "6225SHORT CABALLERO TELA MOJADA",
+  categoria: "Ropa interior",
+  descripcion: "Comodidad y estilo para cada ocasión. Short de caballero en tela mojada, ideal para tus looks casuales. TALLA M: Azul | TALLA L: Beige, Cocoa y Verde militar.",
+  precios: {
+   "1": 13.95,
+     },
+  imagen: "assets/img/productos/Imagen937.jpeg",
+  stock: 4
+},
+                 {
+  nombre: "6171SET DE 50 BOLSAS ZIPLOC",
+  categoria: "Hogar / Cocina",
+  descripcion: "Prácticas y herméticas, ideales para organizar, conservar y proteger tus productos. Medidas: 16.5 x 14.9 cm",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen938.jpeg",
+  stock: 2
+},
+                 {
+  nombre: "6227SPINNER ANTIESTRÉS",
+  categoria: "Juguetes",
+  descripcion: "Gira, relaja y diviértete con su diseño giratorio 360°. ¡Ideal para niños y adultos! Color al azar",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "assets/img/productos/Imagen939.jpeg",
+  stock: 19
+},
+                              {
+  nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Revoluciona tu lavado con este cepillo flexible y súper resistente que elimina la grasa al instante sin rayar tus sartenes ni platos favoritos!",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "assets/img/productos/Imagen940.jpeg",
+  stock: 10
+},
+                 {
+  nombre: "6229CUCHILLO DE COCINA DE ACERO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para cortar y preparar tus alimentos con comodidad. Material: Acero + madera | Medida: 29 × 9.5 cm",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+     },
+  imagen: "assets/img/productos/Imagen941.jpeg",
+  stock: 23
+},
+                 {
+  nombre: "6230LLAVERO CON INICIAL",
+  categoria: "Accesorios",
+  descripcion: "Lleva contigo un toque único de brillo con estos hermosos llaveros. ¡El accesorio o regalo perfecto, brillante y lleno de estilo que andabas buscando! Letra al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen942.jpeg",
+  stock: 5
+},
+                 {
+  nombre: "6231TABLA DE PICAR DE ACERO 30 x 20 cm",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para picar y cortar carnes y otros alimentos. Resistente, práctica y fácil de limpiar. Medida: 30 × 20 cm.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen943.jpeg",
+  stock: 2
+},
+                 {
+  nombre: "6238SET DE 50 GANCHOS ESTRELLAS",
+  categoria: "Accesorios",
+  descripcion: "Hermosos ganchitos de colores para crear peinados divertidos y darle un toque mágico al cabello de las pequeñas.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+   "6": 6.75,
+     },
+  imagen: "assets/img/productos/Imagen944.jpeg",
+  stock: 8
+},
+                 {
+  nombre: "6240BRAZALETE BOHEMIO",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque femenino y colorido a tu look con estos hermosos brazaletes de estampado floral.",
+  precios: {
+   "1": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen945.jpeg",
+  stock: 2
+},
+                 {
+  nombre: "6241CORTINA IMANTADA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Fácil instalación, se abre y cierra sola con imanes. Mantiene fuera los insectos y deja pasar el aire. Medida 2 m x 1 m, ideal para puertas. Color al azar.",
+  precios: {
+   "1": 7.95,
+   "3": 6.75,
+   "6": 6.45,
+   "12": 6.15,
+     },
+  imagen: "assets/img/productos/Imagen946.jpeg",
+  stock: 14
+},
+                 {
+  nombre: "6242PARAGUA DE CARTERA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Compacto y ligero, ideal para llevarlo siempre contigo y protegerte de la lluvia cuando lo necesites. Su práctico tamaño cabe fácilmente en tu cartera o mochila. ¡Perfecto para llevar a todas partes!. Color al azar",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen947.jpeg",
+  stock: 8
+},
+             {
+  nombre: "6248SET DE 12 GORROS NAVIDEÑOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "¡Celebra la Navidad con estilo! Gorro navideño ideal para adultos y niños, perfecto para compartir la magia en familia.",
+  precios: {
+   "1": 17.90,
+     },
+  imagen: "assets/img/productos/Imagen948.jpeg",
+  stock: 8
+},
+               {
+  nombre: "6249PIZARRA + ROMPECABEZAS 2 EN 1",
+  categoria: "Juguetes",
+  descripcion: "¡Aprende jugando! Pizarra de 30 × 22 cm con letras de colores y 2 plumones incluidos, ideal para estimular la creatividad de los pequeños.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen949.jpeg",
+  stock: 10
+},
+           {
+  nombre: "6250MINI BATIDOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mejora la textura de tus bebidas en casa con este práctico espumador portátil, diseñado para mezclar de manera sencilla y cómoda tus cafés o bebidas cotidianas. Color al azar.",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen950.jpeg",
+  stock: 23
+},
+           {
+  nombre: "6251COLADOR DE MALLA DE ALTA DENSIDAD",
+  categoria: "Hogar / Cocina",
+  descripcion: "Filtrado ultra fino para jugos, leches vegetales y caldos. Práctico y fácil de usar. Reutilizable, resistente y fácil de lavar.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen951.jpeg",
+  stock: 29
+},
+  ];
