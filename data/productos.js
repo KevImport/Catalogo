@@ -4584,23 +4584,11 @@ const productos = [
    "1": 7.95,
    "3": 6.75,
    "6": 6.45,
-   "12": 6.15,
      },
   imagen: "assets/img/productos/Imagen946.jpeg",
-  stock: 14
+  stock: 7
 },
-                 {
-  nombre: "6242PARAGUA DE CARTERA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Compacto y ligero, ideal para llevarlo siempre contigo y protegerte de la lluvia cuando lo necesites. Su práctico tamaño cabe fácilmente en tu cartera o mochila. ¡Perfecto para llevar a todas partes!. Color al azar",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-     },
-  imagen: "assets/img/productos/Imagen947.jpeg",
-  stock: 8
-},
-             {
+                            {
   nombre: "6248SET DE 12 GORROS NAVIDEÑOS",
   categoria: "Navidad / Regalos",
   descripcion: "¡Celebra la Navidad con estilo! Gorro navideño ideal para adultos y niños, perfecto para compartir la magia en familia.",
