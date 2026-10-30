@@ -4477,17 +4477,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen937.jpeg",
   stock: 4
 },
-                 {
-  nombre: "6171SET DE 50 BOLSAS ZIPLOC",
-  categoria: "Hogar / Cocina",
-  descripcion: "Prácticas y herméticas, ideales para organizar, conservar y proteger tus productos. Medidas: 16.5 x 14.9 cm",
-  precios: {
-   "1": 4.95,
-     },
-  imagen: "assets/img/productos/Imagen938.jpeg",
-  stock: 2
-},
-                 {
+                               {
   nombre: "6227SPINNER ANTIESTRÉS",
   categoria: "Juguetes",
   descripcion: "Gira, relaja y diviértete con su diseño giratorio 360°. ¡Ideal para niños y adultos! Color al azar",
