@@ -1976,7 +1976,7 @@ const productos = [
    "6": 2.75,
        },
   imagen: "assets/img/productos/Imagen571.jpeg",
-  stock: 9
+  stock: 6
 },
   {
   nombre: "5737ORGANIZADOR DE GORRAS",
@@ -3403,18 +3403,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen806.jpeg",
   stock: 7
 },
-        {
-  nombre: "6057CINTA DOBLE CONTACTO DE 3 METROS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Fija, pega y organiza sin complicaciones. Ideal para decorar, ordenar y sujetar diferentes objetos.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-     },
-  imagen: "assets/img/productos/Imagen807.png",
-  stock: 10
-},
-        {
+          {
   nombre: "6058JABONERA CON REJILLA",
   categoria: "Hogar / Cocina",
   descripcion: "Evita por completo los residuos pegajosos en tus superficies usando esta base protectora. Su estructura aireada es perfecta para ordenar los implementos de limpieza.",
@@ -3665,7 +3654,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "assets/img/productos/Imagen849.jpeg",
-  stock: 11
+  stock: 10
 },
        {
   nombre: "6109POTE DE 100 HISOPOS",
