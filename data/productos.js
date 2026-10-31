@@ -1616,7 +1616,7 @@ const productos = [
    "24": 1.55,
      },
   imagen: "assets/img/productos/Imagen468.png",
-  stock: 27
+  stock: 26
 },
    {
   nombre: "5539LONCHERA KPOP",
@@ -3713,7 +3713,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "assets/img/productos/Imagen859.jpeg",
-  stock: 41
+  stock: 40
 },
                {
   nombre: "6121PACK DE 10 LUCES HADAS 3 METROS - COLOR ÁMBAR",
@@ -4477,7 +4477,7 @@ const productos = [
    "6": 2.75,
      },
   imagen: "assets/img/productos/Imagen939.jpeg",
-  stock: 19
+  stock: 18
 },
                               {
   nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
