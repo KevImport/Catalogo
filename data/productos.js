@@ -1669,7 +1669,7 @@ const productos = [
    "6": 2.55,
      },
   imagen: "assets/img/productos/Imagen483.png",
-  stock: 27
+  stock: 20
 },
                    {
   nombre: "5561SET DE 10 MANITOS SUJETADORAS",
@@ -3107,7 +3107,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "assets/img/productos/Imagen770.jpeg",
-  stock: 17
+  stock: 11
 },
       {
   nombre: "6014PACK DE 12 PORTA ROSAS DECORATIVAS",
@@ -3359,16 +3359,6 @@ const productos = [
      },
   imagen: "assets/img/productos/Imagen802.jpeg",
   stock: 9
-},
-        {
-  nombre: "6049CEPILLO GIRATORIO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Limpia profundamente y llega a cada rincón con facilidad. Diseño ergonómico, cerdas resistentes y botón giratorio de 360°.",
-  precios: {
-   "1": 3.95,
-     },
-  imagen: "assets/img/productos/Imagen803.jpeg",
-  stock: 2
 },
         {
   nombre: "6050SET DE 12 PLATITOS MULTIUSO",
@@ -3981,7 +3971,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen889.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "6160JARRA COLADORA DE ACEITE",
@@ -4531,7 +4521,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen943.jpeg",
-  stock: 2
+  stock: 1
 },
                  {
   nombre: "6238SET DE 50 GANCHOS ESTRELLAS",
@@ -4543,7 +4533,7 @@ const productos = [
    "6": 6.75,
      },
   imagen: "assets/img/productos/Imagen944.jpeg",
-  stock: 8
+  stock: 6
 },
                  {
   nombre: "6240BRAZALETE BOHEMIO",
