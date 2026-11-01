@@ -690,10 +690,9 @@ const productos = [
   precios: {
     "1": 4.95,
     "3": 3.85,
-    "6": 3.55,
  },
   imagen: "assets/img/productos/Imagen187.jpeg",
-  stock: 8
+  stock: 3
 },
 {
   nombre: "5080CINTA DOBLE CONTACTO",
