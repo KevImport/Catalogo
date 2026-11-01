@@ -4596,4 +4596,212 @@ const productos = [
   imagen: "assets/img/productos/Imagen951.jpeg",
   stock: 29
 },
+             {
+  nombre: "6253BARRA DE LUZ DE EMERGENCIA RECARGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ilumina tus espacios en casa, trabajo o campamento con esta práctica barra de luz. ¡Fácil de colocar y llevar a donde la necesites! Medida: 32 x 4 cm. Tipo: Recargable",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen952.jpeg",
+  stock: 4
+},
+             {
+  nombre: "6254PACK DE 4 MINI RUEDAS GIRATORIAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Facilita el movimiento de muebles, cajas, basureros y organizadores con estas prácticas mini ruedas. Fáciles de instalar, resistentes y perfectas para tu hogar.",
+  precios: {
+   "1": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen953.jpeg",
+  stock: 1
+},
+               {
+  nombre: "6258SET DE 12 GANCHOS FLOR",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque tierno y colorido a tus peinados con estos hermosos ganchitos de flores de 4 cm. ¡Ideales para lucir bella cada día!",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "assets/img/productos/Imagen954.jpeg",
+  stock: 6
+},
+               {
+  nombre: "6259SET DE 2 GANCHOS LAZO",
+  categoria: "Accesorios",
+  descripcion: "Dale un toque dulce y elegante a tus peinados con estos hermosos ganchos de lazo, ideales para complementar cualquier look. Color al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+     },
+  imagen: "assets/img/productos/Imagen955.jpeg",
+  stock: 32
+},
+               {
+  nombre: "6260PACK DE 10 CINTAS MÉTRICAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Mide de forma rápida y práctica! Compacta, portátil y con botón de bloqueo, ideal para el hogar, costura y manualidades.",
+  precios: {
+   "1": 9.90,
+     },
+  imagen: "assets/img/productos/Imagen956.jpeg",
+  stock: 4
+},
+                 {
+  nombre: "6261SET DE 2 CUBIERTOS KIDS",
+  categoria: "Artículos para bebés",
+  descripcion: "¡Haz que cada comida sea más divertida! Incluye cuchara y tenedor con adorables diseños de animalitos y estuche práctico para llevar a todas partes. Diseño al azar.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen957.jpeg",
+  stock: 6
+},
+                   {
+  nombre: "6263JUGUETE BATERÍA MUSICAL",
+  categoria: "Juguetes",
+  descripcion: "¡Despierta el talento musical de los pequeños con esta divertida batería de juguete, ideal para tocar, jugar y desarrollar su creatividad!",
+  precios: {
+   "1": 14.95,
+     },
+  imagen: "assets/img/productos/Imagen958.jpeg",
+  stock: 4
+},
+                   {
+  nombre: "6264COLONIA PARA NIÑOS T-REX POWER",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "¡Un aroma divertido para pequeños aventureros! Presentación de 50 ml, ideal para acompañarlos en cada aventura.",
+  precios: {
+   "1": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen959.jpeg",
+  stock: 1
+},
+                   {
+  nombre: "6266ACEITE CAPILAR CON KERATINA Y ARGÁN – 30 ML",
+  categoria: "Belleza / Cosmética",
+  descripcion: "¡Luce un cabello brillante, suave y sedoso! Ayuda a controlar el frizz y facilita el peinado. Con brillitos.",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen960.jpeg",
+  stock: 4
+},
+                   {
+  nombre: "6269SOMBRAS DE OJOS #2",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Luce una mirada espectacular con 10 tonos combinables, acabados mate y brillantes, perfectos para crear looks naturales o glamorosos. Tonos al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.85,
+   "6": 4.55,
+     },
+  imagen: "assets/img/productos/Imagen961.jpeg",
+  stock: 7
+},
+                     {
+  nombre: "6272POLVO COMPACTO FACIAL",
+  categoria: "Belleza / Cosmética",
+  descripcion: "¡Luce una piel uniforme con un acabado mate y natural, perfecto para complementar tu maquillaje! Incluye espejo.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "assets/img/productos/Imagen962.jpeg",
+  stock: 6
+},
+                       {
+  nombre: "6274PERFUME DE MUJER JPS23",
+  categoria: "Higiene / Cuidado Personal",
+  descripcion: "Dupe: Scandal de Jean Paul Gaultier. ¡Enamórate de su aroma inspirado en Scandal y deja una huella irresistible de elegancia y sensualidad!",
+  precios: {
+   "1": 9.95,
+   "3": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen963.jpeg",
+  stock: 11
+},
+                         {
+  nombre: "6275SET DE 5 LAPICEROS DE COLORES",
+  categoria: "Escolar / Papelería",
+  descripcion: "Ideal para el colegio, la oficina o tus apuntes, con colores clásicos y un diseño práctico para escribir todos los días.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+   "12": 1.55,
+     },
+  imagen: "assets/img/productos/Imagen964.jpeg",
+  stock: 18
+},
+                         {
+  nombre: "6276SET DE 6 MARCADORES JUMBO TRIANGULARES",
+  categoria: "Escolar / Papelería",
+  descripcion: "¡Colores que dan vida a tu creatividad! Ideales para dibujar, colorear y realizar hermosas creaciones con su diseño triangular fácil de sujetar.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen965.jpeg",
+  stock: 3
+},
+                           {
+  nombre: "6277PASTILLERO DE 2 COMPARTIMIENTOS CON CORTADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Práctico y compacto, ideal para organizar tus pastillas y cortarlas fácilmente, ¡perfecto para llevar a todas partes!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen966.jpeg",
+  stock: 11
+},
+                             {
+  nombre: "6278CINTA IMPERMEABLE ANTIMOHO",
+  categoria: "Hogar / Cocina",
+  descripcion: "Sella y protege superficies contra la humedad y filtraciones. Evita la formación de moho en baños, cocinas y lavaderos. Fácil de instalar. Resistente para una protección duradera. Color al azar.",
+  precios: {
+   "1": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen967.jpeg",
+  stock: 2
+},
+                               {
+  nombre: "6280ALMOHADILLA PARA MASCOTAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "Medida: 40 x 60cm .Suavecita y cómoda para el descanso de tu engreído. ¡Ideal para su camita o rincón favorito.",
+  precios: {
+   "1": 10.95,
+     },
+  imagen: "assets/img/productos/Imagen968.jpeg",
+  stock: 1
+},
+                               {
+  nombre: "6282SET DE 4 BOTELLAS SPRAY MULTIUSO DE 50 ML",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Prácticas y reutilizables! Ideales para llevar tus líquidos favoritos en viajes o salidas.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen969.jpeg",
+  stock: 3
+},
+                               {
+  nombre: "6283SET DE 12 COLETS PARA EL CABELLO",
+  categoria: "Accesorios",
+  descripcion: "¡Luce hermosa con estos colets en colores surtidos! Ideales para crear peinados lindos y darle un toque especial a tu look diario.",
+  precios: {
+   "1": 10.95,
+     },
+  imagen: "assets/img/productos/Imagen970.jpeg",
+  stock: 2
+},
+
   ];
