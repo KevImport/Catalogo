@@ -4613,9 +4613,11 @@ const productos = [
   descripcion: "Facilita el movimiento de muebles, cajas, basureros y organizadores con estas prácticas mini ruedas. Fáciles de instalar, resistentes y perfectas para tu hogar.",
   precios: {
    "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
      },
   imagen: "assets/img/productos/Imagen953.jpeg",
-  stock: 1
+  stock: 7
 },
                {
   nombre: "6258SET DE 12 GANCHOS FLOR",
