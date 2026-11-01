@@ -4500,7 +4500,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen941.jpeg",
-  stock: 23
+  stock: 17
 },
                  {
   nombre: "6230LLAVERO CON INICIAL",
@@ -4575,7 +4575,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen949.jpeg",
-  stock: 10
+  stock: 2
 },
            {
   nombre: "6250MINI BATIDOR",
