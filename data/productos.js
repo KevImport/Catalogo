@@ -1186,10 +1186,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.25,
-   "6": 3.95,
   },
   imagen: "assets/img/productos/Imagen330.jpeg",
-  stock: 7
+  stock: 4
 },
       {
   nombre: "5338PROTECTOR DE TALÓN",
