@@ -4511,17 +4511,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen942.jpeg",
   stock: 5
 },
-                 {
-  nombre: "6231TABLA DE PICAR DE ACERO 30 x 20 cm",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para picar y cortar carnes y otros alimentos. Resistente, práctica y fácil de limpiar. Medida: 30 × 20 cm.",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "assets/img/productos/Imagen943.jpeg",
-  stock: 1
-},
-                 {
+                {
   nombre: "6238SET DE 50 GANCHOS ESTRELLAS",
   categoria: "Accesorios",
   descripcion: "Hermosos ganchitos de colores para crear peinados divertidos y darle un toque mágico al cabello de las pequeñas.",
@@ -4671,7 +4661,7 @@ const productos = [
    "1": 14.95,
      },
   imagen: "assets/img/productos/Imagen958.jpeg",
-  stock: 4
+  stock: 3
 },
                    {
   nombre: "6264COLONIA PARA NIÑOS T-REX POWER",
