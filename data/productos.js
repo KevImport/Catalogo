@@ -4650,7 +4650,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "assets/img/productos/Imagen956.jpeg",
-  stock: 4
+  stock: 3
 },
                  {
   nombre: "6261SET DE 2 CUBIERTOS KIDS",
