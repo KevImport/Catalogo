@@ -3764,7 +3764,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "assets/img/productos/Imagen867.jpeg",
-  stock: 4
+  stock: 3
 },
                            {
   nombre: "6131ORGANIZADOR PARA BEBÉ",
@@ -3772,10 +3772,9 @@ const productos = [
   descripcion: "Guarda pañales, toallitas, cremas y todos los accesorios de tu bebé en un solo lugar. Práctico, espacioso y fácil de transportar, ¡ideal para mantener todo siempre ordenado! Medida: 33 × 23 × 18 cm",
   precios: {
    "1": 5.95,
-   "3": 4.95,
      },
   imagen: "assets/img/productos/Imagen868.jpeg",
-  stock: 3
+  stock: 2
 },
                             {
   nombre: "6133UNGÜENTO CANNABIS",
@@ -3979,7 +3978,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen891.jpeg",
-  stock: 12
+  stock: 11
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
