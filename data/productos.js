@@ -4474,7 +4474,7 @@ const productos = [
    "6": 2.75,
      },
   imagen: "assets/img/productos/Imagen939.jpeg",
-  stock: 18
+  stock: 6
 },
                               {
   nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
