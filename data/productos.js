@@ -4779,10 +4779,9 @@ const productos = [
   descripcion: "¡Prácticas y reutilizables! Ideales para llevar tus líquidos favoritos en viajes o salidas.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "assets/img/productos/Imagen969.jpeg",
-  stock: 3
+  stock: 2
 },
                                {
   nombre: "6283SET DE 12 COLETS PARA EL CABELLO",
