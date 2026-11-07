@@ -2347,11 +2347,10 @@ const productos = [
   categoria: "Escolar / Papelería",
   descripcion: "Colores intensos y de secado rápido para todo tipo de manualidades. Ideales para pintar en madera, vidrio, piedra, cerámica, papel y más.",
   precios: {
-   "1": 5.95,
-   "3": 4.95,
+   "1": 6.95,
   },
   imagen: "assets/img/productos/Imagen653.jpeg",
-  stock: 3
+  stock: 2
 },
       {
   nombre: "5844ESTUCHE DE EXHIBICIÓN 3D",
@@ -2970,7 +2969,7 @@ const productos = [
    "1": 11.90,
      },
   imagen: "assets/img/productos/Imagen748.jpeg",
-  stock: 4
+  stock: 3
 },
   {
   nombre: "5992ASPIRADORA PORTÁTIL",
