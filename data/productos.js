@@ -1874,7 +1874,7 @@ const productos = [
    "3": 2.95,
        },
   imagen: "assets/img/productos/Imagen537.jpeg",
-  stock: 5
+  stock: 3
 },
                {
   nombre: "5663SET DE MINI TENEDORES MINNIE",
@@ -1938,7 +1938,7 @@ const productos = [
    "1": 3.95,
        },
   imagen: "assets/img/productos/Imagen560.jpeg",
-  stock: 2
+  stock: 6
 },
                  {
   nombre: "5697SET DE TENEDORES DECORATIVOS + BASE UNICORNIO",
@@ -2589,17 +2589,6 @@ const productos = [
   },
   imagen: "assets/img/productos/Imagen692.jpeg",
   stock: 6
-},
-          {
-  nombre: "5901SET DE 5 MALLAS DE LIMPIEZA",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Dile adiós a la grasa difícil sin rayar tus sartenes antiadherentes! Este trapo de malla ultra resistente limpia a fondo platos y ollas dejando tu cocina reluciente.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-  },
-  imagen: "assets/img/productos/Imagen693.jpeg",
-  stock: 5
 },
             {
   nombre: "5902ROMPECABEZAS 100 PIEZAS",
@@ -3564,18 +3553,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen832.jpeg",
   stock: 5
 },
-            {
-  nombre: "6090SET x 5 COLETS",
-  categoria: "Accesorios",
-  descripcion: "Prácticos y lindos para complementar tus peinados! Perfectos para uso diario. Diseño al azar.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-     },
-  imagen: "assets/img/productos/Imagen835.jpeg",
-  stock: 4
-},
-              {
+               {
   nombre: "6093LÁPIZ DE COLORES INFINITOS – 12 PUNTAS INTERCAMBIABLES",
   categoria: "Escolar / Papelería",
   descripcion: "¡Crea y colorea sin límites con sus 12 puntas de diferentes colores! Práctico, divertido y perfecto para llevar a todas partes.",
@@ -3773,7 +3751,7 @@ const productos = [
    "1": 5.95,
      },
   imagen: "assets/img/productos/Imagen868.jpeg",
-  stock: 2
+  stock: 1
 },
                             {
   nombre: "6133UNGÜENTO CANNABIS",
@@ -3957,7 +3935,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen888.jpeg",
-  stock: 6
+  stock: 5
 },
   {
   nombre: "6158TABLA PARA CHARCUTERÍA",
@@ -4087,7 +4065,7 @@ const productos = [
    "6": 3.95,
      },
   imagen: "assets/img/productos/Imagen902.png",
-  stock: 12
+  stock: 9
 },
         {
   nombre: "6177CORREA DE DAMA",
