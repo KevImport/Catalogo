@@ -4793,5 +4793,147 @@ const productos = [
   imagen: "assets/img/productos/Imagen970.jpeg",
   stock: 2
 },
-
+                                 {
+  nombre: "6285JUEGO DE BLOQUES",
+  categoria: "Juguetes",
+  descripcion: "Estimula la creatividad y la imaginación de los pequeños creando casas, figuras y muchas construcciones coloridas.",
+  precios: {
+   "1": 10.95,
+     },
+  imagen: "assets/img/productos/Imagen971.jpeg",
+  stock: 12
+},
+                                 {
+  nombre: "6286JUGUETE MINI TOCADOR",
+  categoria: "Juguetes",
+  descripcion: "¡Un lindo tocador para que las pequeñas se diviertan jugando a maquillarse y arreglarse! Ideal para regalar. Medida: 39.5 × 24 × 7 cm",
+  precios: {
+   "1": 19.90,
+     },
+  imagen: "assets/img/productos/Imagen972.jpeg",
+  stock: 6
+},
+                                 {
+  nombre: "6287JUEGO DE MESA ¿QUIÉN SOY?",
+  categoria: "Juguetes",
+  descripcion: "¡Adivina el personaje haciendo preguntas y diviértete en familia! Ideal para niños desde los 4 años.",
+  precios: {
+   "1": 8.90,
+     },
+  imagen: "assets/img/productos/Imagen973.jpeg",
+  stock: 14
+},
+                                 {
+  nombre: "6288LUCES CASCADA ÁMBAR",
+  categoria: "Navidad / Regalos",
+  descripcion: "Dale un toque cálido, elegante y mágico a tu decoración navideña con estas hermosas luces cascada.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen975.jpeg",
+  stock: 12
+},
+                                   {
+  nombre: "6289LUCES CASCADA MULTICOLOR",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ilumina tu Navidad con luces multicolor que llenan cada espacio de alegría, brillo y magia.",
+  precios: {
+   "1": 7.95,
+     },
+  imagen: "assets/img/productos/Imagen974.jpeg",
+  stock: 2
+},
+                                   {
+  nombre: "6290LLAVERO DEL PAPA LEÓN",
+  categoria: "Accesorios",
+  descripcion: "Lleva contigo tu fe con este hermoso llavero de diseño elegante, presentado en una delicada cajita acrílica, ideal para regalar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+     },
+  imagen: "assets/img/productos/Imagen976.jpeg",
+  stock: 24
+},
+                                  {
+  nombre: "6291SQUISHY DUMPLING",
+  categoria: "Juguetes",
+  descripcion: "Divertido squishy de 8.5 cm, suave y adorable, ideal para aliviar el estrés y coleccionar en sus lindos colores.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
+   "12": 4.55,
+     },
+  imagen: "assets/img/productos/Imagen977.jpeg",
+  stock: 32
+},
+                                    {
+  nombre: "6292REPELENTE ESPIRAL",
+  categoria: "Hogar / Cocina",
+  descripcion: "Disfruta de ambientes libres de mosquitos con su agradable aroma a lavanda. Cada espiral ofrece hasta 8 horas de protección y comienza a actuar en aprox. 2 minutos. Caja con 5 espirales dobles.",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+     },
+  imagen: "assets/img/productos/Imagen978.jpeg",
+  stock: 36
+},
+                                      {
+  nombre: "6293SILLA PLEGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "Lleva tu comodidad a todos lados. Bolso bandolera que se convierte en una cómoda silla para tus conciertos y festivales.",
+  precios: {
+   "1": 11.95,
+     },
+  imagen: "assets/img/productos/Imagen979.jpeg",
+  stock: 4
+},
+                                        {
+  nombre: "6295FIJADOR DE MAQUILLAJE",
+  categoria: "Belleza / Cosmética",
+  descripcion: "¡Prolonga la duración de tu maquillaje y luce un acabado fresco y hermoso por más tiempo!",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+     },
+  imagen: "assets/img/productos/Imagen980.jpeg",
+  stock: 13
+},
+                                        {
+  nombre: "6296SPRAY ACONDICIONADOR",
+  categoria: "Belleza / Cosmética",
+  descripcion: "Facilita el peinado, ayuda a desenredar el cabello y deja tu melena suave y manejable. ¡Ideal para lucir un cabello hermoso!",
+  precios: {
+   "1": 7.95,
+   "3": 6.95,
+     },
+  imagen: "assets/img/productos/Imagen981.jpeg",
+  stock: 3
+},
+                                          {
+  nombre: "6298GUIRNALDA SOLAR ÁMBAR DE 10 FOCOS",
+  categoria: "Navidad / Regalos",
+  descripcion: "Ilumina tus espacios con una cálida y acogedora luz ámbar. Funciona con energía solar, ideal para decorar patios, jardines, terrazas y más.",
+  precios: {
+   "1": 13.95,
+     },
+  imagen: "assets/img/productos/Imagen982.jpeg",
+  stock: 5
+},
+                                          {
+  nombre: "6302SET DE 10 PROTECTORES DE HORNILLA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Mantén tu cocina limpia y libre de grasa, protegiendo la superficie de salpicaduras y suciedad.",
+  precios: {
+   "1": 4.95,
+   "3": 3.95,
+   "6": 3.75,
+   "12": 3.55,
+     },
+  imagen: "assets/img/productos/Imagen983.jpeg",
+  stock: 16
+},
   ];
