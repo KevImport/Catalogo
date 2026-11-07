@@ -3978,7 +3978,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen891.jpeg",
-  stock: 11
+  stock: 10
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
@@ -4342,7 +4342,7 @@ const productos = [
    "3": 6.95,
      },
   imagen: "assets/img/productos/Imagen923.jpeg",
-  stock: 17
+  stock: 19
 },
        {
   nombre: "6209PAPEL FOTOGRÁFICO A4",
