@@ -2262,10 +2262,9 @@ const productos = [
    "1": 3.95,
    "3": 2.95,
    "6": 2.65,
-   "12": 2.35,
   },
   imagen: "assets/img/productos/Imagen627.jpeg",
-  stock: 12
+  stock: 8
 },
     {
   nombre: "5815PARLANTE PELOTA",
@@ -2972,17 +2971,6 @@ const productos = [
   stock: 2
 },
   {
-  nombre: "5993PONCHO IMPERMEABLE PARA ADULTOS",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Protégete de la lluvia y mantente seco dondequiera que vayas. ¡Ideal para el día a día, viajes y actividades al aire libre!. Ligero, práctico y reutilizable, con capucha para una mayor protección. ¡Llévalo siempre contigo!. Color al azar.",
-  precios: {
-   "1": 5.95,
-   "3": 4.55,
-     },
-  imagen: "assets/img/productos/Imagen750.jpeg",
-  stock: 6
-},
-  {
   nombre: "5994PACK DE 10 PARCHES DESODORANTES PARA PIES",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Ayuda a mantener tus pies frescos y con sensación agradable durante el día. ¡Prácticos y fáciles de usar para sentirte cómodo en todo momento!",
@@ -3433,7 +3421,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "assets/img/productos/Imagen817.jpeg",
-  stock: 4
+  stock: 3
 },
        {
   nombre: "6071PACK DE 8 BARRAS DE SILICONA",
@@ -4728,7 +4716,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "assets/img/productos/Imagen966.jpeg",
-  stock: 11
+  stock: 8
 },
                              {
   nombre: "6278CINTA IMPERMEABLE ANTIMOHO",
