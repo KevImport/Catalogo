@@ -4791,9 +4791,9 @@ const productos = [
   stock: 6
 },
                                  {
-  nombre: "6287JUEGO DE MESA ¿QUIÉN SOY?",
+  nombre: "6287JUEGO DE MESA ¿QUIÉN ES?",
   categoria: "Juguetes",
-  descripcion: "¡Adivina el personaje haciendo preguntas y diviértete en familia! Ideal para niños desde los 4 años.",
+  descripcion: "¡Diversión y misterio en familia! Adivina el animal de tu oponente en este entretenido juego de mesa para 2 jugadores.",
   precios: {
    "1": 8.90,
      },
