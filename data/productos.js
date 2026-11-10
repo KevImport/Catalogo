@@ -2319,17 +2319,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen641.jpeg",
   stock: 1
 },
-   {
-  nombre: "5838PAPEL FOTOGRÁFICO ADHESIVO A4",
-  categoria: "Escolar / Papelería",
-  descripcion: "Tamaño A4 ideal para imprimir fotos, stickers y proyectos creativos. Papel adhesivo, pega fácilmente en cualquier superficie. Impresión full color con alta calidad y colores vivos. Paquete de 20 hojas, perfecto para hogar, escuela y oficina.",
-  precios: {
-   "1": 6.95,
-  },
-  imagen: "assets/img/productos/Imagen650.jpeg",
-  stock: 2
-},
-     {
+      {
   nombre: "5063TRUSA PARA NIÑAS",
   categoria: "Ropa interior",
   descripcion: "Calzoncito para niña, suaves, cómodos y con adorables diseños florales para el uso diario. Tallas disponibles: 3 unidades talla 4 - 6 unidades talla 12 - 2 unidades talla 14",
@@ -4317,7 +4307,7 @@ const productos = [
    "1": 15.90,
      },
   imagen: "assets/img/productos/Imagen924.jpeg",
-  stock: 5
+  stock: 3
 },
        {
   nombre: "6210RUBOR EN PERLAS",
@@ -4497,19 +4487,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen945.jpeg",
   stock: 2
 },
-                 {
-  nombre: "6241CORTINA IMANTADA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Fácil instalación, se abre y cierra sola con imanes. Mantiene fuera los insectos y deja pasar el aire. Medida 2 m x 1 m, ideal para puertas. Color al azar.",
-  precios: {
-   "1": 7.95,
-   "3": 6.75,
-   "6": 6.45,
-     },
-  imagen: "assets/img/productos/Imagen946.jpeg",
-  stock: 7
-},
-                            {
+                           {
   nombre: "6248SET DE 12 GORROS NAVIDEÑOS",
   categoria: "Navidad / Regalos",
   descripcion: "¡Celebra la Navidad con estilo! Gorro navideño ideal para adultos y niños, perfecto para compartir la magia en familia.",
@@ -4605,17 +4583,6 @@ const productos = [
      },
   imagen: "assets/img/productos/Imagen956.jpeg",
   stock: 3
-},
-                 {
-  nombre: "6261SET DE 2 CUBIERTOS KIDS",
-  categoria: "Artículos para bebés",
-  descripcion: "¡Haz que cada comida sea más divertida! Incluye cuchara y tenedor con adorables diseños de animalitos y estuche práctico para llevar a todas partes. Diseño al azar.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "assets/img/productos/Imagen957.jpeg",
-  stock: 6
 },
                    {
   nombre: "6263JUGUETE BATERÍA MUSICAL",
