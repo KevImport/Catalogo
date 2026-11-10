@@ -4763,7 +4763,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen975.jpeg",
-  stock: 12
+  stock: 11
 },
                                    {
   nombre: "6289LUCES CASCADA MULTICOLOR",
@@ -4786,7 +4786,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen976.jpeg",
-  stock: 24
+  stock: 18
 },
                                   {
   nombre: "6291SQUISHY DUMPLING",
