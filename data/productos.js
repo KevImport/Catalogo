@@ -437,10 +437,10 @@ const productos = [
   categoria: "Organización / Almacenamiento",
   descripcion: "Organiza y transporta tus sandalias o zapatos de forma ordenada. Ideal para viajes o almacenaje en casa.",
   precios: {
-    "3": 2.90,
+    "1": 2.90,
   },
   imagen: "assets/img/productos/Imagen117.jpg",
-  stock: 3
+  stock: 1
 },
 {
   nombre: "2416PLATO HONGUITO",
@@ -647,7 +647,7 @@ const productos = [
     "1": 3.95,
   },
   imagen: "assets/img/productos/Imagen175.jpeg",
-  stock: 2
+  stock: 1
 },
 {
   nombre: "4660CALZONCILLO CLÁSICO",
@@ -815,7 +815,7 @@ const productos = [
     "12": 1.25,
  },
   imagen: "assets/img/productos/Imagen221.jpeg",
-  stock: 19
+  stock: 16
 },
   {
   nombre: "5150COLLAR DE PRINCESAS",
@@ -982,18 +982,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen283.jpeg",
   stock: 4
 },
-  {
-  nombre: "5276CORTADOR ONDAS DE PAPAS Y VERDURAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Corta papas, verduras y frutas con un divertido estilo ondulado. Acero inoxidable y mango cómodo para uso rápido y seguro. Crea platos creativos y atractivos en segundos.",
-  precios: {
-   "1": 3.95,
-   "3": 2.85,
-   "6": 2.55,
-  },
-  imagen: "assets/img/productos/Imagen284.png",
-  stock: 6
-},
    {
   nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
   categoria: "Navidad / Regalos",
@@ -1116,7 +1104,7 @@ const productos = [
    "6": 4.65,
   },
   imagen: "assets/img/productos/Imagen321.jpeg",
-  stock: 28
+  stock: 25
 },
     {
   nombre: "5327ARMABLE DIDÁCTICO ITALIAN BRAINROT",
@@ -1494,7 +1482,7 @@ const productos = [
    "6": 1.95,
      },
   imagen: "assets/img/productos/Imagen428.jpeg",
-  stock: 30
+  stock: 24
 },
         {
   nombre: "5485ABACO VERTICAL",
@@ -2113,7 +2101,7 @@ const productos = [
    "12": 1.25,
        },
   imagen: "assets/img/productos/Imagen605.png",
-  stock: 37
+  stock: 30
 },
                {
   nombre: "5765COLLAR EQUIPO",
@@ -2792,17 +2780,6 @@ const productos = [
   stock: 14
 },
                        {
-  nombre: "5952JABONERA PORTÁTIL",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ligera y fácil de transportar, ideal para llevar tu jabón a cualquier lugar. Su tapa unida la hace más resistente y evita derrames. Perfecta para casa, viajes, camping o actividades al aire libre.",
-  precios: {
-   "1": 3.95,
-   "3": 2.25,
-  },
-  imagen: "assets/img/productos/Imagen728.png",
-  stock: 5
-},
-                       {
   nombre: "5954CARRUSEL MUSICAL",
   categoria: "Hogar / Cocina",
   descripcion: "Dale un toque elegante y encantador a cualquier espacio. Ideal para bares, tiendas, librerías, salas de estar, bodas y habitaciones. Material: Plástico. Medida aprox.: 16.5 × 10 cm. Color al azar",
@@ -3403,17 +3380,6 @@ const productos = [
   stock: 6
 },
        {
-  nombre: "6069ORGANIZADOR DE ESPECIAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Ordena tu cocina y lleva tus condimentos frescos a donde quieras con este set modular. Listo para usar en tus mejores recetas. Medida: 25 x 9 x 9 cm",
-  precios: {
-   "1": 6.95,
-   "3": 5.95,
-     },
-  imagen: "assets/img/productos/Imagen817.jpeg",
-  stock: 3
-},
-       {
   nombre: "6071PACK DE 8 BARRAS DE SILICONA",
   categoria: "Escolar / Papelería",
   descripcion: "Ideales para manualidades, reparaciones y todo tipo de proyectos. Medida: 0.7 x 18 cm — delgadas, prácticas y fáciles de usar.",
@@ -3578,16 +3544,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen845.jpeg",
   stock: 4
 },
-   {
-  nombre: "6104TACHO MODERNO CON TAPA PUSH",
-  categoria: "Hogar / Cocina",
-  descripcion: "Práctico y elegante para mantener tus espacios limpios y ordenados. Ideal para baño, dormitorio, oficina y más.",
-  precios: {
-   "1": 19.90,
-     },
-  imagen: "assets/img/productos/Imagen848.jpeg",
-  stock: 2
-},
      {
   nombre: "6105FLORERO ACRÍLICO MARIPOSA 3D",
   categoria: "Hogar / Cocina",
@@ -3742,17 +3698,6 @@ const productos = [
      },
   imagen: "assets/img/productos/Imagen870.jpeg",
   stock: 24
-},
-                            {
-  nombre: "6134LÁPIZ DELINEADOR 4 EN 1",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Práctico y versátil, ¡todo en un solo lápiz!. Ideal para lograr un maquillaje definido y llevarlo contigo a todas partes.",
-  precios: {
-   "1": 6.95,
-   "3": 5.65,
-     },
-  imagen: "assets/img/productos/Imagen871.jpeg",
-  stock: 4
 },
                               {
   nombre: "6135CAJA VANITY",
@@ -4055,7 +4000,7 @@ const productos = [
    "6": 3.75,
      },
   imagen: "assets/img/productos/Imagen903.jpeg",
-  stock: 10
+  stock: 7
 },
         {
   nombre: "6178CAMINO DE MESA NAVIDEÑO",
@@ -4080,7 +4025,7 @@ const productos = [
    "6": 5.75,
      },
   imagen: "assets/img/productos/Imagen905.jpeg",
-  stock: 10
+  stock: 9
             
 },
           {
@@ -4246,16 +4191,6 @@ const productos = [
   stock: 7
 },
      {
-  nombre: "6204SET DE 12 LAPICEROS DE GEL",
-  categoria: "Escolar / Papelería",
-  descripcion: "Escritura suave y fluida, ideales para el cole, la oficina y tus apuntes. ¡Colores variados para darle vida a tus escritos!",
-  precios: {
-   "1": 6.95,
-     },
-  imagen: "assets/img/productos/Imagen919.jpeg",
-  stock: 1
-},
-     {
   nombre: "6205SET DE PLUMONES NEONES",
   categoria: "Escolar / Papelería",
   descripcion: "Colores neón súper vibrantes, ideales para resaltar, dibujar y dar vida a tus apuntes.",
@@ -4263,7 +4198,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "assets/img/productos/Imagen920.jpeg",
-  stock: 9
+  stock: 8
 },
      {
   nombre: "6206LUSTRADOR DE ZAPATOS",
@@ -4367,7 +4302,7 @@ const productos = [
    "12": 6.55,
      },
   imagen: "assets/img/productos/Imagen931.jpeg",
-  stock: 21
+  stock: 20
 },
            {
   nombre: "6219SET DE 12 BOLSAS DE PAPEL",
@@ -4515,7 +4450,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "assets/img/productos/Imagen950.jpeg",
-  stock: 23
+  stock: 18
 },
            {
   nombre: "6251COLADOR DE MALLA DE ALTA DENSIDAD",
@@ -4683,7 +4618,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "assets/img/productos/Imagen966.jpeg",
-  stock: 8
+  stock: 7
 },
                              {
   nombre: "6278CINTA IMPERMEABLE ANTIMOHO",
@@ -4786,7 +4721,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen976.jpeg",
-  stock: 18
+  stock: 15
 },
                                   {
   nombre: "6291SQUISHY DUMPLING",
