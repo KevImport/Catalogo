@@ -4746,7 +4746,7 @@ const productos = [
    "6": 1.75,
      },
   imagen: "assets/img/productos/Imagen978.jpeg",
-  stock: 36
+  stock: 15
 },
                                       {
   nombre: "6293SILLA PLEGABLE",
