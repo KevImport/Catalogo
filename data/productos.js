@@ -4698,7 +4698,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen975.jpeg",
-  stock: 11
+  stock: 10
 },
                                    {
   nombre: "6289LUCES CASCADA MULTICOLOR",
@@ -4708,7 +4708,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen974.jpeg",
-  stock: 2
+  stock: 1
 },
                                    {
   nombre: "6290LLAVERO DEL PAPA LEÓN",
