@@ -1317,16 +1317,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen374.jpeg",
   stock: 4
 },
-            {
-  nombre: "5411PRINCESA MUSICAL GIRATORIA",
-  categoria: "Juguetes",
-  descripcion: "Encantadora muñeca sirena que baila, gira y brilla con luces de colores. Incluye música divertida y movimientos que capturan la atención de los peques. Ideal para niñas desde 3 años y perfecto como regalo mágico.",
-  precios: {
-   "1": 12.95,
-     },
-  imagen: "assets/img/productos/Imagen383.jpeg",
-  stock: 2
-},
     {
   nombre: "5420ORUGUITA DE PELUCHE",
   categoria: "Juguetes",
