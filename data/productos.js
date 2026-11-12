@@ -22,16 +22,6 @@ const productos = [
   stock: 6
 },
 {
-  nombre: "5030BALDE CANCHERO + VASO TOMATODO \"PITUFOS\"",
-  categoria: "Juguetes",
-  descripcion: "¡Diversión y estilo para los más peques! Incluye balde canchero y vaso tomatodo con diseño de Los Pitufos.",
-  precios: {
-    "1": 6.95,
-  },
-  imagen: "assets/img/productos/Imagen9.jpg",
-  stock: 2
-},
-{
   nombre: "4966TAZA GAMER",
   categoria: "Juguetes",
   descripcion: "¡Para los verdaderos gamers! Esta taza con diseño único es perfecta para tus sesiones de juego con café o chocolate.",
@@ -350,16 +340,6 @@ const productos = [
   },
   imagen: "assets/img/productos/Imagen104.jpg",
   stock: 3
-},
-{
-  nombre: "2795EXCAVADORA A CONTROL REMOTO",
-  categoria: "Juguetes",
-  descripcion: "Excavadora realista con control remoto. Diversión garantizada para los fanáticos de la construcción.",
-  precios: {
-    "1": 17.90,
-  },
-  imagen: "assets/img/productos/Imagen105.jpg",
-  stock: 1
 },
 {
   nombre: "2794MASCARA HALOWEEN",
@@ -1092,7 +1072,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "assets/img/productos/Imagen320.png",
-  stock: 24
+  stock: 16
 },
   {
   nombre: "5326FIGURA LED NAVIDEÑA - 1 PIEZA",
@@ -1106,19 +1086,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen321.jpeg",
   stock: 25
 },
-    {
-  nombre: "5327ARMABLE DIDÁCTICO ITALIAN BRAINROT",
-  categoria: "Juguetes",
-  descripcion: "Divertidos sets para armar con entre 56 y 73 piezas, según el modelo. Estimula la creatividad, la concentración y la coordinación. Ideal para niños desde 6 años.",
-  precios: {
-   "1": 5.95,
-   "3": 4.25,
-   "6": 3.95,
-  },
-  imagen: "assets/img/productos/Imagen322.jpeg",
-  stock: 11
-},
-      {
+        {
   nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
   categoria: "Accesorios",
   descripcion: "Incluye lentes modernos y ganchos para el cabello a juego. Perfecto para un look fresco, divertido y con mucho estilo.",
