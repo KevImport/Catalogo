@@ -2574,11 +2574,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.55,
-   "6": 4.25,
-   "12": 3.95,
   },
   imagen: "assets/img/productos/Imagen694.jpeg",
-  stock: 20
+  stock: 4
 },
              {
   nombre: "5903KIT DE 5 BANDAS ELÁSTICAS DE RESISTENCIA",
