@@ -3414,16 +3414,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen821.jpeg",
   stock: 12
 },
-         {
-  nombre: "6076SET DE 12 PELOTAS FIESTA",
-  categoria: "Juguetes",
-  descripcion: "¡Diversión asegurada con diseños coloridos y llamativos! Ideales para fiestas, juegos, piñatas, regalos y mucho más. Diseño al azar",
-  precios: {
-   "1": 12.95,
-     },
-  imagen: "assets/img/productos/Imagen823.jpeg",
-  stock: 10
-},
            {
   nombre: "6076SET DE 12 PELOTAS FIESTA",
   categoria: "Juguetes",
@@ -3432,7 +3422,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "assets/img/productos/Imagen823.jpeg",
-  stock: 12
+  stock: 10
 },
   {
   nombre: "6077SET DE 10 PARES DE MEDIAS OSITO",
