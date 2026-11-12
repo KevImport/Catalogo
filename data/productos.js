@@ -2274,7 +2274,7 @@ const productos = [
    "6": 8.95,
   },
   imagen: "assets/img/productos/Imagen636.jpeg",
-  stock: 13
+  stock: 6
 },
    {
   nombre: "5826PACK DE 10 BOLSAS PINKY",
