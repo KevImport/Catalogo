@@ -3049,17 +3049,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen777.jpeg",
   stock: 2
 },
-        {
-  nombre: "1002GOMITAS DE CÚRCUMA PARA ADULTOS - 150 UNIDADES",
-  categoria: "Gomitas",
-  descripcion: "¡Desinflama tu cuerpo, protege tus células con antioxidantes y mejora tu digestión de forma 100% natural! Las Gomitas de Cúrcuma con Pimienta Negra Sottcor combinan la mejor absorción para reforzar tus defensas y llenarte de vitalidad diaria sin azúcar añadida.",
-  precios: {
-   "1": 25.95,
-     },
-  imagen: "assets/img/productos/Imagen778.jpeg",
-  stock: 1
-},
-  {
+     {
   nombre: "1003GOMITAS DE VINAGRE DE MANZANA PARA ADULTOS - 150 UNIDADES",
   categoria: "Gomitas",
   descripcion: "¡Reduce la ansiedad por comer, desintoxica tu cuerpo y dile adiós a la pesadez estomacal! Disfruta el poder del Vinagre de Manzana de Sottcor Labs en ricas gomitas que cuidan tu figura y llenan tu día de energía.",
@@ -3079,16 +3069,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen780.jpeg",
   stock: 1
 },
-      {
-  nombre: "1005GOMITAS DE MAGNESIO PARA ADULTOS - 150 UNIDADES",
-  categoria: "Gomitas",
-  descripcion: "¡Dile adiós al cansancio, relaja tus músculos y equilibra tu mente para dormir mucho mejor! Las Gomitas de Citrato de Magnesio Sottcor fortalecen tus huesos y te llenan de energía diaria en una deliciosa fórmula sin azúcar ni gluten.",
-  precios: {
-   "1": 25.95,
-     },
-  imagen: "assets/img/productos/Imagen781.jpeg",
-  stock: 1
-},
         {
   nombre: "1006GOMITAS DE MACA NEGRA PARA ADULTOS - 150 UNIDADES",
   categoria: "Gomitas",
@@ -3100,26 +3080,6 @@ const productos = [
   stock: 1
 },
         {
-  nombre: "1007GOMITAS DE MULTIVITAMINAS PARA ADULTOS - 150 UNIDADES",
-  categoria: "Gomitas",
-  descripcion: "¡Refuerza tus defensas, combate el cansancio diario y dale a tu cuerpo el combo completo de energía que necesita! Las Gomitas Multivitamínicas Sottcor contienen vitaminas A, C, D, E y complejo B para cuidar tus huesos, músculos y mejorar tu concentración.",
-  precios: {
-   "1": 25.95,
-     },
-  imagen: "assets/img/productos/Imagen783.png",
-  stock: 1
-},
-   {
-  nombre: "1008GOMITAS DE PITAHAYA PARA ADULTOS - 150 UNIDADES",
-  categoria: "Gomitas",
-  descripcion: "¡Regula tu digestión, combate el estreñimiento y luce una piel radiante con total naturalidad! Disfruta del delicioso poder digestivo y antioxidante de las Gomitas de Pitahaya Sottcor, tu aliada diaria para ir al baño sin complicaciones.",
-  precios: {
-   "1": 25.95,
-     },
-  imagen: "assets/img/productos/Imagen784.png",
-  stock: 1
-},
-     {
   nombre: "1009GOMITAS DE DULCES SUEÑOS PARA ADULTOS - 150 UNIDADES",
   categoria: "Gomitas",
   descripcion: "¡Consigue un sueño profundo y reparador, reduce el estrés y dile adiós a la ansiedad de forma 100% natural! Las Gomitas Dulce Sueños Sottcor combinan el poder relajante de la valeriana, manzanilla y toronjil con taurato de magnesio para que despiertes cada mañana con máxima energía.",
@@ -3139,17 +3099,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen786.png",
   stock: 1
 },
-    {
-  nombre: "1012GOMITAS DE VITAMINAS PARA NIÑOS - 150 UNIDADES",
-  categoria: "Gomitas",
-  descripcion: "¡Dale a tus hijos el escudo nutricional que necesitan para crecer fuertes, llenos de energía y súper concentrados! Las Gomitas Infantiles de Vitaminas Sottcor combinan el poder de las vitaminas A, D, C, E y todo el Complejo B para asegurar su desarrollo óptimo y defensas al 100%.",
-  precios: {
-   "1": 25.95,
-     },
-  imagen: "assets/img/productos/Imagen788.png",
-  stock: 1
-},
-   {
+      {
   nombre: "1013GOMITAS DE BUENAS NOCHES PARA NIÑOS - 150 UNIDADES",
   categoria: "Gomitas",
   descripcion: "¡Ayuda a tus pequeños a conciliar el sueño más rápido, lograr un descanso profundo y despertar felices cada mañana! Las Gomitas Buenas Noches Dulce Sueños Sottcor ofrecen una fórmula infantil suave, segura y libre de gluten, lactosa y GMO.",
