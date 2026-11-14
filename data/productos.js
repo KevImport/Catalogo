@@ -4699,4 +4699,123 @@ const productos = [
   imagen: "assets/img/productos/Imagen983.jpeg",
   stock: 16
 },
+                                          {
+  nombre: "6303PAQUETE DE 1280 PAÑUELOS DESECHABLES",
+  categoria: "Hogar / Cocina",
+  descripcion: "Suaves, resistentes y prácticos para tu cuidado diario. ¡Lleva comodidad y frescura a donde vayas!",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+     },
+  imagen: "assets/img/productos/Imagen984.jpeg",
+  stock: 4
+},
+                                            {
+  nombre: "6305CAMIONETA TESLA CON HUMO Y LUCES LED",
+  categoria: "Juguetes",
+  descripcion: "¡Diviértete con esta increíble camioneta Tesla! Con luces LED de colores, efecto de humo y un diseño futurista que encantará a los pequeños.",
+  precios: {
+   "1": 17.95,
+     },
+  imagen: "assets/img/productos/Imagen994.jpeg",
+  stock: 18
+},
+                                             {
+  nombre: "6306MANTEL ROJO NAVIDEÑO 150 × 250cm",
+  categoria: "Navidad",
+  descripcion: "Decora tu mesa esta Navidad con un elegante mantel rojo de diseño calado, ideal para darle un toque festivo y acogedor a tu hogar.",
+  precios: {
+   "1": 14.95,
+     },
+  imagen: "assets/img/productos/Imagen985.jpeg",
+  stock: 5
+},
+                                               {
+  nombre: "6307PAQUETE DE 12 BOLSAS METALIZADAS NAVIDEÑAS – ZIPLOC",
+  categoria: "Navidad",
+  descripcion: "Ideales para chocolatadas y regalos navideños, con cierre hermético tipo Ziploc y tamaño de 26 × 34 cm. ¡Prácticas y festivas!",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen986.jpeg",
+  stock: 8
+},
+                                               {
+  nombre: "6308MANTEL DE ENCAJE",
+  categoria: "Navidad",
+  descripcion: "Viste tu mesa con un toque de elegancia y delicadeza. Ideal para ocasiones especiales o el día a día. ¡Realza tu comedor! Para 6 sillas | Color al azar",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen987.jpeg",
+  stock: 5
+},
+              {
+  nombre: "6310BOLSO MANTA PLEGABLE DE PICNIC",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para llevar en tus paseos familiares y compartir. Fácil de llevar, en forma de bolso. Medida aprox.: 190 x 190 cm. Color al azar.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen988.jpeg",
+  stock: 15
+},
+              {
+  nombre: "6311LIMPIADOR DE LAVADORA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Elimina suciedad, sarro y malos olores de tu lavadora! Mantén tu lavadora limpia y funcionando mejor.",
+  precios: {
+   "1": 4.95,
+   "3": 3.55,
+   "6": 3.25,
+   "12": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen989.jpeg",
+  stock: 33
+},
+               {
+  nombre: "6312MEDIAS NAVIDEÑAS",
+  categoria: "Navidad",
+  descripcion: "Diseños divertidos de Santa, renos, pingüinos y muñecos de nieve. ¡Suaves, cómodas y perfectas para darle un toque navideño a tus pies! Talla única: Standard. Diseño al azar.",
+  precios: {
+   "1": 2.95,
+   "1": 1.95,
+     },
+  imagen: "assets/img/productos/Imagen990.jpeg",
+  stock: 11
+}, 
+              {
+  nombre: "6313TAPIZ NAVIDEÑO DE PARED 180 x 200cm",
+  categoria: "Navidad",
+  descripcion: "Decora tus espacios con hermosos diseños navideños, ideales para crear un ambiente mágico y festivo en esta Navidad.",
+  precios: {
+   "1": 16.95,
+     },
+  imagen: "assets/img/productos/Imagen991.jpeg",
+  stock: 18
+},  
+              {
+  nombre: "6314CARRO CON LUCES – LIGHTING CAR",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión sobre ruedas para los pequeños! Diseño deportivo y moderno. Ruedas con luces llamativas. Presentación en blíster de 18 cm x 13.5 cm.",
+  precios: {
+   "1": 4.95,
+   "3": 3.25,
+   "6": 2.95,
+     },
+  imagen: "assets/img/productos/Imagen992.jpeg",
+  stock: 63
+}, 
+                {
+  nombre: "6315ESPUMA EXPANSIVA",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ideal para sellar grietas, rellenar huecos y aislar del frío, calor y ruido. Se expande al aplicar y endurece rápidamente. Perfecta para reparaciones en casa y construcción.",
+  precios: {
+   "1": 9.95,
+   "3": 8.85,
+   "6": 8.55,
+     },
+  imagen: "assets/img/productos/Imagen993.jpeg",
+  stock: 16
+}, 
   ];
