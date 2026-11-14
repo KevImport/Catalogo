@@ -4576,19 +4576,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen974.jpeg",
   stock: 1
 },
-                                   {
-  nombre: "6290LLAVERO DEL PAPA LEÓN",
-  categoria: "Accesorios",
-  descripcion: "Lleva contigo tu fe con este hermoso llavero de diseño elegante, presentado en una delicada cajita acrílica, ideal para regalar.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-   "6": 4.75,
-     },
-  imagen: "assets/img/productos/Imagen976.jpeg",
-  stock: 6
-},
-                                  {
+                            {
   nombre: "6291SQUISHY DUMPLING",
   categoria: "Juguetes",
   descripcion: "Divertido squishy de 8.5 cm, suave y adorable, ideal para aliviar el estrés y coleccionar en sus lindos colores.",
