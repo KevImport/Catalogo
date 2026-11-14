@@ -2936,10 +2936,9 @@ const productos = [
    "1": 6.95,
    "3": 5.55,
    "6": 5.25,
-   "12": 4.95,
      },
   imagen: "assets/img/productos/Imagen758.jpeg",
-  stock: 16
+  stock: 10
 },
   {
   nombre: "6003SCAJITA ORGANIZADORA",
@@ -3785,7 +3784,7 @@ const productos = [
    "12": 2.55,
      },
   imagen: "assets/img/productos/Imagen893.jpeg",
-  stock: 25
+  stock: 13
 },
     {
   nombre: "6165SCRATCH NOTE",
@@ -4709,7 +4708,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "assets/img/productos/Imagen987.jpeg",
-  stock: 5
+  stock: 2
 },
               {
   nombre: "6310BOLSO MANTA PLEGABLE DE PICNIC",
