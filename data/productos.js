@@ -3293,10 +3293,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
      },
   imagen: "assets/img/productos/Imagen818.jpeg",
-  stock: 18
+  stock: 6
 },
        {
   nombre: "6072SET DE 20 CUBIERTAS DE ALUMINIO",
@@ -3423,21 +3422,8 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.85,
-   "6": 2.65,
-   "12": 2.45,
      },
   imagen: "assets/img/productos/Imagen842.jpeg",
-  stock: 16
-},
-    {
-  nombre: "6101ROLLO DE PAPEL ALUMINIO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ideal para cocinar, hornear, asar y conservar tus alimentos. Práctico, resistente y fácil de usar en la cocina. Medida: 5 metros",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "assets/img/productos/Imagen845.jpeg",
   stock: 4
 },
      {
@@ -3528,7 +3514,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "assets/img/productos/Imagen860.jpeg",
-  stock: 6
+  stock: 5
 },
          {
   nombre: "6125FUNDA DE COJÍN NAVIDEÑA DOBLE CARA",
@@ -3616,7 +3602,7 @@ const productos = [
    "12": 3.05,
      },
   imagen: "assets/img/productos/Imagen873.jpeg",
-  stock: 17
+  stock: 15
 },
              {
   nombre: "6141ORGANIZADOR GANCHO",
@@ -3638,7 +3624,7 @@ const productos = [
    "1": 12.95,
      },
   imagen: "assets/img/productos/Imagen876.jpeg",
-  stock: 8
+  stock: 7
 },
        {
   nombre: "6144SET DE BAÑO NAVIDEÑO x 3 PIEZAS",
@@ -3921,7 +3907,7 @@ const productos = [
    "6": 5.75,
      },
   imagen: "assets/img/productos/Imagen905.jpeg",
-  stock: 9
+  stock: 6
             
 },
           {
@@ -4138,7 +4124,7 @@ const productos = [
    "1": 15.90,
      },
   imagen: "assets/img/productos/Imagen924.jpeg",
-  stock: 3
+  stock: 1
 },
        {
   nombre: "6210RUBOR EN PERLAS",
@@ -4280,10 +4266,9 @@ const productos = [
    "1": 5.95,
    "3": 4.95,
    "6": 4.75,
-   "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen941.jpeg",
-  stock: 17
+  stock: 11
 },
                  {
   nombre: "6230LLAVERO CON INICIAL",
@@ -4458,18 +4443,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen961.jpeg",
   stock: 7
 },
-                     {
-  nombre: "6272POLVO COMPACTO FACIAL",
-  categoria: "Belleza / Cosmética",
-  descripcion: "¡Luce una piel uniforme con un acabado mate y natural, perfecto para complementar tu maquillaje! Incluye espejo.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.75,
-     },
-  imagen: "assets/img/productos/Imagen962.jpeg",
-  stock: 6
-},
                        {
   nombre: "6274PERFUME DE MUJER JPS23",
   categoria: "Higiene / Cuidado Personal",
@@ -4479,7 +4452,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "assets/img/productos/Imagen963.jpeg",
-  stock: 11
+  stock: 8
 },
                          {
   nombre: "6275SET DE 5 LAPICEROS DE COLORES",
@@ -4554,7 +4527,7 @@ const productos = [
    "1": 10.95,
      },
   imagen: "assets/img/productos/Imagen970.jpeg",
-  stock: 2
+  stock: 1
 },
                                  {
   nombre: "6285JUEGO DE BLOQUES",
@@ -4594,7 +4567,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen975.jpeg",
-  stock: 10
+  stock: 8
 },
                                    {
   nombre: "6289LUCES CASCADA MULTICOLOR",
@@ -4614,10 +4587,9 @@ const productos = [
    "1": 5.95,
    "3": 4.95,
    "6": 4.75,
-   "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen976.jpeg",
-  stock: 12
+  stock: 6
 },
                                   {
   nombre: "6291SQUISHY DUMPLING",
@@ -4664,17 +4636,6 @@ const productos = [
      },
   imagen: "assets/img/productos/Imagen980.jpeg",
   stock: 13
-},
-                                        {
-  nombre: "6296SPRAY ACONDICIONADOR",
-  categoria: "Belleza / Cosmética",
-  descripcion: "Facilita el peinado, ayuda a desenredar el cabello y deja tu melena suave y manejable. ¡Ideal para lucir un cabello hermoso!",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-     },
-  imagen: "assets/img/productos/Imagen981.jpeg",
-  stock: 3
 },
                                           {
   nombre: "6298GUIRNALDA SOLAR ÁMBAR DE 10 FOCOS",
