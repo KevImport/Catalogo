@@ -4617,7 +4617,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen976.jpeg",
-  stock: 15
+  stock: 12
 },
                                   {
   nombre: "6291SQUISHY DUMPLING",
