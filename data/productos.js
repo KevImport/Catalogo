@@ -1331,9 +1331,7 @@ const productos = [
   descripcion: "Protección confiable y cómoda con mascarillas desechables de 3 pliegues. Alta filtración de partículas y gotículas para mayor seguridad. Pack de 50 unidades, ideal para uso diario, laboral o profesional.",
   precios: {
    "1": 5.95,
-   "3": 4.55,
-   "6": 4.25,
-   "12": 3.95,
+   "3": 4.95,
      },
   imagen: "assets/img/productos/Imagen401.jpeg",
   stock: 30
@@ -1343,9 +1341,9 @@ const productos = [
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Alta protección y ajuste seguro al rostro. Filtración eficiente de partículas y gotículas. Cómodas, livianas y de uso diario.",
   precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
+   "1": 5.95,
+   "3": 4.95,
+   "6": 4.75,
      },
   imagen: "assets/img/productos/Imagen402.jpeg",
   stock: 15
@@ -4059,7 +4057,7 @@ const productos = [
    "6": 3.55,
      },
   imagen: "assets/img/productos/Imagen917.png",
-  stock: 17
+  stock: 16
 },
      {
   nombre: "6203DESMAQUILLANTE MÁGICO HECHIZO DE ARROZ",
