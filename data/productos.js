@@ -2892,18 +2892,6 @@ const productos = [
   stock: 2
 },
   {
-  nombre: "5994PACK DE 10 PARCHES DESODORANTES PARA PIES",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Ayuda a mantener tus pies frescos y con sensación agradable durante el día. ¡Prácticos y fáciles de usar para sentirte cómodo en todo momento!",
-  precios: {
-   "1": 5.95,
-   "3": 4.55,
-   "6": 4.25,
-     },
-  imagen: "assets/img/productos/Imagen751.png",
-  stock: 7
-}, 
-  {
   nombre: "5995POLERON ABRIGADOR",
   categoria: "Ropa interior",
   descripcion: "Súper suave, abrigador y cómodo para mantenerte calientito en días fríos. Diseño amplio y acogedor, ideal para descansar, estudiar o ver tus series favoritas. Única Talla que cede por ser Oversize, color al azar.",
@@ -2936,7 +2924,7 @@ const productos = [
    "6": 5.25,
      },
   imagen: "assets/img/productos/Imagen758.jpeg",
-  stock: 10
+  stock: 9
 },
   {
   nombre: "6003SCAJITA ORGANIZADORA",
@@ -3246,7 +3234,7 @@ const productos = [
    "3": 3.95,
      },
   imagen: "assets/img/productos/Imagen808.jpeg",
-  stock: 7
+  stock: 6
 },       
   {
   nombre: "6063VELAS ESTILO GLOBOS PARA CUMPLEAÑOS",
@@ -3477,7 +3465,7 @@ const productos = [
    "3": 7.95,
      },
   imagen: "assets/img/productos/Imagen857.jpeg",
-  stock: 15
+  stock: 10
 },
              {
   nombre: "6119JUEGO DE 3 PARES DE ARETES + 1 COLLAR",
@@ -3501,7 +3489,7 @@ const productos = [
    "12": 1.55,
      },
   imagen: "assets/img/productos/Imagen859.jpeg",
-  stock: 40
+  stock: 35
 },
                {
   nombre: "6121PACK DE 10 LUCES HADAS 3 METROS - COLOR ÁMBAR",
@@ -3608,10 +3596,9 @@ const productos = [
   precios: {
    "1": 3.95,
    "3": 2.95,
-   "6": 2.75,
      },
   imagen: "assets/img/productos/Imagen875.jpeg",
-  stock: 6
+  stock: 3
 },
        {
   nombre: "6142ROBOT ASPIRADOR",
