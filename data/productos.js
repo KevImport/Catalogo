@@ -3444,7 +3444,7 @@ const productos = [
    "3": 10.95,
      },
   imagen: "assets/img/productos/Imagen854.jpeg",
-  stock: 7
+  stock: 6
 },
              {
   nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
@@ -4010,7 +4010,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen914.png",
-  stock: 21
+  stock: 20
 },
    {
   nombre: "6200PERRITO GRADUADO 20cm",
@@ -4077,7 +4077,7 @@ const productos = [
    "12": 3.25,
      },
   imagen: "assets/img/productos/Imagen921.jpeg",
-  stock: 18
+  stock: 16
 },
        {
   nombre: "6207PACK DE 25 SOPORTES ADHESIVOS",
@@ -4574,7 +4574,7 @@ const productos = [
    "12": 4.55,
      },
   imagen: "assets/img/productos/Imagen977.jpeg",
-  stock: 32
+  stock: 30
 },
                                     {
   nombre: "6292REPELENTE ESPIRAL",
@@ -4586,7 +4586,7 @@ const productos = [
    "6": 1.75,
      },
   imagen: "assets/img/productos/Imagen978.jpeg",
-  stock: 15
+  stock: 10
 },
                                       {
   nombre: "6293SILLA PLEGABLE",
