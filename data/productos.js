@@ -4649,7 +4649,7 @@ const productos = [
    "1": 14.95,
      },
   imagen: "assets/img/productos/Imagen985.jpeg",
-  stock: 5
+  stock: 3
 },
                                                {
   nombre: "6307PAQUETE DE 12 BOLSAS METALIZADAS NAVIDEÑAS – ZIPLOC",
