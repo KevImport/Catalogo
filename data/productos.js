@@ -4220,18 +4220,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen937.jpeg",
   stock: 4
 },
-                               {
-  nombre: "6227SPINNER ANTIESTRÉS",
-  categoria: "Juguetes",
-  descripcion: "Gira, relaja y diviértete con su diseño giratorio 360°. ¡Ideal para niños y adultos! Color al azar",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-   "6": 2.75,
-     },
-  imagen: "assets/img/productos/Imagen939.jpeg",
-  stock: 6
-},
                               {
   nombre: "6228PACK DE 10 ESPONJAS DE SILICONA",
   categoria: "Hogar / Cocina",
@@ -4681,7 +4669,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "assets/img/productos/Imagen987.jpeg",
-  stock: 2
+  stock: 1
 },
               {
   nombre: "6310BOLSO MANTA PLEGABLE DE PICNIC",
@@ -4704,7 +4692,7 @@ const productos = [
    "12": 2.95,
      },
   imagen: "assets/img/productos/Imagen989.jpeg",
-  stock: 33
+  stock: 24
 },
                {
   nombre: "6312MEDIAS NAVIDEÑAS",
@@ -4749,6 +4737,6 @@ const productos = [
    "6": 8.55,
      },
   imagen: "assets/img/productos/Imagen993.jpeg",
-  stock: 16
+  stock: 12
 }, 
   ];
