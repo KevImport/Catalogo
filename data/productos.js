@@ -3255,10 +3255,9 @@ const productos = [
   descripcion: "Diseños tiernos y divertidos para lucir cómoda y adorable. Talla única. Diseño al azar.",
   precios: {
    "1": 9.95,
-   "3": 8.95,
      },
   imagen: "assets/img/productos/Imagen812.jpeg",
-  stock: 5
+  stock: 2
 },
      {
   nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
@@ -4626,10 +4625,9 @@ const productos = [
   descripcion: "Suaves, resistentes y prácticos para tu cuidado diario. ¡Lleva comodidad y frescura a donde vayas!",
   precios: {
    "1": 6.95,
-   "3": 5.95,
      },
   imagen: "assets/img/productos/Imagen984.jpeg",
-  stock: 4
+  stock: 2
 },
                                             {
   nombre: "6305CAMIONETA TESLA CON HUMO Y LUCES LED",
