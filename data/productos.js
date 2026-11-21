@@ -4712,4 +4712,72 @@ const productos = [
   imagen: "assets/img/productos/Imagen993.jpeg",
   stock: 12
 }, 
+                   {
+  nombre: "6318LLAVERO DE LA SUERTE",
+  categoria: "Navidad",
+  descripcion: "Lleva contigo energía positiva, protección y abundancia. ¡Un detalle especial para atraer la buena suerte!",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+   "12": 2.55,
+     },
+  imagen: "assets/img/productos/Imagen995.jpeg",
+  stock: 27
+}, 
+                   {
+  nombre: "6319SET DE 3 VELAS DORADAS ESCARCHADAS",
+  categoria: "Navidad",
+  descripcion: "Decora tus espacios con un toque de brillo y elegancia. Incluye 3 velas de 20 cm, ideales para decorar en Navidad y ocasiones especiales.",
+  precios: {
+   "1": 3.95,
+   "3": 2.95,
+   "6": 2.75,
+     },
+  imagen: "assets/img/productos/Imagen996.jpeg",
+  stock: 9
+}, 
+                   {
+  nombre: "6321CARRO ACROBÁTICO CON CONTROL REMOTO",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión sobre ruedas! Realiza giros, vueltas y acrobacias increíbles con este espectacular carrito teledirigido.",
+  precios: {
+   "1": 25.90,
+     },
+  imagen: "assets/img/productos/Imagen997.jpeg",
+  stock: 6
+}, 
+                   {
+  nombre: "6322TIMBRE INALÁMBRICO PARA PUERTA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Avisa la llegada de tus visitas de forma práctica y cómoda! Fácil de instalar, sin cables y perfecto para el hogar u oficina.",
+  precios: {
+   "1": 9.95,
+     },
+  imagen: "assets/img/productos/Imagen998.jpeg",
+  stock: 6
+}, 
+                   {
+  nombre: "6323ABEJITA",
+  categoria: "Juguetes",
+  descripcion: "Divertida abejita con luces y sonidos que estimula los sentidos y garantiza horas de entretenimiento para tu bebé.",
+  precios: {
+   "1": 24.90,
+     },
+  imagen: "assets/img/productos/Imagen999.jpeg",
+  stock: 6
+}, 
+                   {
+  nombre: "6324MINI VENTILADOR PORTÁTIL RECARGABLE",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Disfruta de aire fresco donde quieras! Compacto, ligero, carga USB y base multifunción con soporte para celular.",
+  precios: {
+   "1": 6.95,
+   "3": 5.95,
+   "6": 5.75,
+   "12": 5.55,
+     },
+  imagen: "assets/img/productos/Imagen1000.jpeg",
+  stock: 17
+}, 
   ];
