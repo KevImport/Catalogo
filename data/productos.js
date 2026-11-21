@@ -1068,11 +1068,11 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Gira, vuela y brilla con magia. Fácil de usar, solo enciéndela y déjala volar. Diversión mágica para niñas y niños.",
   precios: {
-   "1": 6.95,
-   "3": 5.95,
+   "1": 7.95,
+   "3": 6.95,
   },
   imagen: "assets/img/productos/Imagen320.png",
-  stock: 16
+  stock: 12
 },
   {
   nombre: "5326FIGURA LED NAVIDEÑA - 1 PIEZA",
@@ -2226,8 +2226,7 @@ const productos = [
   descripcion: "Escribe notas, recordatorios o mensajes creativos con marcadores de colores y hazlos brillar con luz LED. Incluye plumones de colores y conexión USB, ideal para escritorio, habitación o decoración personalizada.",
   precios: {
    "1": 10.95,
-   "3": 9.25,
-   "6": 8.95,
+   "3": 9.95,
   },
   imagen: "assets/img/productos/Imagen636.jpeg",
   stock: 6
@@ -2494,7 +2493,7 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Medida del set: 34 x 8 x 13 cm. Despierta la imaginación de los pequeños con este divertido camión volquete y excavadora impulsados por fricción. ¡Son perfectos para transportar materiales, superar retos en la arena y desarrollar habilidades motrices mientras juegan sin parar!",
   precios: {
-   "1": 7.95,
+   "1": 8.95,
   },
   imagen: "assets/img/productos/Imagen688.jpeg",
   stock: 4
@@ -2704,8 +2703,7 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "¡Todo lo que los pequeños artistas necesitan para pintar, dibujar y crear! Incluye colores, crayones, plumones y más en un práctico estuche hexagonal. Diseño al azar",
   precios: {
-   "1": 8.95,
-   "3": 7.25,
+   "1": 10.90,
   },
   imagen: "assets/img/productos/Imagen722.jpeg",
   stock: 5
@@ -4151,7 +4149,7 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "¡Diversión musical con diseños coloridos! ¡El regalo perfecto para los pequeños! Diseño al azar.",
   precios: {
-   "1": 8.95,
+   "1": 10.95,
      },
   imagen: "assets/img/productos/Imagen929.jpeg",
   stock: 2
@@ -4363,7 +4361,7 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "¡Despierta el talento musical de los pequeños con esta divertida batería de juguete, ideal para tocar, jugar y desarrollar su creatividad!",
   precios: {
-   "1": 14.95,
+   "1": 21.90,
      },
   imagen: "assets/img/productos/Imagen958.jpeg",
   stock: 3
@@ -4512,7 +4510,7 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "¡Diversión y misterio en familia! Adivina el animal de tu oponente en este entretenido juego de mesa para 2 jugadores.",
   precios: {
-   "1": 8.90,
+   "1": 13.90,
      },
   imagen: "assets/img/productos/Imagen973.jpeg",
   stock: 14
@@ -4617,11 +4615,11 @@ const productos = [
   stock: 2
 },
                                             {
-  nombre: "6305CAMIONETA TESLA CON HUMO Y LUCES LED",
+  nombre: "6305AUTO TESLA CON HUMO Y LUCES LED",
   categoria: "Juguetes",
   descripcion: "¡Diviértete con esta increíble camioneta Tesla! Con luces LED de colores, efecto de humo y un diseño futurista que encantará a los pequeños.",
   precios: {
-   "1": 17.95,
+   "1": 25.90,
      },
   imagen: "assets/img/productos/Imagen994.jpeg",
   stock: 18
