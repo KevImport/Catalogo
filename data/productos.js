@@ -2919,10 +2919,9 @@ const productos = [
   precios: {
    "1": 6.95,
    "3": 5.55,
-   "6": 5.25,
      },
   imagen: "assets/img/productos/Imagen758.jpeg",
-  stock: 9
+  stock: 6
 },
   {
   nombre: "6003SCAJITA ORGANIZADORA",
@@ -3010,17 +3009,6 @@ const productos = [
      },
   imagen: "assets/img/productos/Imagen773.jpeg",
   stock: 7
-},
-      {
-  nombre: "6019ALCOHOL CON AROMA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Limpieza y frescura con deliciosos aromas para acompañarte durante el día. Presentación de 100 ml, práctica y fácil de llevar a donde quieras. Aroma al azar.",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-     },
-  imagen: "assets/img/productos/Imagen776.jpeg",
-  stock: 3
 },
       {
   nombre: "6021KIT DE HERRAMIENTAS",
@@ -4172,7 +4160,7 @@ const productos = [
    "1": 14.95,
      },
   imagen: "assets/img/productos/Imagen933.jpeg",
-  stock: 5
+  stock: 3
 },
              {
   nombre: "6226CORRAL HEXAGONAL",
@@ -4523,19 +4511,9 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen975.jpeg",
-  stock: 8
+  stock: 7
 },
-                                   {
-  nombre: "6289LUCES CASCADA MULTICOLOR",
-  categoria: "Navidad / Regalos",
-  descripcion: "Ilumina tu Navidad con luces multicolor que llenan cada espacio de alegría, brillo y magia.",
-  precios: {
-   "1": 7.95,
-     },
-  imagen: "assets/img/productos/Imagen974.jpeg",
-  stock: 1
-},
-                            {
+                                                               {
   nombre: "6291SQUISHY DUMPLING",
   categoria: "Juguetes",
   descripcion: "Divertido squishy de 8.5 cm, suave y adorable, ideal para aliviar el estrés y coleccionar en sus lindos colores.",
