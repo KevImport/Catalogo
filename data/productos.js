@@ -4492,17 +4492,17 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Estimula la creatividad y la imaginación de los pequeños creando casas, figuras y muchas construcciones coloridas.",
   precios: {
-   "1": 10.95,
+   "1": 13.90,
      },
   imagen: "assets/img/productos/Imagen971.jpeg",
-  stock: 12
+  stock: 8
 },
                                  {
   nombre: "6286JUGUETE MINI TOCADOR",
   categoria: "Juguetes",
   descripcion: "¡Un lindo tocador para que las pequeñas se diviertan jugando a maquillarse y arreglarse! Ideal para regalar. Medida: 39.5 × 24 × 7 cm",
   precios: {
-   "1": 19.90,
+   "1": 25.90,
      },
   imagen: "assets/img/productos/Imagen972.jpeg",
   stock: 6
@@ -4780,4 +4780,139 @@ const productos = [
   imagen: "assets/img/productos/Imagen1000.jpeg",
   stock: 17
 }, 
+                     {
+  nombre: "6325SCOOTER GRAFITI CON LUCES LED",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión sobre ruedas! Diseño grafiti colorido, 3 ruedas para mayor estabilidad, altura ajustable y ruedas luminosas LED.  Presentación: caja",
+  precios: {
+   "1": 27.90,
+     },
+  imagen: "assets/img/productos/Imagen1001.jpeg",
+  stock: 8
+}, 
+                     {
+  nombre: "6326COLLAR DE GRADUACIÓN",
+  categoria: "Decoración / Fiesta",
+  descripcion: "Incluye cajita. ¡El detalle perfecto para celebrar y recordar un gran logro! Diseño al azar.",
+  precios: {
+   "1": 6.95,
+   "3": 5.55,
+   "6": 5.25,
+     },
+  imagen: "assets/img/productos/Imagen1002.jpeg",
+  stock: 8
+}, 
+                     {
+  nombre: "6328JUEGO DE 6 FUNDAS PARA SILLAS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Renueva tu comedor con un toque moderno y elegante! Protege tus sillas con estas hermosas fundas texturizadas.",
+  precios: {
+   "1": 29.95,
+     },
+  imagen: "assets/img/productos/Imagen1003.jpeg",
+  stock: 1
+}, 
+                     {
+  nombre: "6330JUEGO DE MEMORIA",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Pon a prueba tu rapidez mental y memoria! Incluye ruleta de letras y tarjetas para divertirse en familia.",
+  precios: {
+   "1": 15.95,
+     },
+  imagen: "assets/img/productos/Imagen1004.jpeg",
+  stock: 2
+}, 
+                     {
+  nombre: "6331GLOBO FELIZ NAVIDAD",
+  categoria: "Navidad",
+  descripcion: "Decora tus fiestas con este hermoso globo navideño en rojo y verde, ¡perfecto para llenar tu hogar de magia y alegría!",
+  precios: {
+   "1": 2.95,
+   "3": 1.95,
+   "6": 1.75,
+     },
+  imagen: "assets/img/productos/Imagen1005.jpeg",
+  stock: 7
+}, 
+                     {
+  nombre: "6332ELEFANTE MALABARISTA",
+  categoria: "Juguetes",
+  descripcion: "Luces multicolor, música y bolitas flotantes. Usa 3 pilas AA (no incluidas).",
+  precios: {
+   "1": 23.90,
+     },
+  imagen: "assets/img/productos/Imagen1006.jpeg",
+  stock: 5
+}, 
+                       {
+  nombre: "6333PISTOLA LANZA BOLAS Y AVIONES",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión y aventura en cada lanzamiento! Juega, apunta y lanza para disfrutar de horas de entretenimiento.",
+  precios: {
+   "1": 17.90,
+     },
+  imagen: "assets/img/productos/Imagen1007.jpeg",
+  stock: 23
+}, 
+                       {
+  nombre: "6334METRALLETA DE HIDROGEL CON LÁSER",
+  categoria: "Juguetes",
+  descripcion: "¡Diversión y acción al máximo! Presentación en caja. Incluye bolitas de hidrogel. Lentes de protección. Cable cargador. 1 batería y 1 láser.",
+  precios: {
+   "1": 26.90,
+     },
+  imagen: "assets/img/productos/Imagen1008.jpeg",
+  stock: 19
+}, 
+                       {
+  nombre: "6335FOCO VENTILADOR",
+  categoria: "Hogar / Cocina",
+  descripcion: "Ilumina y refresca tus ambientes con este práctico foco ventilador, incluye control remoto. Diámetro: 29cm",
+  precios: {
+   "1": 21.95,
+     },
+  imagen: "assets/img/productos/Imagen1009.jpeg",
+  stock: 2
+},
+                       {
+  nombre: "6336RAQUETA ELÉCTRICA MATA MOSQUITOS",
+  categoria: "Hogar / Cocina",
+  descripcion: "¡Despídete de los molestos insectos! Elimina mosquitos y moscas al contacto, sin químicos y con malla de alta densidad. Color al azar",
+  precios: {
+   "1": 8.95,
+     },
+  imagen: "assets/img/productos/Imagen1010.jpeg",
+  stock: 7
+},
+                       {
+  nombre: "6337COBERTOR NAVIDEÑO PARA LICUADORA",
+  categoria: "Navidad",
+  descripcion: "Protege y decora tu licuadora con un lindo diseño navideño, ideal para darle un toque festivo y acogedor a tu cocina. Diseño al azar.",
+  precios: {
+   "1": 5.95,
+   "3": 4.95,
+     },
+  imagen: "assets/img/productos/Imagen1011.jpeg",
+  stock: 11
+},
+                       {
+  nombre: "6338MESA DE BLOQUES DIDÁCTICA 102 PCS",
+  categoria: "Juguetes",
+  descripcion: "¡Despierta la imaginación de tus pequeños con esta increíble mesa interactiva de 102 piezas! El espacio perfecto para construir.",
+  precios: {
+   "1": 39.90,
+     },
+  imagen: "assets/img/productos/Imagen1012.jpeg",
+  stock: 12
+},
+                       {
+  nombre: "6339DRONE E99 PRO",
+  categoria: "Juguetes",
+  descripcion: "Divertido drone E99 con cámara y control remoto, ideal para disfrutar emocionantes vuelos, explorar desde las alturas y regalar momentos de diversión.",
+  precios: {
+   "1": 39.90,
+     },
+  imagen: "assets/img/productos/Imagen1013.jpeg",
+  stock: 2
+},
   ];
