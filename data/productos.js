@@ -4156,19 +4156,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen929.jpeg",
   stock: 2
 },
-               {
-  nombre: "6218MOUSE PAD MAPAMUNDI",
-  categoria: "Hogar / Cocina",
-  descripcion: "¡Dale estilo gamer a tu escritorio con este mapamundi! Amplio y cómodo. Medida aprox.: 80 x 30cm",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-   "6": 6.75,
-   "12": 6.55,
-     },
-  imagen: "assets/img/productos/Imagen931.jpeg",
-  stock: 20
-},
            {
   nombre: "6219SET DE 12 BOLSAS DE PAPEL",
   categoria: "Decoración / Fiesta",
@@ -4657,7 +4644,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "assets/img/productos/Imagen986.jpeg",
-  stock: 8
+  stock: 5
 },
                                                {
   nombre: "6308MANTEL DE ENCAJE",
@@ -4677,7 +4664,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "assets/img/productos/Imagen988.jpeg",
-  stock: 15
+  stock: 10
 },
               {
   nombre: "6311LIMPIADOR DE LAVADORA",
@@ -4713,19 +4700,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen991.jpeg",
   stock: 18
 },  
-              {
-  nombre: "6314CARRO CON LUCES – LIGHTING CAR",
-  categoria: "Juguetes",
-  descripcion: "¡Diversión sobre ruedas para los pequeños! Diseño deportivo y moderno. Ruedas con luces llamativas. Presentación en blíster de 18 cm x 13.5 cm.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "6": 2.95,
-     },
-  imagen: "assets/img/productos/Imagen992.jpeg",
-  stock: 63
-}, 
-                {
+                 {
   nombre: "6315ESPUMA EXPANSIVA",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para sellar grietas, rellenar huecos y aislar del frío, calor y ruido. Se expande al aplicar y endurece rápidamente. Perfecta para reparaciones en casa y construcción.",
