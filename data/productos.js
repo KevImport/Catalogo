@@ -1525,18 +1525,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen461.jpeg",
   stock: 3
 },
-   {
-  nombre: "5527SOPORTE DE CELULAR GIRATORIO",
-  categoria: "Electrónica / Gadgets",
-  descripcion: "Ideal para ver pelis, videollamadas o grabar contenido. Estable, práctico y súper cómodo. ¡Llévalo a donde quieras!",
-  precios: {
-   "1": 4.95,
-   "3": 3.55,
-     },
-  imagen: "assets/img/productos/Imagen463.jpeg",
-  stock: 3
-},
-     {
+       {
   nombre: "5533PERCHERO DECORATIVO",
   categoria: "Hogar / Cocina",
   descripcion: "Organiza tus llaves con estilo y mantén todo en orden. Ideal para entrada, sala u oficina, fácil de colgar. Medida: 30 x 11 cm",
