@@ -4891,4 +4891,14 @@ const productos = [
   imagen: "assets/img/productos/Imagen1013.jpeg",
   stock: 2
 },
+                         {
+  nombre: "PELUCHE WINNIE POOH 80cm",
+  categoria: "Juguetes",
+  descripcion: "Ideal para sorprender con un regalo tierno, bonito y especial.",
+  precios: {
+   "1": 79.90,
+     },
+  imagen: "Imagen1014.jpeg",
+  stock: 1
+},
   ];
