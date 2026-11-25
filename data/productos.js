@@ -4488,16 +4488,6 @@ const productos = [
   stock: 19
 }, 
                        {
-  nombre: "6335FOCO VENTILADOR",
-  categoria: "Hogar / Cocina",
-  descripcion: "Ilumina y refresca tus ambientes con este práctico foco ventilador, incluye control remoto. Diámetro: 29cm",
-  precios: {
-   "1": 21.95,
-     },
-  imagen: "assets/img/productos/Imagen1009.jpeg",
-  stock: 2
-},
-                       {
   nombre: "6336RAQUETA ELÉCTRICA MATA MOSQUITOS",
   categoria: "Hogar / Cocina",
   descripcion: "¡Despídete de los molestos insectos! Elimina mosquitos y moscas al contacto, sin químicos y con malla de alta densidad. Color al azar",
