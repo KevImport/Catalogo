@@ -4333,7 +4333,7 @@ const productos = [
    "6": 8.55,
      },
   imagen: "assets/img/productos/Imagen993.jpeg",
-  stock: 12
+  stock: 11
 }, 
                    {
   nombre: "6318LLAVERO DE LA SUERTE",
