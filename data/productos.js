@@ -893,17 +893,6 @@ const productos = [
   stock: 7
 },
  {
-  nombre: "5271BOLA DE NIEVE NAVIDEÑA SANTA",
-  categoria: "Navidad / Regalos",
-  descripcion: "Adorno decorativo con figura de Papá Noel. Base roja con lazo dorado y mensaje Merry Christmas. Ideal para decorar tu hogar o regalar en esta Navidad.  Un detalle clásico y encantador para celebrar la temporada. Medida aprox.: 9cm",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-  },
-  imagen: "assets/img/productos/Imagen279.jpeg",
-  stock: 8
-},
- {
   nombre: "5275ORGANIZADOR COLGANTE",
   categoria: "Hogar / Cocina",
   descripcion: "Optimiza tu espacio y mantiene todo ordenado. Perfecto para ropa, toallas o pañales. Diseño colgante para encontrar todo rápido.",
@@ -924,7 +913,7 @@ const productos = [
    "10": 0.95,
   },
   imagen: "assets/img/productos/Imagen288.jpeg",
-  stock: 60
+  stock: 24
 },
   {
   nombre: "5284CEPILLO DE VAPORIZADOR DE MASCOTAS",
@@ -1037,29 +1026,6 @@ const productos = [
   },
   imagen: "assets/img/productos/Imagen321.jpeg",
   stock: 25
-},
-        {
-  nombre: "5329SET DE LENTES + 1 PAR DE GANCHOS",
-  categoria: "Accesorios",
-  descripcion: "Incluye lentes modernos y ganchos para el cabello a juego. Perfecto para un look fresco, divertido y con mucho estilo.",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-  },
-  imagen: "assets/img/productos/Imagen324.jpeg",
-  stock: 15
-},
-        {
-  nombre: "5330ROMPECABEZAS DE MADERA DIDÁCTICO",
-  categoria: "Escolar / Papelería",
-  descripcion: "Diseños divertidos de animalitos y dinosaurios que estimulan la motricidad y creatividad. Mide 10.8 × 10.8 × 0.5 cm — ¡ideal para manos pequeñas y horas de diversión educativa!",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-   "6": 1.75,
-  },
-  imagen: "assets/img/productos/Imagen325.jpeg",
-  stock: 5
 },
   {
   nombre: "5331DOMINÓ CLÁSICO",
@@ -1183,7 +1149,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "assets/img/productos/Imagen366.jpeg",
-  stock: 17
+  stock: 13
 },
        {
   nombre: "5387SET DE MINI DRAGONES",
@@ -1441,7 +1407,7 @@ const productos = [
    "3": 4.25,
      },
   imagen: "assets/img/productos/Imagen451.png",
-  stock: 4
+  stock: 3
 },
  {
   nombre: "5508GEL LIMPIADOR DE INODORO",
@@ -1859,7 +1825,7 @@ const productos = [
    "6": 2.65,
        },
   imagen: "assets/img/productos/Imagen580.jpeg",
-  stock: 10
+  stock: 4
 },
     {
   nombre: "5716RODILLO QUITAPELUSA",
@@ -1917,18 +1883,6 @@ const productos = [
        },
   imagen: "assets/img/productos/Imagen592.jpeg",
   stock: 18
-},
-          {
-  nombre: "5740CORREA PARA CABALLERO",
-  categoria: "Accesorios",
-  descripcion: "Diseño elegante y versátil, ideal para cualquier ocasión. Medida 3.5 x 115 cm, cómodo y fácil de combinar con tu outfit.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-   "6": 4.65,
-       },
-  imagen: "assets/img/productos/Imagen595.jpeg",
-  stock: 7
 },
             {
   nombre: "5758LIBRO MÁGICO",
@@ -2012,18 +1966,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen609.jpeg",
   stock: 12
 },
-      {
-  nombre: "5774BOLSA CON ASAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Medida: 20 x 25 x 9 cm, prácticas y espaciosas. Dale un toque elegante y moderno a tus regalos, detalles y emprendimientos. Resistentes, prácticas y súper lindas para toda ocasión ",
-  precios: {
-   "1": 3.95,
-   "3": 2.55,
-       },
-  imagen: "assets/img/productos/Imagen610.jpeg",
-  stock: 4
-},
-        {
+         {
   nombre: "5777KIT TERMO CON TAZAS",
   categoria: "Hogar / Cocina",
   descripcion: "¡Práctico, útil y listo para usar!  Termo de 500 ML con 3 tazas para disfrutar tus bebidas frías o calientes en el trabajo, estudio o viaje. Color al azar",
@@ -2146,7 +2089,7 @@ const productos = [
    "3": 5.95,
   },
   imagen: "assets/img/productos/Imagen639.jpeg",
-  stock: 22
+  stock: 21
 },
    {
   nombre: "5827PARCHE DE CUERO 50 x 130 CM - COLOR NEGRO",
@@ -2268,7 +2211,7 @@ const productos = [
    "3": 6.95,
   },
   imagen: "assets/img/productos/Imagen668.jpeg",
-  stock: 11
+  stock: 10
 },
                     {
   nombre: "5874MANTA LUMINOSA",
@@ -2487,10 +2430,9 @@ const productos = [
   descripcion: "Medida: 80 x 30 cm | Optimiza tu trabajo o estudio con este mouse pad XL que incluye atajos de teclado. Superficie amplia, antideslizante y perfecta para una mayor comodidad.",
   precios: {
    "1": 7.95,
-   "3": 6.95,
   },
   imagen: "assets/img/productos/Imagen711.jpeg",
-  stock: 5
+  stock: 1
 },
                 {
   nombre: "5936SQUISH DONA ANTIESTRÉS",
@@ -2533,10 +2475,9 @@ const productos = [
   precios: {
    "1": 4.95,
    "3": 3.55,
-   "6": 3.25,
   },
   imagen: "assets/img/productos/Imagen715.jpeg",
-  stock: 10
+  stock: 3
 },
                         {
   nombre: "5941MORTERO DE COCINA",
@@ -2597,10 +2538,9 @@ const productos = [
    "1": 5.95,
    "3": 4.95,
    "6": 4.75,
-   "12": 4.55,
   },
   imagen: "assets/img/productos/Imagen726.jpeg",
-  stock: 14
+  stock: 6
 },
                        {
   nombre: "5954CARRUSEL MUSICAL",
@@ -2621,10 +2561,9 @@ const productos = [
   precios: {
    "1": 2.95,
    "3": 1.95,
-   "6": 1.75,
   },
   imagen: "assets/img/productos/Imagen730.jpeg",
-  stock: 10
+  stock: 3
 },
     {
   nombre: "5959ACEITE PARA BEBÉ 200ml",
@@ -2658,7 +2597,7 @@ const productos = [
    "1": 8.95,
   },
   imagen: "assets/img/adicionales/Imagen734.jpeg",
-  stock: 4
+  stock: 2
 },
         {
   nombre: "5966SET DE 10 BOLSITAS CON LAZO",
@@ -2702,7 +2641,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "assets/img/productos/Imagen741.jpeg",
-  stock: 7
+  stock: 6
 },
              {
   nombre: "5987SADOER BODY LOTION – HIDRATACIÓN TOTAL",
@@ -2749,28 +2688,16 @@ const productos = [
   imagen: "assets/img/productos/Imagen749.png",
   stock: 2
 },
-  {
-  nombre: "5995POLERON ABRIGADOR",
-  categoria: "Ropa interior",
-  descripcion: "Súper suave, abrigador y cómodo para mantenerte calientito en días fríos. Diseño amplio y acogedor, ideal para descansar, estudiar o ver tus series favoritas. Única Talla que cede por ser Oversize, color al azar.",
-  precios: {
-   "1": 22.90,
-     },
-  imagen: "assets/img/productos/Imagen752.jpeg",
-  stock: 2
-},
-  {
+   {
   nombre: "6000ORGANIZADOR DE REFRIGERADORA",
   categoria: "Hogar / Cocina",
   descripcion: "¡Maximiza el espacio de tu refri con este organizador retráctil! Engánchalo fácil, estíralo a tu gusto y mantén tus frutas bien frescas y súper ordenadas. Estás a un paso de tener la cocina de tus sueños.",
   precios: {
    "1": 3.95,
    "3": 2.55,
-   "6": 2.25,
-   "12": 1.95,
      },
   imagen: "assets/img/productos/Imagen757.jpeg",
-  stock: 19
+  stock: 3
 },
   {
   nombre: "6001BOTA PROTECTORA IMPERMEABLE",
@@ -2824,18 +2751,7 @@ const productos = [
   imagen: "assets/img/adicionales/Imagen765.jpeg",
   stock: 1
 },
-        {
-  nombre: "4834STICKER CUADRO 3D",
-  categoria: "Hogar / Cocina",
-  descripcion: "Dale un toque moderno y elegante a tus espacios con este STICKER CUADRO 3D. Ideal para sala, escaleras, dormitorio y más. Medida aprox. 30 x 40 cm. ¡Fácil de colocar y perfecto para renovar tu decoración!",
-  precios: {
-   "1": 3.95,
-   "3": 2.95,
-     },
-  imagen: "assets/img/adicionales/Imagen766.jpeg",
-  stock: 5
-},
-     {
+      {
   nombre: "6013PAR DE GUANTES REUTILIZABLES",
   categoria: "Hogar / Cocina",
   descripcion: "Protege tus manos mientras realizas tus labores de limpieza y hogar. Cómodos, impermeables y reutilizables, ¡ideales para lavar, limpiar y mucho más! Medida: 31 cm / Color al azar",
@@ -2846,7 +2762,7 @@ const productos = [
    "12": 1.95,
      },
   imagen: "assets/img/productos/Imagen770.jpeg",
-  stock: 11
+  stock: 10
 },
       {
   nombre: "6014PACK DE 12 PORTA ROSAS DECORATIVAS",
@@ -3002,7 +2918,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "assets/img/productos/Imagen799.jpeg",
-  stock: 25
+  stock: 10
 },
       {
   nombre: "6046COLLAR GIRASOL",
@@ -3016,19 +2932,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen801.jpeg",
   stock: 8
 },
-        {
-  nombre: "6048SET DE 8 CARRITOS DE METAL",
-  categoria: "Juguetes",
-  descripcion: "El regalo perfecto para los pequeños pilotos y coleccionistas del hogar! Autos superresistentes de metal die-cast con rodaje libre, listos para dominar cualquier pista y asegurar horas de diversión.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
-   "6": 4.75,
-     },
-  imagen: "assets/img/productos/Imagen802.jpeg",
-  stock: 9
-},
-        {
+         {
   nombre: "6050SET DE 12 PLATITOS MULTIUSO",
   categoria: "Hogar / Cocina",
   descripcion: "Perfectos para servir salsas, snacks, postres, frutas y bocaditos. Prácticos, ligeros y fáciles de limpiar. ¡Ideales para cualquier ocasión!. Color al azar",
@@ -3103,7 +3007,7 @@ const productos = [
    "1": 7.95,
      },
   imagen: "assets/img/productos/Imagen814.jpeg",
-  stock: 6
+  stock: 5
 },
        {
   nombre: "6071PACK DE 8 BARRAS DE SILICONA",
@@ -3536,7 +3440,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen889.jpeg",
-  stock: 5
+  stock: 3
 },
   {
   nombre: "6160JARRA COLADORA DE ACEITE",
@@ -3587,19 +3491,6 @@ const productos = [
   stock: 28
 },
     {
-  nombre: "6166TIRA DE LUCES LED",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque especial a tus espacios con sus luces brillantes y coloridas. Medida aprox. 10 metros. Conexión USB. Color al azar: multicolor, verde o rojo.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.75,
-   "12": 3.55,
-     },
-  imagen: "assets/img/productos/Imagen895.png",
-  stock: 28
-},
-    {
   nombre: "6167VELA LED LARGA",
   categoria: "Navidad / Regalos",
   descripcion: "Ilumina tus espacios con una luz cálida y acogedora, sin llama ni humo. Ideal para decoración, cenas, eventos y ocasiones especiales. Color al azar: blanco, crema y rojo.",
@@ -3639,12 +3530,10 @@ const productos = [
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para preparar y llevar tus bebidas favoritas. Práctico y cómodo para el gym, trabajo, cole o uso diario. Color al azar.",
   precios: {
-   "1": 6.95,
-   "3": 5.95,
-   "6": 5.75,
-     },
+   "1": 5.95,
+        },
   imagen: "assets/img/productos/Imagen901.jpeg",
-  stock: 9
+  stock: 2
 },
         {
   nombre: "6176PISO ABSORBENTE",
@@ -4072,7 +3961,7 @@ const productos = [
    "1": 17.90,
      },
   imagen: "assets/img/productos/Imagen948.jpeg",
-  stock: 8
+  stock: 5
 },
                {
   nombre: "6249PIZARRA + ROMPECABEZAS 2 EN 1",
