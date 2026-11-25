@@ -712,7 +712,7 @@ const productos = [
     "3": 4.95,
  },
   imagen: "assets/img/productos/Imagen213.jpeg",
-  stock: 5
+  stock: 3
 },
   {
   nombre: "5139RESTAURADOR DE PARTES NEGRAS",
@@ -860,26 +860,14 @@ const productos = [
   stock: 7
 },
    {
-  nombre: "5264CORTINA ÁMBAR NAVIDEÑA CON DISEÑO",
-  categoria: "Navidad / Regalos",
-  descripcion: "Figuras de arbolitos con diseños navideños (Santa, reno, muñeco de nieve y más). Luces cálidas que crean un ambiente mágico y festivo. Ideal para decorar ventanas, salas o tu arbolito. Dale un brillo especial a tu Navidad. Medida: 3m x 1.5m",
-  precios: {
-   "1": 14.95,
- },
-  imagen: "assets/img/productos/Imagen273.jpeg",
-  stock: 9
-},
-   {
   nombre: "5269MINI CEPILLO CON ESPEJO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Puedes llevarlo a todos lados para verte perfecta y linda siempre. Peine retráctil e incluye espejo.",
   precios: {
    "1": 3.95,
-   "3": 2.95,
-   "6": 2.65,
  },
   imagen: "assets/img/productos/Imagen277.png",
-  stock: 12
+  stock: 1
 },
   {
   nombre: "5270PLANCHA DE LIGUITAS PARA EL CABELLO",
@@ -891,17 +879,6 @@ const productos = [
   },
   imagen: "assets/img/productos/Imagen278.jpeg",
   stock: 7
-},
- {
-  nombre: "5275ORGANIZADOR COLGANTE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Optimiza tu espacio y mantiene todo ordenado. Perfecto para ropa, toallas o pañales. Diseño colgante para encontrar todo rápido.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-  },
-  imagen: "assets/img/productos/Imagen283.jpeg",
-  stock: 4
 },
    {
   nombre: "5283PAQUETITO DE NOTAS NAVIDEÑAS",
@@ -1160,7 +1137,7 @@ const productos = [
    "1": 3.95,
      },
   imagen: "assets/img/productos/Imagen368.jpeg",
-  stock: 18
+  stock: 14
 },
         {
   nombre: "5388PULSERA DE ABUNDANCIA Y RIQUEZA",
@@ -1385,7 +1362,7 @@ const productos = [
    "3": 1.55,
      },
   imagen: "assets/img/productos/Imagen444.jpeg",
-  stock: 37
+  stock: 21
 },
   {
   nombre: "5498CINTA MASKING TAPE DE 2\"",
@@ -1425,10 +1402,9 @@ const productos = [
   descripcion: "Diseño en relieve súper llamativo ideal para el cole. Amplio espacio para lápices, colores y accesorios. Modelos y colores surtidos, al azar.",
   precios: {
    "1": 4.95,
-   "3": 3.95,
      },
   imagen: "assets/img/productos/Imagen461.jpeg",
-  stock: 3
+  stock: 1
 },
        {
   nombre: "5533PERCHERO DECORATIVO",
@@ -1448,11 +1424,9 @@ const productos = [
    "1": 3.95,
    "3": 2.25,
    "6": 1.95,
-   "12": 1.75,
-   "24": 1.55,
      },
   imagen: "assets/img/productos/Imagen468.png",
-  stock: 26
+  stock: 6
 },
    {
   nombre: "5539LONCHERA KPOP",
@@ -1483,7 +1457,7 @@ const productos = [
    "1": 9.95,
      },
   imagen: "assets/img/productos/Imagen472.jpeg",
-  stock: 4
+  stock: 2
 },
          {
   nombre: "5556SET DE 5 PARES DE ARETES DE FLORES",
@@ -1505,7 +1479,7 @@ const productos = [
    "6": 2.55,
      },
   imagen: "assets/img/productos/Imagen483.png",
-  stock: 20
+  stock: 8
 },
                    {
   nombre: "5561SET DE 10 MANITOS SUJETADORAS",
@@ -1575,7 +1549,7 @@ const productos = [
    "6": 4.65,
        },
   imagen: "assets/img/productos/Imagen517.jpeg",
-  stock: 11
+  stock: 9
 },
      {
   nombre: "5627REMOVEDOR DE ADHESIVO",
@@ -1857,10 +1831,9 @@ const productos = [
    "1": 3.95,
    "3": 2.55,
    "6": 2.25,
-   "12": 1.95,
        },
   imagen: "assets/img/productos/Imagen584.jpeg",
-  stock: 27
+  stock: 9
 },
                      {
   nombre: "1001GOMITAS DE DHA PARA ADULTOS - 130 UNIDADES",
@@ -1985,7 +1958,7 @@ const productos = [
    "3": 1.95,
     },
   imagen: "assets/img/productos/Imagen613.jpeg",
-  stock: 13
+  stock: 4
 },
                   {
   nombre: "5787DESTAPADOR BOTELLA",
@@ -2020,7 +1993,7 @@ const productos = [
    "3": 2.95,
   },
   imagen: "assets/img/productos/Imagen622.jpeg",
-  stock: 22
+  stock: 16
 },
          {
   nombre: "5800FILTRO ATRAPA PELUSAS",
@@ -2058,16 +2031,6 @@ const productos = [
   },
   imagen: "assets/img/productos/Imagen627.jpeg",
   stock: 8
-},
-    {
-  nombre: "5815PARLANTE PELOTA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Conecta tu música y vive la pasión del fútbol con este parlante Bluetooth mundialista de sonido potente y diseño único. Ideal para reuniones, partidos y celebraciones, con conexión rápida para disfrutar tus canciones favoritas donde vayas.",
-  precios: {
-   "1": 13.90,
-  },
-  imagen: "assets/img/productos/Imagen630.jpeg",
-  stock: 3
 },
           {
   nombre: "5823TABLERO LED PARA MENSAJES",
@@ -2144,18 +2107,18 @@ const productos = [
    "12": 1.55,
   },
   imagen: "assets/img/productos/Imagen655.jpeg",
-  stock: 36
+  stock: 33
 },
    {
   nombre: "5847BOXER HOMBRE CALVIN KLEN",
   categoria: "Ropa interior",
-  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. Talla M: 6 unidades, Talla L: 3 unidades",
+  descripcion: "Diseño moderno y cómodo. Ideal para brindar comodidad, frescura y estilo durante todo el día. Talla M: 6 unidades",
   precios: {
    "3": 4.95,
    "6": 4.75,
   },
   imagen: "assets/img/productos/Imagen656.jpeg",
-  stock: 9
+  stock: 6
 },
        {
   nombre: "5857CREMA LIMPIADORA",
@@ -2212,16 +2175,6 @@ const productos = [
   },
   imagen: "assets/img/productos/Imagen668.jpeg",
   stock: 10
-},
-                    {
-  nombre: "5874MANTA LUMINOSA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Brillan en la oscuridad. Abrígate con éstas mantas luminosas. Medida aprox.: 100cm x 150cm. Se recarga con la luz solar o artificial. Color o diseño al azar.",
-  precios: {
-   "1": 9.90,
-  },
-  imagen: "assets/img/productos/Imagen672.jpeg",
-  stock: 8
 },
                       {
   nombre: "5875CINTA DE EMBALAJE 400 YARDAS",
@@ -2309,10 +2262,9 @@ const productos = [
   precios: {
    "1": 5.95,
    "3": 4.95,
-   "6": 4.65,
   },
   imagen: "assets/img/productos/Imagen687.jpeg",
-  stock: 6
+  stock: 3
 },
       {
   nombre: "5892SET DE VOLQUETA Y EXCAVADORA DE CONSTRUCCIÓN",
@@ -2719,7 +2671,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "assets/img/productos/Imagen760.jpeg",
-  stock: 17
+  stock: 12
 },
     {
   nombre: "6004CINTA IMPERMEABLE DE BUTILO",
@@ -2731,17 +2683,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen761.jpeg",
   stock: 1
 },
-    {
-  nombre: "5021SACO CORREA PARA NIÑAS",
-  categoria: "Ropa interior",
-  descripcion: "Elegante y abrigador, ideal para complementar cualquier outfit. Material Dakota afranelada, talla 12 y hermoso color perla.",
-  precios: {
-   "1": 17.90,
-     },
-  imagen: "assets/img/adicionales/Imagen764.jpeg",
-  stock: 1
-},
-      {
+       {
   nombre: "4101SET DE 10 HOJAS ADHESIVAS",
   categoria: "Escolar / Papelería",
   descripcion: "Dale color y creatividad a tus proyectos con estos diseños adhesivos, ¡ideales para decorar!. Cada hoja mide 20 × 30 cm. Los modelos pueden variar.",
@@ -3126,7 +3068,7 @@ const productos = [
    "3": 5.95,
      },
   imagen: "assets/img/productos/Imagen849.jpeg",
-  stock: 10
+  stock: 9
 },
        {
   nombre: "6109POTE DE 100 HISOPOS",
@@ -3147,10 +3089,9 @@ const productos = [
   descripcion: "¡Mantén todos tus espacios ordenados y aprovecha mejor cada rincón! Práctico, amplio y fácil de mover. Color al azar. Material: plástico",
   precios: {
    "1": 11.95,
-   "3": 10.95,
      },
   imagen: "assets/img/productos/Imagen854.jpeg",
-  stock: 6
+  stock: 2
 },
              {
   nombre: "6114SET DE 3 TAPERS DE ALMACENAMIENTO",
@@ -3450,7 +3391,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen891.jpeg",
-  stock: 8
+  stock: 9
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
@@ -3992,7 +3933,7 @@ const productos = [
    "3": 1.95,
      },
   imagen: "assets/img/productos/Imagen951.jpeg",
-  stock: 29
+  stock: 26
 },
              {
   nombre: "6253BARRA DE LUZ DE EMERGENCIA RECARGABLE",
