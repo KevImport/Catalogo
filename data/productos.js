@@ -1,14 +1,4 @@
 const productos = [
-{
-  nombre: "5175CONDIMENTERO GIRATORIO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Material: ABS + Metal resistente. Base giratoria 360°. Incluye 18 frascos de 100 ml. Diseño elegante y práctico. Medida aprox.: 37 x 24 x 32 cm",
-  precios: {
-    "1": 31.50,
- },
-  imagen: "assets/img/productos/Imagen233.png",
-  stock: 2
-},
  {
   nombre: "4669LABIAL EN BARRA EFECTO MATE",
   categoria: "Belleza / Cosmética",
@@ -92,13 +82,12 @@ const productos = [
   categoria: "Accesorios",
   descripcion: "Un símbolo de cariño. Collar con diseño delicado que representa el amor puro. Perfecto como regalo.",
   precios: {
-    "1": 3.95,
-    "3": 2.25,
-    "6": 1.95,
-    "12": 1.65,
+    "1": 2.95,
+    "3": 1.95,
+    "6": 1.75,
   },
   imagen: "assets/img/productos/Imagen56.jpg",
-  stock: 12
+  stock: 11
 },
 {
   nombre: "4629LAPICERO DOBLE PUNTA",
@@ -245,19 +234,6 @@ const productos = [
   },
   imagen: "assets/img/productos/Imagen91.jpg",
   stock: 12
-},
-{
-  nombre: "3159JUEGO DE 2 COLLARES – CORAZÓN MAGNÉTICO",
-  categoria: "Accesorios",
-  descripcion: "Collares magnéticos para compartir con alguien especial. Al juntarse forman un corazón, ideal para parejas o amistades.",
-  precios: {
-    "1": 4.90,
-    "3": 3.50,
-    "6": 3.20,
-    "12": 2.90,
-  },
-  imagen: "assets/img/productos/Imagen94.jpg",
-  stock: 20
 },
 {
   nombre: "3054AVE DE EQUILIBRIO",
@@ -487,18 +463,6 @@ const productos = [
   stock: 15
 },
 {
-  nombre: "5016COLET ESPIRAL CORAZÓN",
-  categoria: "Accesorios",
-  descripcion: "Colet tipo espiral con diseño de corazón. No maltrata el cabello y añade un toque de estilo.",
-  precios: {
-    "1": 2.95,
-    "6": 1.85,
-    "12": 1.55,
-  },
-  imagen: "assets/img/productos/Imagen127.jpg",
-  stock: 16
-},
-{
   nombre: "4992COLET BASE GRANDE",
   categoria: "Accesorios",
   descripcion: "Elástico resistente de gran tamaño, ideal para recoger cabello abundante con firmeza y comodidad.",
@@ -711,11 +675,11 @@ const productos = [
   categoria: "Escolar / Papelería",
   descripcion: "Cartuchera con calculadora incorporada. Mantén tus lápices, lapiceros y accesorios siempre ordenados y resuelve operaciones al instante. ¡Práctica y funcional!",
   precios: {
-    "1": 4.95,
-    "3": 3.95,
+    "1": 3.95,
+    "3": 2.95,
  },
   imagen: "assets/img/productos/Imagen205.jpeg",
-  stock: 11
+  stock: 8
 },
  {
   nombre: "5120LLAVERO LÁSER MULTIFUNCIONAL",
@@ -735,10 +699,9 @@ const productos = [
   precios: {
     "1": 3.95,
     "3": 2.85,
-    "6": 2.55,
  },
   imagen: "assets/img/productos/Imagen208.jpeg",
-  stock: 8
+  stock: 4
 },
  {
   nombre: "5134SOPORTE UNIVERSAL PARA AUTO",
@@ -827,17 +790,6 @@ const productos = [
  },
   imagen: "assets/img/productos/Imagen232.jpeg",
   stock: 1
-},
- {
-  nombre: "5182BRAZALETE SERPENTEADO",
-  categoria: "Accesorios",
-  descripcion: "Pulsera estilo serpiente. Elegante, moderna y perfecta para realzar tu look. Ideal para cualquier ocasión especial.",
-  precios: {
-   "1": 5.95,
-   "3": 4.95,
- },
-  imagen: "assets/img/productos/Imagen239.jpeg",
-  stock: 4
 },
 {
   nombre: "5215ESENCIA ESPIRITUAL PARA HUMIFICADOR DE 10ML",
@@ -1384,19 +1336,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen413.jpeg",
   stock: 6
 },
-      {
-  nombre: "5465EMPAQUE DE 50 POST IT TRANSPARENTES",
-  categoria: "Escolar / Papelería",
-  descripcion: "Estas notas son ideales para hacer anotaciones en libros de texto, ya que puedes ver a través de ellas para resaltar o llamar a un contenido específico. Utilízalas en manualidades para calcar imágenes o patrones de otros artículos. Cada paquete tiene 50 hojitas.",
-  precios: {
-   "1": 3.95,
-   "3": 2.05,
-   "6": 1.85,
-   "12": 1.55,
-     },
-  imagen: "assets/img/productos/Imagen418.png",
-  stock: 12
-},
      {
   nombre: "5469SET DE 12 COLORES DUAL JUMBO",
   categoria: "Escolar / Papelería",
@@ -1717,7 +1656,7 @@ const productos = [
    "12": 1.55,
        },
   imagen: "assets/img/productos/Imagen523.jpeg",
-  stock: 34
+  stock: 13
 },
        {
   nombre: "5635SOPORTE ADHESIVO PARA LENTES",
@@ -1741,16 +1680,6 @@ const productos = [
        },
   imagen: "assets/img/productos/Imagen526.jpeg",
   stock: 10
-},
-         {
-  nombre: "5640SET DE 3 SECADORES SANRIO",
-  categoria: "Hogar / Cocina",
-  descripcion: "Paños de microfibra, super suaves. Medida: 30 x 30 cm, ideales para secar manos o superficies. Le dan un toque tierno a tu cocina o baño.",
-  precios: {
-   "1": 4.95,
-       },
-  imagen: "assets/img/productos/Imagen527.jpg",
-  stock: 2
 },
          {
   nombre: "5641TAPER DE DOS DIVISIONES",
@@ -1989,18 +1918,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen592.jpeg",
   stock: 18
 },
-      {
-  nombre: "5736QUITAPELUSA PANDITA 2 EN 1",
-  categoria: "Hogar / Cocina",
-  descripcion: "Elimina pelusa, polvo y pelos fácilmente en ropa y muebles. Diseño compacto y práctico, ideal para usar en casa o llevar contigo.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.65,
-       },
-  imagen: "assets/img/productos/Imagen593.jpg",
-  stock: 6
-},
           {
   nombre: "5740CORREA PARA CABALLERO",
   categoria: "Accesorios",
@@ -2111,10 +2028,10 @@ const productos = [
   categoria: "Hogar / Cocina",
   descripcion: "¡Práctico, útil y listo para usar!  Termo de 500 ML con 3 tazas para disfrutar tus bebidas frías o calientes en el trabajo, estudio o viaje. Color al azar",
   precios: {
-   "1": 9.90,
+   "1": 7.90,
        },
   imagen: "assets/img/productos/Imagen611.jpeg",
-  stock: 16
+  stock: 2
 },
             {
   nombre: "5780PARCHE LEON",
@@ -2297,18 +2214,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen656.jpeg",
   stock: 9
 },
-        {
-  nombre: "5854PLANTILLA RECORTABLE CON TALONERA",
-  categoria: "Higiene / Cuidado Personal",
-  descripcion: "Brinda mayor comodidad y soporte en cada paso, adaptándose fácilmente al tamaño de tu calzado. Ideal para uso diario, ayuda a reducir el impacto al caminar y proporciona una pisada más confortable. Medida: 30 x 8.5 cm",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-   "6": 3.75,
-  },
-  imagen: "assets/img/productos/Imagen658.jpeg",
-  stock: 10
-},
        {
   nombre: "5857CREMA LIMPIADORA",
   categoria: "Hogar / Cocina",
@@ -2330,7 +2235,7 @@ const productos = [
    "6": 1.75,
   },
   imagen: "assets/img/productos/Imagen662.jpeg",
-  stock: 6
+  stock: 7
 },
         {
   nombre: "5864MESA AUXILIAR MARIPOSA",
@@ -2420,17 +2325,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen678.jpeg",
   stock: 6
 },
-        {
-  nombre: "5882BALANZA GAMERA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Balanza gramera digital pesa desde 1 gramo hasta 5 kg. Tiene botón de tarar (tare) así solo pesas el contenido del recipiente. Apagado automático. Fácil de usar, guardar y transportar. Funciona con 2 pilas AA (Incluye pilas).",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-  },
-  imagen: "assets/img/productos/Imagen679.jpeg",
-  stock: 5
-},
     {
   nombre: "5884BOLSA PAVONADA",
   categoria: "Accesorios",
@@ -2497,18 +2391,6 @@ const productos = [
    "6": 2.75,
   },
   imagen: "assets/img/productos/Imagen691.jpeg",
-  stock: 6
-},
-        {
-  nombre: "5898PINZA COLADORA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Atrapa y escurre tus comidas favoritas sin salpicaduras! Para platos crujientes, deliciosos y sin exceso de grasa.",
-  precios: {
-   "1": 4.95,
-   "3": 3.25,
-   "6": 2.95,
-  },
-  imagen: "assets/img/productos/Imagen692.jpeg",
   stock: 6
 },
             {
@@ -2822,17 +2704,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen741.jpeg",
   stock: 7
 },
-           {
-  nombre: "5986PUZZLE DESLIZANTE DISNEY LICENCIA",
-  categoria: "Juguetes",
-  descripcion: "Divertido juego de ingenio que ayuda a desarrollar la concentración y coordinación. ¡Ideal para entretener a los peques mientras se divierten con sus personajes favoritos de Disney! Personaje al azar",
-  precios: {
-   "1": 2.95,
-   "3": 1.95,
-     },
-  imagen: "assets/img/productos/Imagen743.jpeg",
-  stock: 5
-},
              {
   nombre: "5987SADOER BODY LOTION – HIDRATACIÓN TOTAL",
   categoria: "Higiene / Cuidado Personal",
@@ -2998,16 +2869,6 @@ const productos = [
      },
   imagen: "assets/img/productos/Imagen773.jpeg",
   stock: 7
-},
-      {
-  nombre: "6021KIT DE HERRAMIENTAS",
-  categoria: "Hogar / Cocina",
-  descripcion: "Repara lo que quieras con este juego de 46 piezas que incluye chicharra, dados y puntas de alta resistencia. ¡El aliado perfecto, compacto y organizado para llevar siempre en tu maleta o auto!",
-  precios: {
-   "1": 12.95,
-     },
-  imagen: "assets/img/productos/Imagen777.jpeg",
-  stock: 2
 },
      {
   nombre: "1003GOMITAS DE VINAGRE DE MANZANA PARA ADULTOS - 150 UNIDADES",
@@ -3267,18 +3128,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen819.png",
   stock: 20
 },
-         {
-  nombre: "6074JOYERO VIAJERO CUTE",
-  categoria: "Hogar / Cocina",
-  descripcion: "Lleva tus accesorios siempre ordenados y protegidos, ¡perfecto para viajar! Compacto, práctico y con múltiples compartimentos para guardar tus joyitas favoritas.",
-  precios: {
-   "1": 4.95,
-   "3": 3.95,
-     },
-  imagen: "assets/img/productos/Imagen821.jpeg",
-  stock: 12
-},
-           {
+            {
   nombre: "6076SET DE 12 PELOTAS FIESTA",
   categoria: "Juguetes",
   descripcion: "¡Diversión asegurada con diseños coloridos y llamativos! Ideales para fiestas, juegos, piñatas, regalos y mucho más. Diseño al azar",
@@ -3288,17 +3138,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen823.jpeg",
   stock: 10
 },
-  {
-  nombre: "6077SET DE 10 PARES DE MEDIAS OSITO",
-  categoria: "Ropa interior",
-  descripcion: "Suavecitas, cómodas y súper lindas. ¡Ideales para el día a día!",
-  precios: {
-   "1": 5.95,
-     },
-  imagen: "assets/img/productos/Imagen824.jpeg",
-  stock: 3
-},
-  
   {
   nombre: "6078MOCHILA ANTIROBO DE DAMA",
   categoria: "Accesorios",
@@ -3321,17 +3160,6 @@ const productos = [
   stock: 4
 },
       {
-  nombre: "6081PULSERA HELLO KITTY",
-  categoria: "Accesorios",
-  descripcion: "Dale un toque tierno y divertido a tu look con esta hermosa pulsera de Hello Kitty. ¡Ideal para regalar y sorprender a toda fan de Hello Kitty!",
-  precios: {
-   "1": 7.95,
-   "3": 6.95,
-     },
-  imagen: "assets/img/productos/Imagen827.jpeg",
-  stock: 8
-},
-      {
   nombre: "6082CAJA DE 10 SACHETS SHAMPOO CUBRE CANAS – MARRÓN OSCURO",
   categoria: "Higiene / Cuidado Personal",
   descripcion: "Cubre las canas y ayuda a devolver un tono marrón oscuro al cabello de forma práctica. Fácil de usar y con resultados en pocos minutos, ideal para hombres y mujeres.",
@@ -3339,7 +3167,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen828.jpeg",
-  stock: 10
+  stock: 4
 },
         {
   nombre: "COMBO CREATIVO",
@@ -3718,7 +3546,7 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen891.jpeg",
-  stock: 10
+  stock: 8
 },
   {
   nombre: "6161CORAZÓN COLGADOR PARA LLAVES",
@@ -4264,7 +4092,7 @@ const productos = [
    "1": 4.95,
      },
   imagen: "assets/img/productos/Imagen950.jpeg",
-  stock: 18
+  stock: 4
 },
            {
   nombre: "6251COLADOR DE MALLA DE ALTA DENSIDAD",
