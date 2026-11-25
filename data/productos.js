@@ -4536,7 +4536,7 @@ const productos = [
    "1": 39.90,
      },
   imagen: "assets/img/productos/Imagen1013.jpeg",
-  stock: 1
+  stock: 2
 },
                          {
   nombre: "PELUCHE WINNIE POOH 80cm",
