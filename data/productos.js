@@ -2218,7 +2218,7 @@ const productos = [
    "3": 9.95,
   },
   imagen: "assets/img/productos/Imagen636.jpeg",
-  stock: 6
+  stock: 3
 },
    {
   nombre: "5826PACK DE 10 BOLSAS PINKY",
@@ -4385,7 +4385,7 @@ const productos = [
    "3": 8.95,
      },
   imagen: "assets/img/productos/Imagen963.jpeg",
-  stock: 8
+  stock: 4
 },
                          {
   nombre: "6275SET DE 5 LAPICEROS DE COLORES",
@@ -4579,17 +4579,17 @@ const productos = [
    "1": 6.95,
      },
   imagen: "assets/img/productos/Imagen984.jpeg",
-  stock: 2
+  stock: 5
 },
                                             {
-  nombre: "6305AUTO TESLA CON HUMO Y LUCES LED",
+  nombre: "6305CAMIONETA TESLA CON HUMO Y LUCES LED",
   categoria: "Juguetes",
   descripcion: "¡Diviértete con esta increíble camioneta Tesla! Con luces LED de colores, efecto de humo y un diseño futurista que encantará a los pequeños.",
   precios: {
    "1": 25.90,
      },
   imagen: "assets/img/productos/Imagen994.jpeg",
-  stock: 18
+  stock: 21
 },
                                              {
   nombre: "6306MANTEL ROJO NAVIDEÑO 150 × 250cm",
@@ -4710,7 +4710,7 @@ const productos = [
    "1": 25.90,
      },
   imagen: "assets/img/productos/Imagen997.jpeg",
-  stock: 6
+  stock: 5
 }, 
                    {
   nombre: "6322TIMBRE INALÁMBRICO PARA PUERTA",
@@ -4727,10 +4727,10 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Divertida abejita con luces y sonidos que estimula los sentidos y garantiza horas de entretenimiento para tu bebé.",
   precios: {
-   "1": 24.90,
+   "1": 22.90,
      },
   imagen: "assets/img/productos/Imagen999.jpeg",
-  stock: 6
+  stock: 8
 }, 
                    {
   nombre: "6324MINI VENTILADOR PORTÁTIL RECARGABLE",
@@ -4785,7 +4785,7 @@ const productos = [
    "1": 15.95,
      },
   imagen: "assets/img/productos/Imagen1004.jpeg",
-  stock: 2
+  stock: 4
 }, 
                      {
   nombre: "6331GLOBO FELIZ NAVIDAD",
@@ -4847,7 +4847,7 @@ const productos = [
    "1": 8.95,
      },
   imagen: "assets/img/productos/Imagen1010.jpeg",
-  stock: 7
+  stock: 10
 },
                        {
   nombre: "6337COBERTOR NAVIDEÑO PARA LICUADORA",
@@ -4878,7 +4878,7 @@ const productos = [
    "1": 39.90,
      },
   imagen: "assets/img/productos/Imagen1013.jpeg",
-  stock: 2
+  stock: 1
 },
                          {
   nombre: "PELUCHE WINNIE POOH 80cm",
