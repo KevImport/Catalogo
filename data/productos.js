@@ -3649,8 +3649,8 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Un detalle tierno y especial para celebrar grandes logros. ¡Ideal para regalos, graduaciones y recuerdos inolvidables!",
   precios: {
-   "1": 8.95,
-   "3": 7.95,
+   "1": 10.00,
+   "3": 8.50,
      },
   imagen: "assets/img/productos/Imagen915.jpeg",
   stock: 29
@@ -3660,8 +3660,9 @@ const productos = [
   categoria: "Juguetes",
   descripcion: "Un detalle tierno y especial para celebrar un gran logro y guardar un recuerdo inolvidable. Ideal para graduaciones escolares, universitarias o para sorprender a esa persona especial. Color al azar",
   precios: {
-   "1": 8.95,
-   "3": 7.95,
+   "1": 10.00,
+   "3": 8.50,
+   "6": 8.20,
      },
   imagen: "assets/img/productos/Imagen916.jpeg",
   stock: 53
