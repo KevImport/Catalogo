@@ -2931,17 +2931,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen811.jpeg",
   stock: 18
 },
-    {
-  nombre: "6064POLIVESTIDO KAWAII",
-  categoria: "Ropa interior",
-  descripcion: "Diseños tiernos y divertidos para lucir cómoda y adorable. Talla única. Diseño al azar.",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "assets/img/productos/Imagen812.jpeg",
-  stock: 2
-},
-     {
+      {
   nombre: "6066CAJA ORGANIZADORA DE INFUSIONES",
   categoria: "Hogar / Cocina",
   descripcion: "Mantén tus infusiones ordenadas y siempre al alcance. Práctica, elegante y perfecta para organizar tu cocina.",
@@ -3455,18 +3445,7 @@ const productos = [
   imagen: "assets/img/productos/Diseño899.jpeg",
   stock: 5
 },
-       {
-  nombre: "6172CÚPULA RELIGIOSA",
-  categoria: "Hogar / Cocina",
-  descripcion: "Un hermoso detalle para acompañar tus momentos de fe y decorar tus espacios. Diseños religiosos variados, ideales para regalar a alguien especial. Medida: 6.2 × 9 cm. Diseños al azar.",
-  precios: {
-   "1": 4.95,
-   "3": 3.65,
-     },
-  imagen: "assets/img/productos/Imagen900.jpeg",
-  stock: 4
-},
-       {
+ {
   nombre: "6173TOMATODO SHAKER 500 ML",
   categoria: "Hogar / Cocina",
   descripcion: "Ideal para preparar y llevar tus bebidas favoritas. Práctico y cómodo para el gym, trabajo, cole o uso diario. Color al azar.",
@@ -3780,16 +3759,6 @@ const productos = [
   imagen: "assets/img/productos/Imagen928.jpeg",
   stock: 28
 },
-         {
-  nombre: "6216GUITARRA KIDS",
-  categoria: "Juguetes",
-  descripcion: "¡Diversión musical con diseños coloridos! ¡El regalo perfecto para los pequeños! Diseño al azar.",
-  precios: {
-   "1": 10.95,
-     },
-  imagen: "assets/img/productos/Imagen929.jpeg",
-  stock: 2
-},
            {
   nombre: "6219SET DE 12 BOLSAS DE PAPEL",
   categoria: "Decoración / Fiesta",
@@ -3967,7 +3936,7 @@ const productos = [
    "1": 9.90,
      },
   imagen: "assets/img/productos/Imagen954.jpeg",
-  stock: 6
+  stock: 5
 },
                {
   nombre: "6259SET DE 2 GANCHOS LAZO",
@@ -4079,7 +4048,7 @@ const productos = [
    "3": 2.95,
      },
   imagen: "assets/img/productos/Imagen966.jpeg",
-  stock: 7
+  stock: 4
 },
                              {
   nombre: "6278CINTA IMPERMEABLE ANTIMOHO",
@@ -4258,7 +4227,7 @@ const productos = [
    "1": 14.95,
      },
   imagen: "assets/img/productos/Imagen985.jpeg",
-  stock: 3
+  stock: 2
 },
                                                {
   nombre: "6307PAQUETE DE 12 BOLSAS METALIZADAS NAVIDEÑAS – ZIPLOC",
@@ -4269,16 +4238,6 @@ const productos = [
      },
   imagen: "assets/img/productos/Imagen986.jpeg",
   stock: 5
-},
-                                               {
-  nombre: "6308MANTEL DE ENCAJE",
-  categoria: "Navidad",
-  descripcion: "Viste tu mesa con un toque de elegancia y delicadeza. Ideal para ocasiones especiales o el día a día. ¡Realza tu comedor! Para 6 sillas | Color al azar",
-  precios: {
-   "1": 9.95,
-     },
-  imagen: "assets/img/productos/Imagen987.jpeg",
-  stock: 1
 },
               {
   nombre: "6310BOLSO MANTA PLEGABLE DE PICNIC",
@@ -4312,7 +4271,7 @@ const productos = [
    "1": 1.95,
      },
   imagen: "assets/img/productos/Imagen990.jpeg",
-  stock: 11
+  stock: 9
 }, 
               {
   nombre: "6313TAPIZ NAVIDEÑO DE PARED 180 x 200cm",
@@ -4322,7 +4281,7 @@ const productos = [
    "1": 16.95,
      },
   imagen: "assets/img/productos/Imagen991.jpeg",
-  stock: 18
+  stock: 17
 },  
                  {
   nombre: "6315ESPUMA EXPANSIVA",
@@ -4507,7 +4466,7 @@ const productos = [
    "3": 4.95,
      },
   imagen: "assets/img/productos/Imagen1011.jpeg",
-  stock: 11
+  stock: 10
 },
                        {
   nombre: "6338MESA DE BLOQUES DIDÁCTICA 102 PCS",
