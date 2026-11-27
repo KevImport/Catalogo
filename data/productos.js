@@ -3027,18 +3027,6 @@ const productos = [
   stock: 12
 },  
   {
-  nombre: "6096PORTAROLLOS NAVIDEÑOS",
-  categoria: "Navidad / Regalos",
-  descripcion: "Dale un toque mágico y festivo a tu cocina esta Navidad con nuestros hermosos portarrollos decorativos. Ideales para el hogar, oficina o como un lindo regalo navideño. Diseño al azar",
-  precios: {
-   "1": 6.95,
-   "3": 5.85,
-   "6": 5.55,
-     },
-  imagen: "assets/img/productos/Imagen840.jpeg",
-  stock: 27
-},
-  {
   nombre: "6098ROLLO FILM PARA ALIMENTOS",
   categoria: "Hogar / Cocina",
   descripcion: "Mantén tus alimentos frescos y protegidos por más tiempo. Práctico para cubrir, conservar y refrigerar todo tipo de alimentos. Medida: 10m x 30cm",
@@ -3864,17 +3852,7 @@ const productos = [
   imagen: "assets/img/productos/Imagen945.jpeg",
   stock: 2
 },
-                           {
-  nombre: "6248SET DE 12 GORROS NAVIDEÑOS",
-  categoria: "Navidad / Regalos",
-  descripcion: "¡Celebra la Navidad con estilo! Gorro navideño ideal para adultos y niños, perfecto para compartir la magia en familia.",
-  precios: {
-   "1": 17.90,
-     },
-  imagen: "assets/img/productos/Imagen948.jpeg",
-  stock: 5
-},
-               {
+                {
   nombre: "6249PIZARRA + ROMPECABEZAS 2 EN 1",
   categoria: "Juguetes",
   descripcion: "¡Aprende jugando! Pizarra de 30 × 22 cm con letras de colores y 2 plumones incluidos, ideal para estimular la creatividad de los pequeños.",
